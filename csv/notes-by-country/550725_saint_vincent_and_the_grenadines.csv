@@ -1,0 +1,126 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4683894,Saint Vincent and the Grenadines,13.0022357,-61.2403759,2025-03-26 00:00:00,2025-11-16 18:23:33,0,redrace,Almond Tree Bar  #OsmAnd,3,0,redrace,Erledigt!😁👍
+4667747,Saint Vincent and the Grenadines,12.6452045,-61.3865277,2025-03-16 00:00:00,2025-03-24 13:29:52,0,redrace,14 new builded Bungalows in two rows. 6x4 meters  #OsmAnd,2,0,redrace,done
+3608744,Saint Vincent and the Grenadines,13.0043812,-61.2389156,2023-03-22 00:00:00,2023-04-02 08:36:22,0,redrace,steps 8,2,0,redrace,done
+3608735,Saint Vincent and the Grenadines,13.0124710,-61.2388498,2023-03-22 00:00:00,2023-03-30 11:08:20,0,redrace,The Name of that bar ist Sailors,2,0,redrace,done
+3608732,Saint Vincent and the Grenadines,13.0119848,-61.2428390,2023-03-22 00:00:00,2023-03-30 11:08:19,0,redrace,North Marine Zone 784 498 8333,2,0,redrace,done
+3608734,Saint Vincent and the Grenadines,13.0122649,-61.2386657,2023-03-22 00:00:00,2023-03-30 11:08:18,0,redrace,SVG Yacht Service,2,0,redrace,done
+2006510,Saint Vincent and the Grenadines,13.0101478,-61.2353656,2019-11-24 00:00:00,2023-03-30 11:08:18,0,Unknown,Top Floor: Alick's Sails and Bequia Traditional Sailing Academy,2,0,redrace,done
+3608739,Saint Vincent and the Grenadines,13.0120817,-61.2366230,2023-03-22 00:00:00,2023-03-30 11:08:18,0,redrace,Central Supermarket,2,0,redrace,done
+3608738,Saint Vincent and the Grenadines,13.0120005,-61.2366857,2023-03-22 00:00:00,2023-03-30 11:08:17,0,redrace,Flow Office,2,0,redrace,done
+3608743,Saint Vincent and the Grenadines,13.0058471,-61.2416664,2023-03-22 00:00:00,2023-03-30 11:08:17,0,redrace,swimming Bar,2,0,redrace,done
+3608736,Saint Vincent and the Grenadines,13.0120310,-61.2367404,2023-03-22 00:00:00,2023-03-30 11:08:17,0,redrace,closed,3,0,redrace,done
+3608731,Saint Vincent and the Grenadines,13.0120581,-61.2428789,2023-03-22 00:00:00,2023-03-30 11:08:17,0,redrace,La Plage Restaurant 784 4573995,2,0,redrace,done
+3608745,Saint Vincent and the Grenadines,13.0039727,-61.2401223,2023-03-22 00:00:00,2023-03-30 11:08:16,0,redrace,Steps 65,2,0,redrace,done
+3608733,Saint Vincent and the Grenadines,13.0136872,-61.2414180,2023-03-22 00:00:00,2023-03-30 11:08:16,0,redrace,St. Michael Catholic Church,2,0,redrace,done
+3607319,Saint Vincent and the Grenadines,12.8790549,-61.1867852,2023-03-21 00:00:00,2023-03-30 10:32:43,0,redrace,storagetanks diesel,2,0,redrace,done
+3607326,Saint Vincent and the Grenadines,12.8900077,-61.1840854,2023-03-21 00:00:00,2023-03-30 10:32:42,0,redrace,Historic Cotton House. First House on that Island,2,0,redrace,done
+3607327,Saint Vincent and the Grenadines,12.8899780,-61.1784139,2023-03-21 00:00:00,2023-03-30 10:32:42,0,redrace,Track G3,2,0,redrace,done
+3607320,Saint Vincent and the Grenadines,12.8816949,-61.1891043,2023-03-21 00:00:00,2023-03-30 10:32:42,0,redrace,Fishmarket,2,0,redrace,done
+3604916,Saint Vincent and the Grenadines,12.8769694,-61.1881292,2023-03-19 00:00:00,2023-03-30 10:32:41,0,redrace,no Beach! Look Pictures in mappillary,2,0,redrace,done
+3607329,Saint Vincent and the Grenadines,12.8900430,-61.1820536,2023-03-21 00:00:00,2023-03-30 10:32:41,0,redrace,water!,2,0,redrace,done
+3607322,Saint Vincent and the Grenadines,12.8826471,-61.1866332,2023-03-21 00:00:00,2023-03-30 10:32:41,0,redrace,path down,2,0,redrace,done
+3607321,Saint Vincent and the Grenadines,12.8831647,-61.1884504,2023-03-21 00:00:00,2023-03-30 10:32:41,0,redrace,Shop clothes,2,0,redrace,done
+3607324,Saint Vincent and the Grenadines,12.8843810,-61.1829634,2023-03-21 00:00:00,2023-03-30 10:32:40,0,redrace,Mustique Equestrian,2,0,redrace,done
+3607325,Saint Vincent and the Grenadines,12.8845204,-61.1852183,2023-03-21 00:00:00,2023-03-30 10:32:40,0,redrace,libary,2,0,redrace,done
+3607323,Saint Vincent and the Grenadines,12.8830462,-61.1871939,2023-03-21 00:00:00,2023-03-30 10:32:40,0,redrace,Telephon Booth,2,0,redrace,done
+3607331,Saint Vincent and the Grenadines,12.8899107,-61.1825725,2023-03-21 00:00:00,2023-03-30 10:32:40,0,redrace,"Meerwasserentsorgungsanlage, der saleration",2,0,redrace,done
+3602199,Saint Vincent and the Grenadines,12.6414162,-61.3930252,2023-03-18 00:00:00,2023-03-30 10:00:55,0,redrace,right new Road to a new buildung,2,0,redrace,done
+3602206,Saint Vincent and the Grenadines,12.6358141,-61.3943961,2023-03-18 00:00:00,2023-03-28 15:13:47,0,redrace,surface gravel,2,0,redrace,done
+3602200,Saint Vincent and the Grenadines,12.6414162,-61.3930252,2023-03-18 00:00:00,2023-03-28 15:13:47,0,redrace,right new Road to a new buildung,2,0,redrace,done
+3603291,Saint Vincent and the Grenadines,12.6428338,-61.3931140,2023-03-18 00:00:00,2023-03-28 15:13:47,0,redrace,Track surface gras,2,0,redrace,done
+3602207,Saint Vincent and the Grenadines,12.6359358,-61.3946098,2023-03-18 00:00:00,2023-03-28 15:13:47,0,redrace,left track g4,2,0,redrace,done
+3602201,Saint Vincent and the Grenadines,12.6432249,-61.3933007,2023-03-18 00:00:00,2023-03-28 15:13:46,0,redrace,Twalsan Eden Rest Hotel?,2,0,redrace,done
+3603294,Saint Vincent and the Grenadines,12.6429918,-61.3945493,2023-03-18 00:00:00,2023-03-28 15:13:46,0,redrace,path uphill,2,0,redrace,done
+3602203,Saint Vincent and the Grenadines,12.6430409,-61.3929564,2023-03-18 00:00:00,2023-03-28 15:13:46,0,redrace,Surface concret,2,0,redrace,done
+3603296,Saint Vincent and the Grenadines,12.6423903,-61.3881293,2023-03-18 00:00:00,2023-03-28 15:13:45,0,redrace,waterreservoir,2,0,redrace,done
+3603295,Saint Vincent and the Grenadines,12.6397020,-61.3919823,2023-03-18 00:00:00,2023-03-28 15:13:45,0,redrace,Track G1 concret,2,0,redrace,done
+3603290,Saint Vincent and the Grenadines,12.6427633,-61.3930657,2023-03-18 00:00:00,2023-03-28 15:13:45,0,redrace,path,2,0,redrace,done
+3600389,Saint Vincent and the Grenadines,12.5961881,-61.4176991,2023-03-16 00:00:00,2023-03-28 14:51:19,0,redrace,Supermarket is closed,2,0,redrace,done
+2898146,Saint Vincent and the Grenadines,13.1941562,-61.2655807,2021-10-16 00:00:00,2022-11-28 20:55:10,0,dormant,"The OPNVKarte layer seems to have a rogue point here. This is seen in the maps used in various apps: apple map, maps.me, Alpenverein.",2,0,pyram,Can't see that. Maybe fixed.
+3417669,Saint Vincent and the Grenadines,13.0261948,-61.2294951,2022-10-28 00:00:00,2022-11-02 13:56:17,0,SVG_Cartography,www.serenitybequia.com,4,1,SVG_Cartography,
+3417635,Saint Vincent and the Grenadines,13.0262746,-61.2294374,2022-10-28 00:00:00,2022-10-28 21:01:38,0,SVG_Cartography,serenity Villa & Apartments,3,0,SVG_Cartography,
+3417627,Saint Vincent and the Grenadines,13.0296526,-61.2280231,2022-10-28 00:00:00,2022-10-28 20:54:00,0,SVG_Cartography,This location is known as Spring View Park.,4,1,SVG_Cartography,
+3363865,Saint Vincent and the Grenadines,12.8927100,-61.1665900,2022-09-18 00:00:00,2022-09-19 06:43:49,0,Unknown,an unknown rock,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+3363866,Saint Vincent and the Grenadines,12.7118800,-61.3203100,2022-09-18 00:00:00,2022-09-19 06:43:42,0,Unknown,two  buildings in the ocean please fix this,2,0,kartonage,This is correct though.
+84120,Saint Vincent and the Grenadines,13.3781801,-61.1736774,2013-12-08 00:00:00,2022-05-18 23:23:45,0,Unknown,Difficult trail west near coastline thru ganga farms to waterfall,2,0,erickdeoliveiraleal,
+3094721,Saint Vincent and the Grenadines,13.1951751,-61.1567516,2022-03-19 00:00:00,2022-03-20 03:34:49,0,Unknown,uiiuiui,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2828385,Saint Vincent and the Grenadines,13.1748519,-61.1424780,2021-08-30 00:00:00,2021-08-30 18:59:26,0,Xaivque,Here is land,6,1,Xaivque,No Aerial View shows that.
+1291809,Saint Vincent and the Grenadines,13.2627000,-61.1300000,2018-02-07 00:00:00,2021-04-10 08:50:22,0,Unknown,casadesnagg - chester cottage,3,1,ChristianHelpNGO,
+2140655,Saint Vincent and the Grenadines,12.5926247,-61.4194012,2020-03-29 00:00:00,2020-04-01 09:39:05,0,redrace,Friedhof,2,0,redrace,done
+2128219,Saint Vincent and the Grenadines,12.6082456,-61.4450455,2020-03-23 00:00:00,2020-04-01 09:39:05,0,redrace,RUnd L Tracks G3,2,0,redrace,done
+2128226,Saint Vincent and the Grenadines,12.8832709,-61.1874694,2020-03-23 00:00:00,2020-04-01 09:39:04,0,redrace,Postoffice too,2,0,redrace,done
+2140669,Saint Vincent and the Grenadines,12.6462216,-61.3907613,2020-03-29 00:00:00,2020-04-01 09:39:04,0,redrace,abondoned,2,0,redrace,done
+2140662,Saint Vincent and the Grenadines,12.5942905,-61.4192585,2020-03-29 00:00:00,2020-04-01 09:39:04,0,redrace,The Grill,2,0,redrace,done
+2140657,Saint Vincent and the Grenadines,12.5935443,-61.4185038,2020-03-29 00:00:00,2020-04-01 09:39:04,0,redrace,Ausblick,2,0,redrace,done
+2140659,Saint Vincent and the Grenadines,12.5937277,-61.4193486,2020-03-29 00:00:00,2020-04-01 09:39:03,0,redrace,Wasserreservoir,2,0,redrace,done
+2140671,Saint Vincent and the Grenadines,12.7047806,-61.3282019,2020-03-29 00:00:00,2020-04-01 09:39:03,0,redrace,kein Steg,2,0,redrace,done
+2128221,Saint Vincent and the Grenadines,12.6039965,-61.4470081,2020-03-23 00:00:00,2020-04-01 09:39:03,0,redrace,bar Restaurant closed,2,0,redrace,done
+2140652,Saint Vincent and the Grenadines,12.5917742,-61.4216688,2020-03-29 00:00:00,2020-04-01 09:39:03,0,redrace,St.Joseph Catholic Church,2,0,redrace,done
+2140673,Saint Vincent and the Grenadines,12.7126861,-61.3263576,2020-03-29 00:00:00,2020-04-01 09:39:02,0,redrace,Coast Guard,2,0,redrace,done
+2128223,Saint Vincent and the Grenadines,12.6046970,-61.4472481,2020-03-23 00:00:00,2020-04-01 09:39:02,0,redrace,stark Attack bar,2,0,redrace,done
+2128218,Saint Vincent and the Grenadines,12.6037298,-61.4423654,2020-03-23 00:00:00,2020-04-01 09:39:02,0,redrace,Antenne,2,0,redrace,done
+2140654,Saint Vincent and the Grenadines,12.5925304,-61.4211759,2020-03-29 00:00:00,2020-04-01 09:39:02,0,redrace,Christ The Answer Evangelistic Center,2,0,redrace,done
+2140661,Saint Vincent and the Grenadines,12.5939321,-61.4193272,2020-03-29 00:00:00,2020-04-01 09:39:01,0,redrace,Tsunaml Assembly point,2,0,redrace,done
+2140670,Saint Vincent and the Grenadines,12.7027765,-61.3249011,2020-03-29 00:00:00,2020-04-01 09:39:01,0,redrace,2 Funkmasten,2,0,redrace,done
+2140668,Saint Vincent and the Grenadines,12.6389994,-61.3948373,2020-03-29 00:00:00,2020-04-01 09:39:01,0,redrace,rechts Track g3,2,0,redrace,done
+2128220,Saint Vincent and the Grenadines,12.6037608,-61.4466195,2020-03-23 00:00:00,2020-04-01 09:39:01,0,redrace,track g3,2,0,redrace,done
+2140665,Saint Vincent and the Grenadines,12.6348722,-61.3957325,2020-03-29 00:00:00,2020-04-01 09:39:00,0,redrace,toiletts privat,2,0,redrace,done
+2140658,Saint Vincent and the Grenadines,12.5939962,-61.4195209,2020-03-29 00:00:00,2020-04-01 09:39:00,0,redrace,Clifton Per School,2,0,redrace,done
+2128227,Saint Vincent and the Grenadines,12.8896203,-61.1841301,2020-03-23 00:00:00,2020-04-01 09:39:00,0,redrace,Teich,2,0,redrace,done
+2128222,Saint Vincent and the Grenadines,12.6044381,-61.4470674,2020-03-23 00:00:00,2020-04-01 09:39:00,0,redrace,Paradies View beach bar and Restaurant,2,0,redrace,done
+2140672,Saint Vincent and the Grenadines,12.7055812,-61.3287003,2020-03-29 00:00:00,2020-04-01 09:38:59,0,redrace,Grand Bay Anchorage and Mooring,2,0,redrace,done
+2128217,Saint Vincent and the Grenadines,12.5994220,-61.4476635,2020-03-23 00:00:00,2020-04-01 09:38:59,0,redrace,Chattam Bay resort Aqua bar Restaurant.,2,0,redrace,done
+2140653,Saint Vincent and the Grenadines,12.5923693,-61.4206942,2020-03-29 00:00:00,2020-04-01 09:38:59,0,redrace,Libary,2,0,redrace,done
+2140667,Saint Vincent and the Grenadines,12.6388965,-61.3949670,2020-03-29 00:00:00,2020-04-01 09:38:58,0,redrace,Links Track G3,2,0,redrace,done
+1257862,Saint Vincent and the Grenadines,13.2353219,-61.2698118,2018-01-04 00:00:00,2019-06-06 11:07:45,0,Unknown,"I've noticed that the location marked as the Barrouallie Learning Resource Center is placed incorrectly on the map. Also, there is a road that is not inserted along it's route.  The Center is located at the second right en route the Leedward Highway after passing the Barrouallie Government School, at approximately around the first bend (half the distance of the road). The there is also a road which is marked along the right of where the Center should be, connecting that running parallel to it.  See Google maps for a better understanding: 13.238206, -61.272249",8,1,Dj stooge,
+1757606,Saint Vincent and the Grenadines,13.1771998,-61.2469742,2019-04-25 00:00:00,2019-05-06 10:28:32,0,Ahjea Jackson,Questelles Adventist Church,6,1,freebeer,on the map
+1646010,Saint Vincent and the Grenadines,13.2882500,-61.1293100,2019-01-10 00:00:00,2019-01-10 18:55:55,0,ITSD,Dickson Government School,2,0,ITSD,
+1645990,Saint Vincent and the Grenadines,13.2871100,-61.1180600,2019-01-10 00:00:00,2019-01-10 18:29:44,0,ITSD,Mt. Bentinck Bethel Gospel Assembly,2,0,ITSD,
+1645983,Saint Vincent and the Grenadines,13.2898600,-61.1180500,2019-01-10 00:00:00,2019-01-10 18:24:08,0,ITSD,Langley Park Government School,2,0,ITSD,
+1645981,Saint Vincent and the Grenadines,13.3317592,-61.1242926,2019-01-10 00:00:00,2019-01-10 18:21:53,0,ITSD,Tourama/Overland Primary School,2,0,ITSD,
+1645976,Saint Vincent and the Grenadines,13.3435900,-61.1300100,2019-01-10 00:00:00,2019-01-10 18:19:22,0,ITSD,Sandy Bay Government School,2,0,ITSD,
+1645973,Saint Vincent and the Grenadines,13.3527200,-61.1323800,2019-01-10 00:00:00,2019-01-10 18:16:36,0,ITSD,Sandy Bay POLICE STATION ANNEX,2,0,ITSD,
+1645761,Saint Vincent and the Grenadines,13.3755300,-61.1433300,2019-01-10 00:00:00,2019-01-10 15:30:56,0,ITSD,Owia Governement School,2,0,ITSD,
+1645744,Saint Vincent and the Grenadines,13.3810100,-61.1696200,2019-01-10 00:00:00,2019-01-10 15:12:46,0,ITSD,Fancy Government School,2,0,ITSD,
+944818,Saint Vincent and the Grenadines,13.0111588,-61.2357614,2017-03-28 00:00:00,2018-10-27 19:46:23,0,Lucas Wall,category should be Shopping or Mall (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,Nordpfeil,updated
+949179,Saint Vincent and the Grenadines,12.5952695,-61.4174948,2017-04-02 00:00:00,2018-10-26 10:04:52,0,Lucas Wall,existing map location is wrong (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,freebeer,"vague bug-report, nothing here"
+1331014,Saint Vincent and the Grenadines,13.2191840,-61.2112724,2018-03-17 00:00:00,2018-10-26 10:03:16,0,MaggieMaps,'bench along the hiking trail' POI has no name POI types: amenity-bench OSM data version: 2018-02-09T21:26:02Z  #mapsme,2,0,freebeer,on the map
+1381849,Saint Vincent and the Grenadines,13.1640501,-61.1505890,2018-05-03 00:00:00,2018-10-26 10:01:34,0,Unknown,Please add an airport blue dot. This is the main airport now,2,0,freebeer,aeroport symbol appears
+1338228,Saint Vincent and the Grenadines,13.3486200,-61.1306800,2018-03-25 00:00:00,2018-03-25 13:32:59,0,pathf1nder007,Sandy Bay Seventh-day Adventist Church,3,1,pathf1nder007,Updating buildings and Streets in Sandy Bay
+1014889,Saint Vincent and the Grenadines,13.2051865,-61.1674976,2017-05-31 00:00:00,2018-03-16 00:28:37,0,Unknown,Maroon Hill,2,0,Nspencer,
+1325143,Saint Vincent and the Grenadines,13.1542920,-61.2236406,2018-03-12 00:00:00,2018-03-16 00:28:18,0,LinkUp,Building is demolished,2,0,Nspencer,
+1174633,Saint Vincent and the Grenadines,13.1458915,-61.2102163,2017-10-15 00:00:00,2018-03-16 00:02:37,0,BPM805,"'airport closed permanantly' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: E.T. Joshua Airport POI types: aeroway-aerodrome OSM data version: 2017-09-17T07:13:02Z  #mapsme",2,0,Nspencer,
+1174626,Saint Vincent and the Grenadines,13.1443008,-61.2109003,2017-10-15 00:00:00,2018-03-16 00:02:29,0,BPM805,"'airport closed permanantly' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: E. T. Joshua Airport POI types: aeroway-aerodrome OSM data version: 2017-09-17T07:13:02Z  #mapsme",2,0,Nspencer,
+1326835,Saint Vincent and the Grenadines,13.1314289,-61.1957847,2018-03-14 00:00:00,2018-03-16 00:02:20,0,Mr Dorinson Douglas,"'The location of the place is incorrect' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Howard's Marine POI types: building OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Nspencer,
+1318120,Saint Vincent and the Grenadines,13.1419225,-61.2191677,2018-03-05 00:00:00,2018-03-16 00:00:04,0,Unknown,Here you will find Crysral Guest House !!!,2,0,Nspencer,
+939305,Saint Vincent and the Grenadines,13.1443008,-61.2109003,2017-03-24 00:00:00,2018-03-15 23:59:49,0,Lucas Wall,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'CLOSED 2-14-17' (OSM data version: 2017-02-15T16:20:03Z) #mapsme",2,0,Nspencer,
+939304,Saint Vincent and the Grenadines,13.1458915,-61.2102163,2017-03-24 00:00:00,2018-03-15 23:59:43,0,Lucas Wall,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'CLOSED 2-14-17' (OSM data version: 2017-02-15T16:20:03Z) #mapsme",2,0,Nspencer,
+1325142,Saint Vincent and the Grenadines,13.1543609,-61.2234410,2018-03-12 00:00:00,2018-03-15 23:57:36,0,LinkUp,Building is demolished,2,0,Nspencer,
+1325141,Saint Vincent and the Grenadines,13.1539367,-61.2236105,2018-03-12 00:00:00,2018-03-15 23:57:17,0,LinkUp,Building is demolished,2,0,Nspencer,
+1328710,Saint Vincent and the Grenadines,13.1536600,-61.2236100,2018-03-15 00:00:00,2018-03-15 23:57:02,0,Charlie Juliet,Q-Care Pharmacy,2,0,Nspencer,
+1328579,Saint Vincent and the Grenadines,13.1573706,-61.2283091,2018-03-15 00:00:00,2018-03-15 23:56:28,0,Mr Dorinson Douglas,'The name of this church is Kingstown Anglican Church' POI has no name POI types: building amenity-place_of_worship-christian OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,Nspencer,
+1328620,Saint Vincent and the Grenadines,13.1573445,-61.2260735,2018-03-15 00:00:00,2018-03-15 23:56:17,0,Mr Dorinson Douglas,"'place is not a hardware store' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: building shop-hardware OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Nspencer,
+939244,Saint Vincent and the Grenadines,13.1545355,-61.2247042,2017-03-24 00:00:00,2018-03-15 23:54:28,0,Lucas Wall,category should be Shop (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,Nspencer,
+1325291,Saint Vincent and the Grenadines,13.1534200,-61.2244700,2018-03-12 00:00:00,2018-03-15 23:54:12,0,B Francis,Home Center SVG,2,0,Nspencer,
+1328715,Saint Vincent and the Grenadines,13.1532700,-61.2242400,2018-03-15 00:00:00,2018-03-15 23:54:03,0,Charlie Juliet,Basil's Restaurant on ground Floor,4,1,Nspencer,
+1045408,Saint Vincent and the Grenadines,13.1546294,-61.2272197,2017-06-27 00:00:00,2018-03-15 23:53:57,0,Unknown,The name of this bus station in Windward Bus Station 'Little Tokyo.',2,0,Nspencer,
+1328578,Saint Vincent and the Grenadines,13.1562964,-61.2275527,2018-03-15 00:00:00,2018-03-15 23:53:44,0,Mr Dorinson Douglas,'3 Level building located here' POI name: Chung Wa Chinese Restaurant POI types: amenity-fast_food OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,Nspencer,
+1328593,Saint Vincent and the Grenadines,13.1576226,-61.2290521,2018-03-15 00:00:00,2018-03-15 23:53:19,0,Mr Dorinson Douglas,'St. Mary's Roman Catholic Church is the name' POI has no name POI types: building amenity-place_of_worship-christian OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,Nspencer,
+1328668,Saint Vincent and the Grenadines,13.1576635,-61.2307598,2018-03-15 00:00:00,2018-03-15 23:53:06,0,dsolomon,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Right Stuff Ltd. POI types: office-company OSM data version: 2018-02-09T21:26:02Z  #mapsme",2,0,Nspencer,
+1045409,Saint Vincent and the Grenadines,13.1535873,-61.2247038,2017-06-27 00:00:00,2018-03-15 23:52:54,0,Unknown,Computec Computer Shop,2,0,Nspencer,
+1325145,Saint Vincent and the Grenadines,13.1554970,-61.2223461,2018-03-12 00:00:00,2018-03-15 23:52:26,0,LinkUp,Pit Stop Restaurant is missing,2,0,Nspencer,
+1326873,Saint Vincent and the Grenadines,13.1574568,-61.2212724,2018-03-14 00:00:00,2018-03-15 23:52:17,0,Mr Dorinson Douglas,"'place does not exist' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-bus_station OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Nspencer,
+1328712,Saint Vincent and the Grenadines,13.1535600,-61.2235500,2018-03-15 00:00:00,2018-03-15 23:51:26,0,Charlie Juliet,Lady J,2,0,Nspencer,
+1325140,Saint Vincent and the Grenadines,13.1540308,-61.2237135,2018-03-12 00:00:00,2018-03-15 23:51:04,0,LinkUp,Building is demolished,2,0,Nspencer,
+596571,Saint Vincent and the Grenadines,13.1598922,-61.2175369,2016-06-17 00:00:00,2018-03-12 14:12:13,0,Unknown,SVG Tire Sales and Services,2,0,LinkUp,
+1014888,Saint Vincent and the Grenadines,13.1926938,-61.1684418,2017-05-31 00:00:00,2018-02-13 18:21:16,0,Unknown,Richland Park Government School,2,0,freebeer,0n the map
+856962,Saint Vincent and the Grenadines,13.0104793,-61.2356168,2017-01-20 00:00:00,2017-09-20 12:22:30,0,Raskolnikof,Happy hour 5 - 6 pm (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,freebeer,on the map
+947586,Saint Vincent and the Grenadines,13.0073358,-61.2378203,2017-03-31 00:00:00,2017-09-20 12:22:12,0,Lucas Wall,offers scuba and snorkeling (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,freebeer,on the map
+663483,Saint Vincent and the Grenadines,12.6416783,-61.3898206,2016-08-08 00:00:00,2016-08-16 18:44:55,0,Staz-Ann,testing,4,1,SomeoneElse,
+611022,Saint Vincent and the Grenadines,13.2333162,-61.2667015,2016-07-01 00:00:00,2016-07-01 19:43:05,0,Unknown,Kenda's Home (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,hsc666,OSM notes are not intended for private comments.
+608255,Saint Vincent and the Grenadines,13.1593699,-61.1983060,2016-06-29 00:00:00,2016-06-29 20:58:21,0,Chinchin120,Private Home (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,hsc666,OSM notes are not intended for private comments.
+601959,Saint Vincent and the Grenadines,13.1671808,-61.2043341,2016-06-22 00:00:00,2016-06-22 19:44:21,0,Chinchin120,Private Home (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,hsc666,OSM notes are not intended for private comments.
+601184,Saint Vincent and the Grenadines,13.0100305,-61.2356367,2016-06-21 00:00:00,2016-06-21 18:16:25,0,Al Sadler,"Great place for a beer, do your laundry, watch some sports and get internet.  (OSM data version: 2016-06-01T10:03:02Z) #mapsme",2,0,hsc666,POI you've already mapped. OSM notes are not for advertisement.
+84121,Saint Vincent and the Grenadines,13.3172163,-61.1531210,2013-12-08 00:00:00,2014-05-17 05:43:40,0,Unknown,Parking for trail up Soufriere volcano,2,0,azimut400gon,Parking added

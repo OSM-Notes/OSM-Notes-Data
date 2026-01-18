@@ -1,0 +1,349 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4849652,The Bahamas,26.5378795,-78.7061536,2025-07-11 00:00:00,2026-01-02 19:17:22,0,Mateusz Konieczny,https://www.openstreetmap.org/node/1881799138/history  is Sawyers (shop=supermarket) closed all the time? Then almost certainly it should not be tagged as shop=supermarket  And if it is not always closed then opening_hours=closed is wrong  For closed shops that are vacant/rebuilt/etc tagging like disused:shop=supermarketwould be better,3,0,InsertUser,It has been a year now.  Closure made permanent in: https://www.openstreetmap.org/changeset/1767501772
+5094073,The Bahamas,26.5299949,-78.6891572,2025-12-16 00:00:00,2025-12-26 15:09:27,0,InsertUser,These buildings all demolished  via StreetComplete_ee 61.1,2,0,InsertUser,
+4467100,The Bahamas,25.2695400,-76.3148100,2024-10-06 00:00:00,2025-11-24 16:40:22,0,Unknown,Abandoned naval base,5,1,NeisReview,
+5014008,The Bahamas,24.3220942,-76.5589480,2025-10-19 00:00:00,2025-10-21 08:30:59,0,m_p_13,airplane wreck  #OsmAnd,2,0,m_p_13,
+5014050,The Bahamas,24.3266314,-76.5572979,2025-10-19 00:00:00,2025-10-21 08:27:45,0,m_p_13,The Aquarium  #OsmAnd,2,0,m_p_13,
+4965129,The Bahamas,25.5536346,-76.7056961,2025-09-16 00:00:00,2025-09-28 09:39:45,0,m_p_13,Sapphire Blue Hole  #OsmAnd,2,0,m_p_13,
+4946834,The Bahamas,25.1045227,-77.2313080,2025-09-04 00:00:00,2025-09-28 09:36:58,0,m_p_13,ruins  #OsmAnd,2,0,m_p_13,
+4651000,The Bahamas,23.4704109,-75.7221508,2025-03-04 00:00:00,2025-08-24 00:43:40,0,Unknown,coordinte,2,0,InsertUser,
+4406224,The Bahamas,25.7435253,-79.2867379,2024-08-27 00:00:00,2025-08-23 00:19:12,0,InsertUser,Is this a cemetery?,3,0,InsertUser,Thanks. I've added it with that name.
+1204288,The Bahamas,26.5401404,-78.6636570,2017-11-12 00:00:00,2025-08-10 17:55:05,0,wayne8377,'Now Cathedral Blvd' POI name: East Settler's Way POI types: psurface-paved_good highway-secondary OSM data version: 2017-10-20T12:20:02Z  #mapsme,2,0,InsertUser,I've added this as alt_name as only one of the two nearby signs have this name.
+4895532,The Bahamas,25.0320752,-77.3838060,2025-08-06 00:00:00,2025-08-09 07:16:09,0,LusaSM,'https://www.bahamaslocal.com/showlisting/18937/The_Neighbourhood_Doctor.html  https://www.nhibahamas.gov.bs/doctors/dr-estelle-laville/' OSM snapshot date: 2025-07-13T12:01:25Z POI name: The Neighbourhood Doctor POI types: amenity-clinic internet_access-wlan  #CoMaps android,2,0,map per,Thanks for contributing to OpenStreetMap!
+4889920,The Bahamas,26.4960498,-78.6724996,2025-08-03 00:00:00,2025-08-03 22:50:51,0,InsertUser,Unable to answer 'Is this still here?' – Wall of Fame (Information Board) – https://osm.org/node/8595713377 via StreetComplete 61.2:  Knocked down to foundation,2,0,InsertUser,
+3511394,The Bahamas,26.5158823,-78.6542750,2023-01-09 00:00:00,2025-08-03 22:50:51,0,InsertUser,Unable to answer 'How many levels above the basement does this building have?' for https://osm.org/way/666211878 via StreetComplete 50.2:  Partially demolished,2,0,InsertUser,
+4889921,The Bahamas,26.5158934,-78.6543205,2025-08-03 00:00:00,2025-08-03 22:50:50,0,InsertUser,Ruins  via StreetComplete 61.2,2,0,InsertUser,
+4889919,The Bahamas,26.5271498,-78.6370149,2025-08-03 00:00:00,2025-08-03 22:50:49,0,InsertUser,Glen way  via StreetComplete 61.2,2,0,InsertUser,
+4877256,The Bahamas,26.5101913,-78.7335728,2025-07-26 00:00:00,2025-07-26 23:47:16,0,InsertUser,New solar plant  via StreetComplete 61.2,2,0,InsertUser,
+4877257,The Bahamas,26.4958171,-78.7241844,2025-07-26 00:00:00,2025-07-26 23:47:15,0,InsertUser,Mack Town limit sign  via StreetComplete 61.2,2,0,InsertUser,
+4877258,The Bahamas,26.4971236,-78.6883678,2025-07-26 00:00:00,2025-07-26 23:47:14,0,InsertUser,In context of overlay 'Addresses' – house number 13: House – https://osm.org/way/665707883 via StreetComplete 61.2:  Incorrect location,2,0,InsertUser,
+4330758,The Bahamas,22.3488109,-75.7650516,2024-07-12 00:00:00,2025-07-23 03:45:09,0,Unknown,Mr. Beast Island,2,0,InsertUser,
+4330760,The Bahamas,22.3380259,-75.7959321,2024-07-12 00:00:00,2025-07-23 03:44:52,0,Unknown,Mr. Beast Island,2,0,InsertUser,
+4673043,The Bahamas,25.0768559,-77.3401719,2025-03-20 00:00:00,2025-07-23 01:52:02,0,cafematisse,This place is misspelled. It is called 'Café Matisse' with only 1 't' and 2 's'    Can you fix it??   The entrance of the restaurant is there.,2,0,InsertUser,It looks like you managed to correct this yourself shorty after you made this note.   Welcome to OpenStreetMap.
+3398483,The Bahamas,25.0769380,-77.3332450,2022-10-14 00:00:00,2025-07-23 01:46:13,0,Richie0210,Bahamas RUM Cake Factory.,2,0,InsertUser,Typo corrected in:   https://www.openstreetmap.org/changeset/169319369
+4851745,The Bahamas,26.5368164,-78.6792249,2025-07-12 00:00:00,2025-07-23 01:02:58,0,InsertUser,Mall @ Coral  via StreetComplete 61.1,2,0,InsertUser,
+4661233,The Bahamas,25.0146670,-77.3942590,2025-03-11 00:00:00,2025-07-22 13:16:31,0,LusaSM,'Bahamian & Hatian Cuisine Serving Breakfast & Lunch' OSM snapshot date: 2025-02-27T10:33:49Z POI name: Lia Ra'chards Heavenly Cafe POI types: cuisine-caribbean amenity-restaurant  #organicmaps android,2,0,cuzi,"Looks like you correctly added it, so I am closing this note."
+4863402,The Bahamas,25.0785942,-77.3416973,2025-07-19 00:00:00,2025-07-22 12:49:57,0,BPM805,"'Closed in 2021' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2025-07-08T15:45:36Z POI name: Hard Rock Cafe POI types: cuisine-american amenity-restaurant  #organicmaps ios",2,0,cuzi,"I have removed it, thanks!"
+4852172,The Bahamas,25.1759419,-78.0242908,2025-07-12 00:00:00,2025-07-17 08:56:56,0,Ansderer,Village is mapped twice,2,0,user_18023081,Fixed
+4770995,The Bahamas,25.0256870,-77.2809220,2025-05-22 00:00:00,2025-07-01 13:36:12,0,bahamasmaps,"Not, 'Bootleg Chocolates Nassau East Outpost'   https://www.google.com/maps/place/Bootleg+Chocolates+Nassau+East+Outpost/@25.0260561,-77.2822739,18.42z/data=!4m10!1m2!2m1!1sbootleg+chocolates!3m6!1s0x892f7f210253cee9:0x5998d09ad8c16ed!8m2!3d25.0256157!4d-77.2809515!15sChJib290bGVnIGNob2NvbGF0ZXOSAQ5jaG9jb2xhdGVfY2FmZaoBOxABMh8QASIbaJ9jSMQx0f2E8OWpcTy6jytskDA8Q7X3qRQyMhYQAiISYm9vdGxlZyBjaG9jb2xhdGVz4AEA!16s%2Fg%2F11m5h4dx83?entry=ttu&g_ep=EgoyMDI1MDUxNS4xIKXMDSoASAFQAw%3D%3D",3,0,InsertUser,Sadly the Google Maps license prohibits its use for OSM.   https://wiki.openstreetmap.org/wiki/Google
+4770992,The Bahamas,26.5133540,-78.6425560,2025-05-22 00:00:00,2025-07-01 13:31:42,0,bahamasmaps,The correct name is 'Bootleg Chocolates'.,2,0,InsertUser,Fixed
+4833733,The Bahamas,26.5114514,-78.6611022,2025-07-01 00:00:00,2025-07-01 13:30:05,0,InsertUser,Unable to answer 'Is there a waste basket at this stop?' – Bus Stop – https://osm.org/node/12053276442 via StreetComplete 61.1:  Duplicate stop,2,0,InsertUser,
+4772804,The Bahamas,26.5050320,-78.7059581,2025-05-24 00:00:00,2025-07-01 13:27:37,0,Unknown,Subject Property,2,0,InsertUser,Closed as unactionable.
+4798256,The Bahamas,26.5961471,-77.0052606,2025-06-10 00:00:00,2025-06-10 04:13:43,0,Stan Ingram,"Sea Glass Found  Address: Man-O-War Abaco, Queen's Highway, Bahamas Phone: (205)7462900 Website: https://seaglassfound.com/  Let us deliver a custom-curated, once-in-a-lifetime Bahamian Beach vacation. Sea Glass Found is situated on a private peninsula on Man-O-War Cay and offers easy access to numerous attractions in the Abacos.  This sprawling property comes with 360 Degree views of pristine Bahamian Seas, four private, water-view cottages to accommodate groups of 8 to 22, a large dining Cabana next to a heated, infinity pool, three private beaches, a private marina, access to numerous boats (boat use and captain included!), two 6-seater golf carts, and every water sport imaginable.",2,0,Stan Ingram,
+4796538,The Bahamas,26.5296490,-76.9672430,2025-06-09 00:00:00,2025-06-09 01:08:41,0,mjallard,Generation + S/S,2,0,mjallard,
+4020241,The Bahamas,26.5337446,-78.6971786,2023-12-08 00:00:00,2025-04-19 15:10:29,0,Unknown,"onosm.org submitted note from a business: Name: Meek Beauty addr:housenumber=9 addr:street=West Mall Drive addr:city=City of Freeport Phone number: 2424783974 Website: www.meekbeautybah.com Social Network: https://instagram.com/meekbeauty_bah?igshid=MTNiYzNiMzkwZA== Opening Hours: Tuesday- Saturday 10am-6pm Category: Makeup Artists Description: Makeup Store Accepted payment methods: Cash,Visa takeaway=undefined",2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/4020240
+4020240,The Bahamas,26.5337446,-78.6971786,2023-12-08 00:00:00,2025-04-19 15:05:34,0,Unknown,"onosm.org submitted note from a business: addr:housenumber=9 addr:street=West Mall Drive addr:city=City of Freeport Website: www.meekbeautybah.com Social Network: https://instagram.com/meekbeauty_bah?igshid=MTNiYzNiMzkwZA== Opening Hours: Tuesday- Saturday 10am-6pm Category: Makeup Artists Description: Makeup Store Accepted payment methods: Cash,Visa takeaway=undefined",6,1,kmpoppe,Duplicate of https://www.openstreetmap.org/note/4020241
+4679502,The Bahamas,26.5281446,-78.7697840,2025-03-24 00:00:00,2025-03-24 05:54:20,0,newhzx,Hutchison Ports FCP,2,0,newhzx,
+4679501,The Bahamas,26.5211561,-78.7720156,2025-03-24 00:00:00,2025-03-24 05:53:43,0,newhzx,Hutchison Ports FHC,2,0,newhzx,
+4013696,The Bahamas,25.5018124,-76.6375748,2023-12-03 00:00:00,2025-03-22 14:51:20,0,Nat Bradley,"Piggly Wiggly, food store  via StreetComplete 55.1",3,0,Nat Bradley,added
+4590591,The Bahamas,26.5887240,-78.5528715,2025-01-16 00:00:00,2025-01-16 23:31:23,0,InsertUser,Awsland Place  via StreetComplete 60.1,2,0,InsertUser,
+4025491,The Bahamas,26.5269848,-78.6053788,2023-12-12 00:00:00,2025-01-04 19:10:52,0,InsertUser,Unable to answer 'How many levels above the basement does this building have?' for https://osm.org/way/666560651 via StreetComplete 55.1:  demolished? New building work in progress.,2,0,InsertUser,
+4575689,The Bahamas,26.5289871,-78.6968432,2025-01-04 00:00:00,2025-01-04 18:44:18,0,InsertUser,Middle bit torn down  via StreetComplete 60.0,2,0,InsertUser,
+4575688,The Bahamas,26.5314019,-78.6538099,2025-01-04 00:00:00,2025-01-04 18:44:18,0,InsertUser,Sign for Yeomanwood estates  via StreetComplete 60.0,2,0,InsertUser,
+4575690,The Bahamas,26.5225530,-78.7241699,2025-01-04 00:00:00,2025-01-04 18:44:17,0,InsertUser,Niko Grant Community Park  via StreetComplete 60.0,2,0,InsertUser,
+4575691,The Bahamas,26.4939063,-78.6991400,2025-01-04 00:00:00,2025-01-04 18:38:39,0,InsertUser,Road parallel to beach : Port of Call Drove  via StreetComplete 60.0,2,0,InsertUser,
+4569706,The Bahamas,26.5264391,-78.7161002,2024-12-30 00:00:00,2024-12-30 19:07:51,0,InsertUser,Barrier debris  via StreetComplete 60.0,2,0,InsertUser,
+4569705,The Bahamas,26.5276329,-78.7072236,2024-12-30 00:00:00,2024-12-30 19:07:51,0,InsertUser,Sunset Subdivision  via StreetComplete 60.0,2,0,InsertUser,
+3263006,The Bahamas,26.5431711,-78.6569414,2022-07-11 00:00:00,2024-12-14 23:17:28,0,InsertUser,Intersection of Independence Avenue and Independence Lane.,2,0,InsertUser,Added
+4279605,The Bahamas,25.0687600,-77.3347600,2024-06-05 00:00:00,2024-09-24 15:26:17,0,Unknown,49 Collins Avenue,2,0,skorasaurus,added already
+4431143,The Bahamas,25.0237230,-77.3738580,2024-09-12 00:00:00,2024-09-12 00:38:07,0,Aaron Rory Newbold,Location,2,0,Aaron Rory Newbold,
+3910398,The Bahamas,25.0740353,-77.4364364,2023-09-26 00:00:00,2024-08-16 12:53:09,0,Unknown,Street name is incorrect. It is “Alouise Lane” not “Louise Lane”,2,0,InsertUser,Has since been fixed.
+2995629,The Bahamas,25.0705100,-77.4435200,2022-01-03 00:00:00,2024-08-16 12:52:43,0,Unknown,Sapadilla Restaurant,2,0,InsertUser,This appears to be mapped within the 'Ocean West Boutique Hotel' building that this road leads to.
+2499123,The Bahamas,25.0522000,-77.3339800,2021-01-15 00:00:00,2024-08-16 12:50:22,0,Unknown,Lynx I,3,0,InsertUser,
+2499122,The Bahamas,25.0517700,-77.3357500,2021-01-15 00:00:00,2024-08-16 12:50:04,0,Unknown,Is this the Amazon fulfilment centre? Lynx I,4,0,InsertUser,
+2108088,The Bahamas,23.5290186,-75.7679495,2020-03-02 00:00:00,2024-08-16 12:47:16,0,Unknown,Spartan,3,0,InsertUser,
+4054852,The Bahamas,26.5869711,-78.8633302,2024-01-06 00:00:00,2024-08-16 12:13:37,0,InsertUser,crystal beach road  #OsmAnd,2,0,InsertUser,
+2566511,The Bahamas,26.5432489,-76.9581355,2021-03-05 00:00:00,2024-08-16 11:31:06,0,RPS,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Crossing Bay House (CBH) POI types: tourism-guest_house OSM data version: 2021-02-01T11:34:17Z  #mapsme",5,1,InsertUser,This had the wrong description. It does exist though.
+4346610,The Bahamas,26.5627452,-78.5718871,2024-07-23 00:00:00,2024-07-25 09:51:13,0,InsertUser,Missing construction  via StreetComplete 58.2,2,0,InsertUser,
+4343526,The Bahamas,26.5540455,-78.5868108,2024-07-21 00:00:00,2024-07-25 09:51:12,0,InsertUser,Well be Mount Gilliad Church  via StreetComplete 58.2,2,0,InsertUser,
+4346613,The Bahamas,26.5653221,-78.5891494,2024-07-23 00:00:00,2024-07-25 09:51:12,0,InsertUser,New construction  via StreetComplete 58.2,2,0,InsertUser,
+4346612,The Bahamas,26.5679856,-78.5838831,2024-07-23 00:00:00,2024-07-25 09:51:12,0,InsertUser,Unable to answer 'Do the trees here have needles or leaves?' – Natural Wood – https://osm.org/way/195407734 via StreetComplete 58.2:  Cleared,2,0,InsertUser,
+4346611,The Bahamas,26.5650213,-78.5735301,2024-07-23 00:00:00,2024-07-25 09:51:12,0,InsertUser,Missing construction  via StreetComplete 58.2,2,0,InsertUser,
+4343523,The Bahamas,26.6224668,-78.2843849,2024-07-21 00:00:00,2024-07-22 17:38:01,0,InsertUser,New building  via StreetComplete 58.2,2,0,InsertUser,
+4343524,The Bahamas,26.6227445,-78.3067862,2024-07-21 00:00:00,2024-07-22 17:38:00,0,InsertUser,2 new buildings  via StreetComplete 58.2,2,0,InsertUser,
+4343525,The Bahamas,26.6212542,-78.3129704,2024-07-21 00:00:00,2024-07-22 17:37:59,0,InsertUser,New construction  via StreetComplete 58.2,2,0,InsertUser,
+4332110,The Bahamas,26.5200724,-78.6558398,2024-07-13 00:00:00,2024-07-14 18:01:05,0,InsertUser,Unable to answer 'This shop has been vacant. What’s here now?' – Vacant Shop – https://osm.org/node/6697096087 via StreetComplete 58.2:  Delete duplicate empty shop,2,0,InsertUser,
+4332107,The Bahamas,26.5339353,-78.6274025,2024-07-13 00:00:00,2024-07-14 18:01:04,0,InsertUser,Cleared for construction with visible foundations.  via StreetComplete 58.1,2,0,InsertUser,
+4332108,The Bahamas,26.5399514,-78.7009845,2024-07-13 00:00:00,2024-07-14 18:01:04,0,InsertUser,"In context of overlay 'Buildings' – https://osm.org/way/303256425 via StreetComplete 58.1:  Demolished, replaced by construction.",2,0,InsertUser,
+4321202,The Bahamas,26.5137592,-78.6878318,2024-07-05 00:00:00,2024-07-14 18:01:03,0,InsertUser,Unable to answer 'What’s the name of this place?' – Fast Food – https://osm.org/node/8468777078 via StreetComplete 58.1:  Gone,2,0,InsertUser,
+4332109,The Bahamas,26.5258752,-78.6929035,2024-07-13 00:00:00,2024-07-14 17:45:40,0,InsertUser,Both demolished  via StreetComplete 58.1,2,0,InsertUser,
+4317073,The Bahamas,26.5234840,-78.6158369,2024-07-02 00:00:00,2024-07-02 22:14:41,0,InsertUser,Missing building  via StreetComplete 58.1,2,0,InsertUser,
+4017531,The Bahamas,26.5410033,-78.7012805,2023-12-06 00:00:00,2024-07-02 22:14:40,0,InsertUser,building under construction  via StreetComplete 55.1,2,0,InsertUser,
+4317072,The Bahamas,26.5014053,-78.6572064,2024-07-02 00:00:00,2024-07-02 22:14:39,0,InsertUser,Blocked with signposts  via StreetComplete 58.0,2,0,InsertUser,
+4193362,The Bahamas,25.0774800,-77.3335900,2024-04-11 00:00:00,2024-04-11 13:14:41,0,PTI Bahamas,"Harbour Moon, Bay Street - $2,500,000",2,0,PTI Bahamas,
+3901428,The Bahamas,25.8222548,-77.9368053,2023-09-21 00:00:00,2024-03-05 23:14:40,0,Neil Hanlon,Unable to answer 'What’s the name of this street?' for https://osm.org/way/748559352 via StreetComplete 54.0:  pier,3,0,snoozingnewt,
+4054862,The Bahamas,26.5202360,-78.7728682,2024-01-06 00:00:00,2024-01-29 17:52:32,0,InsertUser,building 4 blue marlin  #OsmAnd,2,0,InsertUser,
+1047080,The Bahamas,23.6338910,-75.2988560,2017-06-29 00:00:00,2024-01-22 16:33:22,0,RichRico,Is Glintons and not Glenton The correct name for this place? Can someone confirm and fix?,2,0,InsertUser,Resolved by: https://www.openstreetmap.org/changeset/146107135
+1866282,The Bahamas,24.1722199,-76.4450276,2019-08-01 00:00:00,2024-01-09 10:06:12,0,Hudson242,(Significant building),4,1,23lacky,lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhhqat5wf5kg6tjv9cnjvqy6e07p
+1836915,The Bahamas,26.5839000,-78.8659900,2019-07-07 00:00:00,2024-01-06 03:37:42,0,Ronnie Cooper,Crystal Beach,2,0,InsertUser,
+4017532,The Bahamas,26.5296353,-78.6929446,2023-12-06 00:00:00,2023-12-25 04:02:16,0,InsertUser,Demolished  via StreetComplete 55.1,2,0,InsertUser,"Already marked, StreetComplete tiles old."
+4012625,The Bahamas,24.8689558,-76.1572405,2023-12-02 00:00:00,2023-12-05 03:37:50,0,Nat Bradley,Sammy's Place / Restaurant  via StreetComplete 55.1,2,0,Nat Bradley,added details with https://www.openstreetmap.org/changeset/144776418
+4012871,The Bahamas,25.3414972,-76.4487500,2023-12-02 00:00:00,2023-12-05 03:36:45,0,Nat Bradley,"Moonraker point A, from here it is unpaved  via StreetComplete 55.1",2,0,Nat Bradley,added with https://www.openstreetmap.org/changeset/144776399#map=19/25.34135/-76.44817
+4012872,The Bahamas,25.3408119,-76.4470859,2023-12-02 00:00:00,2023-12-05 03:36:41,0,Nat Bradley,"Moonraker point B, until here it is unpaved (from point A)  via StreetComplete 55.1",2,0,Nat Bradley,added with https://www.openstreetmap.org/changeset/144776399#map=19/25.34135/-76.44817
+4013903,The Bahamas,25.3401244,-76.4464755,2023-12-03 00:00:00,2023-12-05 03:34:06,0,Nat Bradley,"Compacted,  but smoothness=very_bad per https://wiki.openstreetmap.org/wiki/Key:smoothness  via StreetComplete 55.1",2,0,Nat Bradley,added with https://www.openstreetmap.org/changeset/144776353
+4013914,The Bahamas,25.5059685,-76.6356637,2023-12-03 00:00:00,2023-12-05 03:31:42,0,Nat Bradley,Coconut Grove Avenue  via StreetComplete 55.1,2,0,Nat Bradley,is already named; disregard note
+3989003,The Bahamas,26.1874300,-77.1800172,2023-11-15 00:00:00,2023-11-15 18:08:36,0,J Dub 5,LOT 1,2,0,J Dub 5,
+3988999,The Bahamas,26.1871363,-77.1800923,2023-11-15 00:00:00,2023-11-15 18:07:57,0,J Dub 5,This is the Tiki Bar,4,1,J Dub 5,This is the Tiki Bar
+3975945,The Bahamas,23.4934559,-75.7479324,2023-11-06 00:00:00,2023-11-07 17:38:04,0,m_p_13,canal,2,0,m_p_13,
+2290134,The Bahamas,24.3380645,-76.5719175,2020-08-02 00:00:00,2023-09-11 15:28:44,0,Unknown,This is Ridge Cay.,2,0,erickdeoliveiraleal,
+2185164,The Bahamas,25.5478100,-76.7714100,2020-05-08 00:00:00,2023-09-11 15:28:23,0,InsertUser,News articles indicate collapse. No © free source found yet.,2,0,erickdeoliveiraleal,
+2096429,The Bahamas,24.1679671,-77.5868900,2020-02-20 00:00:00,2023-09-11 15:28:09,0,Uponthatfish,"'This is really in the category path, but there is no option to select path' POI name: Start of Blue Holes hiking trail POI types: tourism-attraction OSM data version: 2019-09-09T23:32:17Z  #mapsme",3,0,erickdeoliveiraleal,
+1944067,The Bahamas,25.0789147,-77.3763095,2019-09-30 00:00:00,2023-09-11 15:27:01,0,The Beach House Hostel,264 West Bay St The Beach House Hostel,2,0,erickdeoliveiraleal,
+1890186,The Bahamas,25.0109994,-77.3725730,2019-08-19 00:00:00,2023-09-11 15:26:59,0,Unknown,This is also a bread bakery,2,0,erickdeoliveiraleal,
+1866279,The Bahamas,24.1723863,-76.4451241,2019-08-01 00:00:00,2023-09-11 15:26:06,0,Hudson242,This is a open park With pool and docks.,7,1,erickdeoliveiraleal,This is a park and pool area with docks
+1844357,The Bahamas,25.0743754,-77.3182771,2019-07-14 00:00:00,2023-09-11 15:25:56,0,Unknown,Munroe & Associates Law Firm,4,1,erickdeoliveiraleal,
+1819716,The Bahamas,25.0257943,-77.3856963,2019-06-20 00:00:00,2023-09-11 15:25:48,0,Orthneil,'Josey Residence' POI name: Pine Terrace POI types: highway-residential OSM data version: 2019-03-14T00:11:02Z  #mapsme,2,0,erickdeoliveiraleal,
+1819617,The Bahamas,25.0778689,-77.3411590,2019-06-20 00:00:00,2023-09-11 15:25:46,0,Unknown,"onosm.org submitted note from a business: name: Turnschuh - Sneaker & Skate Shop phone: +1 (242) 323-5247 website: http://turnschuhbahamas.de/ twitter: undefined hours: Monday-Saturday 9:30AM - 5:30PM category: Men's Clothing,Shoe Stores address: 330 Bay Street, Nassau, New Providence, Bahamas",4,0,erickdeoliveiraleal,
+1813529,The Bahamas,26.5701816,-78.4934092,2019-06-15 00:00:00,2023-09-11 15:25:32,0,Unknown,"Carnival Corp's new Grand Port, Cruise beach and private 'Island'",2,0,erickdeoliveiraleal,
+1535057,The Bahamas,25.0270266,-77.3273784,2018-09-20 00:00:00,2023-09-11 15:25:29,0,Unknown,H3D Delicious Divine Dining is located right here,3,0,erickdeoliveiraleal,
+1356396,The Bahamas,25.0004000,-77.4915000,2018-04-12 00:00:00,2023-09-11 15:25:25,0,Unknown,Backpacking Gem @ Adelaide Heritage Beach,2,0,erickdeoliveiraleal,
+1309723,The Bahamas,25.1197100,-77.9937458,2018-02-24 00:00:00,2023-09-11 15:25:15,0,Unknown,big anchor,3,0,erickdeoliveiraleal,
+1044867,The Bahamas,24.7772507,-76.2145458,2017-06-27 00:00:00,2023-09-11 15:24:43,0,yurasi,Can someone please confirm and add if over here is 'Big G's Liqours Store'?,2,0,erickdeoliveiraleal,
+1002365,The Bahamas,24.9977790,-77.4264356,2017-05-20 00:00:00,2023-09-11 15:24:40,0,Unknown,breezy hill farms. $$ (OSM data version: 2017-03-06T16:48:02Z) #mapsme,6,1,erickdeoliveiraleal,
+1075076,The Bahamas,24.1781124,-76.4467381,2017-07-22 00:00:00,2023-09-11 15:24:36,0,Iris Goeminne,'Thunderball Grotto' POI has no name POI types: natural-scrub OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,erickdeoliveiraleal,
+901972,The Bahamas,25.0059933,-77.5413329,2017-02-22 00:00:00,2023-09-11 15:24:30,0,karitotp,Can someone confirm and add if here is SOL PETROLEUM BAHAMAS? Thanks,3,0,erickdeoliveiraleal,
+715979,The Bahamas,24.2350686,-77.7121353,2016-09-17 00:00:00,2023-09-11 15:24:20,0,Unknown,Mangrove Cay,4,1,erickdeoliveiraleal,
+715978,The Bahamas,24.0633934,-77.6094818,2016-09-17 00:00:00,2023-09-11 15:24:13,0,Unknown,South Andros,2,0,erickdeoliveiraleal,
+287085,The Bahamas,26.5166633,-78.7506866,2014-12-16 00:00:00,2023-09-11 15:23:59,0,Unknown,Aggreko Site,2,0,erickdeoliveiraleal,
+3498501,The Bahamas,26.5202401,-78.6940593,2022-12-30 00:00:00,2023-08-14 19:16:15,0,InsertUser,Construction  via StreetComplete 50.1,2,0,InsertUser,
+3769702,The Bahamas,26.5016604,-78.6618286,2023-07-07 00:00:00,2023-08-14 19:14:33,0,InsertUser,Cleared land  via StreetComplete 53.2,2,0,InsertUser,
+3820507,The Bahamas,26.5340848,-78.6042051,2023-08-07 00:00:00,2023-08-14 19:12:08,0,InsertUser,House  via StreetComplete 53.3,2,0,InsertUser,
+3820508,The Bahamas,26.5353615,-78.6027783,2023-08-07 00:00:00,2023-08-14 19:11:58,0,InsertUser,Bungalow  via StreetComplete 53.3,2,0,InsertUser,
+3006502,The Bahamas,24.1820861,-76.4420968,2022-01-11 00:00:00,2023-08-05 20:10:25,0,ivanbranco,invalid place value,4,0,InsertUser,
+3193536,The Bahamas,23.7180295,-76.1694542,2022-05-24 00:00:00,2023-08-04 22:31:37,0,Webandsoftware,"The name fo this cay is New Cay, not Allen Cay, my family owns it. Please change this name.",3,0,InsertUser,Google Maps is not an acceptable source for OpenStreetMap. See https://wiki.openstreetmap.org/wiki/Google  Old name no longer refereed so closing.
+715993,The Bahamas,22.6360355,-73.9498329,2016-09-17 00:00:00,2023-08-04 22:24:28,0,Unknown,Acklins Island,4,0,InsertUser,
+135594,The Bahamas,22.3892061,-72.9601622,2014-03-16 00:00:00,2023-08-04 22:24:16,0,Unknown,Maritime boundary missing.,5,0,InsertUser,
+3775022,The Bahamas,25.4202400,-79.2062000,2023-07-11 00:00:00,2023-07-11 16:20:30,0,Unknown,Centre,3,0,CurlingMan13,No context for what this is the center of. Center of the island?
+3511393,The Bahamas,26.5158798,-78.6568214,2023-01-09 00:00:00,2023-07-09 13:17:38,0,InsertUser,1 storey house  via StreetComplete 50.2,2,0,InsertUser,
+2163247,The Bahamas,25.0761829,-77.4269655,2020-04-17 00:00:00,2023-05-12 19:25:55,0,Unknown,Sandyport Medical Centre,2,0,O-dog-Malakai,
+3509101,The Bahamas,25.0750728,-77.4004183,2023-01-08 00:00:00,2023-05-12 19:25:33,0,Unknown,Swimming pool,2,0,O-dog-Malakai,
+3623025,The Bahamas,23.5189213,-75.7559612,2023-04-01 00:00:00,2023-04-01 13:37:14,0,Lulyyyy80,"Chat'n Chill Beach, Stocking Island, Exuma",2,0,Lulyyyy80,
+3623017,The Bahamas,23.5311881,-75.7667691,2023-04-01 00:00:00,2023-04-01 13:32:39,0,Lulyyyy80,"Hamburger Beach, Stocking Island, Exuma",2,0,Lulyyyy80,
+3623013,The Bahamas,23.5357116,-75.7749044,2023-04-01 00:00:00,2023-04-01 13:28:55,0,Lulyyyy80,"Starfish Beach, Stocking Island, Exuma, Bahamas",4,1,Lulyyyy80,
+3616636,The Bahamas,25.0776650,-77.3436534,2023-03-28 00:00:00,2023-04-01 09:38:57,0,t8yt3,Interesting place,2,0,InsertUser,Closing as has no usable info.
+2509969,The Bahamas,24.5892200,-76.8157800,2021-01-24 00:00:00,2023-03-26 13:23:13,0,mermar,Digged out in May 2019.  V červnu 2019 prokopáno.,2,0,pyram,done with bing
+1933430,The Bahamas,25.7188700,-79.2983500,2019-09-21 00:00:00,2023-01-18 18:59:56,0,JessAk71,there is a north island to south island ferry here but not sure where it lands in the north island...,2,0,Sparks,I think this has been mapped.
+3204497,The Bahamas,25.8233191,-77.9085286,2022-05-31 00:00:00,2023-01-08 01:39:52,0,Pheavner,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Great Stirrup Cay POI types: place-island OSM data version: 2019-11-24T01:08:45Z  #mapsme",2,0,InsertUser,
+3508411,The Bahamas,26.5513374,-78.5720093,2023-01-07 00:00:00,2023-01-07 14:56:31,0,InsertUser,Crossconnected  via StreetComplete 50.1,2,0,InsertUser,
+1808210,The Bahamas,25.0506910,-77.3675680,2019-06-10 00:00:00,2022-11-18 16:49:13,0,PTI Bahamas,Proposed Location For: Bahamas Technical Inspections of Vehicles Bahamas Emissions Testing Centre Bahamas Road Traffic Department Bahamas Driver Testing and Safety Institute,6,1,PTI Bahamas,Please remove
+3443654,The Bahamas,25.0703500,-77.3070900,2022-11-15 00:00:00,2022-11-18 16:43:18,0,Unknown,Start Phase 1,2,0,Nassau Rudy,Please remove
+562363,The Bahamas,25.0650846,-77.3077865,2016-05-09 00:00:00,2022-11-18 16:43:01,0,ramyaragupathy,Is this road called as Harmony Hill?,2,0,Nassau Rudy,Please remove
+3443653,The Bahamas,25.0670300,-77.3097000,2022-11-15 00:00:00,2022-11-18 16:42:18,0,Unknown,End Phase1,2,0,Nassau Rudy,Please remove
+3443656,The Bahamas,25.0622500,-77.3135700,2022-11-15 00:00:00,2022-11-18 16:42:02,0,Unknown,End Phase 2,2,0,Nassau Rudy,Please remove
+3443655,The Bahamas,25.0596800,-77.3156200,2022-11-15 00:00:00,2022-11-18 16:41:37,0,Unknown,Phase 2,2,0,Nassau Rudy,Please remove
+3412873,The Bahamas,25.0563720,-77.3231560,2022-10-25 00:00:00,2022-11-18 16:41:15,0,Unknown,PROPOSED SITE,2,0,Nassau Rudy,Please remove
+1994868,The Bahamas,25.0515000,-77.4010000,2019-11-14 00:00:00,2022-11-18 16:39:11,0,Unknown,This road does not exist anymore.,3,0,Nassau Rudy,This road still exists. Please remove.
+2921758,The Bahamas,25.0501467,-77.4052316,2021-11-04 00:00:00,2022-11-18 16:36:58,0,InsertUser,Has this road been split or merged?,2,0,Nassau Rudy,Please remove.
+2995632,The Bahamas,25.0703668,-77.4421871,2022-01-03 00:00:00,2022-11-18 16:35:35,0,Unknown,Proposed Site,2,0,Nassau Rudy,Please remove
+2282103,The Bahamas,25.0730600,-77.4265044,2020-07-28 00:00:00,2022-11-18 16:34:06,0,Unknown,"onosm.org submitted note from a business: name: the milk factory phone: 1-242-816-6372 website:  twitter: undefined hours: Monday-Sunday 10PM-3AM category: ,Milk Bars address: royal palm cay",2,0,Nassau Rudy,Please remove
+2654454,The Bahamas,25.0326890,-77.3968792,2021-05-04 00:00:00,2022-10-27 17:52:30,0,Unknown,Victoria Gardens,3,1,Nassau Rudy,Inaccurate. Please Remove.
+3264552,The Bahamas,26.5403303,-78.7014874,2022-07-12 00:00:00,2022-07-12 19:59:19,0,InsertUser,building gone,2,0,InsertUser,already fixed (mistaken upload)
+3122109,The Bahamas,22.4438560,-74.2202351,2022-04-06 00:00:00,2022-06-13 14:02:54,0,Unknown,This is Rick Roll Land.,2,0,Stugeb,:)
+500038,The Bahamas,26.5328673,-78.7896109,2016-01-18 00:00:00,2022-05-28 22:39:14,0,manings,From user feedback: 'There is no Bain Town... Bain Town is actually Eight Mile Rock.',2,0,InsertUser,This has been reduced to a locality and an Eight Mile Rock node created further west. I think this is probably resolved?
+2563089,The Bahamas,24.5754346,-77.7589416,2021-03-02 00:00:00,2022-03-30 14:19:45,0,Unknown,corwynt,2,0,Gazelle296,
+3088574,The Bahamas,24.8334375,-76.3441373,2022-03-14 00:00:00,2022-03-14 20:55:51,0,Unknown,"Hi, Map!",2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2998487,The Bahamas,26.5456547,-78.6570645,2022-01-05 00:00:00,2022-01-05 23:31:00,0,InsertUser,Loyalist ave  via StreetComplete 38.2,2,0,InsertUser,
+2967716,The Bahamas,26.5128914,-78.6405755,2021-12-11 00:00:00,2021-12-11 17:34:22,0,InsertUser,Unable to answer 'What is the name of this place? (Visitor Center)' for https://osm.org/way/888284941 via StreetComplete 38.1:  Demolished,2,0,InsertUser,
+1817775,The Bahamas,26.5169100,-78.6413700,2019-06-19 00:00:00,2021-12-06 00:42:24,0,Unknown,DEPARTAMENTO DE MARCO EN FREEPORT 5th FLOOR,2,0,InsertUser,probable personal note.
+2819665,The Bahamas,23.4425771,-76.0440588,2021-08-24 00:00:00,2021-08-24 22:19:41,0,HenryRandolph,Named “Buckley Island/Atoll”,2,0,HenryRandolph,
+2748531,The Bahamas,26.5222769,-78.6955249,2021-07-10 00:00:00,2021-07-10 02:29:12,0,InsertUser,All One Restaurant Supplies,2,0,InsertUser,
+2600082,The Bahamas,25.5477556,-76.7619061,2021-03-29 00:00:00,2021-03-29 20:51:32,0,Luggers242,Methodist Church,2,0,Luggers242,
+2600080,The Bahamas,25.5476324,-76.7610539,2021-03-29 00:00:00,2021-03-29 20:49:43,0,Luggers242,Church,4,1,Luggers242,
+2595718,The Bahamas,26.5256727,-76.9650650,2021-03-26 00:00:00,2021-03-26 19:35:21,0,On the Wine Side,TipSea Cottage,4,1,On the Wine Side,
+1918882,The Bahamas,25.0253883,-77.3356998,2019-09-09 00:00:00,2021-02-17 17:29:02,0,Orthneil,"'Don't go there anymore ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Sugar Apple Street POI types: highway-residential OSM data version: 2019-06-21T10:47:15Z  #mapsme",2,0,Nassau Rudy,
+2518979,The Bahamas,25.4008000,-77.8140000,2021-01-30 00:00:00,2021-01-31 16:07:24,0,Unknown,Recently purchased by China Mlitary,2,0,kartonage,Please provide an actual source for this. The only source I found for this was a comment on Twitter without an actual source if this is 'China Military' or just a private chinese citizen.
+2509774,The Bahamas,25.4548879,-76.7040700,2021-01-23 00:00:00,2021-01-23 23:38:30,0,Keyshna,Transformations Fitness Centre,2,0,Keyshna,
+2501680,The Bahamas,25.0424800,-77.3023500,2021-01-17 00:00:00,2021-01-17 15:40:41,0,Unknown,H,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2395603,The Bahamas,25.0245800,-77.3563600,2020-10-22 00:00:00,2020-10-22 19:08:21,0,COVIDBAH,Active Cases: 60,2,0,COVIDBAH,
+1342362,The Bahamas,20.9796086,-73.1623063,2018-03-29 00:00:00,2020-08-16 16:35:56,0,mambus,is there really a airport?,2,0,PTI Bahamas,
+1342364,The Bahamas,20.9448155,-73.3195395,2018-03-29 00:00:00,2020-08-16 16:35:39,0,mambus,continue reef,2,0,PTI Bahamas,
+2308004,The Bahamas,25.5299000,-76.8513000,2020-08-15 00:00:00,2020-08-15 12:04:49,0,Unknown,Good island yes yes. I like the piggies,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+1817774,The Bahamas,26.5713000,-78.5952300,2019-06-19 00:00:00,2020-08-09 00:47:58,0,Unknown,CASA DE  INDY,2,0,erickdeoliveiraleal,
+2236410,The Bahamas,25.0387450,-77.5097144,2020-06-20 00:00:00,2020-06-21 03:07:09,0,stefanpinosch,This street is really called “Pinösch Drive”,2,0,stefanpinosch,
+2146135,The Bahamas,25.0783527,-77.3383304,2020-04-02 00:00:00,2020-06-20 16:13:28,0,Елена Кажуро,'Багамы' POI name: Nassau POI types: sponsored-viator place-city-capital-2 OSM data version: 2017-11-17T20:18:02Z  #mapsme,2,0,InsertUser,
+2211413,The Bahamas,25.0276035,-77.3897691,2020-05-30 00:00:00,2020-05-30 05:17:36,0,Unknown,Mommy,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+1994870,The Bahamas,25.0161200,-77.3863900,2019-11-14 00:00:00,2020-05-27 09:48:50,0,Unknown,There is a pond and park here. All of this square is a park,2,0,InsertUser,
+2189680,The Bahamas,25.8231294,-77.9104900,2020-05-11 00:00:00,2020-05-12 02:32:17,0,gdvacations,"Day 2:  Great Stirrup Cay, Bahamas",2,0,HeyItsAdam,Great Stirrup Cay is already on the map
+1994869,The Bahamas,25.0525000,-77.3986000,2019-11-14 00:00:00,2020-02-29 02:23:05,0,Unknown,Fusion Superplex is here,2,0,InsertUser,Seems to have bee nadded shortly after note creation.
+1708075,The Bahamas,24.6375000,-76.1751000,2019-03-12 00:00:00,2020-02-15 11:56:55,0,greg787,Princess Cays,2,0,InsertUser,Should be fixed now.
+1912944,The Bahamas,26.5443000,-78.6456000,2019-09-04 00:00:00,2020-02-15 09:59:36,0,Unknown,House,2,0,InsertUser,Latest imagery doesn't show more buildings than are currently traced. Probably resolved.
+1947922,The Bahamas,25.0871900,-77.3681600,2019-10-03 00:00:00,2020-02-15 07:30:52,0,Ilanride22,Add a underwater abandoned aquarium building,2,0,InsertUser,Added.
+286845,The Bahamas,24.0107953,-74.5026255,2014-12-15 00:00:00,2020-02-15 07:06:07,0,QueenofMaps,"I said this in a discussion, but I don't know who will all see it. Whoever Little Brother is, you have lived up to your name. You are messing with people who are actually trying to map. Putting down random points and making a mess is seriously affecting everyone. It is bad enough that the loading for the saves takes forever, but it is much worse to find a big mess just where I mapped. Unless you are actually trying to help out, you are doing a horrible job and I am sure many mappers would appreciate it if you left and mapped somewhere else.",2,0,InsertUser,
+135596,The Bahamas,22.6051366,-73.5969830,2014-03-16 00:00:00,2020-02-15 06:54:55,0,Unknown,"Both Plana Cays islands belong to the Bahamas, they should be included in that relation. Also, they may have a maritime boundary.",2,0,InsertUser,They appear to be within the rendered border now.
+2013270,The Bahamas,25.0360791,-77.5123268,2019-12-01 00:00:00,2020-01-25 18:05:26,0,Schrill,The name of this landmark is wrong. The name should be; Schindel’s Pond. Which were the people who constructed the pond,4,1,InsertUser,Schindel’s Pond
+715988,The Bahamas,22.5721702,-74.3635368,2016-09-17 00:00:00,2019-10-12 18:50:47,0,Unknown,Long Cay,2,0,InsertUser,Name appears on map
+715992,The Bahamas,22.7153900,-74.1879272,2016-09-17 00:00:00,2019-10-12 18:50:32,0,Unknown,Crooked Island,2,0,InsertUser,Name is shown in on map
+1688915,The Bahamas,26.5129319,-78.6422926,2019-02-22 00:00:00,2019-08-06 12:29:44,0,Unknown,"onosm.org submitted note from a business: name: Blú phone:  website:  twitter: undefined hours: Monday - Sunday 6pm - 2pm category: ,Bars address: Port lucaya marketplace",2,0,InsertUser,business exists on the map
+1688914,The Bahamas,26.5129319,-78.6422926,2019-02-22 00:00:00,2019-08-06 12:29:05,0,Unknown,"onosm.org submitted note from a business: name: Blú phone:  website:  twitter: undefined hours: Monday - sunday  category: ,Bars address: Port lucaya marketplace",2,0,InsertUser,
+1825123,The Bahamas,25.0862000,-77.3400000,2019-06-26 00:00:00,2019-06-27 16:20:30,0,Unknown,dsds,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1688916,The Bahamas,26.5131237,-78.6420213,2019-02-22 00:00:00,2019-05-26 12:00:56,0,Unknown,"onosm.org submitted note from a business: name: Freeport Jewellers phone: 242 373 2777 website: Freeportjewellers.com twitter: undefined hours: Monday - Sunday 10pm - 6pm category: ,Jewelry Stores address: Port lucaya marketplace",2,0,InsertUser,Details added
+533150,The Bahamas,25.0239665,-77.3975725,2016-03-25 00:00:00,2019-03-17 16:22:45,0,Unknown,"App user reported this being the location of: Evergreen Close, which currently exists just south of here. Need ground survey to verify.",5,0,WirePiper,
+1484868,The Bahamas,25.0580315,-77.3138326,2018-08-11 00:00:00,2019-03-15 13:08:54,0,Unknown,orchard terrace apts,2,0,WirePiper,
+709408,The Bahamas,25.0579319,-77.2994828,2016-09-12 00:00:00,2019-03-15 12:09:43,0,Unknown,Is the name actually Brigadoon Dr. and not Mystic Avenue? Can someone please confirm the same?,2,0,WirePiper,
+1146041,The Bahamas,25.0354594,-77.2755468,2017-09-19 00:00:00,2019-03-15 11:51:06,0,Unknown,Eve Road,2,0,WirePiper,
+1030190,The Bahamas,25.0786916,-77.3397237,2017-06-14 00:00:00,2019-03-15 11:42:31,0,Ducro,'Port Nassau' POI has no name POI types: highway-rest_area internet_access-wlan OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,WirePiper,
+675426,The Bahamas,25.0629035,-77.3554721,2016-08-17 00:00:00,2019-03-15 11:41:29,0,rscannix,Category should be college as Complex is part of College of the Bahamas (OSM data version: 2016-07-15T17:38:02Z) #mapsme,4,0,WirePiper,
+719110,The Bahamas,25.0349500,-77.3249110,2016-09-19 00:00:00,2019-03-15 11:38:49,0,Unknown,Blocked street:  This error is submitted from Navmii GPS.,2,0,WirePiper,
+1621663,The Bahamas,25.0511412,-77.3780675,2018-12-19 00:00:00,2019-03-15 11:38:12,0,vincentdefreitas,Vince grew up here,2,0,WirePiper,
+1639822,The Bahamas,25.4374615,-76.6041470,2019-01-05 00:00:00,2019-01-05 01:20:14,0,Unknown,Glass Window Bridge,2,0,KevAnne,
+1265716,The Bahamas,26.5133573,-78.6422254,2018-01-12 00:00:00,2018-12-14 15:40:21,0,Maksim Riabkov,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-police OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,InsertUser,
+777047,The Bahamas,24.9975716,-77.4540102,2016-11-09 00:00:00,2018-12-05 08:09:52,0,Unknown,Tara's Street,4,0,Jaller,Notes are public and meant for OpenStreetMap contributors. This seems to be a private note about the location of a friend’s house. All streets in the area have a name mapped already.
+755782,The Bahamas,24.0822012,-79.9790955,2016-10-21 00:00:00,2018-12-05 08:06:39,0,Unknown,Is there really a drinking water fountain?,2,0,Jaller,This just seems to unlikely to be the location of a water fountain. I removed it. Contributors can add notes to other mappers using the note key. A water fountain in this location should have a note.
+1533858,The Bahamas,24.7470030,-77.8101084,2018-09-19 00:00:00,2018-11-27 19:37:55,0,k-Dushi,df,4,1,InsertUser,
+1588040,The Bahamas,26.5171407,-78.6558192,2018-11-12 00:00:00,2018-11-24 12:46:52,0,Unknown,Good stuff,3,0,InsertUser,
+1276340,The Bahamas,25.0505700,-77.4914200,2018-01-22 00:00:00,2018-10-26 17:52:37,0,Unknown,This is the location to my property...Can it be updated please,2,0,freebeer,"if you want it done, you should do it"
+1533852,The Bahamas,24.7471400,-77.8105000,2018-09-19 00:00:00,2018-09-19 18:25:44,0,k-Dushi,Small Hope Bay Lodge,4,1,k-Dushi,Small Hope Bay Lodge
+1157174,The Bahamas,26.5489967,-78.6097284,2017-09-29 00:00:00,2018-09-02 13:12:48,0,wayne8377,'Gedney Lane' POI has no name POI types: highway-residential OSM data version: 2017-08-17T15:51:02Z  #mapsme,2,0,InsertUser,Name added.
+674588,The Bahamas,25.0633327,-77.3558300,2016-08-16 00:00:00,2018-06-12 15:48:40,0,rscannix,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-07-15T17:38:02Z) #mapsme",2,0,freebeer,nothing at marker
+1183225,The Bahamas,25.0781600,-77.3413000,2017-10-23 00:00:00,2018-06-12 15:44:23,0,bunkRYBN,candian banks,2,0,freebeer,on the map
+1351060,The Bahamas,25.0747301,-77.3478538,2018-04-06 00:00:00,2018-06-12 15:43:55,0,Unknown,john watlings,2,0,freebeer,on the map
+1183223,The Bahamas,25.0765800,-77.3469000,2017-10-23 00:00:00,2018-06-12 15:43:20,0,bunkRYBN,heritage,2,0,freebeer,mapped nearby
+1307414,The Bahamas,25.0774200,-77.3446500,2018-02-22 00:00:00,2018-06-12 15:43:07,0,Unknown,Pirates,2,0,freebeer,on the map
+672753,The Bahamas,25.0707581,-77.3348054,2016-08-15 00:00:00,2018-06-12 15:42:18,0,rscannix,242-397-2100 (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,freebeer,on the map
+672748,The Bahamas,25.0707581,-77.3348054,2016-08-15 00:00:00,2018-06-12 15:41:51,0,rscannix,242-397-2100 (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,freebeer,on the map
+672719,The Bahamas,25.0707581,-77.3348054,2016-08-15 00:00:00,2018-06-12 15:41:01,0,rscannix,242-397-2100 (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,freebeer,on the map
+1307419,The Bahamas,25.0735000,-77.3384000,2018-02-22 00:00:00,2018-06-12 15:40:43,0,Unknown,Fort Fincastle,2,0,freebeer,on the map
+672713,The Bahamas,25.0707581,-77.3348054,2016-08-15 00:00:00,2018-06-12 15:40:10,0,rscannix,242-397-2100 (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,freebeer,on the map
+1010372,The Bahamas,25.0697086,-77.3235200,2017-05-28 00:00:00,2018-06-12 15:36:45,0,Unknown,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'this is bicycle market' (OSM data version: 2017-03-28T20:59:03Z) #mapsme",4,0,freebeer,map appears updated
+867903,The Bahamas,26.5211993,-78.6714435,2017-01-26 00:00:00,2018-04-02 14:05:46,0,Unknown,This is a park named 'Independence Park',2,0,InsertUser,Detail added to map.
+1325247,The Bahamas,25.0309700,-77.5414300,2018-03-12 00:00:00,2018-03-13 15:55:36,0,SpikkelQS,test,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1230497,The Bahamas,25.4259508,-76.5917444,2017-12-06 00:00:00,2017-12-06 04:36:43,0,Mary1984,Daddy Joes   Hotel and restaurant,2,0,Mary1984,
+1230494,The Bahamas,25.4058721,-76.5747499,2017-12-06 00:00:00,2017-12-06 04:35:25,0,Mary1984,"Oleander Gardens   It’s an area with houses and access to a beach, also a lot of houses who are rented out on airbnb and they everyone in north and central Eleuthera know this place, so it would be easier for traveler if they see it on the map",2,0,Mary1984,
+682166,The Bahamas,25.0818009,-77.3098971,2016-08-21 00:00:00,2017-11-28 13:59:23,0,rscannix,Versailles Gardens (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,DoubleA,
+1030189,The Bahamas,25.0786916,-77.3397237,2017-06-14 00:00:00,2017-11-28 13:55:15,0,Ducro,'Port Nassau' POI has no name POI types: highway-rest_area OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,DoubleA,Already available (Northwest).
+1030185,The Bahamas,25.0787958,-77.3396530,2017-06-14 00:00:00,2017-11-28 13:55:11,0,Ducro,'Port Nassau' POI has no name POI types: highway-rest_area OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,DoubleA,Already available (Northwest).
+1183224,The Bahamas,25.0768200,-77.3405300,2017-10-23 00:00:00,2017-11-28 13:54:42,0,bunkRYBN,Justice court,2,0,DoubleA,Already available.
+672275,The Bahamas,25.0707581,-77.3348054,2016-08-15 00:00:00,2017-11-28 13:46:21,0,rscannix,242-397-2100 (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,DoubleA,Already fixed.
+1070906,The Bahamas,25.0609700,-77.3265800,2017-07-19 00:00:00,2017-11-28 13:45:20,0,Bahamas21,Pinder's Customs Brokerage,2,0,DoubleA,Already available.
+950290,The Bahamas,24.9973459,-77.4499641,2017-04-02 00:00:00,2017-11-28 13:42:21,0,Unknown,dead-end road (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,DoubleA,Removed.
+961438,The Bahamas,24.9975360,-77.4494522,2017-04-12 00:00:00,2017-11-28 13:42:21,0,Unknown,dead-end road (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,DoubleA,Removed.
+959330,The Bahamas,24.9973459,-77.4499641,2017-04-10 00:00:00,2017-11-28 13:42:21,0,Unknown,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'dead-end road' (OSM data version: 2017-03-06T16:48:02Z) #mapsme",2,0,DoubleA,Nothing found.
+944814,The Bahamas,24.9973459,-77.4499641,2017-03-28 00:00:00,2017-11-28 13:42:20,0,Unknown,no way (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,DoubleA,Eastbound connection removed.
+941882,The Bahamas,25.0221547,-77.4567132,2017-03-26 00:00:00,2017-11-28 13:38:45,0,Unknown,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2017-03-06T16:48:02Z) #mapsme",2,0,DoubleA,Removed.
+990142,The Bahamas,25.0027848,-77.4639766,2017-05-09 00:00:00,2017-11-28 13:38:40,0,Unknown,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'nothing' (OSM data version: 2017-03-06T16:48:02Z) #mapsme",2,0,DoubleA,Removed.
+1002900,The Bahamas,25.0126318,-77.4812339,2017-05-21 00:00:00,2017-11-28 13:36:19,0,Unknown,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2017-03-06T16:48:02Z) #mapsme",2,0,DoubleA,Removed.
+1076921,The Bahamas,25.4167951,-77.8704019,2017-07-24 00:00:00,2017-11-28 13:27:46,0,Stavros Sousouris,'Grand Bahamas Shipyard' POI name: Chub Cay POI types: place-island OSM data version: 2017-07-03T17:28:05Z  #mapsme,2,0,DoubleA,Islet is already available.
+1193302,The Bahamas,25.7332662,-79.2943221,2017-11-02 00:00:00,2017-11-16 16:24:17,0,Rasterfarian89,This is the location of Nate's Bakery.,2,0,Rasterfarian89,I am making this edit and closing the note.
+1197357,The Bahamas,26.5136800,-77.0781100,2017-11-06 00:00:00,2017-11-07 16:33:48,0,smitty242,bgbghnhnh,2,0,fantomas,There is no information for OSM.
+1177539,The Bahamas,25.0271381,-77.3880708,2017-10-17 00:00:00,2017-10-31 15:45:36,0,Rasterfarian89,The name of this road is  'Renee Road'.,2,0,Rasterfarian89,I am making this edit and closing the note.
+1161117,The Bahamas,25.0003720,-77.5308609,2017-10-03 00:00:00,2017-10-03 16:14:55,0,OdessaWilliams92,new providence,2,0,OdessaWilliams92,
+963023,The Bahamas,26.5223000,-78.7249000,2017-04-13 00:00:00,2017-10-02 23:59:26,0,Derivative0093,This is now a park called Regency Community Park,2,0,freebeer,on the map
+953256,The Bahamas,26.5259437,-78.6271630,2017-04-05 00:00:00,2017-10-02 23:58:44,0,stephen munroe,proposed property (OSM data version: 2017-03-06T16:48:02Z) #mapsme,4,0,freebeer,no useful mapping info
+707767,The Bahamas,25.4375356,-76.6041462,2016-09-10 00:00:00,2017-10-02 23:56:20,0,Billywu,Glass Window Bridge (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,freebeer,on the map
+325816,The Bahamas,25.1706888,-76.1760235,2015-03-03 00:00:00,2017-10-02 23:55:37,0,Unknown,Unique Village,6,0,freebeer,no useful mapping info
+857905,The Bahamas,25.0442565,-77.2764158,2017-01-21 00:00:00,2017-09-28 02:29:52,0,Unknown,Wedding Location,2,0,freebeer,no useful mapping info
+979607,The Bahamas,25.0031113,-77.4655668,2017-04-28 00:00:00,2017-09-28 02:28:48,0,Unknown,and food stock (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,freebeer,on the map
+1007876,The Bahamas,25.0002376,-77.5309517,2017-05-25 00:00:00,2017-09-28 02:28:13,0,Unknown,cool (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,freebeer,no useful mapping info
+686102,The Bahamas,24.7253732,-77.7928521,2016-08-24 00:00:00,2017-09-28 02:27:25,0,Jay O,Emergencies are seen at any time. The doctor is always on call. (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,freebeer,on the map
+1077677,The Bahamas,26.5122698,-78.6429465,2017-07-25 00:00:00,2017-07-25 03:39:21,0,Unknown,La parrilla Latina,4,1,La parrilla Latina,
+1023860,The Bahamas,26.4395285,-77.1106339,2017-06-08 00:00:00,2017-06-09 16:28:10,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+754870,The Bahamas,26.6117308,-78.3573380,2016-10-20 00:00:00,2017-05-07 19:50:51,0,karitotp,Can someone confirm if the correct name is Freeport? Thanks,3,0,InsertUser,
+639713,The Bahamas,26.5173689,-78.6230403,2016-07-23 00:00:00,2017-04-21 05:09:22,0,Unknown,"A new business has opened.  Can you please add it to the map? Pirate's Cove Zip Line and Water Park West Beach Drive Taino Beach West Freeport, Grand Bahama The Bahamas (242) 602‐0936 piratescovebahamas.com info@piratescove.com GPS Location: 26.517989° N, 78.622971° W",4,1,Derivative0093,
+958356,The Bahamas,25.0713143,-77.3298454,2017-04-10 00:00:00,2017-04-10 10:04:31,0,imoree,Business Here: SOmethings DIfferent Cupcake shop,2,0,imoree,
+944813,The Bahamas,24.9957813,-77.4557046,2017-03-28 00:00:00,2017-04-07 04:31:10,0,Unknown,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2017-03-06T16:48:02Z) #mapsme",2,0,Зелёный Кошак,
+832481,The Bahamas,26.4809065,-77.0497584,2016-12-29 00:00:00,2017-03-19 19:04:40,0,Unknown,Video Call me on Facebook follow me on this email and delete all copies and notify us by return email or phone number and a few days to go back from you and you can see how they work great and you are not going on and off and then I have a nice time with your family and I am not a big fan of your email and delete all copies and notify me about your website is down for your time for me and I am a very nice to hear about us page for your time for me and my updated CV attached with a great time at home with you to see how you can you call text or email us back with a great weekend as I am a bit more than a year and a half day and I have been a long way from this email has a very nice to have to go back and it was not able are you doing well as my wife has a very nice time at all possible for me know how it works fine on your car or bike or not I can you call text me know how it works whiff a good day please let us know your schedule is like a little bit more       TBf,5,0,MapEdD,
+462876,The Bahamas,26.5142824,-77.0704329,2015-11-04 00:00:00,2016-03-26 16:08:43,0,ShaneS,Abaco Groceries,2,0,highaoa,
+378486,The Bahamas,25.0205954,-77.3358536,2015-06-12 00:00:00,2016-03-19 04:29:03,0,Unknown,Cruise Port,2,0,bleepbloop,
+472459,The Bahamas,25.0348908,-77.3131299,2015-11-22 00:00:00,2016-03-19 04:28:06,0,Unknown,Second house left Peach Coral trim,2,0,bleepbloop,
+378485,The Bahamas,25.0597882,-77.2874451,2015-06-12 00:00:00,2016-03-19 04:25:29,0,Unknown,朝市,2,0,bleepbloop,
+287086,The Bahamas,26.5236520,-78.7341213,2014-12-16 00:00:00,2015-08-14 18:40:26,0,Unknown,Sands Brewery Site,2,0,InsertUser,Bahamian Brewery is marked on map to the west of this note.
+380982,The Bahamas,25.0288394,-77.4819374,2015-06-16 00:00:00,2015-06-16 18:12:06,0,Junemap,hi,2,0,Junemap,
+94689,The Bahamas,23.1064376,-75.0086939,2014-01-02 00:00:00,2015-01-09 23:16:22,0,Unknown,"The Blue Hole is in the correct place, but the ground-sea border is not precise in MapQuest Open. It should be like in the other layers, where a small peninsula can be distinguished with the Blue Hole at its intern side.",2,0,InsertUser,"The map data is correct, this is a MapQuest only problem."
+288189,The Bahamas,25.0832930,-77.3093277,2014-12-18 00:00:00,2014-12-18 16:34:54,0,asr920,ONE & ONLY,2,0,asr920,
+274566,The Bahamas,26.5290344,-78.6929527,2014-11-22 00:00:00,2014-11-24 18:37:55,0,InsertUser,thus Wendy's now closed,2,0,InsertUser,
+66955,The Bahamas,25.0452320,-77.3614910,2013-11-01 00:00:00,2014-10-07 17:59:07,0,Unknown,"Moved from OSB ID726578:  not motorway. motorway = grade separated. probably should be trunk [andrewpmk, 2013-04-14 22:22:40 EDT]",2,0,InsertUser,Appears to have been fixed.
+153277,The Bahamas,25.0659596,-77.4370909,2014-04-19 00:00:00,2014-10-07 17:47:39,0,Unknown,This is a proper road,2,0,InsertUser,"Bing Imagery agrees, marked as unclassified"
+180669,The Bahamas,26.5197937,-78.6552906,2014-06-08 00:00:00,2014-06-08 16:39:08,0,InsertUser,grovesnor way,2,0,InsertUser,
+180663,The Bahamas,26.5474295,-78.5604191,2014-06-08 00:00:00,2014-06-08 16:35:41,0,InsertUser,Clough point,2,0,InsertUser,
+180664,The Bahamas,26.5475350,-78.5618052,2014-06-08 00:00:00,2014-06-08 16:35:22,0,InsertUser,north star resorts,2,0,InsertUser,
+180662,The Bahamas,26.5438689,-78.5810090,2014-06-08 00:00:00,2014-06-08 16:34:58,0,InsertUser,rocks barrier,2,0,InsertUser,
+180665,The Bahamas,26.5372289,-78.6013076,2014-06-08 00:00:00,2014-06-08 16:34:03,0,InsertUser,dibloon road,2,0,InsertUser,
+180681,The Bahamas,26.5297546,-78.6121908,2014-06-08 00:00:00,2014-06-08 16:33:06,0,InsertUser,fortune bay inlet,2,0,InsertUser,
+180680,The Bahamas,26.5299605,-78.6137675,2014-06-08 00:00:00,2014-06-08 16:32:52,0,InsertUser,fortune bay dr,2,0,InsertUser,
+180679,The Bahamas,26.5311858,-78.6153660,2014-06-08 00:00:00,2014-06-08 16:32:25,0,InsertUser,symonette drive,2,0,InsertUser,
+180667,The Bahamas,26.5251365,-78.6253672,2014-06-08 00:00:00,2014-06-08 16:31:58,0,InsertUser,golden point,2,0,InsertUser,
+180677,The Bahamas,26.5235882,-78.6273888,2014-06-08 00:00:00,2014-06-08 16:31:30,0,InsertUser,nearwell place,2,0,InsertUser,
+180678,The Bahamas,26.5264976,-78.6230903,2014-06-08 00:00:00,2014-06-08 16:31:02,0,InsertUser,golden point,2,0,InsertUser,
+180666,The Bahamas,26.5273991,-78.6220244,2014-06-08 00:00:00,2014-06-08 16:30:19,0,InsertUser,Johns point,2,0,InsertUser,
+180676,The Bahamas,26.5180849,-78.6440546,2014-06-08 00:00:00,2014-06-08 16:29:47,0,InsertUser,Victoria place,2,0,InsertUser,
+180668,The Bahamas,26.5152870,-78.6482311,2014-06-08 00:00:00,2014-06-08 16:27:40,0,InsertUser,Hampton place,2,0,InsertUser,
+180675,The Bahamas,26.5182092,-78.6504166,2014-06-08 00:00:00,2014-06-08 16:26:56,0,InsertUser,seargent major drive,2,0,InsertUser,
+180670,The Bahamas,26.5198890,-78.6700280,2014-06-08 00:00:00,2014-06-08 16:25:02,0,InsertUser,sincoral road,2,0,InsertUser,
+180671,The Bahamas,26.5224487,-78.6712991,2014-06-08 00:00:00,2014-06-08 16:19:14,0,InsertUser,gambier drive,2,0,InsertUser,
+180674,The Bahamas,26.5212361,-78.6787692,2014-06-08 00:00:00,2014-06-08 16:17:10,0,InsertUser,Somerville drive,2,0,InsertUser,
+180672,The Bahamas,26.5221084,-78.6762703,2014-06-08 00:00:00,2014-06-08 16:15:46,0,InsertUser,Marley drive (Mayfair court),2,0,InsertUser,
+180673,The Bahamas,26.5234228,-78.6766465,2014-06-08 00:00:00,2014-06-08 16:13:52,0,InsertUser,Esher court,2,0,InsertUser,
+89156,The Bahamas,25.0475807,-77.4629688,2013-12-22 00:00:00,2014-05-27 22:12:01,0,Bmorrison,Sir Lindin Pindling International Airport,2,0,InsertUser,"this airport is taged correctly in the data, don't know why it's only showing up in MapQuest"
+168040,The Bahamas,27.0668110,-78.0778850,2014-05-15 00:00:00,2014-05-27 22:07:07,0,Unknown,"bounds: (27.0711,-78.0883 - 27.0625,-78.0675) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-78.0883%2C27.0625%2C-78.0675%2C27.0711 Map is coming up all blue - no details at all.",2,0,InsertUser,"this is not a bug, this is a bit of ocean with no islands in it"
+175296,The Bahamas,26.5308242,-78.6965866,2014-05-27 00:00:00,2014-05-27 21:32:49,0,InsertUser,merport building plaza,2,0,InsertUser,
+175295,The Bahamas,26.5161776,-78.6811077,2014-05-27 00:00:00,2014-05-27 21:30:09,0,InsertUser,Britannia drive,2,0,InsertUser,
+175294,The Bahamas,26.5162611,-78.6728587,2014-05-27 00:00:00,2014-05-27 21:26:28,0,InsertUser,red beards,2,0,InsertUser,
+175293,The Bahamas,26.5212379,-78.6632310,2014-05-27 00:00:00,2014-05-27 21:25:27,0,InsertUser,waterfall drive,2,0,InsertUser,
+126115,The Bahamas,26.5003034,-76.9816732,2014-02-28 00:00:00,2014-03-28 19:15:03,0,Unknown,Beach borders in MapQuest Open are imprecise/indefinite.,2,0,maxolasersquad,Looks fine in the standard OSM rendering.
+131914,The Bahamas,27.0668110,-78.0778850,2014-03-09 00:00:00,2014-03-28 19:14:31,0,Unknown,"bounds: (27.0711,-78.0883 - 27.0625,-78.0675) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-78.0883%2C27.0625%2C-78.0675%2C27.0711 Map is missing data here. The map is blue with a dot, not showing the location.",2,0,maxolasersquad,Probably an issue with Criaglist.
+99178,The Bahamas,26.5358399,-78.6062591,2014-01-10 00:00:00,2014-01-10 20:13:31,0,InsertUser,holbeach lane,2,0,InsertUser,
+99186,The Bahamas,26.5438699,-78.5940634,2014-01-10 00:00:00,2014-01-10 19:47:14,0,InsertUser,blockade drive,2,0,InsertUser,
+99183,The Bahamas,26.5440265,-78.5748101,2014-01-10 00:00:00,2014-01-10 19:40:54,0,InsertUser,windjammers place,2,0,InsertUser,
+99185,The Bahamas,26.5476484,-78.5855333,2014-01-10 00:00:00,2014-01-10 19:39:41,0,InsertUser,pink pearl drive,2,0,InsertUser,
+99180,The Bahamas,26.5471526,-78.5895340,2014-01-10 00:00:00,2014-01-10 19:39:16,0,InsertUser,lighting row,2,0,InsertUser,
+99181,The Bahamas,26.5472682,-78.5837819,2014-01-10 00:00:00,2014-01-10 19:38:40,0,InsertUser,fortune bay drive,2,0,InsertUser,
+99184,The Bahamas,26.5435482,-78.5834607,2014-01-10 00:00:00,2014-01-10 19:35:47,0,InsertUser,dubloon road,2,0,InsertUser,
+99188,The Bahamas,26.5373520,-78.6020362,2014-01-10 00:00:00,2014-01-10 19:28:10,0,InsertUser,dubloon road,2,0,InsertUser,
+99187,The Bahamas,26.5396325,-78.5998929,2014-01-10 00:00:00,2014-01-10 19:27:36,0,InsertUser,dollar row,2,0,InsertUser,
+99179,The Bahamas,26.5427896,-78.5980866,2014-01-10 00:00:00,2014-01-10 19:26:54,0,InsertUser,helm lane,2,0,InsertUser,
+99182,The Bahamas,26.5439428,-78.5823601,2014-01-10 00:00:00,2014-01-10 19:25:08,0,InsertUser,fortune cay,2,0,InsertUser,
+44010,The Bahamas,26.5200953,-78.7447348,2013-09-18 00:00:00,2014-01-05 16:59:32,0,Unknown,Dart Polymers Ltd,2,0,InsertUser,Added to map
+96367,The Bahamas,26.6058100,-78.4666172,2014-01-05 00:00:00,2014-01-05 16:39:28,0,InsertUser,cell towet,2,0,InsertUser,
+94927,The Bahamas,26.5206465,-78.6368426,2014-01-03 00:00:00,2014-01-03 03:21:54,0,InsertUser,unconnected,2,0,InsertUser,
+94935,The Bahamas,26.5130533,-78.6485146,2014-01-03 00:00:00,2014-01-03 03:11:49,0,InsertUser,reef course,2,0,InsertUser,
+94930,The Bahamas,26.5416496,-78.6517869,2014-01-03 00:00:00,2014-01-03 03:11:13,0,InsertUser,guillemont drive,2,0,InsertUser,
+94928,The Bahamas,26.5313130,-78.6200342,2014-01-03 00:00:00,2014-01-03 03:08:25,0,InsertUser,Sherwood drive,2,0,InsertUser,
+94933,The Bahamas,26.5200454,-78.6565365,2014-01-03 00:00:00,2014-01-03 03:07:24,0,InsertUser,island yogurt,2,0,InsertUser,
+94934,The Bahamas,26.5201327,-78.6566679,2014-01-03 00:00:00,2014-01-03 03:02:42,0,InsertUser,Nea's pancake place,2,0,InsertUser,
+94931,The Bahamas,26.5399453,-78.6649244,2014-01-03 00:00:00,2014-01-03 02:55:29,0,InsertUser,street here,2,0,InsertUser,
+94929,The Bahamas,26.5375159,-78.7068436,2014-01-03 00:00:00,2014-01-03 02:53:11,0,InsertUser,carquest autoparts,2,0,InsertUser,
+94932,The Bahamas,26.5396027,-78.6849743,2014-01-03 00:00:00,2014-01-03 02:50:41,0,InsertUser,columbus drive,2,0,InsertUser,
+94936,The Bahamas,26.5381237,-78.6966016,2014-01-03 00:00:00,2014-01-03 02:50:06,0,InsertUser,sun plaza,2,0,InsertUser,
+94937,The Bahamas,26.5422077,-78.6977316,2014-01-03 00:00:00,2014-01-03 02:47:29,0,InsertUser,madiera croft,2,0,InsertUser,
+94938,The Bahamas,26.5424018,-78.7000249,2014-01-03 00:00:00,2014-01-03 02:46:53,0,InsertUser,maple place,2,0,InsertUser,
+94941,The Bahamas,26.5408113,-78.7018139,2014-01-03 00:00:00,2014-01-03 02:46:29,0,InsertUser,silk cotton street,2,0,InsertUser,
+94940,The Bahamas,26.5409307,-78.7039048,2014-01-03 00:00:00,2014-01-03 02:46:01,0,InsertUser,peach tree street,2,0,InsertUser,
+94939,The Bahamas,26.5402638,-78.7065330,2014-01-03 00:00:00,2014-01-03 02:45:33,0,InsertUser,forest avenue,2,0,InsertUser,
+90486,The Bahamas,26.5199849,-78.6564739,2013-12-24 00:00:00,2013-12-26 21:11:07,0,InsertUser,btc,2,0,InsertUser,
+90484,The Bahamas,26.5199371,-78.6563644,2013-12-24 00:00:00,2013-12-26 21:11:02,0,InsertUser,new image beauty supply,2,0,InsertUser,
+90485,The Bahamas,26.5208942,-78.6572890,2013-12-24 00:00:00,2013-12-26 20:55:21,0,InsertUser,bmf Freeport fellowship north diplomat center,2,0,InsertUser,
+90487,The Bahamas,26.5213648,-78.6575780,2013-12-24 00:00:00,2013-12-26 20:43:36,0,InsertUser,also merp,2,0,InsertUser,
+88406,The Bahamas,26.5289691,-78.6200001,2013-12-19 00:00:00,2013-12-19 21:10:55,0,InsertUser,bayshore dr,2,0,InsertUser,
+88405,The Bahamas,26.5265875,-78.6245325,2013-12-19 00:00:00,2013-12-19 21:10:16,0,InsertUser,Tarleton dr,2,0,InsertUser,
+88404,The Bahamas,26.5250898,-78.6263752,2013-12-19 00:00:00,2013-12-19 21:09:56,0,InsertUser,outlaw ln,2,0,InsertUser,
+88402,The Bahamas,26.5206556,-78.6314917,2013-12-19 00:00:00,2013-12-19 21:09:28,0,InsertUser,palm gardens,2,0,InsertUser,
+88403,The Bahamas,26.5224124,-78.6287684,2013-12-19 00:00:00,2013-12-19 21:08:31,0,InsertUser,west beach drive,2,0,InsertUser,
+88401,The Bahamas,26.5181372,-78.6439206,2013-12-19 00:00:00,2013-12-19 21:07:20,0,InsertUser,Victoria place,2,0,InsertUser,
+88400,The Bahamas,26.5196678,-78.6532598,2013-12-19 00:00:00,2013-12-19 21:06:41,0,InsertUser,bi rdcage walk,2,0,InsertUser,
+88399,The Bahamas,26.5222786,-78.6572070,2013-12-19 00:00:00,2013-12-19 21:06:20,0,InsertUser,shearwater drive,2,0,InsertUser,
+88398,The Bahamas,26.5212948,-78.6633428,2013-12-19 00:00:00,2013-12-19 21:05:08,0,InsertUser,waterfall dr,2,0,InsertUser,
+88397,The Bahamas,26.5169256,-78.6688632,2013-12-19 00:00:00,2013-12-19 21:04:45,0,InsertUser,Honduras dr,2,0,InsertUser,
+88396,The Bahamas,26.5175186,-78.6726078,2013-12-19 00:00:00,2013-12-19 21:04:27,0,InsertUser,beach way drive,2,0,InsertUser,
+88395,The Bahamas,26.5176816,-78.6789966,2013-12-19 00:00:00,2013-12-19 21:04:03,0,InsertUser,Somerville dr,2,0,InsertUser,
+88394,The Bahamas,26.5168779,-78.6832985,2013-12-19 00:00:00,2013-12-19 21:03:29,0,InsertUser,Kennedy circle,2,0,InsertUser,
+88393,The Bahamas,26.5176304,-78.6926974,2013-12-19 00:00:00,2013-12-19 21:02:31,0,InsertUser,e Atlantic dr,2,0,InsertUser,
+88377,The Bahamas,26.5154473,-78.6875841,2013-12-19 00:00:00,2013-12-19 21:02:06,0,InsertUser,east beach drive,2,0,InsertUser,
+88378,The Bahamas,26.5175537,-78.6888877,2013-12-19 00:00:00,2013-12-19 21:01:44,0,InsertUser,mary star of the sea,2,0,InsertUser,
+88379,The Bahamas,26.5226981,-78.6942627,2013-12-19 00:00:00,2013-12-19 21:01:13,0,InsertUser,ponciana drive,2,0,InsertUser,
+88380,The Bahamas,26.5265338,-78.6939506,2013-12-19 00:00:00,2013-12-19 21:00:17,0,InsertUser,adventurers way,2,0,InsertUser,
+88392,The Bahamas,26.5304616,-78.6927327,2013-12-19 00:00:00,2013-12-19 20:59:53,0,InsertUser,pioneers way,2,0,InsertUser,
+88389,The Bahamas,26.5333910,-78.6952839,2013-12-19 00:00:00,2013-12-19 20:59:40,0,InsertUser,the art of giving. gifts and coffee bar.(Starbucks),2,0,InsertUser,
+88382,The Bahamas,26.5342349,-78.6937570,2013-12-19 00:00:00,2013-12-19 20:59:36,0,InsertUser,explorers way e,2,0,InsertUser,
+88385,The Bahamas,26.5340763,-78.6982403,2013-12-19 00:00:00,2013-12-19 20:59:32,0,InsertUser,explorers way,2,0,InsertUser,
+88381,The Bahamas,26.5325554,-78.6941092,2013-12-19 00:00:00,2013-12-19 20:58:44,0,InsertUser,bank lane,2,0,InsertUser,
+88390,The Bahamas,26.5333758,-78.6955646,2013-12-19 00:00:00,2013-12-19 20:55:13,0,InsertUser,parfum de paris,2,0,InsertUser,
+88386,The Bahamas,26.5336491,-78.6965178,2013-12-19 00:00:00,2013-12-19 20:51:44,0,InsertUser,York strert,2,0,InsertUser,
+88391,The Bahamas,26.5330720,-78.6944223,2013-12-19 00:00:00,2013-12-19 20:51:14,0,InsertUser,Woodstock street,2,0,InsertUser,
+88387,The Bahamas,26.5339003,-78.6957369,2013-12-19 00:00:00,2013-12-19 20:50:36,0,InsertUser,Kent Street,2,0,InsertUser,
+88388,The Bahamas,26.5335837,-78.6953819,2013-12-19 00:00:00,2013-12-19 20:50:08,0,InsertUser,Gloucester lane,2,0,InsertUser,
+88384,The Bahamas,26.5432542,-78.6970026,2013-12-19 00:00:00,2013-12-19 20:49:37,0,InsertUser,lignum vitae,2,0,InsertUser,
+88383,The Bahamas,26.5390021,-78.6958067,2013-12-19 00:00:00,2013-12-19 20:49:26,0,InsertUser,settlers way east,2,0,InsertUser,
+66957,The Bahamas,26.5437420,-78.6990590,2013-11-01 00:00:00,2013-12-19 15:32:24,0,Unknown,"Moved from OSB ID714756:  WalCo Import Export [NoName/OsmAnd, 2013-02-12 10:34:49 CET]",2,0,InsertUser,
+66956,The Bahamas,26.5332700,-78.6950470,2013-11-01 00:00:00,2013-12-18 16:16:11,0,Unknown,"Moved from OSB ID708685:  Seventeen Centre [NoName/OsmAnd, 2013-01-18 22:43:30 CET]",2,0,InsertUser,
+87452,The Bahamas,26.5266318,-78.6984022,2013-12-17 00:00:00,2013-12-18 16:16:10,0,InsertUser,roundabout here now,2,0,InsertUser,

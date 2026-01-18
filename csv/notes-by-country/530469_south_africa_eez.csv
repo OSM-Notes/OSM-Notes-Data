@@ -1,0 +1,8 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3680819,South Africa (EEZ),-44.2939152,38.9345218,2023-05-08 00:00:00,2024-04-28 15:26:21,0,Unknown,BODAGAON,3,0,pitscheplatsch,misplaced
+4166888,South Africa (EEZ),-46.8904662,37.7442169,2024-03-25 00:00:00,2024-03-25 14:08:04,0,DIEGNER,il n y a rien du tout donc va voir ailleur,4,1,pitscheplatsch,Not Helpful  #PersonalNote #NeisNoteAI
+2224313,South Africa (EEZ),-35.2503855,19.8189926,2020-06-10 00:00:00,2020-06-10 10:25:10,0,Unknown,Wrong map,2,0,kartonage,This is not related to OpenStreetMap. Contact your third party app provider.
+2224310,South Africa (EEZ),-35.2504000,19.8190000,2020-06-10 00:00:00,2020-06-10 10:25:02,0,Unknown,It showing me wrong map,2,0,kartonage,This is not related to OpenStreetMap. Contact your third party app provider.
+1570427,South Africa (EEZ),-34.8341429,24.1641020,2018-10-25 00:00:00,2018-10-25 14:04:23,0,Unknown,zzzzzzzzzzzzzzzzzzzzzzzzzz,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+422479,South Africa (EEZ),-32.7221776,33.5286745,2015-08-26 00:00:00,2015-09-03 10:51:51,0,Unknown,nh,2,0,py_berrard,

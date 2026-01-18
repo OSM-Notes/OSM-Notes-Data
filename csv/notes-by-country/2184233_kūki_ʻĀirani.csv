@@ -1,0 +1,109 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4007648,Kūki ʻĀirani,-21.2319005,-159.7310719,2023-11-29 00:00:00,2025-10-19 00:26:20,0,GS25,vilis is precisely here,2,0,BazingaBot,
+4502322,Kūki ʻĀirani,-21.2074726,-159.7708143,2024-11-01 00:00:00,2024-11-02 00:38:14,0,Jobeyub,'https://osm.org/go/FKl5HMO1-?m' OSM snapshot date: 2024-10-17T20:37:52Z POI name: Avarua POI types: place-city-capital-2  #organicmaps android,2,0,Endres Pelka,Useless note
+4010356,Kūki ʻĀirani,-21.2573700,-159.7327408,2023-12-01 00:00:00,2024-07-20 04:20:44,0,GS25,This is now 'Takitumu Tapas' tapas bar (no alcohol).,2,0,KingKratos,
+4028530,Kūki ʻĀirani,-18.8491092,-159.7588411,2023-12-15 00:00:00,2024-07-20 04:20:41,0,Unknown,Correct name is 'Ranguinui's Retreat',2,0,KingKratos,
+4028531,Kūki ʻĀirani,-18.8447813,-159.7591496,2023-12-15 00:00:00,2024-07-20 04:20:33,0,Unknown,Correct name is 'Tai Roto Bay Beach Villas',2,0,KingKratos,
+4007485,Kūki ʻĀirani,-21.2587227,-159.7335009,2023-11-28 00:00:00,2024-03-30 07:54:50,0,GS25,museum is next rectangular building just to the south,2,0,ralley,Corrected
+4173554,Kūki ʻĀirani,-21.2170618,-159.8306082,2024-03-29 00:00:00,2024-03-30 07:52:03,0,ralley,"Steps down to beach, concrete, 6+12  #OsmAnd",2,0,ralley,Added
+3368173,Kūki ʻĀirani,-21.2281690,-159.8187718,2022-09-21 00:00:00,2024-02-26 18:02:47,0,Unknown,Te Tua,2,0,ralley,Te Tua accomodation now closed
+3715081,Kūki ʻĀirani,-21.2694000,-159.7408500,2023-06-01 00:00:00,2023-10-23 19:09:04,0,Unknown,CUTHERS RESIDENCE,2,0,confusedbuffalo,This sounds like a personal bookmark and that is not what public OSM notes should be used for. #invalid
+2973446,Kūki ʻĀirani,-18.8598336,-159.7762299,2021-12-17 00:00:00,2023-01-10 13:43:53,0,kazuh,"Aitutaki, Cook Islands",2,0,user_17724595,
+2388745,Kūki ʻĀirani,-21.2068300,-159.7775700,2020-10-16 00:00:00,2022-06-26 21:10:26,0,Unknown,Cook Islands Chamber of Commerce,4,1,QuigleyJones,added
+2326654,Kūki ʻĀirani,-21.2098667,-159.8116162,2020-08-28 00:00:00,2022-06-26 21:05:41,0,DippyBTE,The 'Church of Pog' has just been named 'Church',2,0,QuigleyJones,
+2251281,Kūki ʻĀirani,-21.2563016,-159.8176298,2020-07-03 00:00:00,2020-07-18 16:21:15,0,Reef2See,"Das 'The Dive Centre' gibt es nicht mehr, die Firma hat endgültig eschlossen. An dieser stelle befindet sich nun 'Adventure Cook Islands'.",2,0,Palolo,The name has been change on the POI
+1840294,Kūki ʻĀirani,-21.2653576,-159.7610636,2019-07-10 00:00:00,2020-05-08 21:15:34,0,Los Manantialitos,Es un jardín con numerosas especies de plantas. También tiene café con comidas. (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,wohnung058,
+1767578,Kūki ʻĀirani,-21.2573000,-159.7553000,2019-05-05 00:00:00,2020-05-08 20:59:01,0,Unknown,12,2,0,wohnung058,
+1862707,Kūki ʻĀirani,-21.2358138,-159.7778860,2019-07-30 00:00:00,2020-05-08 20:59:01,0,Rpoccia,"'Wrong location' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Rarotonga POI types: place-island OSM data version: 2019-06-21T10:47:15Z  #mapsme",2,0,wohnung058,
+1858929,Kūki ʻĀirani,-18.8652450,-159.7979370,2019-07-27 00:00:00,2020-05-07 20:51:49,0,Unknown,Bank BSP - Bank of South Pacific,2,0,wohnung058,added
+1858940,Kūki ʻĀirani,-18.8652900,-159.7980000,2019-07-27 00:00:00,2020-05-07 20:51:49,0,Unknown,change to BCI ATM,2,0,wohnung058,changed
+1858771,Kūki ʻĀirani,-18.8640683,-159.7994471,2019-07-27 00:00:00,2020-05-07 20:51:48,0,Unknown,Aitutaki Game Fishing Club,2,0,wohnung058,added
+1858930,Kūki ʻĀirani,-18.8653186,-159.7979477,2019-07-27 00:00:00,2020-05-07 20:51:48,0,Unknown,BCI - Bank of Cook Islands branch,2,0,wohnung058,added
+1858773,Kūki ʻĀirani,-18.8522300,-159.7931300,2019-07-27 00:00:00,2020-05-07 20:36:03,0,Unknown,Aquila Hardware Store,2,0,wohnung058,added
+1858788,Kūki ʻĀirani,-18.8543300,-159.7934500,2019-07-27 00:00:00,2020-05-07 20:36:03,0,Unknown,Heineken Shop - sells groceries and alcohol,2,0,wohnung058,name added
+1858927,Kūki ʻĀirani,-18.8636900,-159.7866700,2019-07-27 00:00:00,2020-05-07 20:36:03,0,Unknown,Baxter's Waterworld Shop - groceries and alcohol,2,0,wohnung058,added
+1858922,Kūki ʻĀirani,-18.8290500,-159.7731400,2019-07-27 00:00:00,2020-05-07 20:36:03,0,Unknown,Spider Energy Fuel Centre - Petrol Station,2,0,wohnung058,added
+1858920,Kūki ʻĀirani,-18.8336100,-159.7778500,2019-07-27 00:00:00,2020-05-07 20:36:03,0,Unknown,Crusher Bar is now closed,2,0,wohnung058,deleted
+1858354,Kūki ʻĀirani,-18.8712591,-159.7889300,2019-07-27 00:00:00,2020-05-07 20:36:02,0,Rpoccia,'This is the owner's house not the dive shop' POI name: Bubbles Below POI types: amenity sport-scuba_diving OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,wohnung058,deleted
+1858918,Kūki ʻĀirani,-18.8430700,-159.7902000,2019-07-27 00:00:00,2020-05-07 20:36:02,0,Unknown,Vaikoa Units Accommodation,2,0,wohnung058,added
+1858792,Kūki ʻĀirani,-18.8509600,-159.7925900,2019-07-27 00:00:00,2020-05-07 20:36:02,0,Unknown,new building Air Rarotonga Sales and Reservations Office,2,0,wohnung058,added
+1858782,Kūki ʻĀirani,-18.8533300,-159.7929400,2019-07-27 00:00:00,2020-05-07 20:36:02,0,Unknown,"Incorrect spelling of the word Adventist should be Seventh Day Adventist Church, Amuri",2,0,wohnung058,changed
+1093289,Kūki ʻĀirani,-18.8570785,-159.7942595,2017-08-06 00:00:00,2020-05-07 20:36:02,0,chris_rapson,'open Sundays (one of the only places in Aitutaki)' POI name: The Fish & Chip Shop POI types: amenity-fast_food OSM data version: 2017-07-03T17:28:05Z  #mapsme,2,0,wohnung058,
+1858928,Kūki ʻĀirani,-18.8673900,-159.7992600,2019-07-27 00:00:00,2020-02-13 21:08:50,0,Unknown,"Seventh Day Adventist Church, Arutanga",2,0,freebeer,mapped nearby
+1854642,Kūki ʻĀirani,-21.2032453,-159.7608791,2019-07-24 00:00:00,2019-08-14 16:54:40,0,Rpoccia,"'Incorrect location' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Tamarind House POI types: amenity-restaurant OSM data version: 2019-06-21T10:47:15Z  #mapsme",2,0,Timoti Tangiruaine,
+1070050,Kūki ʻĀirani,-21.2389100,-159.7291400,2017-07-19 00:00:00,2018-11-24 20:34:19,0,Unknown,school,4,1,Timoti Tangiruaine,
+908695,Kūki ʻĀirani,-21.2248255,-159.8298444,2017-02-28 00:00:00,2018-11-07 19:42:33,0,HemiRR,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'marker is in wrong place See correct marker 2 or 3 km north' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",4,0,Timoti Tangiruaine,
+1246501,Kūki ʻĀirani,-21.2363463,-159.7768868,2017-12-22 00:00:00,2018-11-07 19:38:28,0,Demetrio Calle,Reserva Natural Takitumu (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Timoti Tangiruaine,
+911962,Kūki ʻĀirani,-21.2246624,-159.8298273,2017-03-02 00:00:00,2018-06-15 22:04:40,0,HemiRR,"Suberb setting, on the lagoon behind Manuia Resort. We happened to stop in to On The Beach restaurant because we saw the sign when we were driving by anti-clockwise (sign is behind hedge if you are driving by the other way, entrance is across from Island Car and Bike Hire). Our first visit was for lunch, the service was great, the staff warm and friendly and the food was very good. We have been back 6 more times for breakfast lunch and dinner. Each time we had the same warm friendly service and great food.  The prices are competitive for restaurants on Rarotonga. If you have the time to go for dinner, the view of the sunset is spectacular. This is our second visit to Rarotonga and our first discovery of OTB. Too bad we didn't find it the first time we were here.  Open for breakfast, lunch and dinner. Happy Hour 3 to 6. Thank you Phillip (head chef and owner), Laiza, Gabby and the rest of the staff for adding so much to our wonderful time in Rarotonga. (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,30303020,Please do not use this tool for reviews. This feature is available for mapping errors. Please refer to https://wiki.openstreetmap.org/wiki/Notes#Use_of_notes_for_adding_a_marker_for_personal_use to read about the usage of notes.
+911954,Kūki ʻĀirani,-21.2246624,-159.8298273,2017-03-02 00:00:00,2017-12-11 13:19:15,0,HemiRR,Superb setting right at the lagoon. Great place to watch the sunset . Warm friendly staff. Good food.  Comparable prices. A must try if you are on Rarotonga. Pick up and drop off available. (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+918279,Kūki ʻĀirani,-21.2412451,-159.8151459,2017-03-07 00:00:00,2017-12-11 13:19:01,0,HemiRR,Great dinner shows. (OSM data version: 2017-02-15T16:20:03Z) #mapsme,4,0,freebeer,personal maps.me bookmark
+1019964,Kūki ʻĀirani,-21.2327422,-159.7806931,2017-06-05 00:00:00,2017-06-06 16:09:32,0,Unknown,в,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+513796,Kūki ʻĀirani,-21.2504321,-159.8220098,2016-02-16 00:00:00,2016-06-02 22:11:01,0,TVMusic,Kavera Road,4,0,GinaroZ,"Ok thanks, I've updated the map. If there any other changes then perhaps you could log in and edit the map yourself. Especially if you have local knowledge of this part of the world :)"
+278412,Kūki ʻĀirani,-18.8355508,-159.7815432,2014-11-30 00:00:00,2014-11-30 16:34:02,0,wohnung058,Villas not Villad,2,0,wohnung058,resolved
+194319,Kūki ʻĀirani,-18.8586600,-159.7953928,2014-07-05 00:00:00,2014-07-06 06:20:08,0,wohnung058,schreibfehler bungalow,2,0,wohnung058,eingetragen
+190767,Kūki ʻĀirani,-21.2292117,-159.7372912,2014-06-28 00:00:00,2014-06-29 05:43:39,0,wohnung058,road goes on inland,2,0,wohnung058,
+190759,Kūki ʻĀirani,-21.2576848,-159.7328053,2014-06-28 00:00:00,2014-06-29 05:41:08,0,wohnung058,Island Car&Bike Hire,2,0,wohnung058,
+190757,Kūki ʻĀirani,-21.2722863,-159.7533517,2014-06-28 00:00:00,2014-06-29 05:33:50,0,wohnung058,bus stop,2,0,wohnung058,
+190758,Kūki ʻĀirani,-21.2574933,-159.7331944,2014-06-28 00:00:00,2014-06-28 09:54:28,0,wohnung058,Angatiare Drive Road name,2,0,wohnung058,
+190762,Kūki ʻĀirani,-21.2527107,-159.7315729,2014-06-28 00:00:00,2014-06-28 09:53:52,0,wohnung058,Rua Drive,2,0,wohnung058,
+190772,Kūki ʻĀirani,-21.2507243,-159.7303951,2014-06-28 00:00:00,2014-06-28 09:52:29,0,wohnung058,mobile mast,2,0,wohnung058,
+190763,Kūki ʻĀirani,-21.2495807,-159.7305643,2014-06-28 00:00:00,2014-06-28 09:51:11,0,wohnung058,Aroko Drive missing opposit ariko bungalows,2,0,wohnung058,
+190771,Kūki ʻĀirani,-21.2498828,-159.7301240,2014-06-28 00:00:00,2014-06-28 09:49:38,0,wohnung058,Aroko Bungalows,2,0,wohnung058,
+190770,Kūki ʻĀirani,-21.2465891,-159.7294712,2014-06-28 00:00:00,2014-06-28 09:47:30,0,wohnung058,bridge,2,0,wohnung058,
+190768,Kūki ʻĀirani,-21.2400789,-159.7317157,2014-06-28 00:00:00,2014-06-28 09:45:40,0,wohnung058,bridge,2,0,wohnung058,
+190769,Kūki ʻĀirani,-21.2400027,-159.7317176,2014-06-28 00:00:00,2014-06-28 09:44:57,0,wohnung058,road incorrect,2,0,wohnung058,
+190766,Kūki ʻĀirani,-21.2276869,-159.7377017,2014-06-28 00:00:00,2014-06-28 09:42:41,0,wohnung058,bridge,2,0,wohnung058,
+190765,Kūki ʻĀirani,-21.2197991,-159.7416710,2014-06-28 00:00:00,2014-06-28 09:39:40,0,wohnung058,wrong tag,2,0,wohnung058,
+190764,Kūki ʻĀirani,-21.2186629,-159.7427699,2014-06-28 00:00:00,2014-06-28 09:36:44,0,wohnung058,Turou Road missing down to Main road Form here,2,0,wohnung058,
+190760,Kūki ʻĀirani,-21.2091373,-159.7493822,2014-06-28 00:00:00,2014-06-28 09:32:56,0,wohnung058,road Name ente red  in wrong Tag  de,2,0,wohnung058,
+190761,Kūki ʻĀirani,-21.2051582,-159.7828174,2014-06-28 00:00:00,2014-06-28 09:31:40,0,wohnung058,double tagging market,2,0,wohnung058,
+190718,Kūki ʻĀirani,-18.8656830,-159.7979845,2014-06-28 00:00:00,2014-06-28 09:02:52,0,wohnung058,Ngapuariki housename,2,0,wohnung058,
+190717,Kūki ʻĀirani,-18.8655586,-159.7979041,2014-06-28 00:00:00,2014-06-28 09:02:41,0,wohnung058,ruine,2,0,wohnung058,
+190716,Kūki ʻĀirani,-18.8652885,-159.7980624,2014-06-28 00:00:00,2014-06-28 09:02:07,0,wohnung058,trash boxes,2,0,wohnung058,
+190737,Kūki ʻĀirani,-18.8646564,-159.7980569,2014-06-28 00:00:00,2014-06-28 09:00:35,0,wohnung058,MVA Tumu2mu,2,0,wohnung058,
+190715,Kūki ʻĀirani,-18.8647299,-159.7984053,2014-06-28 00:00:00,2014-06-28 08:59:57,0,wohnung058,ruin,2,0,wohnung058,
+190713,Kūki ʻĀirani,-18.8604862,-159.7955897,2014-06-28 00:00:00,2014-06-28 08:59:48,0,wohnung058,kaumpu road,2,0,wohnung058,
+190734,Kūki ʻĀirani,-18.8599804,-159.7959367,2014-06-28 00:00:00,2014-06-28 08:59:43,0,wohnung058,Fells.,2,0,wohnung058,
+190735,Kūki ʻĀirani,-18.8607640,-159.7964353,2014-06-28 00:00:00,2014-06-28 08:59:38,0,wohnung058,Feld e  nde,2,0,wohnung058,
+190714,Kūki ʻĀirani,-18.8608964,-159.7960897,2014-06-28 00:00:00,2014-06-28 08:59:33,0,wohnung058,kirche,2,0,wohnung058,
+190733,Kūki ʻĀirani,-18.8517747,-159.7915345,2014-06-28 00:00:00,2014-06-28 08:56:41,0,wohnung058,sive operator,2,0,wohnung058,
+190732,Kūki ʻĀirani,-18.8519207,-159.7915125,2014-06-28 00:00:00,2014-06-28 08:56:37,0,wohnung058,diving operaror,2,0,wohnung058,
+190712,Kūki ʻĀirani,-18.8430085,-159.7897866,2014-06-28 00:00:00,2014-06-28 08:53:45,0,wohnung058,privat strasse,2,0,wohnung058,
+190710,Kūki ʻĀirani,-18.8425523,-159.7892803,2014-06-28 00:00:00,2014-06-28 08:53:04,0,wohnung058,tamanu bis hier,2,0,wohnung058,
+190709,Kūki ʻĀirani,-18.8411515,-159.7868792,2014-06-28 00:00:00,2014-06-28 08:52:58,0,wohnung058,keine Strasse alles Wiese,2,0,wohnung058,
+190749,Kūki ʻĀirani,-18.8392670,-159.7824464,2014-06-28 00:00:00,2014-06-28 08:51:02,0,wohnung058,Track grade 3or4,2,0,wohnung058,
+190750,Kūki ʻĀirani,-18.8390974,-159.7821725,2014-06-28 00:00:00,2014-06-28 08:50:55,0,wohnung058,track grade 1,2,0,wohnung058,
+190751,Kūki ʻĀirani,-18.8390478,-159.7815996,2014-06-28 00:00:00,2014-06-28 08:49:56,0,wohnung058,no track,2,0,wohnung058,
+190754,Kūki ʻĀirani,-18.8389377,-159.7812945,2014-06-28 00:00:00,2014-06-28 08:49:49,0,wohnung058,no lookout,2,0,wohnung058,
+190756,Kūki ʻĀirani,-18.8387781,-159.7809137,2014-06-28 00:00:00,2014-06-28 08:49:41,0,wohnung058,delete,2,0,wohnung058,
+190753,Kūki ʻĀirani,-18.8385457,-159.7803034,2014-06-28 00:00:00,2014-06-28 08:49:32,0,wohnung058,lookout point,2,0,wohnung058,
+190755,Kūki ʻĀirani,-18.8386111,-159.7802772,2014-06-28 00:00:00,2014-06-28 08:49:22,0,wohnung058,antenna mast,2,0,wohnung058,
+190711,Kūki ʻĀirani,-18.8376562,-159.7821457,2014-06-28 00:00:00,2014-06-28 08:49:12,0,wohnung058,maximal Frack unebene Schotter Asphalt poste schmal,2,0,wohnung058,
+190741,Kūki ʻĀirani,-18.8281755,-159.7753395,2014-06-28 00:00:00,2014-06-28 08:48:01,0,wohnung058,Ende tar road,2,0,wohnung058,
+190745,Kūki ʻĀirani,-18.8278781,-159.7727957,2014-06-28 00:00:00,2014-06-28 08:47:54,0,wohnung058,track  grade 1 or 2,2,0,wohnung058,
+190744,Kūki ʻĀirani,-18.8248911,-159.7717925,2014-06-28 00:00:00,2014-06-28 08:47:48,0,wohnung058,not oneway,2,0,wohnung058,
+190736,Kūki ʻĀirani,-18.8293310,-159.7672426,2014-06-28 00:00:00,2014-06-28 08:45:24,0,wohnung058,Feuerwache am Airport,2,0,wohnung058,
+190748,Kūki ʻĀirani,-18.8449635,-159.7594692,2014-06-28 00:00:00,2014-06-28 08:30:49,0,wohnung058,beach,2,0,wohnung058,
+190743,Kūki ʻĀirani,-18.8476298,-159.7567761,2014-06-28 00:00:00,2014-06-28 08:29:28,0,wohnung058,parking,2,0,wohnung058,
+190746,Kūki ʻĀirani,-18.8483671,-159.7586802,2014-06-28 00:00:00,2014-06-28 08:27:40,0,wohnung058,Track grade 2 to club,2,0,wohnung058,
+190742,Kūki ʻĀirani,-18.8491398,-159.7576530,2014-06-28 00:00:00,2014-06-28 08:27:36,0,wohnung058,ferr departs here,2,0,wohnung058,
+190752,Kūki ʻĀirani,-18.8408634,-159.7795142,2014-06-28 00:00:00,2014-06-28 08:24:40,0,wohnung058,lookout point,2,0,wohnung058,
+190731,Kūki ʻĀirani,-18.8653940,-159.7793309,2014-06-28 00:00:00,2014-06-28 08:23:50,0,wohnung058,Containers,2,0,wohnung058,
+190729,Kūki ʻĀirani,-18.8694671,-159.7782472,2014-06-28 00:00:00,2014-06-28 08:23:10,0,wohnung058,Wooton Road,2,0,wohnung058,
+190730,Kūki ʻĀirani,-18.8698219,-159.7780154,2014-06-28 00:00:00,2014-06-28 08:21:13,0,wohnung058,Vaipae,2,0,wohnung058,
+190728,Kūki ʻĀirani,-18.8811513,-159.7738983,2014-06-28 00:00:00,2014-06-28 08:18:59,0,wohnung058,demolished,2,0,wohnung058,
+190727,Kūki ʻĀirani,-18.8849212,-159.7761838,2014-06-28 00:00:00,2014-06-28 08:17:59,0,wohnung058,Frack missing grade 3,2,0,wohnung058,
+190726,Kūki ʻĀirani,-18.8876125,-159.7806087,2014-06-28 00:00:00,2014-06-28 08:15:31,0,wohnung058,track 2,2,0,wohnung058,
+190723,Kūki ʻĀirani,-18.8873096,-159.7924008,2014-06-28 00:00:00,2014-06-28 08:10:09,0,wohnung058,Frack grade 3,2,0,wohnung058,
+190725,Kūki ʻĀirani,-18.8893007,-159.7915807,2014-06-28 00:00:00,2014-06-28 08:10:04,0,wohnung058,track grade 3,2,0,wohnung058,
+190724,Kūki ʻĀirani,-18.8878755,-159.7928361,2014-06-28 00:00:00,2014-06-28 08:08:51,0,wohnung058,track grade 2,2,0,wohnung058,
+190722,Kūki ʻĀirani,-18.8798845,-159.7957123,2014-06-28 00:00:00,2014-06-28 08:07:43,0,wohnung058,track grad3,2,0,wohnung058,
+190719,Kūki ʻĀirani,-18.8720720,-159.8003668,2014-06-28 00:00:00,2014-06-28 08:03:25,0,wohnung058,Ende as phalt,2,0,wohnung058,
+190720,Kūki ʻĀirani,-18.8676249,-159.7990108,2014-06-28 00:00:00,2014-06-28 07:58:36,0,wohnung058,right Rereu,2,0,wohnung058,
+190721,Kūki ʻĀirani,-18.8794107,-159.7961618,2014-06-28 00:00:00,2014-06-28 07:56:43,0,wohnung058,Vainamu Stream,2,0,wohnung058,
+190738,Kūki ʻĀirani,-18.9252245,-159.7498661,2014-06-28 00:00:00,2014-06-28 07:53:48,0,wohnung058,alt Name Survivor Island,2,0,wohnung058,
+190739,Kūki ʻĀirani,-18.9343716,-159.7420202,2014-06-28 00:00:00,2014-06-28 07:51:06,0,wohnung058,Sandbar,2,0,wohnung058,
+190740,Kūki ʻĀirani,-18.9373308,-159.7377908,2014-06-28 00:00:00,2014-06-28 07:50:53,0,wohnung058,rock only,2,0,wohnung058,
+190747,Kūki ʻĀirani,-18.9133820,-159.8280551,2014-06-28 00:00:00,2014-06-28 07:44:33,0,wohnung058,forest,2,0,wohnung058,
+190699,Kūki ʻĀirani,-21.2600069,-159.7333756,2014-06-28 00:00:00,2014-06-28 06:28:22,0,wohnung058,aremango guest house,2,0,wohnung058,added

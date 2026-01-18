@@ -1,0 +1,12 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3166494,France (zone économique exclusive en mer Méditerranée),42.4135718,7.7343750,2022-05-05 00:00:00,2022-05-06 06:15:06,0,Unknown,E' stata inviata una nota tramite su.openstreetmap.it: Modalità di pagamento accettate:   Tag suggeriti: (⚠️ = richiede controllo)  takeaway=undefined,2,0,arcanma,Posizione nota incongruente
+2250859,France (zone économique exclusive en mer Méditerranée),41.8227000,8.1352000,2020-07-02 00:00:00,2020-07-03 12:34:25,0,Unknown,La mappa non funziona,2,0,kartonage,This is not related to OpenStreetMap. Contact your third party app provider.
+2245807,France (zone économique exclusive en mer Méditerranée),40.9570717,5.8098171,2020-06-28 00:00:00,2020-06-28 13:58:10,0,Unknown,O,2,0,kartonage,nothing here
+1726892,France (zone économique exclusive en mer Méditerranée),41.6312259,4.2454863,2019-03-28 00:00:00,2019-03-29 09:01:50,0,Unknown,hamoir (This note has been created from Geovelo : http://amenagements-cyclables.fr/fr/contributions/6809),2,0,monsieur a,
+593483,France (zone économique exclusive en mer Méditerranée),42.4379006,6.4838219,2016-06-13 00:00:00,2018-02-02 11:12:55,0,shige0309,東京都世田谷区北沢4丁目17番7号kazu北沢1階 polepoleなぎの森さんのお店の示すマーカーが違う所を指示しています。  修正お願いします。,2,0,5R-MFT,wrong position
+365129,France (zone économique exclusive en mer Méditerranée),42.6695625,6.5413284,2015-05-16 00:00:00,2015-06-10 18:08:41,0,Unknown,Please remember to connect each end of the ferry route to a way on land. Do not combine two different parts of the route when approaching land. http://wiki.openstreetmap.org/wiki/Tag:route%3Dferry,2,0,4b696d,
+375739,France (zone économique exclusive en mer Méditerranée),42.8324567,4.0279628,2015-06-07 00:00:00,2015-06-07 12:48:27,0,don-vip,test 2,4,1,don-vip,
+375742,France (zone économique exclusive en mer Méditerranée),42.8328447,4.0328800,2015-06-07 00:00:00,2015-06-07 11:57:59,0,don-vip,test 3,2,0,don-vip,
+375732,France (zone économique exclusive en mer Méditerranée),42.8332937,4.0068812,2015-06-07 00:00:00,2015-06-07 11:57:59,0,don-vip,test,2,0,don-vip,
+157000,France (zone économique exclusive en mer Méditerranée),42.9463710,3.5808563,2014-04-25 00:00:00,2014-04-26 12:23:56,0,Unknown,654,2,0,ZZ29,

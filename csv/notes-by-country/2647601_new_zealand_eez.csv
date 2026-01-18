@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+2981648,New Zealand (EEZ),-42.2166103,-179.0213012,2021-12-24 00:00:00,2021-12-24 21:26:55,0,Unknown,santatracker.goggle.com,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+802009,New Zealand (EEZ),-38.4943070,171.8353420,2016-12-02 00:00:00,2016-12-06 21:54:27,0,Unknown,Blocked street: State highway 1 This error is submitted from Navmii GPS.,2,0,py_berrard,wrong place

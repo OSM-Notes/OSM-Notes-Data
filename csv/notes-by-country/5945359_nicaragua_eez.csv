@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+2488277,Nicaragua (EEZ),13.2368543,-82.5387383,2021-01-07 00:00:00,2022-02-07 20:05:38,0,Unknown,No encuentro mi hubicacion actual,2,0,kartonage,This is not related to OpenStreetMap. Contact your third party app provider (or the service that led you here). OpenStreetMap has no control over your location data nor is there any meaningful data to add to the map in this note.
+2210430,Nicaragua (EEZ),13.9231730,-79.4986649,2020-05-29 00:00:00,2020-05-29 04:06:13,0,Unknown,no presetar mapa,2,0,kartonage,Facebook/Instagram problem which OSM has nothing to do with.
