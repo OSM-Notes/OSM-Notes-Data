@@ -1,0 +1,516 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5116188,Bénin,6.3523080,2.3860580,2026-01-03 00:00:00,2026-01-03 19:42:24,0,dodo-ff,"Le monument Bio Guera n'est pas sur ce rond-point, mais sur le celui directement au sud-est, sur la route des Pèches.  The Bio Guera Monument is misplaced. It is not on this round-about, but on the one directly to the south-east.",2,0,dodo-ff,
+2922628,Bénin,6.3505610,2.3869555,2021-11-04 00:00:00,2026-01-03 19:42:16,0,asenasen,"'duplicate at the wrong location ' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2021-10-22T11:45:14Z POI name: Code bar POI types: amenity-bar  #organicmaps",4,1,dodo-ff,
+481320,Bénin,6.2707824,1.7871066,2015-12-11 00:00:00,2025-11-11 09:17:08,0,AKE Amazan,Awale Village,2,0,Claudio595,
+922363,Bénin,6.3772660,2.3823589,2017-03-10 00:00:00,2025-10-13 14:31:53,0,saliousoft,rue 13.207,2,0,Smaila,
+1810563,Bénin,6.3862914,2.4047770,2019-06-12 00:00:00,2025-08-27 17:25:22,0,saliousoft,rue 9.010,3,1,Federicodenardo,
+4899854,Bénin,6.3710882,2.4724388,2025-08-09 00:00:00,2025-08-09 01:34:20,0,platini2003,je veux une carte du milieu de vie de agblangabdan,3,1,platini2003,
+1690058,Bénin,6.3541384,2.4356966,2019-02-23 00:00:00,2025-07-23 04:56:36,0,self,"'I think this is by mistake' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Oscar Changeset POI types: amenity building OSM data version: 2019-01-13T09:03:02Z  #mapsme",3,1,Aodysseus,
+478215,Bénin,6.3605158,2.4337307,2015-12-04 00:00:00,2025-07-23 04:55:28,0,SeverinGeo,Rue 5.119,2,0,Aodysseus,
+4663740,Bénin,8.4963010,2.4310148,2025-03-14 00:00:00,2025-07-20 19:25:54,0,Unknown,la petite  bite a Nolann,3,1,Eckdon,
+4853661,Bénin,6.3603562,2.4014689,2025-07-13 00:00:00,2025-07-13 15:26:03,0,nastib,Studio Bridnas,2,0,nastib,
+4840445,Bénin,9.3476207,2.6116884,2025-07-05 00:00:00,2025-07-05 18:52:38,0,594+SEVEN,MONDA GROUPE IMMOBILIER,3,1,594+SEVEN,
+4834424,Bénin,6.5187139,2.3275731,2025-07-01 00:00:00,2025-07-02 07:20:53,0,Unknown,J' aime cette application,2,0,mavl,Il n'y a pas information utile pour OpenStreetMap.
+4766892,Bénin,6.4688700,2.3492700,2025-05-19 00:00:00,2025-06-13 22:53:40,0,Unknown,A  #LocusMap,2,0,TravlesT,Whitout information to add
+4723748,Bénin,6.4920834,2.6223958,2025-04-23 00:00:00,2025-04-23 20:34:22,0,Adle,"Résidence Les 6 Roses,  Quartier Houinmè,  Porto-Novo, République du Bénin",5,1,Adle,
+4698478,Bénin,6.3773364,2.4439859,2025-04-06 00:00:00,2025-04-06 10:14:39,0,Unknown,Marché MIDOMBO,2,0,lalemi,Marché urbain MIDOMBO
+931223,Bénin,9.8889206,1.5375193,2017-03-18 00:00:00,2025-03-19 07:24:06,0,Clara Y,chaises traditionnelles (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,bagnolais,ok
+1962418,Bénin,6.6728400,2.1494900,2019-10-15 00:00:00,2025-03-07 03:04:38,0,Unknown,Mairie Allada,3,1,Daniel Ky,
+4632071,Bénin,6.4038425,2.0068932,2025-02-18 00:00:00,2025-03-03 10:47:41,0,Unknown,96215815,2,0,Mateusz Konieczny - bot account,"Closing note as not containing report of mistakes in OSM data. Note text was '96215815'  If you wanted to report problems with OSM data please open a more clear note.  See https://wiki.openstreetmap.org/wiki/Dev_Server_Account for how test notes can be created at a separate server.  Such notes for closure are found automatically, with all closures reviewed by human."
+2075549,Bénin,6.3838073,2.1922660,2020-01-31 00:00:00,2025-02-24 19:49:01,0,saliousoft,passage piéton,2,0,Ermellan,
+3709625,Bénin,6.3599630,2.0851171,2023-05-28 00:00:00,2025-02-15 16:33:50,0,gendy54,triplon,2,0,gendy54,corrigé
+4622667,Bénin,6.3550410,2.3348630,2025-02-11 00:00:00,2025-02-11 11:00:11,0,Unknown,project location,2,0,sheikchilli,no useful information
+1745020,Bénin,6.3801256,2.1744666,2019-04-13 00:00:00,2024-12-28 11:07:35,0,saliousoft,ancienne gare ferroviaire,2,0,Syl,Il n'y a rien à l'emplacement de la note
+4557147,Bénin,6.4124944,2.5220082,2024-12-19 00:00:00,2024-12-20 06:30:05,0,Unknown,cc  #LocusMap,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4449515,Bénin,6.3656260,2.4309210,2024-09-23 00:00:00,2024-09-23 19:03:34,0,Abdiasmaps,p2,2,0,Abdiasmaps,
+4449513,Bénin,6.3653680,2.4310790,2024-09-23 00:00:00,2024-09-23 19:03:07,0,Abdiasmaps,p1,4,1,Abdiasmaps,"v,jjkj:"
+1743330,Bénin,6.3569900,2.3681800,2019-04-12 00:00:00,2024-08-22 21:30:03,0,Geolio,Direction de la Statistique Agricole,2,0,Geolio,
+1967685,Bénin,6.8141356,2.4713230,2019-10-19 00:00:00,2024-05-18 00:36:43,0,saliousoft,Epp Abeokuta,2,0,houessou12,
+3254127,Bénin,10.7288000,0.9939000,2022-07-06 00:00:00,2024-05-07 15:47:37,0,Unknown,Village de Tchanhouncossi,2,0,Christian COURBOIS,
+4221062,Bénin,6.3632085,2.4733400,2024-04-29 00:00:00,2024-04-29 13:04:46,0,OKE Adjibadé,La carte de la DGEFC,2,0,OKE Adjibadé,
+4123677,Bénin,11.0312000,2.7364000,2024-02-22 00:00:00,2024-03-24 15:06:11,0,Christian COURBOIS,Village de Sam,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/3822599  Therefore, it will be closed.  #DuplicateNote"
+3986381,Bénin,9.3638454,2.6345542,2023-11-13 00:00:00,2023-11-13 23:42:44,0,Loukkk9,LeQuGey,2,0,Loukkk9,
+703068,Bénin,6.4733657,2.6046512,2016-09-06 00:00:00,2023-10-11 07:42:25,0,PhidiasAZO,Buvette SÊNA,2,0,wolfgang8,duplicate of https://www.openstreetmap.org/note/703065
+1866049,Bénin,6.3565109,2.3997523,2019-08-01 00:00:00,2023-09-29 17:07:26,0,roelae2,"'No ATM anymore, only an ATM ruin here' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-atm OSM data version: 2019-06-21T10:47:15Z  #mapsme",2,0,markrmccracken,"There is an ATM here now, Ecobank. It doesn't always have cash but it does work."
+3740687,Bénin,6.3769827,2.4120598,2023-06-18 00:00:00,2023-09-09 17:04:31,0,Unknown,onosm.org submitted note from a business: Nom: DEUS FERREA addr:housenumber=876 addr:street=Avenue du Renouveau addr:city=Cotonou addr:postcode=229 Numéro de téléphone: +22958993099 Site internet: deus-ferrea.com Réseau social: @deus_ferrea Heures d'ouverture: Lundi-vendredi 09:00 - 18:30 Catégorie: Tech Startups Description: Entreprise en domotique Modes de paiement acceptés: En espèces takeaway=undefined,2,0,Syl,Note en double
+3853521,Bénin,8.4464731,2.6009920,2023-08-25 00:00:00,2023-08-26 05:40:17,0,Unknown,bv,2,0,mavl,The note does not contain a useful information for OpenStreetMap.
+3733485,Bénin,6.4196600,2.3454800,2023-06-13 00:00:00,2023-06-13 12:40:42,0,Unknown,Amphithéâtre Théléton,4,1,Ahouangan,
+2224096,Bénin,6.4428636,2.3154545,2020-06-10 00:00:00,2023-03-06 12:54:24,0,Cattleya2,Le terrain n'est plus à cet emplacement.,2,0,FuryW,
+3580447,Bénin,6.3962322,2.2705803,2023-03-01 00:00:00,2023-03-01 21:08:03,0,sommerluk,Construction,2,0,sommerluk,
+3580446,Bénin,6.4564674,2.2494304,2023-03-01 00:00:00,2023-03-01 20:58:07,0,sommerluk,D,2,0,sommerluk,
+3580445,Bénin,6.4561273,2.2599376,2023-03-01 00:00:00,2023-03-01 20:52:47,0,sommerluk,U,2,0,sommerluk,
+3580444,Bénin,6.4556156,2.2641314,2023-03-01 00:00:00,2023-03-01 20:52:04,0,sommerluk,U,2,0,sommerluk,
+3580443,Bénin,6.4550347,2.2707245,2023-03-01 00:00:00,2023-03-01 20:51:34,0,sommerluk,U,2,0,sommerluk,
+3580442,Bénin,6.4558939,2.2769894,2023-03-01 00:00:00,2023-03-01 20:51:12,0,sommerluk,Unpaved,2,0,sommerluk,
+3580440,Bénin,6.4566493,2.2795084,2023-03-01 00:00:00,2023-03-01 20:51:09,0,sommerluk,Unpaved,2,0,sommerluk,
+3580441,Bénin,6.4564586,2.2795072,2023-03-01 00:00:00,2023-03-01 20:49:58,0,sommerluk,Paved,2,0,sommerluk,
+3580439,Bénin,6.4500151,2.2790997,2023-03-01 00:00:00,2023-03-01 20:49:32,0,sommerluk,unpaved,2,0,sommerluk,
+3580438,Bénin,6.4487556,2.2889202,2023-03-01 00:00:00,2023-03-01 20:48:08,0,sommerluk,. Unpaved,2,0,sommerluk,
+3580437,Bénin,6.4449828,2.2888113,2023-03-01 00:00:00,2023-03-01 20:47:48,0,sommerluk,Connecter,2,0,sommerluk,
+3549137,Bénin,6.5006726,2.6079037,2023-02-07 00:00:00,2023-02-07 17:57:35,0,Joël Boton,"OUADADA aujourd'hui est un centre culturel artistique et touristique, et non un musee. Ses activites sont plus orientees vers les domaines de la culture, des arts et  du tourisme. Et une rectification ; restaurant au lieu de bar.",4,1,Joël Boton,
+3490764,Bénin,6.6126003,2.3794038,2022-12-25 00:00:00,2022-12-25 15:41:15,0,Edessou,Gbojoko,3,1,Edessou,
+3313382,Bénin,9.3773977,2.6282054,2022-08-14 00:00:00,2022-11-17 15:45:17,0,lasroun,Systeme et Orbite,2,0,Syl,A été ajouté depuis
+3097168,Bénin,6.6431000,1.7128000,2022-03-21 00:00:00,2022-11-17 15:43:37,0,Unknown,LOKOSSA,2,0,Syl,Déjà présent
+3094407,Bénin,11.0006000,0.9930000,2022-03-19 00:00:00,2022-11-17 15:43:10,0,Unknown,Porga,2,0,Syl,Déjà présent
+3092604,Bénin,11.4439000,3.4749000,2022-03-18 00:00:00,2022-11-17 15:42:50,0,Unknown,Godjékoara,2,0,Syl,Déjà présent
+3092600,Bénin,11.3001000,3.1715000,2022-03-18 00:00:00,2022-11-17 15:42:22,0,Unknown,Fouet,2,0,Syl,Déjà présent
+3092599,Bénin,11.5120000,3.1098000,2022-03-18 00:00:00,2022-11-17 15:41:57,0,Unknown,Fiafounfoun,2,0,Syl,Déjà présent
+3092598,Bénin,11.4438000,3.0759000,2022-03-18 00:00:00,2022-11-17 15:41:14,0,Unknown,Alfakoara,2,0,Syl,Déjà présent
+3069128,Bénin,6.5540000,2.6556000,2022-03-01 00:00:00,2022-11-17 15:40:12,0,Unknown,zone d,2,0,Syl,Note sans information
+3068582,Bénin,7.2210500,2.3435800,2022-02-28 00:00:00,2022-11-17 15:39:59,0,Unknown,Covè,2,0,Syl,Déjà présent
+3062340,Bénin,10.1869500,1.4920400,2022-02-23 00:00:00,2022-11-17 15:39:09,0,Unknown,Arrestation de militants 2021,2,0,Syl,Rien à modifier dans OSM
+3045504,Bénin,7.9292061,1.9980955,2022-02-10 00:00:00,2022-11-17 15:38:54,0,Joas joas,Voir la population en déplacement,2,0,Syl,Rien à modifier dans OSM
+2977139,Bénin,6.5363019,2.3486763,2021-12-20 00:00:00,2022-11-17 15:38:30,0,sogbedjithomas,Géolocalisation des infrastructures de mon quartier après une formation sur OSMstreatmap lors d'un camp Géomatique tenu du 13 au 16 Décembre à Abomey calavi Bénin,2,0,Syl,Note sans information
+2955339,Bénin,9.2780099,2.4315477,2021-11-30 00:00:00,2022-11-17 15:37:27,0,Unknown,Sanson,2,0,Syl,Déjà présent
+2922629,Bénin,6.3505610,2.3869555,2021-11-04 00:00:00,2022-11-17 15:32:43,0,asenasen,"'duplicate at the wrong location ' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2021-10-22T11:45:14Z POI name: Code bar POI types: amenity-bar  #organicmaps",2,0,Syl,Note en double
+2861552,Bénin,6.4582900,2.3319300,2021-09-20 00:00:00,2022-11-17 15:32:03,0,Unknown,Résidence FLENON J.,2,0,Syl,A été ajouté depuis
+2802557,Bénin,6.3491000,2.4030600,2021-08-14 00:00:00,2022-11-17 15:31:17,0,keecs,Golden Tulip,3,0,Syl,A été ajouté depuis
+2591699,Bénin,6.4545500,2.3569900,2021-03-24 00:00:00,2022-11-17 15:29:26,0,Unknown,ORABANK GÈRE TOUT VOTRE ARGENT EFFICACE UN LIEU SUR ET RASSURÉ.,2,0,Syl,Publicité
+2473123,Bénin,6.3774620,2.4600518,2020-12-26 00:00:00,2022-11-17 15:28:25,0,saliousoft,rue 2.057,4,0,Syl,
+2344012,Bénin,11.0911552,3.6120987,2020-09-11 00:00:00,2022-11-17 15:27:23,0,Unknown,LONDON,2,0,Syl,Déjà présent
+2243015,Bénin,6.9636973,1.8608805,2020-06-26 00:00:00,2022-11-17 15:25:20,0,Jtsoke,'Village AZONHOUBOHOUE' POI has no name POI types: amenity-bench OSM data version: 2020-05-14T01:25:26Z  #mapsme,2,0,Syl,Déjà présent
+2096819,Bénin,6.4359884,2.3353420,2020-02-20 00:00:00,2022-11-17 15:22:56,0,Unknown,Je suis un Géomaticien en formation,2,0,Syl,Rien à modifier dans OSM
+2096810,Bénin,6.4091083,2.3464328,2020-02-20 00:00:00,2022-11-17 15:22:53,0,Unknown,Bonsoir les cartographes ! Je suis un Géomaticien en formation/UAC /Bénin,2,0,Syl,Rien à modifier dans OSM
+2075548,Bénin,6.3845685,2.1985454,2020-01-31 00:00:00,2022-11-17 15:22:08,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+2075546,Bénin,6.3893232,2.2535259,2020-01-31 00:00:00,2022-11-17 15:21:36,0,saliousoft,passage piéton,2,0,Syl,Déjà présent
+2075545,Bénin,6.3871451,2.2801809,2020-01-31 00:00:00,2022-11-17 15:21:04,0,saliousoft,passage piéton,2,0,Syl,Déjà présent
+1983840,Bénin,6.3819619,2.1724720,2019-11-03 00:00:00,2022-11-17 15:19:51,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1968864,Bénin,6.4448627,2.3397406,2019-10-20 00:00:00,2022-11-17 15:18:58,0,saliousoft,Bâtiment chevauchant une rue  via StreetComplete 14.1,2,0,Syl,A été modifié depuis
+1867248,Bénin,6.3792671,2.1628927,2019-08-02 00:00:00,2022-11-17 15:17:13,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1823510,Bénin,6.3497013,2.3882094,2019-06-24 00:00:00,2022-11-17 15:12:02,0,Nathan D,'Ambassade du Maroc' POI has no name POI types: building OSM data version: 2019-04-19T10:36:02Z  #mapsme,4,1,Syl,A été ajouté depuis
+1755605,Bénin,6.3877770,2.2359253,2019-04-23 00:00:00,2022-11-17 15:10:24,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1754538,Bénin,6.4305148,2.3290689,2019-04-23 00:00:00,2022-11-17 15:10:04,0,saliousoft,Unable to answer 'What is the name of this road?' for https://osm.org/way/421208657 via StreetComplete 11.0:  rue sans nom,2,0,Syl,Rien à modifier
+1753132,Bénin,6.3856945,2.2149395,2019-04-21 00:00:00,2022-11-17 15:09:42,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1753131,Bénin,6.3865511,2.2229035,2019-04-21 00:00:00,2022-11-17 15:09:28,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1753130,Bénin,6.3870857,2.2297661,2019-04-21 00:00:00,2022-11-17 15:09:16,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1750126,Bénin,6.3882387,2.2409528,2019-04-18 00:00:00,2022-11-17 15:07:38,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1931605,Bénin,6.3836211,2.1893756,2019-09-19 00:00:00,2022-11-17 15:06:49,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1749062,Bénin,6.3837298,2.1898671,2019-04-17 00:00:00,2022-11-17 15:06:49,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1747394,Bénin,6.3889955,2.2566735,2019-04-15 00:00:00,2022-11-17 15:06:17,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1746669,Bénin,6.3892583,2.2554573,2019-04-15 00:00:00,2022-11-17 15:05:56,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1746668,Bénin,6.3882627,2.2681555,2019-04-15 00:00:00,2022-11-17 15:05:36,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1746666,Bénin,6.3886137,2.2444230,2019-04-15 00:00:00,2022-11-17 15:05:00,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1745018,Bénin,6.3869359,2.2847358,2019-04-13 00:00:00,2022-11-17 15:03:51,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1745017,Bénin,6.3884326,2.3191280,2019-04-13 00:00:00,2022-11-17 15:03:31,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1741593,Bénin,6.3879537,2.2742915,2019-04-10 00:00:00,2022-11-17 15:03:07,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1740684,Bénin,6.3866650,2.2891412,2019-04-09 00:00:00,2022-11-17 15:02:31,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1740683,Bénin,6.3888133,2.3064881,2019-04-09 00:00:00,2022-11-17 15:02:03,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1740681,Bénin,6.3849218,2.2028089,2019-04-09 00:00:00,2022-11-17 15:01:39,0,saliousoft,passage piéton,2,0,Syl,A été ajouté depuis
+1699399,Bénin,6.5191804,2.3283553,2019-03-04 00:00:00,2022-11-17 14:59:59,0,Virioh,'Cimetière d'Adjagbo' POI has no name POI types: highway-rest_area OSM data version: 2019-01-13T09:03:02Z  #mapsme,2,0,Syl,A été ajouté depuis
+1687869,Bénin,9.3418490,2.6072667,2019-02-20 00:00:00,2022-11-17 14:58:47,0,Marc-Antoine Dion,"'je n'ai pas trouvé comment modifier l'emplacement ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Relax club POI types: amenity-bar OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,Syl,A été modifié depuis
+1553527,Bénin,6.3873310,2.5430855,2018-10-08 00:00:00,2022-11-17 14:56:23,0,Modeste Agboton,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Eglise POI types: amenity-place_of_worship-christian OSM data version: 2018-08-04T14:22:01Z  #mapsme",2,0,Syl,A été modifié depuis
+1553526,Bénin,6.3888837,2.5423224,2018-10-08 00:00:00,2022-11-17 14:55:39,0,Modeste Agboton,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: building OSM data version: 2018-08-04T14:22:01Z  #mapsme",2,0,Syl,Il n'y a plus rien ici dans OSM
+1468387,Bénin,10.6315700,1.2687700,2018-07-27 00:00:00,2022-11-17 14:52:01,0,cherif ikoukomon kokou,reflet d'Afrique,4,1,Syl,Déjà présent
+1459300,Bénin,6.4758316,2.6198938,2018-07-18 00:00:00,2022-11-17 12:29:40,0,Cattleya2,sens unique,2,0,Syl,A été ajouté depuis
+1456512,Bénin,6.4731684,2.6071837,2018-07-16 00:00:00,2022-11-17 12:29:09,0,Cattleya2,Rue de l'inspection,2,0,Syl,Note en double
+1115473,Bénin,10.2957554,1.3821852,2017-08-24 00:00:00,2022-11-17 12:26:54,0,Hinnk,"'Elle est mal localisée' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Le Sénateur POI types: building amenity-nightclub OSM data version: 2017-07-03T17:28:05Z  #mapsme",2,0,Syl,Note en double
+1386888,Bénin,6.4834874,2.6289524,2018-05-08 00:00:00,2022-11-17 12:26:02,0,Ivan Joseph Gnanhoue,"'Ce n'est pas là ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Ayïmlonfidé POI types: tourism-guest_house OSM data version: 2018-03-16T17:06:02Z  #mapsme",2,0,Syl,Il n'y a plus rien ici dans OSM
+1134051,Bénin,7.1837026,2.0445102,2017-09-10 00:00:00,2022-11-17 12:19:20,0,GBEMAVO Eric,'Les week-ends je suis au repos' POI has no name POI types: highway-rest_area OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,Syl,
+1134086,Bénin,8.5405166,2.0117604,2017-09-10 00:00:00,2022-11-17 12:19:20,0,GBEMAVO Eric,"'Bénin, Bohicon.' POI has no name POI types: highway-rest_area OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,Syl,
+1134085,Bénin,8.5405166,2.0117604,2017-09-10 00:00:00,2022-11-17 12:19:20,0,GBEMAVO Eric,'week-ends' POI has no name POI types: highway-rest_area OSM data version: 2017-07-28T09:42:02Z  #mapsme,4,0,Syl,
+1134087,Bénin,7.1836996,2.0445087,2017-09-10 00:00:00,2022-11-17 12:19:19,0,GBEMAVO Eric,'week-end Bohicon' POI has no name POI types: highway-rest_area OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,Syl,
+912807,Bénin,6.3642800,2.4149600,2017-03-03 00:00:00,2022-11-17 12:14:21,0,saliousoft,Ecole saint jean,2,0,Syl,A été ajoutée depuis
+739603,Bénin,6.3676982,2.4252108,2016-10-06 00:00:00,2022-11-17 12:11:35,0,Yao HOUNAKE,mon voyage (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Syl,
+712967,Bénin,11.1325711,2.9255003,2016-09-15 00:00:00,2022-11-17 12:09:07,0,ZOUBEROU HASSAN,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-08-22T09:03:02Z) #mapsme",2,0,Syl,Il n'y a plus rien ici dans OSM
+699195,Bénin,6.4926113,2.6115783,2016-09-03 00:00:00,2022-11-17 12:05:48,0,saliousoft,pont,2,0,Syl,A été ajouté depuis
+647949,Bénin,6.5778762,2.5233347,2016-07-28 00:00:00,2022-11-17 12:03:39,0,Cattleya2,Lampadaire Solaire,2,0,Syl,A été ajouté depuis
+634535,Bénin,6.5371394,2.4027558,2016-07-19 00:00:00,2022-11-17 12:00:47,0,saliousoft,ecole,2,0,Syl,A été ajoutée depuis
+634521,Bénin,6.3899284,2.3639328,2016-07-19 00:00:00,2022-11-17 11:59:01,0,saliousoft,RUE 9.224,2,0,Syl,A été ajoutée depuis
+597861,Bénin,6.3708963,2.1373422,2016-06-18 00:00:00,2022-11-17 11:52:54,0,saliousoft,mosquée sur la route,2,0,Syl,A été ajoutée depuis
+586392,Bénin,6.5164196,1.8238163,2016-06-07 00:00:00,2022-11-17 11:52:20,0,Unknown,"Sè, Mono, Bénin",2,0,Syl,Déjà présent
+481324,Bénin,6.2501183,1.6838591,2015-12-11 00:00:00,2022-11-17 11:49:49,0,AKE Amazan,cimetière,2,0,Syl,A été ajouté depuis
+481321,Bénin,6.2619441,1.7449882,2015-12-11 00:00:00,2022-11-17 11:49:09,0,AKE Amazan,école,2,0,Syl,A été ajoutée depuis
+481305,Bénin,6.4010836,1.9146826,2015-12-11 00:00:00,2022-11-17 11:47:10,0,AKE Amazan,Dos d'âne,2,0,Syl,A été ajouté depuis
+481299,Bénin,6.3891437,1.9393236,2015-12-11 00:00:00,2022-11-17 11:46:31,0,AKE Amazan,Dos d'âne,2,0,Syl,A été ajouté depuis
+481295,Bénin,6.3939746,1.9526965,2015-12-11 00:00:00,2022-11-17 11:45:44,0,AKE Amazan,Dos d'âne,2,0,Syl,A été ajouté depuis
+481294,Bénin,6.3929032,1.9893622,2015-12-11 00:00:00,2022-11-17 11:45:19,0,AKE Amazan,Antenne de relais,2,0,Syl,A été ajoutée depuis
+481297,Bénin,6.3886120,1.9438449,2015-12-11 00:00:00,2022-11-17 11:44:54,0,AKE Amazan,Dos d'âne,2,0,Syl,A été ajouté depuis
+481290,Bénin,6.3863365,2.0088882,2015-12-11 00:00:00,2022-11-17 11:44:24,0,AKE Amazan,Dos d'ânes,2,0,Syl,A été ajouté depuis
+481292,Bénin,6.3899718,1.9961041,2015-12-11 00:00:00,2022-11-17 11:43:49,0,AKE Amazan,dos d'âne,2,0,Syl,A été ajouté depuis
+481289,Bénin,6.3859185,2.0107287,2015-12-11 00:00:00,2022-11-17 11:42:17,0,AKE Amazan,Dos d'âne,2,0,Syl,A été ajouté depuis
+481280,Bénin,6.3668135,2.1243621,2015-12-11 00:00:00,2022-11-17 11:41:25,0,AKE Amazan,Bénin Tracteur,2,0,Syl,A été ajouté depuis
+481271,Bénin,6.3878783,2.3221160,2015-12-11 00:00:00,2022-11-17 11:40:48,0,AKE Amazan,Passage Piétons,2,0,Syl,Ajoutés depuis
+481335,Bénin,6.2410757,1.6347343,2015-12-11 00:00:00,2022-11-13 17:01:33,0,AKE Amazan,cimetière,2,0,Syl,A été ajouté depuis
+481316,Bénin,6.2881955,1.8114877,2015-12-11 00:00:00,2022-09-11 09:59:11,0,AKE Amazan,pont,2,0,Syl,Déjà présent
+3275362,Bénin,6.9710015,1.8505802,2022-07-20 00:00:00,2022-07-20 17:27:17,0,Adonisbj,Mairie de Klouékanmè,2,0,Abobo229,Mairie de Klouékanmè
+571975,Bénin,8.0975364,2.5389942,2016-05-23 00:00:00,2022-07-07 22:38:18,0,ilasolthah,péage police,3,1,Gouvide jean GBAGUIDI,
+3220939,Bénin,6.8290403,2.0108804,2022-06-12 00:00:00,2022-06-26 12:20:29,0,ccloquet,départ de route,2,0,ccloquet,
+3236814,Bénin,7.1992863,1.9706982,2022-06-22 00:00:00,2022-06-26 12:16:38,0,ccloquet,sur city 67599192,2,0,ccloquet,
+3236815,Bénin,7.1970333,1.9805098,2022-06-22 00:00:00,2022-06-26 12:15:00,0,ccloquet,chez Monique : 94972143,2,0,ccloquet,
+3236813,Bénin,7.1945790,1.9859559,2022-06-22 00:00:00,2022-06-26 12:13:32,0,ccloquet,motel d abomey : désaffecté,2,0,ccloquet,
+3220940,Bénin,6.8520133,2.0037111,2022-06-12 00:00:00,2022-06-12 10:04:22,0,ccloquet,départ de route vers tohou étroit 1 seul vehicuke,2,0,ccloquet,
+3213655,Bénin,6.9829908,1.8370581,2022-06-06 00:00:00,2022-06-06 20:16:07,0,Unknown,hotel yesu leme,2,0,ccloquet,
+3154847,Bénin,6.3718000,2.4098000,2022-04-27 00:00:00,2022-04-27 17:34:03,0,Unknown,Super cool,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+3097862,Bénin,11.4150815,3.4627533,2022-03-22 00:00:00,2022-03-22 11:03:11,0,Charles Batematom,Dangorou,3,1,Charles Batematom,
+2451839,Bénin,6.3818512,2.3311562,2020-12-04 00:00:00,2022-02-04 17:33:37,0,Paul Outré,"En fait, j'habite là où j'ai mis le marqueur, dans la 'rue' derrière la pharmacie Dekoungbe, et pas là où la localisation (erratique) me place, parfois de l'autre côté de la voie ferrée, quand ce n'est pas de l'autre côté de la RNIE1, près du cimetière du PK 14.",3,0,Syl,"Bonjour, la localisation se fait de votre côté, si elle est fausse il n'y a rien que l'on peut faire du côté d'OpenStreetMap."
+2974038,Bénin,6.5356437,2.3495454,2021-12-17 00:00:00,2021-12-20 09:40:26,0,sogbedjithomas,Restaurant AEFI,2,0,sogbedjithomas,
+2974036,Bénin,6.5364858,2.3489499,2021-12-17 00:00:00,2021-12-20 09:40:15,0,sogbedjithomas,Complexe Scolaire Bilingue les Protégés,2,0,sogbedjithomas,
+2974026,Bénin,6.5367576,2.3482740,2021-12-17 00:00:00,2021-12-20 09:39:59,0,sogbedjithomas,Magasin agréé de vente de ORYNX GAZ,8,1,sogbedjithomas,
+2974040,Bénin,6.5366510,2.3481667,2021-12-17 00:00:00,2021-12-20 09:38:58,0,sogbedjithomas,Restaurant de vente de la viande du Porc,4,1,sogbedjithomas,
+2410897,Bénin,9.7057708,1.6687310,2020-11-05 00:00:00,2021-12-15 15:32:54,0,Unknown,Bibliothèque du CAEB Djougou,2,0,sogbedjithomas,
+2956727,Bénin,6.3772100,2.4543900,2021-12-02 00:00:00,2021-12-02 09:34:42,0,Gbamman,OGI Senandé (en face de vital finance),4,1,Gbamman,
+2861343,Bénin,6.4583432,2.3318642,2021-09-20 00:00:00,2021-09-20 12:40:22,0,fflenon,Résidence FLENON Jean,4,1,fflenon,
+2783366,Bénin,6.3908349,2.3673686,2021-08-02 00:00:00,2021-08-03 00:59:59,0,Unknown,onosm.org submitted note from a business: name: HGTech  phone: 67010909 website: https://hgtech.bj twitter: @hgtech229 facebook: facebook.com/hgtech.co email: contact@hgtech.bj hours: 9am-7pm category: IT Services & Computer Repair address: Menontin lot 2134 cotonou,4,1,Horace Gnikobou,
+2630890,Bénin,11.2283660,2.4671369,2021-04-20 00:00:00,2021-04-20 11:30:50,0,UNFPA,REDTFYGHUJIKOLPM%LKJHBGVFGHUJIOPOIUY,3,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2537213,Bénin,7.9645000,2.3763000,2021-02-13 00:00:00,2021-02-13 17:45:32,0,amoussouhoui,hhrthzrthrthdghthrth,2,0,amoussouhoui,
+2501732,Bénin,6.4716993,2.3467024,2021-01-17 00:00:00,2021-01-17 16:30:55,0,Massavo Jean,"'Cabinet de conseil en création et gestion d'entreprise : Fiscalité, Comptabilité, Sécurité Sociale ➡️Recrutement et Gestion des Ressources Humaines (Nationales et Internationales) ➡️Études Socio-Economiques et Finances Publiques ➡️Statistiques et base de données ➡️Solutions Kobo & Odk collect, Google Form ➡️Planification & Suivi-Evaluation ➡️Ingénierie Agricole ➡️Ingénierie et sécurité informatique et réseaux ➡️Ingénierie documentaire, archives ➡️Médiation Sociale ➡️Formation & Diverses prestations de services' POI name: BUSINESS GROWTH CONSULTING IN (BGCI) POI types: office-company OSM data version: 2020-07-14T11:22:37Z  #mapsme",2,0,kartonage,Mapped.
+1131321,Bénin,6.4427588,2.3462216,2017-09-07 00:00:00,2021-01-17 16:30:48,0,Massavo Jean,"'Réparation de téléphone, installation d'antenne parabolique...' POI name: FREDAD GSM POI types: office-telecommunication OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,kartonage,Mapped.
+2492134,Bénin,6.8303600,2.2131600,2021-01-10 00:00:00,2021-01-10 13:52:31,0,Unknown,bien,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2324982,Bénin,8.4036020,2.7033234,2020-08-27 00:00:00,2020-08-27 12:13:15,0,TOSSOU RIGOBERT,Aidez moi ' L'arrondissement de Djègbé kanfangoudo ' de la commune ouèssè est absent sur la carte.,5,1,TOSSOU RIGOBERT,
+1192612,Bénin,6.3704071,2.4779280,2017-11-02 00:00:00,2020-08-15 02:07:35,0,Maleek Dji,"'Please change the category. It is a worship place, not a church. ' POI name: Salle du royaume des témoins de Jéhovah POI types: amenity-place_of_worship-christian OSM data version: 2017-09-17T07:13:02Z  #mapsme",2,0,Bernard Charlemagne R KANMADOZO,
+653318,Bénin,6.3672312,2.4694862,2016-08-01 00:00:00,2020-08-01 16:07:36,0,nerus1er,eglise anglais : EGLISE SUR LE FEU,2,0,Bernard Charlemagne R KANMADOZO,
+2281403,Bénin,6.4317800,2.3480600,2020-07-27 00:00:00,2020-07-27 17:00:56,0,Unknown,bénin,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+478211,Bénin,6.3708953,2.4167989,2015-12-04 00:00:00,2020-07-12 10:44:55,0,SeverinGeo,feu rouge,2,0,osm_saint-louis,
+2258428,Bénin,6.3821600,2.3783000,2020-07-08 00:00:00,2020-07-11 17:38:47,0,Unknown,Emplacement actuel,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+477162,Bénin,6.3545275,2.4045780,2015-12-02 00:00:00,2020-07-11 10:31:45,0,SeverinGeo,Rue 12-153,2,0,osm_saint-louis,
+712271,Bénin,6.3559901,2.4025533,2016-09-14 00:00:00,2020-07-11 09:30:20,0,saliousoft,rue,2,0,osm_saint-louis,
+1024669,Bénin,6.3516800,2.4006600,2017-06-09 00:00:00,2020-07-10 08:01:57,0,Unknown,v,4,0,osm_saint-louis,
+1934334,Bénin,6.3518400,2.4172000,2019-09-21 00:00:00,2020-07-10 07:55:10,0,Unknown,mon service,2,0,osm_saint-louis,
+1867345,Bénin,6.3464250,2.4175930,2019-08-02 00:00:00,2020-07-10 07:54:52,0,Unknown,saCCSZS,2,0,osm_saint-louis,
+916209,Bénin,6.3523217,2.4127007,2017-03-05 00:00:00,2020-07-09 16:30:11,0,Fake,il s'agit plutôt du centre culturel.,2,0,osm_saint-louis,
+2229624,Bénin,8.2007227,2.6328564,2020-06-15 00:00:00,2020-06-15 02:07:34,0,akiyo19,Elément manquant: nom du lieu (village): Alafia,2,0,akiyo19,
+2165418,Bénin,6.3906200,2.3815900,2020-04-20 00:00:00,2020-04-20 02:37:45,0,Unknown,QCT GROUP,2,0,QCT GROUP,
+2015353,Bénin,6.6255773,1.6199106,2019-12-03 00:00:00,2019-12-03 12:47:44,0,Noel Adote,Village de Dédékpoè,4,1,Noel Adote,Village de Dédékpoè
+2007079,Bénin,6.6042070,1.6287833,2019-11-24 00:00:00,2019-12-03 12:45:30,0,Unknown,Village de Ahoho,4,1,Noel Adote,Village d'Ahoho
+1978267,Bénin,10.4863800,1.0074500,2019-10-29 00:00:00,2019-11-01 09:53:37,0,Unknown,popo,2,0,pitscheplatsch,personal bookmark
+1961877,Bénin,6.3555952,2.4383426,2019-10-14 00:00:00,2019-10-14 19:23:34,0,haziel sci,Direction Haziel SCI,2,0,haziel sci,
+566855,Bénin,6.3844730,2.4250708,2016-05-16 00:00:00,2019-10-08 16:30:52,0,SeverinGeo,Rue 6.112,2,0,freebeer,on the map
+572006,Bénin,6.3800245,2.4395511,2016-05-23 00:00:00,2019-10-08 16:29:25,0,SeverinGeo,Rue 3.025,2,0,freebeer,on the map
+562310,Bénin,6.3800844,2.4392106,2016-05-08 00:00:00,2019-10-08 16:28:59,0,SeverinGeo,peace hôtel ici,2,0,freebeer,on the map
+685254,Bénin,6.3709398,2.4785187,2016-08-23 00:00:00,2019-10-08 16:25:56,0,saliousoft,Complexe scolaire Bon Berger (site de degakon-Dandji) tel 21337688/ 97724743,2,0,freebeer,on the map
+685251,Bénin,6.3708194,2.4787140,2016-08-23 00:00:00,2019-10-08 16:24:33,0,saliousoft,RUE 1.272,2,0,freebeer,on the map
+843599,Bénin,6.3496751,2.3652290,2017-01-06 00:00:00,2019-09-10 15:02:56,0,Janne ruszkowski,Zem 200 (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,Syl,Duplicate note
+843235,Bénin,6.3520218,2.3558687,2017-01-06 00:00:00,2019-09-10 15:01:57,0,Janne ruszkowski,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'My house' (OSM data version: 2016-12-14T16:41:03Z) #mapsme",2,0,Syl,Personal note
+1319049,Bénin,6.3512594,2.0861216,2018-03-06 00:00:00,2019-09-10 14:27:45,0,Jeanine Reinhard,"'been there, doesn't exist anymore!' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Auberge de l'Escale des Arts POI types: tourism-hotel OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Syl,Removed
+1319050,Bénin,6.3587155,2.0862611,2018-03-06 00:00:00,2019-09-10 14:27:06,0,Jeanine Reinhard,"'been there, doesn't exist anymore' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Hôtel Kpassè POI types: tourism-hotel OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Syl,Removed
+1885516,Bénin,6.6258600,1.6183600,2019-08-15 00:00:00,2019-08-15 12:08:16,0,Noel Adote,Village de Dédékpoè,2,0,Noel Adote,
+1885512,Bénin,6.6042200,1.6274100,2019-08-15 00:00:00,2019-08-15 12:06:28,0,Noel Adote,Village d'Ahoho,2,0,Noel Adote,
+1024559,Bénin,6.5105956,2.6087393,2017-06-09 00:00:00,2019-06-18 18:07:19,0,Darius634,"'mauvaise adresse' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Bank of Africa POI types: amenity-atm amenity-bank OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,Syl,Corrigé
+1024562,Bénin,6.5134443,2.6065962,2017-06-09 00:00:00,2019-06-18 18:05:43,0,Darius634,"'mauvaise adresse' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Ecobank POI types: amenity-atm amenity-bank OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,Syl,Corrigé
+1024561,Bénin,6.5121572,2.6075994,2017-06-09 00:00:00,2019-06-18 18:03:45,0,Darius634,"'mauvaise adresse' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Mosquée centrale de Ouando POI types: amenity-place_of_worship-muslim OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,Syl,Supprimé
+1024560,Bénin,6.5121572,2.6075994,2017-06-09 00:00:00,2019-06-18 18:03:45,0,Darius634,'mauvaise adresse' POI name: Mosquée centrale de Ouando POI types: amenity-place_of_worship-muslim OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,Syl,Supprimé
+481285,Bénin,6.3747907,2.0876874,2015-12-11 00:00:00,2019-06-18 17:59:22,0,AKE Amazan,Pharmacie la Providence,5,1,Syl,Fait!
+607609,Bénin,6.5959333,1.7221646,2016-06-28 00:00:00,2019-06-18 17:56:04,0,saliousoft,Église,2,0,Syl,Corrigé
+481315,Bénin,6.2942607,1.8198015,2015-12-11 00:00:00,2019-06-18 17:46:36,0,AKE Amazan,péage,2,0,Syl,Ajouté depuis
+481314,Bénin,6.3047046,1.8359444,2015-12-11 00:00:00,2019-06-18 17:45:13,0,AKE Amazan,pont,2,0,Syl,Déjà présent
+481300,Bénin,6.3963277,1.9272851,2015-12-11 00:00:00,2019-06-18 17:43:55,0,AKE Amazan,pont,2,0,Syl,Déjà présent
+607574,Bénin,6.5865087,1.7450699,2016-06-28 00:00:00,2019-06-18 17:40:46,0,saliousoft,pont,2,0,Syl,Ajouté depuis
+1561174,Bénin,6.3583835,2.0864770,2018-10-15 00:00:00,2019-06-17 21:37:55,0,Unknown,UBA Bank Ouidah,2,0,Syl,Already in the map
+1337746,Bénin,6.3825009,2.3384876,2018-03-24 00:00:00,2019-06-17 21:36:13,0,Cattleya2,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Vdhff POI types: amenity-bar OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Syl,Supprimé
+1776446,Bénin,7.1711656,2.0922129,2019-05-12 00:00:00,2019-06-17 21:32:15,0,AHODI,'Carrefour Sodohomè' POI has no name POI types: highway-rest_area OSM data version: 2019-04-19T10:36:02Z  #mapsme,2,0,Syl,Note en double
+1478466,Bénin,7.1844913,2.0077603,2018-08-05 00:00:00,2019-06-17 21:30:56,0,AHODI,'Place Goho' POI has no name POI types: highway-rest_area OSM data version: 2018-07-05T18:22:02Z  #mapsme,2,0,Syl,Il n'y a rien ici.
+1541018,Bénin,6.3554400,2.4420100,2018-09-25 00:00:00,2019-06-17 21:29:23,0,Unknown,BRASERO RESTAURANT,2,0,Syl,Ajouté depuis
+1777447,Bénin,6.3648149,2.4337544,2019-05-13 00:00:00,2019-06-17 21:15:46,0,Jonas Christian Adeyemi,super cool (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Syl,"C'est une note personnelle, rien à ajouter à OpenStreetMap."
+1774898,Bénin,6.3648149,2.4337544,2019-05-11 00:00:00,2019-06-17 21:15:43,0,Jonas Christian Adeyemi,super cool (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Syl,"C'est une note personnelle, rien à ajouter à OpenStreetMap."
+917264,Bénin,6.4819606,2.3550188,2017-03-06 00:00:00,2019-06-17 11:08:21,0,Virioh,Maison JOHNSON (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,Syl,Ajoutée depuis
+917253,Bénin,6.3671527,2.4289708,2017-03-06 00:00:00,2019-06-17 11:07:50,0,Virioh,Église ICC Cotonou (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,Syl,Corrigé
+1398093,Bénin,6.3671524,2.4289696,2018-05-18 00:00:00,2019-06-17 11:06:03,0,Ulrich Donald Sant'anna,"'Créé par erreur: c'est un lieu de culte ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Impact Centre Chrétien campus de Cotonou POI types: tourism-artwork OSM data version: 2018-04-17T05:20:02Z  #mapsme",2,0,Syl,Supprimé
+1734062,Bénin,6.3692000,2.4115000,2019-04-04 00:00:00,2019-06-17 11:04:26,0,Unknown,Bonjour j ai mis 2 annonces mais elle sont publié a cotonou alors que j habite en france dans le 92 sud proche paris merci de corrigé que mes annonce soienr visible,2,0,Syl,"Bonjour, les notes sont faites pour proposer des modifications aux données, nous ne pouvons pas résoudre des problèmes avec un site ou avec une application en particulier."
+1049704,Bénin,6.3732419,2.4115353,2017-07-02 00:00:00,2019-06-17 01:29:28,0,Cattleya2,5 étages,2,0,Syl,Ajouté
+1758558,Bénin,6.6142500,2.2121000,2019-04-26 00:00:00,2019-05-08 16:27:27,0,Unknown,Tomate001,2,0,freebeer,no info
+1762382,Bénin,6.3648149,2.4337544,2019-04-30 00:00:00,2019-05-08 16:25:32,0,Jonas Christian Adeyemi,super cool (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,freebeer,reviews and personal opinions are unwelcome in osm
+1665906,Bénin,6.3605800,2.4228600,2019-01-30 00:00:00,2019-01-30 16:44:29,0,Loic Roussel,Explicite SARL,2,0,Loic Roussel,
+1649765,Bénin,6.4138500,2.3413300,2019-01-14 00:00:00,2019-01-14 13:27:11,0,Hounyi Jacques Géraud Tecotan,Centre Autonome de Perfectionnement de l'EPAC,2,0,Hounyi Jacques Géraud Tecotan,
+703057,Bénin,6.4727233,2.6054824,2016-09-06 00:00:00,2018-12-16 13:30:25,0,PhidiasAZO,HOTEL BEAURIVAGE,2,0,freebeer,on the map
+1116358,Bénin,6.4289555,2.3511676,2017-08-25 00:00:00,2018-12-16 13:19:54,0,luckpogbe,'Vente de viande de porc' POI name: bar-restaurant ''Chez Bertin'' POI types: amenity-restaurant OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,freebeer,on the map
+1599435,Bénin,6.6621000,2.1624000,2018-11-24 00:00:00,2018-11-24 23:16:29,0,Hounyi Jacques Géraud Tecotan,z,2,0,Hounyi Jacques Géraud Tecotan,
+1599434,Bénin,6.6614000,2.1629000,2018-11-24 00:00:00,2018-11-24 23:15:40,0,Hounyi Jacques Géraud Tecotan,Promo fruits Bénin,3,1,Hounyi Jacques Géraud Tecotan,société agrolimentaire spécialiésé dans la transformation des fruits locaux.
+1599432,Bénin,6.6636000,2.1629000,2018-11-24 00:00:00,2018-11-24 23:05:28,0,TECOTAN,Promo fruits Bénin,4,1,TECOTAN,aa
+1126235,Bénin,6.3533734,2.3488225,2017-09-03 00:00:00,2018-11-01 00:00:35,0,SebOst,"'lieu personnel privé' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Ma maison POI types: natural-spring OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,Syl,Plus rien à cet endroit
+1095417,Bénin,6.3533734,2.3488225,2017-08-07 00:00:00,2018-11-01 00:00:21,0,luckpogbe,"'Il n'est pas conseiller d'ajouter des donnés à caractère personnel dans la base OpenStreetMap' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Ma maison POI types: natural-spring OSM data version: 2017-07-03T17:28:05Z  #mapsme",2,0,Syl,Plus rien à cet endroit
+903018,Bénin,6.3533743,2.3488234,2017-02-23 00:00:00,2018-10-31 23:59:56,0,Janne ruszkowski,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-12-14T16:41:03Z) #mapsme",2,0,Syl,Nothing here
+1125100,Bénin,6.3533734,2.3488225,2017-09-02 00:00:00,2018-10-31 23:59:16,0,Clara Y,"'erreur de saisie' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Ma maison POI types: natural-spring OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,Syl,Plus rien ici
+893051,Bénin,6.3533743,2.3488234,2017-02-15 00:00:00,2018-10-31 23:58:51,0,Janne ruszkowski,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-12-14T16:41:03Z) #mapsme",2,0,Syl,Nothing here
+1289702,Bénin,10.3030984,1.3669731,2018-02-04 00:00:00,2018-10-31 23:55:20,0,Clara Y,"'it was misplaced. the right position is already on the map' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: La Croix - Point de vue POI types: amenity-hunting_stand OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,Syl,Corrigé
+1399925,Bénin,7.1816543,2.0658817,2018-05-20 00:00:00,2018-10-31 23:50:00,0,Ulrich Donald Sant'anna,"'Ce n'est pas Œuvre mais lieu de culte:erreur de création ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Impact Centre Chrétien campus de Bohicon POI types: tourism-artwork OSM data version: 2018-04-17T05:20:02Z  #mapsme",2,0,Syl,Corrigé
+917263,Bénin,7.1816531,2.0658817,2017-03-06 00:00:00,2018-10-31 23:48:18,0,Virioh,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'erreur de catégorie ' (OSM data version: 2017-02-15T16:20:03Z) #mapsme",2,0,Syl,Note en double
+1197850,Bénin,6.3539257,2.4175896,2017-11-07 00:00:00,2018-10-27 20:00:52,0,Cattleya2,Boulevard Saint-Michel,2,0,freebeer,on the map
+1498469,Bénin,6.3617870,2.4328748,2018-08-22 00:00:00,2018-10-27 19:59:21,0,Opison Sarl,'Your Reliable Partner!' POI name: Ste Opison Sarl POI types: shop-clothes OSM data version: 2018-07-05T18:22:02Z  #mapsme,2,0,freebeer,personal maps.me bookmark
+478214,Bénin,6.3594414,2.4347923,2015-12-04 00:00:00,2018-08-23 21:08:51,0,SeverinGeo,Rue Samba Laobé,2,0,Bence Mélykúti,The name has been entered.
+713299,Bénin,6.3622689,2.4364147,2016-09-15 00:00:00,2018-08-23 21:08:39,0,saliousoft,rue des cheminots,2,0,Bence Mélykúti,The name has been entered.
+1491345,Bénin,7.1323043,2.0825958,2018-08-16 00:00:00,2018-08-17 15:36:24,0,Unknown,jkhkjh,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1470443,Bénin,6.4740200,2.6173500,2018-07-29 00:00:00,2018-07-29 19:20:19,0,Zedauni,Il n'y a pas de station ici.,2,0,Zedauni,
+703337,Bénin,6.4726909,2.6128120,2016-09-06 00:00:00,2018-07-29 09:40:36,0,saliousoft,ce n'est os une rue mais l'entrée de la Csuprême,4,1,Zedauni,
+1465075,Bénin,7.1750133,2.0651990,2018-07-24 00:00:00,2018-07-24 08:20:55,0,GOHOUNGBE,Banque  Diamond,3,1,GOHOUNGBE,
+647953,Bénin,6.5034900,2.6113020,2016-07-28 00:00:00,2018-07-16 16:05:34,0,Cattleya2,Soneb,2,0,Cattleya2,
+1456229,Bénin,6.5006886,2.6078770,2018-07-16 00:00:00,2018-07-16 15:59:18,0,Unknown,Centre Ouadada,2,0,Cattleya2,
+1456230,Bénin,6.5005327,2.6078340,2018-07-16 00:00:00,2018-07-16 15:58:06,0,Gbadamassi Tawakalith,centre songhai,2,0,Cattleya2,
+1436449,Bénin,6.3675100,2.3927700,2018-06-25 00:00:00,2018-06-25 18:06:15,0,Immaculée Pressing,Immaculée Pressing,4,1,Immaculée Pressing,
+607594,Bénin,6.3533700,2.3070917,2016-06-28 00:00:00,2018-06-09 09:40:28,0,saliousoft,Pont,2,0,30303020,Already mapped.
+1184247,Bénin,6.3699614,2.4164154,2017-10-24 00:00:00,2018-06-09 09:37:20,0,Satoko S,'Guesthouse value for backpacker' POI name: La Guesthouse POI types: tourism-guest_house OSM data version: 2017-08-17T15:51:02Z  #mapsme,2,0,30303020,Already mapped.
+984834,Bénin,6.3573519,2.4000755,2017-05-03 00:00:00,2018-06-09 09:36:00,0,Claire Hazoume,Nom du bâtiment:  Ecole le Petit Poucet - Site 1,2,0,30303020,Already mapped.
+1119330,Bénin,6.3598236,2.3988314,2017-08-28 00:00:00,2018-06-09 09:35:38,0,krab7191,"Guinean restaurant, hole in the wall, lovely, well prepared food. spaghetti, couscous, fried chicken, beans (OSM data version: 2016-09-19T14:38:03Z) #mapsme",2,0,30303020,Personal bookmark. This feature is available for mapping errors. Please refer to https://wiki.openstreetmap.org/wiki/Notes#Use_of_notes_for_adding_a_marker_for_personal_use to read about the usage of notes.
+563046,Bénin,6.3699392,2.4276695,2016-05-10 00:00:00,2018-06-09 09:33:45,0,SeverinGeo,monument,2,0,30303020,Already mapped.
+566857,Bénin,6.3864910,2.4258855,2016-05-16 00:00:00,2018-06-09 09:31:48,0,SeverinGeo,Rue 6.118,2,0,30303020,Already mapped.
+566861,Bénin,6.3860119,2.4224450,2016-05-16 00:00:00,2018-06-09 09:31:25,0,SeverinGeo,Rue 6.144,2,0,30303020,Already mapped.
+729347,Bénin,6.3518848,2.4010891,2016-09-28 00:00:00,2018-06-09 09:07:12,0,PhidiasAZO,Annexe Ministère des Affaires étrangères,2,0,30303020,Already mapped.
+729349,Bénin,6.3523316,2.4000497,2016-09-28 00:00:00,2018-06-09 09:06:51,0,PhidiasAZO,Ministère du plan et du développement,2,0,30303020,Already mapped.
+1048980,Bénin,6.4988871,2.6073244,2017-07-01 00:00:00,2018-06-09 09:04:53,0,PaulDEH,'domicile' POI has no name POI types: building OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,30303020,Already mapped.
+703064,Bénin,6.4733896,2.6056027,2016-09-06 00:00:00,2018-05-12 22:29:46,0,PhidiasAZO,INSTALLATIONS ELECTRIQUES: HAUTES TENSIONS,2,0,30303020,This feature is available for mapping errors. Please refer to https://wiki.openstreetmap.org/wiki/Notes#Use_of_notes_for_adding_a_marker_for_personal_use to read about the usage of notes.
+703056,Bénin,6.4731004,2.6069494,2016-09-06 00:00:00,2018-05-12 22:29:35,0,PhidiasAZO,Pont,2,0,30303020,Already mapped.
+645708,Bénin,6.4735556,2.6044731,2016-07-27 00:00:00,2018-05-12 22:28:57,0,marietteawla,Alidé,2,0,30303020,Already mapped.
+703050,Bénin,6.4762738,2.6129756,2016-09-06 00:00:00,2018-05-12 22:26:04,0,PhidiasAZO,DIRECTION GENERALE DE L'AMENAGEMENT ET DE  L'EQUIPEMENT RURAL,2,0,30303020,Duplicate.
+712992,Bénin,6.4751424,2.6139562,2016-09-15 00:00:00,2018-05-12 22:25:33,0,Cattleya2,bloc Administratif de L'aumônerie,2,0,30303020,Already mapped. This feature is available for mapping errors. Please refer to https://wiki.openstreetmap.org/wiki/Notes#Use_of_notes_for_adding_a_marker_for_personal_use to read about the usage of notes.
+1177623,Bénin,6.4653552,2.6434541,2017-10-17 00:00:00,2018-05-06 02:29:47,0,Unknown,Terrain de Football SONICOG,2,0,Enock4seth,
+1122722,Bénin,7.2388703,2.1109829,2017-08-31 00:00:00,2018-03-31 19:13:13,0,luckpogbe,'Assanlin est un arrondissement de la commune de Zakpota' POI name: Bureau Arrondissement Assanlin POI types: amenity-community_centre OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,Sessien Lionnel HOUNHOUEDO,
+1328501,Bénin,6.3915852,2.4259708,2018-03-15 00:00:00,2018-03-16 12:27:54,0,edmond HADJAGOUN,Maison hadjagoun edmond,2,0,Cattleya2,
+1276742,Bénin,6.3886500,2.3065700,2018-01-23 00:00:00,2018-01-23 09:16:24,0,Unknown,Class A Pret a porter,4,1,Class A,Class A
+1224488,Bénin,7.8851473,2.6367188,2017-12-01 00:00:00,2017-12-02 04:37:45,0,Unknown,My first note TEST,2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1224021,Bénin,8.4071682,1.7138672,2017-12-01 00:00:00,2017-12-02 04:37:31,0,Unknown,My first note TEST,2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1223979,Bénin,8.4071682,1.7138672,2017-12-01 00:00:00,2017-12-02 04:37:28,0,Unknown,My first note TEST,2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1223977,Bénin,8.4071682,1.7138672,2017-12-01 00:00:00,2017-12-02 04:37:24,0,Unknown,My first note TEST,2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+766426,Bénin,6.4836238,2.6204055,2016-10-30 00:00:00,2017-11-07 00:16:59,0,Raphael Porcherot,Facebook Jo Rasta (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Cattleya2,
+1139497,Bénin,10.2569199,1.3762145,2017-09-14 00:00:00,2017-09-22 20:08:50,0,Clara Y,'Téléphone : +229 96 15 28 82' POI name: Mini Kota - Au jardin de Nati POI types: waterway-waterfall OSM data version: 2017-07-28T09:42:02Z  #mapsme,3,1,freebeer,how does a waterfall have a phone number?
+1082253,Bénin,10.2569199,1.3762145,2017-07-28 00:00:00,2017-09-22 20:06:12,0,Clara Y,'waterfalls with bar and picnic sites' POI name: Mini Kota - Au jardin de Nati POI types: waterway-waterfall OSM data version: 2017-07-03T17:28:05Z  #mapsme,2,0,freebeer,on the map
+1003578,Bénin,6.4733787,2.3910727,2017-05-22 00:00:00,2017-08-13 07:31:05,0,Cathybongo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: ' cet hôtel existe' (OSM data version: 2017-03-28T20:59:03Z) #mapsme",2,0,sommerluk,
+1003587,Bénin,6.4678539,2.3911022,2017-05-22 00:00:00,2017-08-13 07:30:43,0,Cathybongo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Existe au centre du village lacustre' (OSM data version: 2017-03-28T20:59:03Z) #mapsme",2,0,sommerluk,
+1074958,Bénin,6.3576800,2.4312100,2017-07-22 00:00:00,2017-07-22 21:40:11,0,PhidiasAZO,Hôtel Nicofil,2,0,PhidiasAZO,
+917262,Bénin,7.1816531,2.0658817,2017-03-06 00:00:00,2017-06-30 16:14:24,0,Virioh,Église (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,benoitberlin,already in the database
+979378,Bénin,7.4895916,2.7121330,2017-04-28 00:00:00,2017-06-30 16:12:32,0,PaulDEH,ma maison (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,benoitberlin,no useful information
+597240,Bénin,10.2716435,1.3476604,2016-06-17 00:00:00,2017-06-30 16:10:28,0,DEGBOHOUET,DCPJHF (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,benoitberlin,no useful information
+597273,Bénin,10.2716179,1.3476612,2016-06-17 00:00:00,2017-06-30 16:10:19,0,DEGBOHOUET,DEGBOH (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,benoitberlin,no useful information
+597238,Bénin,10.2715462,1.3476658,2016-06-17 00:00:00,2017-06-30 16:10:11,0,DEGBOHOUET,D (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,benoitberlin,no useful information
+597272,Bénin,10.2716240,1.3475772,2016-06-17 00:00:00,2017-06-30 16:10:05,0,DEGBOHOUET,J (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,benoitberlin,no useful information
+597274,Bénin,10.2716802,1.3477256,2016-06-17 00:00:00,2017-06-30 16:09:57,0,DEGBOHOUET,F (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,benoitberlin,no useful information
+597239,Bénin,10.2717730,1.3476201,2016-06-17 00:00:00,2017-06-30 16:09:49,0,DEGBOHOUET,H (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,benoitberlin,no useful information
+1024728,Bénin,10.2935294,1.3874598,2017-06-09 00:00:00,2017-06-30 16:08:18,0,Clara Y,"'maison privée, erreur' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Sam POI types: tourism-hotel OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,benoitberlin,no useful information
+961767,Bénin,10.3158733,1.3785441,2017-04-12 00:00:00,2017-06-30 16:06:19,0,Hinnk,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Moov Store Natitingou est transféré devant l'évêché de Natitingou. ' (OSM data version: 2017-03-06T16:48:02Z) #mapsme",2,0,benoitberlin,Corrected in changeset 49947678
+1024620,Bénin,10.2935294,1.3874598,2017-06-09 00:00:00,2017-06-30 16:01:48,0,Clara Y,"'maison privée, erreur' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Sam POI types: tourism-hotel OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,benoitberlin,no useful information
+1028814,Bénin,10.3105573,1.3802651,2017-06-13 00:00:00,2017-06-30 15:59:29,0,Clara Y,'Boutique de souvenirs et association de guides touristiques qui vous feront découvrir toute la région' POI name: Villages de Vacances Touristiques (VVT) POI types: shop-gift OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,benoitberlin,already in the database
+1024615,Bénin,10.3052254,1.3793515,2017-06-09 00:00:00,2017-06-30 15:59:14,0,Clara Y,"'la gare se trouve sur une autre place déjà indiquée' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Taxi Gare POI types: amenity-bus_station OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,benoitberlin,Corrected with changeset 49947509
+1044614,Bénin,6.3859700,2.4471700,2017-06-27 00:00:00,2017-06-28 15:05:02,0,Unknown,x,2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+999092,Bénin,6.4763500,2.3532300,2017-05-17 00:00:00,2017-05-17 08:40:55,0,fanick,Somewhere there,2,0,hsc666,not for private notes
+843312,Bénin,6.3573626,2.4171961,2017-01-06 00:00:00,2017-05-04 08:09:36,0,Janne ruszkowski,Marcha artisanat (OSM data version: 2016-12-14T16:41:03Z) #mapsme,3,1,Claire Hazoume,
+570761,Bénin,6.3644713,2.4260951,2016-05-22 00:00:00,2017-03-03 09:37:06,0,ilasolthah,cbao  bank,3,1,saliousoft,
+831350,Bénin,8.4824440,2.1328650,2016-12-28 00:00:00,2017-02-01 15:46:20,0,Unknown,Otra: Origen erróneo  Este error procede del GPS de Navmii.,2,0,Deanna Earley,
+861159,Bénin,6.3698406,2.4178720,2017-01-24 00:00:00,2017-01-24 09:45:06,0,Godos Light,JSCOM-BENIN Sikecodji,2,0,Godos Light,
+794538,Bénin,6.6659716,2.1498871,2016-11-24 00:00:00,2016-11-24 15:48:37,0,CPVDB,Allada,2,0,CPVDB,
+737578,Bénin,6.3878151,2.2772010,2016-10-04 00:00:00,2016-10-07 05:49:37,0,sommerluk,pos.?,2,0,sommerluk,
+737676,Bénin,6.3767811,2.3895240,2016-10-04 00:00:00,2016-10-07 05:12:28,0,sommerluk,Toyota 2265,2,0,sommerluk,
+737666,Bénin,6.3541654,2.4045996,2016-10-04 00:00:00,2016-10-07 05:12:27,0,sommerluk,Rue 12.191,2,0,sommerluk,
+737671,Bénin,6.3675596,2.4145174,2016-10-04 00:00:00,2016-10-07 05:12:27,0,sommerluk,pas con,2,0,sommerluk,
+737677,Bénin,6.3719406,2.3929311,2016-10-04 00:00:00,2016-10-07 05:12:26,0,sommerluk,50kmh,2,0,sommerluk,
+737672,Bénin,6.3674727,2.4144135,2016-10-04 00:00:00,2016-10-07 05:12:25,0,sommerluk,pas con,2,0,sommerluk,
+737673,Bénin,6.3674413,2.4143537,2016-10-04 00:00:00,2016-10-07 05:12:24,0,sommerluk,pas con,2,0,sommerluk,
+737678,Bénin,6.3623153,2.3971026,2016-10-04 00:00:00,2016-10-07 05:12:24,0,sommerluk,Rue 12.191,2,0,sommerluk,
+737679,Bénin,6.3585394,2.3988015,2016-10-04 00:00:00,2016-10-07 05:12:23,0,sommerluk,Rue 12.180,2,0,sommerluk,
+737674,Bénin,6.4005967,2.2968207,2016-10-04 00:00:00,2016-10-07 05:12:22,0,sommerluk,seulement motos ?,2,0,sommerluk,
+737680,Bénin,6.3541654,2.4045996,2016-10-04 00:00:00,2016-10-07 05:12:21,0,sommerluk,Rue 12.191,2,0,sommerluk,
+737669,Bénin,6.3609519,2.4220948,2016-10-04 00:00:00,2016-10-07 05:12:21,0,sommerluk,position ?,2,0,sommerluk,
+737675,Bénin,6.3989527,2.3080170,2016-10-04 00:00:00,2016-10-07 05:12:20,0,sommerluk,seulement motos ?,2,0,sommerluk,
+737670,Bénin,6.3649563,2.4175217,2016-10-04 00:00:00,2016-10-07 05:12:19,0,sommerluk,pos. ?,2,0,sommerluk,
+737665,Bénin,6.3585394,2.3988015,2016-10-04 00:00:00,2016-10-07 05:12:18,0,sommerluk,Rue 12.180,2,0,sommerluk,
+737664,Bénin,6.3623153,2.3971026,2016-10-04 00:00:00,2016-10-07 05:00:22,0,sommerluk,Rue 12.191,2,0,sommerluk,
+737661,Bénin,6.3989527,2.3080170,2016-10-04 00:00:00,2016-10-06 22:47:15,0,sommerluk,seulement motos ?,2,0,sommerluk,
+737663,Bénin,6.3719406,2.3929311,2016-10-04 00:00:00,2016-10-06 22:47:14,0,sommerluk,50kmh,2,0,sommerluk,
+737662,Bénin,6.3767811,2.3895240,2016-10-04 00:00:00,2016-10-06 22:47:14,0,sommerluk,Toyota 2265,2,0,sommerluk,
+737658,Bénin,6.3674727,2.4144135,2016-10-04 00:00:00,2016-10-06 22:47:13,0,sommerluk,pas con,2,0,sommerluk,
+737659,Bénin,6.3674413,2.4143537,2016-10-04 00:00:00,2016-10-06 22:47:12,0,sommerluk,pas con,2,0,sommerluk,
+737660,Bénin,6.4005967,2.2968207,2016-10-04 00:00:00,2016-10-06 22:47:11,0,sommerluk,seulement motos ?,2,0,sommerluk,
+737656,Bénin,6.3649563,2.4175217,2016-10-04 00:00:00,2016-10-06 22:44:00,0,sommerluk,pos. ?,2,0,sommerluk,
+737641,Bénin,6.3574224,2.4378464,2016-10-04 00:00:00,2016-10-06 22:43:59,0,sommerluk,abk.,2,0,sommerluk,
+737636,Bénin,6.3662340,2.4157731,2016-10-04 00:00:00,2016-10-06 22:43:58,0,sommerluk,con.,2,0,sommerluk,
+737631,Bénin,6.3768476,2.3916154,2016-10-04 00:00:00,2016-10-06 22:43:58,0,sommerluk,frontage service,2,0,sommerluk,
+737657,Bénin,6.3675596,2.4145174,2016-10-04 00:00:00,2016-10-06 22:43:57,0,sommerluk,pas con,2,0,sommerluk,
+737637,Bénin,6.3607027,2.4222578,2016-10-04 00:00:00,2016-10-06 22:43:56,0,sommerluk,res.,2,0,sommerluk,
+737632,Bénin,6.3767270,2.3972410,2016-10-04 00:00:00,2016-10-06 22:43:55,0,sommerluk,con.,2,0,sommerluk,
+737643,Bénin,6.3627817,2.4688083,2016-10-04 00:00:00,2016-10-06 22:43:55,0,sommerluk,rue,2,0,sommerluk,
+737638,Bénin,6.3609606,2.4224173,2016-10-04 00:00:00,2016-10-06 22:43:54,0,sommerluk,Diamond ICI,2,0,sommerluk,
+737633,Bénin,6.3753648,2.4049374,2016-10-04 00:00:00,2016-10-06 22:43:53,0,sommerluk,con.,2,0,sommerluk,
+737628,Bénin,6.3840324,2.3763084,2016-10-04 00:00:00,2016-10-06 22:43:52,0,sommerluk,short name: ESM-Bénin,2,0,sommerluk,
+737644,Bénin,6.3628087,2.4684903,2016-10-04 00:00:00,2016-10-06 22:43:51,0,sommerluk,Rue 1.023,2,0,sommerluk,
+737654,Bénin,6.3563058,2.4277539,2016-10-04 00:00:00,2016-10-06 22:43:51,0,sommerluk,mini roundabout...,2,0,sommerluk,
+737639,Bénin,6.3573976,2.4261261,2016-10-04 00:00:00,2016-10-06 22:43:50,0,sommerluk,pas res.,2,0,sommerluk,
+737629,Bénin,6.3770789,2.3883075,2016-10-04 00:00:00,2016-10-06 22:43:49,0,sommerluk,ICI fin rue service,2,0,sommerluk,
+737655,Bénin,6.3609519,2.4220948,2016-10-04 00:00:00,2016-10-06 22:43:48,0,sommerluk,position ?,2,0,sommerluk,
+737645,Bénin,6.3628180,2.4674478,2016-10-04 00:00:00,2016-10-06 22:43:47,0,sommerluk,Rue 1.018,2,0,sommerluk,
+737635,Bénin,6.3678952,2.4139324,2016-10-04 00:00:00,2016-10-06 22:43:46,0,sommerluk,rue res pr pr res rue,2,0,sommerluk,
+737640,Bénin,6.3562667,2.4277384,2016-10-04 00:00:00,2016-10-06 22:43:46,0,sommerluk,pas rond point ?,2,0,sommerluk,
+737630,Bénin,6.3768476,2.3916154,2016-10-04 00:00:00,2016-10-06 22:43:45,0,sommerluk,frontage,2,0,sommerluk,
+737620,Bénin,6.3864075,2.3269652,2016-10-04 00:00:00,2016-10-06 22:26:06,0,sommerluk,pas con.,2,0,sommerluk,
+737610,Bénin,6.3888360,2.2581085,2016-10-04 00:00:00,2016-10-06 22:26:05,0,sommerluk,rue,2,0,sommerluk,
+737605,Bénin,6.3867226,2.2262350,2016-10-04 00:00:00,2016-10-06 22:26:04,0,sommerluk,pr pr res rue,2,0,sommerluk,
+737600,Bénin,6.3844598,2.1989351,2016-10-04 00:00:00,2016-10-06 22:26:00,0,sommerluk,con.,2,0,sommerluk,
+737595,Bénin,6.4002617,2.1416417,2016-10-04 00:00:00,2016-10-06 22:26:00,0,sommerluk,colline,2,0,sommerluk,
+737590,Bénin,6.3948783,2.1523417,2016-10-04 00:00:00,2016-10-06 22:25:59,0,sommerluk,colline,2,0,sommerluk,
+737626,Bénin,6.3888527,2.3518821,2016-10-04 00:00:00,2016-10-06 22:25:58,0,sommerluk,dest. Calavi,2,0,sommerluk,
+737621,Bénin,6.3822979,2.3374318,2016-10-04 00:00:00,2016-10-06 22:25:57,0,sommerluk,petite rue,2,0,sommerluk,
+737616,Bénin,6.3879395,2.2984262,2016-10-04 00:00:00,2016-10-06 22:25:56,0,sommerluk,50 kmh,2,0,sommerluk,
+737606,Bénin,6.3885941,2.2446759,2016-10-04 00:00:00,2016-10-06 22:25:55,0,sommerluk,ICI pieton,2,0,sommerluk,
+737611,Bénin,6.3887272,2.2608334,2016-10-04 00:00:00,2016-10-06 22:25:55,0,sommerluk,con.,2,0,sommerluk,
+737601,Bénin,6.3844217,2.1989365,2016-10-04 00:00:00,2016-10-06 22:25:54,0,sommerluk,con. rue,2,0,sommerluk,
+737596,Bénin,6.4065491,2.1383842,2016-10-04 00:00:00,2016-10-06 22:25:53,0,sommerluk,colline,2,0,sommerluk,
+737591,Bénin,6.3962433,2.1511883,2016-10-04 00:00:00,2016-10-06 22:25:52,0,sommerluk,colline,2,0,sommerluk,
+737627,Bénin,6.3887974,2.3520477,2016-10-04 00:00:00,2016-10-06 22:25:51,0,sommerluk,dest. Cotonou,2,0,sommerluk,
+737622,Bénin,6.3805315,2.3407569,2016-10-04 00:00:00,2016-10-06 22:25:51,0,sommerluk,res,2,0,sommerluk,
+737617,Bénin,6.3882509,2.3007649,2016-10-04 00:00:00,2016-10-06 22:25:50,0,sommerluk,res,2,0,sommerluk,
+737612,Bénin,6.3886886,2.2608230,2016-10-04 00:00:00,2016-10-06 22:25:49,0,sommerluk,con,2,0,sommerluk,
+737607,Bénin,6.3887506,2.2475745,2016-10-04 00:00:00,2016-10-06 22:25:48,0,sommerluk,rue,2,0,sommerluk,
+737602,Bénin,6.3850412,2.2101535,2016-10-04 00:00:00,2016-10-06 22:25:48,0,sommerluk,rue,2,0,sommerluk,
+737597,Bénin,6.3846050,2.1591558,2016-10-04 00:00:00,2016-10-06 22:25:47,0,sommerluk,colline,2,0,sommerluk,
+737592,Bénin,6.3987567,2.1456417,2016-10-04 00:00:00,2016-10-06 22:25:46,0,sommerluk,colline,2,0,sommerluk,
+737623,Bénin,6.3850475,2.3470373,2016-10-04 00:00:00,2016-10-06 22:25:45,0,sommerluk,cin,2,0,sommerluk,
+737618,Bénin,6.3865509,2.3265774,2016-10-04 00:00:00,2016-10-06 22:25:44,0,sommerluk,colline pieton,2,0,sommerluk,
+737613,Bénin,6.3877845,2.2768180,2016-10-04 00:00:00,2016-10-06 22:25:43,0,sommerluk,con.,2,0,sommerluk,
+737608,Bénin,6.3889688,2.2475586,2016-10-04 00:00:00,2016-10-06 22:25:42,0,sommerluk,rue destination Cité de l’espoir [de l'oest],2,0,sommerluk,
+737603,Bénin,6.3862703,2.2219018,2016-10-04 00:00:00,2016-10-06 22:25:41,0,sommerluk,con,2,0,sommerluk,
+737598,Bénin,6.3824705,2.1801456,2016-10-04 00:00:00,2016-10-06 22:25:41,0,sommerluk,pas res,2,0,sommerluk,
+737593,Bénin,6.3993167,2.1439917,2016-10-04 00:00:00,2016-10-06 22:25:40,0,sommerluk,colline,2,0,sommerluk,
+737588,Bénin,6.3825996,2.1802161,2016-10-04 00:00:00,2016-10-06 22:25:39,0,sommerluk,con res pr pr res rue,2,0,sommerluk,
+737624,Bénin,6.3849910,2.3470943,2016-10-04 00:00:00,2016-10-06 22:25:38,0,sommerluk,con.,2,0,sommerluk,
+737619,Bénin,6.3864837,2.3269938,2016-10-04 00:00:00,2016-10-06 22:25:37,0,sommerluk,pas con.,2,0,sommerluk,
+737614,Bénin,6.3870858,2.2806143,2016-10-04 00:00:00,2016-10-06 22:25:26,0,sommerluk,50 kmh,2,0,sommerluk,
+737609,Bénin,6.3888768,2.2581171,2016-10-04 00:00:00,2016-10-06 22:25:25,0,sommerluk,con,2,0,sommerluk,
+737604,Bénin,6.3864650,2.2237149,2016-10-04 00:00:00,2016-10-06 22:25:24,0,sommerluk,colline ICI,2,0,sommerluk,
+737599,Bénin,6.3824829,2.1803068,2016-10-04 00:00:00,2016-10-06 22:25:23,0,sommerluk,res,2,0,sommerluk,
+737594,Bénin,6.3998167,2.1423400,2016-10-04 00:00:00,2016-10-06 22:25:22,0,sommerluk,colline,2,0,sommerluk,
+737589,Bénin,6.3790714,2.1632634,2016-10-04 00:00:00,2016-10-06 22:25:22,0,sommerluk,con. pr pr res rue,2,0,sommerluk,
+737625,Bénin,6.3876026,2.3503100,2016-10-04 00:00:00,2016-10-06 22:25:18,0,sommerluk,con.,2,0,sommerluk,
+737559,Bénin,6.4958855,2.3536440,2016-10-04 00:00:00,2016-10-06 19:28:28,0,sommerluk,construction s ?,2,0,sommerluk,
+737585,Bénin,6.3860780,2.2190220,2016-10-04 00:00:00,2016-10-06 19:28:27,0,sommerluk,con,2,0,sommerluk,
+737580,Bénin,6.3886667,2.2623233,2016-10-04 00:00:00,2016-10-06 19:28:26,0,sommerluk,pieton sans colline,2,0,sommerluk,
+481265,Bénin,6.3812214,2.3392198,2015-12-11 00:00:00,2016-10-06 19:28:25,0,AKE Amazan,passage piéton,2,0,sommerluk,
+737575,Bénin,6.3881758,2.2988650,2016-10-04 00:00:00,2016-10-06 19:28:24,0,sommerluk,50 kmh,2,0,sommerluk,
+737570,Bénin,6.3884672,2.3192962,2016-10-04 00:00:00,2016-10-06 19:28:23,0,sommerluk,pieton colline,2,0,sommerluk,
+737565,Bénin,6.3823450,2.3415050,2016-10-04 00:00:00,2016-10-06 19:28:22,0,sommerluk,carrefour rue-ht sud,2,0,sommerluk,
+737560,Bénin,6.4180671,2.3285832,2016-10-04 00:00:00,2016-10-06 19:28:21,0,sommerluk,http://www.africarice.org/,2,0,sommerluk,
+481276,Bénin,6.3888277,2.3065584,2015-12-11 00:00:00,2016-10-06 19:28:20,0,AKE Amazan,Passage Cloutés,2,0,sommerluk,
+737586,Bénin,6.3853644,2.2110141,2016-10-04 00:00:00,2016-10-06 19:28:20,0,sommerluk,unbesch,2,0,sommerluk,
+737581,Bénin,6.3892619,2.2533608,2016-10-04 00:00:00,2016-10-06 19:28:19,0,sommerluk,colline pieton,2,0,sommerluk,
+737576,Bénin,6.3870205,2.2951391,2016-10-04 00:00:00,2016-10-06 19:28:18,0,sommerluk,colline pieton,2,0,sommerluk,
+737571,Bénin,6.3888545,2.3165947,2016-10-04 00:00:00,2016-10-06 19:28:17,0,sommerluk,50 kmh,2,0,sommerluk,
+737566,Bénin,6.3803689,2.3420209,2016-10-04 00:00:00,2016-10-06 19:28:16,0,sommerluk,Ici au lieu de l’autre coté de la rue,2,0,sommerluk,
+737561,Bénin,6.4168735,2.2960714,2016-10-04 00:00:00,2016-10-06 19:28:15,0,sommerluk,tertiary.sec..  ...> residential,2,0,sommerluk,
+737556,Bénin,6.4046127,2.3416187,2016-10-04 00:00:00,2016-10-06 19:28:14,0,sommerluk,rue de service - rue vers lac,2,0,sommerluk,
+737587,Bénin,6.3851885,2.2111268,2016-10-04 00:00:00,2016-10-06 19:28:13,0,sommerluk,unbesch,2,0,sommerluk,
+737577,Bénin,6.3871037,2.2819571,2016-10-04 00:00:00,2016-10-06 19:28:12,0,sommerluk,con.,2,0,sommerluk,
+737582,Bénin,6.3882936,2.2416796,2016-10-04 00:00:00,2016-10-06 19:28:12,0,sommerluk,ICI pieton,2,0,sommerluk,
+737572,Bénin,6.3889064,2.3068591,2016-10-04 00:00:00,2016-10-06 19:28:11,0,sommerluk,colline piet,2,0,sommerluk,
+737567,Bénin,6.3811942,2.3392839,2016-10-04 00:00:00,2016-10-06 19:28:10,0,sommerluk,pieton colline,2,0,sommerluk,
+737562,Bénin,6.4288816,2.3502508,2016-10-04 00:00:00,2016-10-06 19:28:09,0,sommerluk,con primery prymary res,2,0,sommerluk,
+737557,Bénin,6.4566783,2.3464333,2016-10-04 00:00:00,2016-10-06 19:28:08,0,sommerluk,uni,2,0,sommerluk,
+481273,Bénin,6.3884591,2.3193017,2015-12-11 00:00:00,2016-10-06 19:28:07,0,AKE Amazan,Passage Clouté,2,0,sommerluk,
+737583,Bénin,6.3871525,2.2295806,2016-10-04 00:00:00,2016-10-06 19:28:06,0,sommerluk,con.,2,0,sommerluk,
+737573,Bénin,6.3888713,2.3064934,2016-10-04 00:00:00,2016-10-06 19:28:05,0,sommerluk,colline pieton,2,0,sommerluk,
+737568,Bénin,6.3839970,2.3331432,2016-10-04 00:00:00,2016-10-06 19:28:04,0,sommerluk,50 kmh,2,0,sommerluk,
+737563,Bénin,6.3952106,2.3433682,2016-10-04 00:00:00,2016-10-06 19:28:03,0,sommerluk,rue,2,0,sommerluk,
+737558,Bénin,6.4561916,2.3477793,2016-10-04 00:00:00,2016-10-06 19:28:03,0,sommerluk,rue,2,0,sommerluk,
+737584,Bénin,6.3868417,2.2266056,2016-10-04 00:00:00,2016-10-06 19:28:02,0,sommerluk,con. rue res pr pr res,2,0,sommerluk,
+737579,Bénin,6.3884965,2.2649085,2016-10-04 00:00:00,2016-10-06 19:28:01,0,sommerluk,con. + rue,2,0,sommerluk,
+737574,Bénin,6.3886123,2.3039208,2016-10-04 00:00:00,2016-10-06 19:28:00,0,sommerluk,colline pieton,2,0,sommerluk,
+737569,Bénin,6.3854354,2.3292950,2016-10-04 00:00:00,2016-10-06 19:27:59,0,sommerluk,con. vers cimetiéfe,2,0,sommerluk,
+737564,Bénin,6.3892036,2.3437285,2016-10-04 00:00:00,2016-10-06 19:27:58,0,sommerluk,rue,2,0,sommerluk,
+737554,Bénin,6.3870467,2.3707741,2016-10-04 00:00:00,2016-10-06 12:19:56,0,sommerluk,con.,2,0,sommerluk,
+737555,Bénin,6.3889963,2.3609379,2016-10-04 00:00:00,2016-10-06 12:19:54,0,sommerluk,90 o,2,0,sommerluk,
+737549,Bénin,6.4733742,2.6056464,2016-10-04 00:00:00,2016-10-06 12:18:26,0,sommerluk,power tower terre,2,0,sommerluk,
+737550,Bénin,6.4701510,2.6135661,2016-10-04 00:00:00,2016-10-06 12:18:21,0,sommerluk,residential,2,0,sommerluk,
+737546,Bénin,6.4733830,2.6055433,2016-10-04 00:00:00,2016-10-06 12:18:20,0,sommerluk,rond point,2,0,sommerluk,
+737552,Bénin,6.3771950,2.3892667,2016-10-04 00:00:00,2016-10-06 12:18:16,0,sommerluk,Boulevard de l Europe,2,0,sommerluk,
+737547,Bénin,6.4785172,2.6069150,2016-10-04 00:00:00,2016-10-06 12:18:10,0,sommerluk,con.,2,0,sommerluk,
+737553,Bénin,6.3774367,2.3849683,2016-10-04 00:00:00,2016-10-06 12:18:05,0,sommerluk,debut rue servici ICI,2,0,sommerluk,
+737548,Bénin,6.4800351,2.6085338,2016-10-04 00:00:00,2016-10-06 12:18:04,0,sommerluk,con.,2,0,sommerluk,
+737544,Bénin,6.4706460,2.6219461,2016-10-04 00:00:00,2016-10-06 12:12:17,0,sommerluk,name,2,0,sommerluk,
+737539,Bénin,6.5056252,2.6427562,2016-10-04 00:00:00,2016-10-06 12:12:16,0,sommerluk,pas con.,2,0,sommerluk,
+737545,Bénin,6.4730981,2.6202535,2016-10-04 00:00:00,2016-10-06 12:12:15,0,sommerluk,Place de Tofá,2,0,sommerluk,
+737540,Bénin,6.5043321,2.6442119,2016-10-04 00:00:00,2016-10-06 12:12:14,0,sommerluk,2x2 asphalt,2,0,sommerluk,
+737541,Bénin,6.5039267,2.6444000,2016-10-04 00:00:00,2016-10-06 12:12:13,0,sommerluk,paving stone 2x1,2,0,sommerluk,
+737542,Bénin,6.4826564,2.6298766,2016-10-04 00:00:00,2016-10-06 12:12:11,0,sommerluk,rond point,2,0,sommerluk,
+737543,Bénin,6.4718591,2.6263172,2016-10-04 00:00:00,2016-10-06 12:12:10,0,sommerluk,2x sens unique,2,0,sommerluk,
+737538,Bénin,6.5122466,2.6134119,2016-10-04 00:00:00,2016-10-06 12:12:09,0,sommerluk,pas de passage,2,0,sommerluk,
+737534,Bénin,6.4566543,2.6209261,2016-10-04 00:00:00,2016-10-06 12:01:46,0,sommerluk,debut voie moto paving stone,2,0,sommerluk,
+737535,Bénin,6.4654926,2.6196107,2016-10-04 00:00:00,2016-10-06 12:01:45,0,sommerluk,pont pour gas,2,0,sommerluk,
+737536,Bénin,6.4672834,2.6194711,2016-10-04 00:00:00,2016-10-06 12:01:44,0,sommerluk,pont fini . pas contin.,2,0,sommerluk,
+737537,Bénin,6.4700470,2.6198959,2016-10-04 00:00:00,2016-10-06 12:01:41,0,sommerluk,con.,2,0,sommerluk,
+737551,Bénin,6.4613618,2.6230135,2016-10-04 00:00:00,2016-10-06 11:55:36,0,sommerluk,wetland + water,2,0,sommerluk,
+737510,Bénin,6.5094483,2.3341200,2016-10-04 00:00:00,2016-10-06 07:46:14,0,sommerluk,ht ici,2,0,sommerluk,
+737512,Bénin,6.3608921,2.4446976,2016-10-04 00:00:00,2016-10-05 21:34:54,0,sommerluk,train d ici,2,0,sommerluk,
+737519,Bénin,6.3692710,2.4907305,2016-10-04 00:00:00,2016-10-05 21:34:52,0,sommerluk,"con, service",2,0,sommerluk,
+737533,Bénin,6.3817873,2.6208822,2016-10-04 00:00:00,2016-10-05 21:34:51,0,sommerluk,destination Porto-Novo,2,0,sommerluk,
+737514,Bénin,6.3664686,2.4568193,2016-10-04 00:00:00,2016-10-05 21:34:50,0,sommerluk,train,2,0,sommerluk,
+737516,Bénin,6.3685737,2.4829367,2016-10-04 00:00:00,2016-10-05 21:34:49,0,sommerluk,pas connecté. service,2,0,sommerluk,
+737523,Bénin,6.3702452,2.5019504,2016-10-04 00:00:00,2016-10-05 21:34:48,0,sommerluk,residential,2,0,sommerluk,
+737652,Bénin,6.3661917,2.4545792,2016-10-04 00:00:00,2016-10-05 21:34:48,0,sommerluk,level crossing,2,0,sommerluk,
+737511,Bénin,6.3611733,2.4447700,2016-10-04 00:00:00,2016-10-05 21:34:47,0,sommerluk,train vets est,2,0,sommerluk,
+737518,Bénin,6.3690424,2.4881519,2016-10-04 00:00:00,2016-10-05 21:34:45,0,sommerluk,service,2,0,sommerluk,
+737513,Bénin,6.3663953,2.4564344,2016-10-04 00:00:00,2016-10-05 21:34:44,0,sommerluk,level crossing,2,0,sommerluk,
+737520,Bénin,6.3696074,2.4940100,2016-10-04 00:00:00,2016-10-05 21:34:43,0,sommerluk,pas con. . . service,2,0,sommerluk,
+737522,Bénin,6.3697110,2.4960740,2016-10-04 00:00:00,2016-10-05 21:34:40,0,sommerluk,pas service,2,0,sommerluk,
+653319,Bénin,6.3669944,2.4687258,2016-08-01 00:00:00,2016-10-05 21:34:39,0,nerus1er,rue 1027,2,0,sommerluk,Fait.
+737651,Bénin,6.3664310,2.4554810,2016-10-04 00:00:00,2016-10-05 21:34:38,0,sommerluk,level crossinh,2,0,sommerluk,
+737524,Bénin,6.3700658,2.5073928,2016-10-04 00:00:00,2016-10-05 21:34:37,0,sommerluk,incompl.,2,0,sommerluk,
+737653,Bénin,6.3636172,2.4467681,2016-10-04 00:00:00,2016-10-05 21:34:36,0,sommerluk,dual carrigeway,2,0,sommerluk,
+737648,Bénin,6.3670533,2.4644761,2016-10-04 00:00:00,2016-10-05 17:14:43,0,sommerluk,chemin fr,2,0,sommerluk,
+737521,Bénin,6.3698639,2.4947311,2016-10-04 00:00:00,2016-10-05 17:14:42,0,sommerluk,rond point incompl,2,0,sommerluk,
+737515,Bénin,6.3682497,2.4783664,2016-10-04 00:00:00,2016-10-05 17:14:41,0,sommerluk,completer le rond-point,2,0,sommerluk,
+737517,Bénin,6.3689493,2.4851861,2016-10-04 00:00:00,2016-10-05 17:14:39,0,sommerluk,rond point incomplet,2,0,sommerluk,
+737650,Bénin,6.3669859,2.4646599,2016-10-04 00:00:00,2016-10-05 05:51:12,0,sommerluk,1 carril,2,0,sommerluk,
+737647,Bénin,6.3638607,2.4648682,2016-10-04 00:00:00,2016-10-05 05:51:11,0,sommerluk,Rue 1.009,2,0,sommerluk,
+737642,Bénin,6.3669718,2.4646021,2016-10-04 00:00:00,2016-10-05 05:51:10,0,sommerluk,manque con. (1 au lieu de 2),2,0,sommerluk,
+737649,Bénin,6.3669650,2.4644378,2016-10-04 00:00:00,2016-10-05 05:51:09,0,sommerluk,1 carril,2,0,sommerluk,
+737646,Bénin,6.3624364,2.4651401,2016-10-04 00:00:00,2016-10-05 05:51:08,0,sommerluk,Rue 1.014,2,0,sommerluk,
+737526,Bénin,6.3715203,2.5306645,2016-10-04 00:00:00,2016-10-04 23:10:38,0,sommerluk,con.,2,0,sommerluk,
+737528,Bénin,6.3728455,2.5460526,2016-10-04 00:00:00,2016-10-04 23:10:37,0,sommerluk,rond point normal,2,0,sommerluk,
+737527,Bénin,6.3717159,2.5376277,2016-10-04 00:00:00,2016-10-04 23:10:37,0,sommerluk,3,2,0,sommerluk,
+737529,Bénin,6.3735569,2.5582206,2016-10-04 00:00:00,2016-10-04 23:10:36,0,sommerluk,zone de vente de voiture,2,0,sommerluk,
+737525,Bénin,6.3705955,2.5212885,2016-10-04 00:00:00,2016-10-04 23:10:35,0,sommerluk,incompl.,2,0,sommerluk,
+737530,Bénin,6.3744252,2.5629483,2016-10-04 00:00:00,2016-10-04 23:02:02,0,sommerluk,normal,2,0,sommerluk,
+737532,Bénin,6.3778664,2.5972175,2016-10-04 00:00:00,2016-10-04 22:56:43,0,sommerluk,servicemoto con.,2,0,sommerluk,
+737531,Bénin,6.3773480,2.5938275,2016-10-04 00:00:00,2016-10-04 22:54:35,0,sommerluk,normal,2,0,sommerluk,
+639448,Bénin,6.3646622,1.9427584,2016-07-23 00:00:00,2016-08-09 09:17:35,0,Cattleya2,yanfandomè débouche sur gbèzoumè,2,0,Cattleya2,
+607610,Bénin,6.3112470,1.9997046,2016-06-28 00:00:00,2016-08-09 07:37:25,0,saliousoft,pont,2,0,Cattleya2,
+607602,Bénin,6.3467850,2.2059683,2016-06-28 00:00:00,2016-08-09 07:13:17,0,saliousoft,pont,2,0,Cattleya2,
+607604,Bénin,6.3259150,2.0412100,2016-06-28 00:00:00,2016-08-09 07:07:17,0,saliousoft,pont,2,0,Cattleya2,
+639447,Bénin,6.3827707,1.9463609,2016-07-23 00:00:00,2016-08-09 06:49:38,0,Cattleya2,Gbononémè,4,1,Cattleya2,
+57437,Bénin,6.3361137,2.1210480,2013-10-14 00:00:00,2016-07-04 09:21:43,0,benoitberlin,Coastlines has to be done!,2,0,Cattleya2,
+481312,Bénin,6.3998127,1.8871156,2015-12-11 00:00:00,2016-06-23 00:06:15,0,AKE Amazan,Night-club Mendela,3,1,Cattleya2,
+476831,Bénin,6.3938326,2.3428017,2015-12-01 00:00:00,2016-06-18 10:48:07,0,SeverinGeo,Pharmacie Godomey Centre,2,0,saliousoft,Done!
+481319,Bénin,6.2726875,1.7951414,2015-12-11 00:00:00,2016-06-18 10:45:38,0,AKE Amazan,Gendarmerie Nationale,2,0,saliousoft,Fait!
+481313,Bénin,6.3986923,1.8809556,2015-12-11 00:00:00,2016-06-18 10:43:35,0,AKE Amazan,Station d'essence Petroleum,2,0,saliousoft,Ajouté
+481311,Bénin,6.4008668,1.8917232,2015-12-11 00:00:00,2016-06-18 10:41:47,0,AKE Amazan,Gendarmerie de Lokossa,2,0,saliousoft,Ce n'est pas la gendarmerie de Lokossa mais celle de Comé
+481310,Bénin,6.4020702,1.8941248,2015-12-11 00:00:00,2016-06-18 10:40:31,0,AKE Amazan,station d'essence,2,0,saliousoft,Fait!
+481309,Bénin,6.4025890,1.8979204,2015-12-11 00:00:00,2016-06-18 10:38:36,0,AKE Amazan,cimetière,2,0,saliousoft,Fait!
+478798,Bénin,6.4028966,1.8977683,2015-12-06 00:00:00,2016-06-18 10:38:16,0,SeverinGeo,cimetiere,2,0,saliousoft,Fait!
+481308,Bénin,6.4023214,1.9042943,2015-12-11 00:00:00,2016-06-18 10:36:01,0,AKE Amazan,Station d'essence Solen,2,0,saliousoft,Fait!
+481307,Bénin,6.4021723,1.9070724,2015-12-11 00:00:00,2016-06-18 10:28:36,0,AKE Amazan,Complexe scolaire Gadomey 1,2,0,saliousoft,C'est fait!
+481302,Bénin,6.3990191,1.9238477,2015-12-11 00:00:00,2016-06-18 10:26:46,0,AKE Amazan,Église Catholique : diocèse de Lokossa,2,0,saliousoft,Fait!
+481286,Bénin,6.3679874,2.0635035,2015-12-11 00:00:00,2016-06-18 10:21:32,0,AKE Amazan,Auberge Sassou,2,0,saliousoft,Ajouté
+481283,Bénin,6.3634357,2.0997144,2015-12-11 00:00:00,2016-06-18 10:18:19,0,AKE Amazan,Hôtel DK,2,0,saliousoft,Fait!
+481264,Bénin,6.3805728,2.3412041,2015-12-11 00:00:00,2016-06-18 10:15:55,0,AKE Amazan,Feu Tricolore,2,0,saliousoft,Fait!
+481266,Bénin,6.3818762,2.3376882,2015-12-11 00:00:00,2016-06-18 10:14:48,0,AKE Amazan,feu tricolore,2,0,saliousoft,Fait !
+481267,Bénin,6.3833182,2.3347644,2015-12-11 00:00:00,2016-06-18 10:14:01,0,AKE Amazan,Pharmacie Espace Santé,2,0,saliousoft,Fait !
+481268,Bénin,6.3844115,2.3319989,2015-12-11 00:00:00,2016-06-18 10:13:25,0,AKE Amazan,Passage piétons,2,0,saliousoft,Fait!
+481269,Bénin,6.3855144,2.3294101,2015-12-11 00:00:00,2016-06-18 10:12:57,0,AKE Amazan,Morgue PK14,2,0,saliousoft,Fait!
+481270,Bénin,6.3866522,2.3266137,2015-12-11 00:00:00,2016-06-18 10:11:16,0,AKE Amazan,Bank of Africa,2,0,saliousoft,Fait
+481275,Bénin,6.3889632,2.3119990,2015-12-11 00:00:00,2016-06-18 10:08:48,0,AKE Amazan,Station d'essence,2,0,saliousoft,Fait!
+481277,Bénin,6.3883236,2.3010695,2015-12-11 00:00:00,2016-06-18 10:08:01,0,AKE Amazan,Feu Tricolore,2,0,saliousoft,Fait!
+481278,Bénin,6.3881396,2.2999181,2015-12-11 00:00:00,2016-06-18 10:07:26,0,AKE Amazan,Église Pentecôte de La Foi,2,0,saliousoft,Fait!
+481279,Bénin,6.3874434,2.2969825,2015-12-11 00:00:00,2016-06-18 10:06:49,0,AKE Amazan,Station d'essence,2,0,saliousoft,Fait!
+536901,Bénin,6.3723037,2.4472260,2016-04-01 00:00:00,2016-06-18 10:00:22,0,Unknown,CED (Centre d'Etude et de Documentation),2,0,saliousoft,existe déjà
+478216,Bénin,6.3575212,2.4262019,2015-12-04 00:00:00,2016-06-18 09:55:26,0,SeverinGeo,feu route,2,0,saliousoft,Fait!
+570760,Bénin,6.3603897,2.4218641,2016-05-22 00:00:00,2016-06-18 09:53:44,0,ilasolthah,pharmacie saint jean,2,0,saliousoft,Done!
+478212,Bénin,6.3563251,2.4174481,2015-12-04 00:00:00,2016-06-18 09:50:48,0,SeverinGeo,feu rouge,2,0,saliousoft,Done!
+478210,Bénin,6.3784569,2.3801921,2015-12-04 00:00:00,2016-06-18 09:48:02,0,SeverinGeo,Atlantic Oil station essence,2,0,saliousoft,Fait!
+478209,Bénin,6.3800463,2.3796345,2015-12-04 00:00:00,2016-06-18 09:46:59,0,SeverinGeo,feu rouge,2,0,saliousoft,Fait!
+481261,Bénin,6.3873222,2.3684987,2015-12-11 00:00:00,2016-06-18 09:44:37,0,AKE Amazan,Bar La Patience d'or,2,0,saliousoft,C'est fait
+481260,Bénin,6.3876182,2.3686210,2015-12-11 00:00:00,2016-06-18 09:42:43,0,AKE Amazan,Panneau ' Stop',2,0,saliousoft,Done!
+481262,Bénin,6.3881921,2.3641899,2015-12-11 00:00:00,2016-06-18 08:44:37,0,AKE Amazan,Diamond Bank,2,0,saliousoft,C'est fait!
+481263,Bénin,6.3861142,2.3480874,2015-12-11 00:00:00,2016-06-18 08:43:39,0,AKE Amazan,Garage Américain Sarl,2,0,saliousoft,c'est fait!
+529474,Bénin,6.5197883,2.3593733,2016-03-18 00:00:00,2016-06-15 23:07:32,0,Cattleya2,fin de la double voix,2,0,sommerluk,Fixed. Closed.
+572008,Bénin,6.3889471,2.3128711,2016-05-23 00:00:00,2016-05-24 17:07:25,0,SeverinGeo,nettoyer géométrie route possible tourner vers sud en venant Est,2,0,SeverinGeo,corrigé
+481274,Bénin,6.3890504,2.3131299,2015-12-11 00:00:00,2016-05-24 17:07:23,0,AKE Amazan,Feu tricolore,2,0,SeverinGeo,ajouté en decembre 2015
+536704,Bénin,6.3552113,2.4184299,2016-04-01 00:00:00,2016-04-01 10:39:06,0,toundoh2050,rien,4,1,toundoh2050,
+481293,Bénin,6.3913477,1.9930380,2015-12-11 00:00:00,2015-12-27 22:50:24,0,AKE Amazan,École (Complexe Scolaire),2,0,Wim L,Complexe Scolare Agonkamey A&B added to map
+439199,Bénin,6.3543263,2.4357784,2015-09-22 00:00:00,2015-09-22 06:58:36,0,Iréné ADJOVI,Bénin Telecom SA,2,0,Iréné ADJOVI,
+439197,Bénin,6.3540491,2.4375004,2015-09-22 00:00:00,2015-09-22 06:56:35,0,Iréné ADJOVI,Direction Générale MTN,2,0,Iréné ADJOVI,
+439195,Bénin,6.3578557,2.4372482,2015-09-22 00:00:00,2015-09-22 06:55:22,0,Iréné ADJOVI,Direction Commerciale MTN,4,1,Iréné ADJOVI,
+361770,Bénin,6.4429062,2.3340368,2015-05-11 00:00:00,2015-05-11 15:58:06,0,Rufin Hounkpe,Ce séminaire s'appelle 'Centre Bresillac' et appartient à la congrégation de la Société des Missions Africaines.,6,1,Rufin Hounkpe,"Ce nœud représente le nom du quartier, ne pas du seminaire lui-même. Au fait, le seminaire se trouve 200 m plus vers le nord. Car je ne sais pas comment représenter le seminaire en OSM (pas d’étiquette établi pour ce type d’institution), je ferme cette note pour le moment."
+294788,Bénin,6.3686252,2.4267805,2015-01-02 00:00:00,2015-01-09 08:28:12,0,IT-NUM,added,2,0,benoitberlin,
+223103,Bénin,6.4733027,2.6193541,2014-08-18 00:00:00,2014-08-29 07:52:25,0,Unknown,Ecole catholique notre dame de lourdes,2,0,slyon,"École ajoutée à la carte, Église corrigée"
+81023,Bénin,6.4244835,2.3163986,2013-11-30 00:00:00,2014-04-11 08:35:51,0,Unknown,Tankpè au lieu de Tangbè,2,0,benoitberlin,done
+81026,Bénin,6.4057190,2.3352814,2013-11-30 00:00:00,2014-04-11 08:35:19,0,Unknown,Togoudo au lieu de Togodou,2,0,benoitberlin,done
+30590,Bénin,6.4209013,2.3285866,2013-08-23 00:00:00,2013-11-23 23:38:33,0,Unknown,state,3,0,AKE Amazan,
+47365,Bénin,10.6363144,2.6762009,2013-09-24 00:00:00,2013-11-20 12:49:41,0,Unknown,fsz,3,0,mikkooks,
+34761,Bénin,6.3705977,2.4102491,2013-08-31 00:00:00,2013-08-31 17:21:29,0,belhmaster,Place de l'Etoile Rouge,2,0,belhmaster,
+7076,Bénin,6.4564669,2.6206684,2013-06-11 00:00:00,2013-08-19 14:40:23,0,Unknown,Routing in South direction on RNIE1 is not possible,2,0,benoitberlin,made a second route in south direction
+6128,Bénin,6.2671816,2.4425697,2013-06-05 00:00:00,2013-06-05 17:28:10,0,Unknown,salut et bienvenu au Benin,2,0,Jiří Komárek,

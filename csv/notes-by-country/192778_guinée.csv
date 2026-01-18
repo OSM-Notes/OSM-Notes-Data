@@ -1,0 +1,458 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1617881,Guinée,11.7382512,-12.9018425,2018-12-15 00:00:00,2026-01-04 15:48:06,2577,stephengmatthews,"'There is now a bridge for vehicles and pedestrians.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-ferry_terminal OSM data version: 2018-10-30T22:25:02Z  #mapsme",2,0,tbo47,bridge added
+1617880,Guinée,11.7380674,-12.9025855,2018-12-15 00:00:00,2026-01-04 15:48:05,2577,stephengmatthews,"'There is now a bridge for vehicles and pedestrians.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-ferry_terminal OSM data version: 2018-10-30T22:25:02Z  #mapsme",2,0,tbo47,bridge added
+2319338,Guinée,12.3953107,-13.3675205,2020-08-23 00:00:00,2026-01-04 15:43:14,1960,Yayakante,Sinthian Baradi,2,0,tbo47,there is nothing on the satellite view
+468998,Guinée,12.5795283,-13.3714771,2015-11-15 00:00:00,2026-01-04 15:42:18,3703,Unknown,Hôtel des monts Badiar à Sambaïlo,4,1,tbo47,https://www.openstreetmap.org/node/8270014930
+5060145,Guinée,12.0225603,-12.3399022,2025-11-19 00:00:00,2025-11-19 17:58:37,0,al-hadj lamarana djalo,manghel,2,0,al-hadj lamarana djalo,manghel
+3656482,Guinée,10.6826700,-14.6115100,2023-04-23 00:00:00,2025-09-05 23:46:13,0,Yijia Liu,What is the Port' name?,2,0,NeisBot,"The original content of this note has been removed due to the deletion or deactivation of the associated OSM user account. Consequently, this note is now automatically closed.  #NothingToDoHere"
+3550018,Guinée,10.9767659,-14.2686977,2023-02-08 00:00:00,2025-03-21 10:18:52,0,Msesay,Direction Générale de L'institut Supérieur des Mines et Géologie de Boké  via StreetComplete 50.2,3,1,MC 22,
+4247558,Guinée,9.6515160,-13.5953373,2024-05-15 00:00:00,2025-03-14 20:50:31,0,Tountouroun,'Clinique Médicale Néné Aminata de  Kobaya' POI name: Clinique Médicale Néné Aminata de  Kobaya POI types: amenity-clinic OSM data version: 2023-08-19T03:34:12Z  #mapsme,3,0,NeisBot,"It seems that the requested information has been added, so I am proceeding to close this note.  Should you have additional details, please feel free to reopen this note.  #Closing"
+2944991,Guinée,9.5321799,-13.6886340,2021-11-22 00:00:00,2024-10-04 15:31:19,0,Sekou Yaya Bah,Maison  via StreetComplete 37.2,2,0,ama_xvi,Non pertinent (domicile personnel)
+1775576,Guinée,9.5217550,-13.6896333,2019-05-11 00:00:00,2024-10-04 15:30:39,0,Aguibou,"'Ce restaurant a également un service traiteur pour des organisateurs d'événements, des chaises, tentes et chapiteaux climatisés à louer avec une équipe compétente pour répondre à vos besoins.' POI name: Restaurant Nimba Chez chef Issa POI types: amenity-restaurant OSM data version: 2019-03-28T14:13:02Z  #mapsme",2,0,ama_xvi,Non pertinent (publicité)
+1673110,Guinée,9.5088300,-13.7039100,2019-02-06 00:00:00,2024-10-04 15:29:49,0,Komabs16,The site for the project Zoom On Noom,2,0,ama_xvi,Non pertinent (projet temporaire)
+3110021,Guinée,9.5249876,-13.6687452,2022-03-29 00:00:00,2024-10-04 15:29:16,0,Bah hp,Lambanyi ISSEG   BAH IBRA HP,2,0,ama_xvi,"Point situé dans la mer, impossible"
+2961304,Guinée,10.3722700,-9.3042200,2021-12-06 00:00:00,2024-10-04 15:09:59,0,Unknown,Gouvernorat de Kankan,2,0,ama_xvi,
+3504291,Guinée,9.8772000,-12.4480000,2023-01-04 00:00:00,2024-09-30 23:20:08,0,Unknown,Madina oula,2,0,Imotep24,
+141102,Guinée,7.7633139,-8.8291969,2014-03-28 00:00:00,2024-08-16 08:55:58,0,Takuto,Possibly collpased bridge? Bing imagery not clear enough,2,0,Takuto,
+141222,Guinée,7.7501863,-8.8203549,2014-03-28 00:00:00,2024-08-16 08:55:13,0,Takuto,Is it markeptlace of some sort?,2,0,Takuto,
+1933313,Guinée,7.9318718,-8.9420236,2019-09-20 00:00:00,2024-06-21 18:50:21,0,mountenjoy,continue here with road relation,2,0,mountenjoy,
+2715937,Guinée,12.0227600,-12.3399600,2021-06-16 00:00:00,2024-06-13 15:45:38,0,Unknown,manghel,4,1,al-hadj lamarana djalo,MANGHEL
+1055092,Guinée,9.6902000,-13.3603000,2017-07-06 00:00:00,2024-06-05 21:13:21,0,Unknown,Lac de Kendoumayah ou Mandanyah ?,3,0,ddaouda1989,
+614616,Guinée,11.1157789,-12.4815618,2016-07-03 00:00:00,2024-05-29 14:20:31,0,Mawdho Mamou,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-06-20T05:57:02Z) #mapsme",2,0,sheikchilli,this village still exists
+3859819,Guinée,10.5053000,-14.6451000,2023-08-29 00:00:00,2024-03-25 14:04:36,0,Unknown,Pukur,4,1,Neigelily,
+144475,Guinée,10.3318371,-10.4634729,2014-04-03 00:00:00,2024-03-05 23:24:20,0,LordOfMaps,village?,2,0,snoozingnewt,nope
+3989879,Guinée,9.6091000,-10.8770000,2023-11-16 00:00:00,2024-01-17 06:29:10,0,Unknown,START OF NIGER RIVER,2,0,NeisBot,#NotHelpfullInformation #StartEnd
+614582,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2023-12-02 22:06:08,0,Mawdho Mamou,Doghol Touma (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,zluuzki,not here
+614584,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2023-12-02 22:06:03,0,Mawdho Mamou,Sangareah (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,zluuzki,not here
+614591,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2023-12-02 22:05:59,0,Mawdho Mamou,Sangareh (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,zluuzki,not here
+614598,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2023-12-02 22:05:54,0,Mawdho Mamou,N'Doghol Touma (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,zluuzki,not here
+614607,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2023-12-02 22:05:49,0,Mawdho Mamou,Mamou (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,zluuzki,not here
+614608,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2023-12-02 22:05:45,0,Mawdho Mamou,Sangaréah (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,zluuzki,not here
+614623,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2023-12-02 22:05:41,0,Mawdho Mamou,Kindia (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,zluuzki,not here
+614639,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2023-12-02 22:05:36,0,Mawdho Mamou,Sangaredi (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,zluuzki,not here
+614644,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2023-12-02 22:05:31,0,Mawdho Mamou,sangaréa (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,zluuzki,not here
+614579,Guinée,11.0564633,-12.3950499,2016-07-03 00:00:00,2023-12-02 22:05:26,0,Mawdho Mamou,Timbi Madina (OSM data version: 2016-06-20T05:57:02Z) #mapsme,4,1,zluuzki,not here
+3855396,Guinée,9.6532225,-13.5953168,2023-08-26 00:00:00,2023-11-14 11:18:15,0,Tountouroun,POI has no name POI types: amenity-clinic OSM data version: 2023-06-06T06:59:44Z  #mapsme,2,0,confusedbuffalo,Note adds no information
+3342191,Guinée,11.4545134,-10.9510088,2022-09-02 00:00:00,2023-10-24 14:17:20,0,Mateusz Konieczny,https://tasks.hotosm.org/projects/12631 - who was validating that? This project and maybe other in this area added bunch of `landuse=hut`  https://www.openstreetmap.org/way/1066684253 https://taginfo.openstreetmap.org/tags/landuse=hut#map,3,0,confusedbuffalo,This has since been fixed and taginfo shows no usage of landuse=hut
+3529949,Guinée,10.6440750,-14.5587730,2023-01-24 00:00:00,2023-10-24 14:15:27,0,Unknown,filima,2,0,confusedbuffalo,Not enough information to map anything
+3529955,Guinée,10.6607767,-14.5751238,2023-01-24 00:00:00,2023-10-24 14:15:26,0,Unknown,kassogoni,2,0,confusedbuffalo,Not enough information to map anything
+3530099,Guinée,11.3152824,-12.2759342,2023-01-24 00:00:00,2023-10-24 14:15:23,0,Unknown,^dow sare,2,0,confusedbuffalo,Not enough information to map anything
+3530101,Guinée,11.3190855,-12.2801292,2023-01-24 00:00:00,2023-10-24 14:15:22,0,Unknown,mairie,2,0,confusedbuffalo,Not enough information to map anything
+3530106,Guinée,11.3174917,-12.2735015,2023-01-24 00:00:00,2023-10-24 14:15:21,0,Unknown,mosquée labé,2,0,confusedbuffalo,Not enough information to map anything
+3530108,Guinée,11.3037099,-12.2997522,2023-01-24 00:00:00,2023-10-24 14:15:20,0,Unknown,panthioun,2,0,confusedbuffalo,Not enough information to map anything
+3530110,Guinée,11.3201638,-12.3488045,2023-01-24 00:00:00,2023-10-24 14:15:19,0,Unknown,safatou,2,0,confusedbuffalo,Not enough information to map anything
+3530116,Guinée,11.3389311,-12.2935295,2023-01-24 00:00:00,2023-10-24 14:15:17,0,Unknown,tata labé,2,0,confusedbuffalo,Not enough information to map anything
+3530150,Guinée,10.3611909,-12.0907974,2023-01-24 00:00:00,2023-10-24 14:15:14,0,Unknown,poud,2,0,confusedbuffalo,Not enough information to map anything
+3530156,Guinée,7.7565649,-8.7905961,2023-01-24 00:00:00,2023-10-24 14:15:13,0,Unknown,belle vue n',2,0,confusedbuffalo,Not enough information to map anything
+3530178,Guinée,7.7548312,-8.8263838,2023-01-24 00:00:00,2023-10-24 14:15:12,0,Unknown,gonia,2,0,confusedbuffalo,Not enough information to map anything
+3530171,Guinée,7.7401914,-8.8179047,2023-01-24 00:00:00,2023-10-24 14:15:12,0,Unknown,commercial,2,0,confusedbuffalo,Not enough information to map anything
+3530184,Guinée,7.7722425,-8.8067094,2023-01-24 00:00:00,2023-10-24 14:15:11,0,Unknown,horoya,2,0,confusedbuffalo,Not enough information to map anything
+3530209,Guinée,7.7478260,-8.8002755,2023-01-24 00:00:00,2023-10-24 14:15:10,0,Unknown,wes,2,0,confusedbuffalo,Not enough information to map anything
+3530220,Guinée,11.1998858,-12.5422990,2023-01-24 00:00:00,2023-10-24 14:15:08,0,Unknown,ti,2,0,confusedbuffalo,Not enough information to map anything
+3530229,Guinée,11.4265864,-9.1664815,2023-01-24 00:00:00,2023-10-24 14:15:06,0,Unknown,pos,2,0,confusedbuffalo,Not enough information to map anything
+3504493,Guinée,11.3450000,-12.2621000,2023-01-04 00:00:00,2023-10-24 14:14:47,0,Unknown,fadi,2,0,confusedbuffalo,Not enough information to map anything
+3525658,Guinée,9.5393464,-13.6823130,2023-01-20 00:00:00,2023-10-24 14:14:46,0,Unknown,camayenne,2,0,confusedbuffalo,Not enough information to map anything
+3528874,Guinée,8.8783723,-8.2710743,2023-01-23 00:00:00,2023-10-24 14:14:45,0,Unknown,senko centre,2,0,confusedbuffalo,Not enough information to map anything
+3528931,Guinée,10.9341867,-14.2839405,2023-01-23 00:00:00,2023-10-24 14:14:44,0,Unknown,filira,2,0,confusedbuffalo,Not enough information to map anything
+3528934,Guinée,9.5581156,-13.6657798,2023-01-23 00:00:00,2023-10-24 14:14:43,0,Unknown,bellvue,2,0,confusedbuffalo,Not enough information to map anything
+3528970,Guinée,9.5536191,-13.6598682,2023-01-23 00:00:00,2023-10-24 14:14:42,0,Unknown,kenien,2,0,confusedbuffalo,Not enough information to map anything
+3528973,Guinée,9.5061644,-13.7156796,2023-01-23 00:00:00,2023-10-24 14:14:41,0,Unknown,boulbinet,2,0,confusedbuffalo,Not enough information to map anything
+3528974,Guinée,9.5154971,-13.7036741,2023-01-23 00:00:00,2023-10-24 14:14:40,0,Unknown,coronthie,2,0,confusedbuffalo,Not enough information to map anything
+3528975,Guinée,9.5090320,-13.7068391,2023-01-23 00:00:00,2023-10-24 14:14:39,0,Unknown,koul,2,0,confusedbuffalo,Not enough information to map anything
+3528978,Guinée,9.5100901,-13.7031269,2023-01-23 00:00:00,2023-10-24 14:14:38,0,Unknown,temene,2,0,confusedbuffalo,Not enough information to map anything
+3528981,Guinée,9.5567451,-13.6387818,2023-01-23 00:00:00,2023-10-24 14:14:37,0,Unknown,bonfi,2,0,confusedbuffalo,Not enough information to map anything
+3528980,Guinée,9.5204914,-13.6949944,2023-01-23 00:00:00,2023-10-24 14:14:37,0,Unknown,tombo,2,0,confusedbuffalo,Not enough information to map anything
+3528982,Guinée,9.5471226,-13.6600792,2023-01-23 00:00:00,2023-10-24 14:14:36,0,Unknown,bousora,2,0,confusedbuffalo,Not enough information to map anything
+3528996,Guinée,9.5437796,-13.6655116,2023-01-23 00:00:00,2023-10-24 14:14:35,0,Unknown,madina mosque,2,0,confusedbuffalo,Not enough information to map anything
+3529016,Guinée,9.6493913,-13.5723790,2023-01-23 00:00:00,2023-10-24 14:14:34,0,Unknown,enta,2,0,confusedbuffalo,Not enough information to map anything
+3529029,Guinée,9.6071816,-13.5938644,2023-01-23 00:00:00,2023-10-24 14:14:33,0,Unknown,matoto,2,0,confusedbuffalo,Not enough information to map anything
+3529076,Guinée,9.6217654,-13.5764770,2023-01-23 00:00:00,2023-10-24 14:14:32,0,Unknown,sangoyah,2,0,confusedbuffalo,Not enough information to map anything
+3529114,Guinée,9.8117473,-13.4742165,2023-01-23 00:00:00,2023-10-24 14:14:31,0,Unknown,simbaya,2,0,confusedbuffalo,Not enough information to map anything
+3529108,Guinée,9.6366168,-13.6112764,2023-01-23 00:00:00,2023-10-24 14:14:31,0,Unknown,lambanyi,2,0,confusedbuffalo,Not enough information to map anything
+3529115,Guinée,9.5953295,-13.6255222,2023-01-23 00:00:00,2023-10-24 14:14:30,0,Unknown,kolo,2,0,confusedbuffalo,Not enough information to map anything
+3529117,Guinée,9.5784813,-13.6615839,2023-01-23 00:00:00,2023-10-24 14:14:29,0,Unknown,toyah,2,0,confusedbuffalo,Not enough information to map anything
+3529119,Guinée,9.7082111,-13.3888149,2023-01-23 00:00:00,2023-10-24 14:14:28,0,Unknown,coyah,2,0,confusedbuffalo,Not enough information to map anything
+3529839,Guinée,9.7875579,-13.5145569,2023-01-24 00:00:00,2023-10-24 14:14:28,0,Unknown,dubreka,2,0,confusedbuffalo,Not enough information to map anything
+3529921,Guinée,11.7534284,-13.1998158,2023-01-24 00:00:00,2023-10-24 14:14:27,0,Unknown,gaoual,2,0,confusedbuffalo,Not enough information to map anything
+3529924,Guinée,8.5616513,-10.1328278,2023-01-24 00:00:00,2023-10-24 14:14:26,0,Unknown,gueckeou,2,0,confusedbuffalo,Not enough information to map anything
+3529928,Guinée,8.5523341,-10.1354027,2023-01-24 00:00:00,2023-10-24 14:14:25,0,Unknown,gueckedou centre,2,0,confusedbuffalo,Not enough information to map anything
+3529959,Guinée,11.4268809,-9.1685629,2023-01-24 00:00:00,2023-10-24 14:14:23,0,Unknown,energie quartier,2,0,confusedbuffalo,Not enough information to map anything
+3530080,Guinée,10.0457154,-12.8576417,2023-01-24 00:00:00,2023-10-24 14:14:22,0,Unknown,manquepas,2,0,confusedbuffalo,Not enough information to map anything
+3529964,Guinée,10.3795687,-9.2952115,2023-01-24 00:00:00,2023-10-24 14:14:22,0,Unknown,timbo,2,0,confusedbuffalo,Not enough information to map anything
+3530123,Guinée,7.7988439,-8.5247040,2023-01-24 00:00:00,2023-10-24 14:14:16,0,Unknown,lola,2,0,confusedbuffalo,Not enough information to map anything
+3530149,Guinée,10.3595023,-12.0822144,2023-01-24 00:00:00,2023-10-24 14:14:15,0,Unknown,poudriere,4,1,confusedbuffalo,Not enough information to map anything
+3530234,Guinée,11.4194669,-9.1691422,2023-01-24 00:00:00,2023-10-24 14:14:09,0,Unknown,kouroudakoro,2,0,confusedbuffalo,Not enough information to map anything
+3451715,Guinée,10.0104000,-12.8724000,2022-11-22 00:00:00,2023-10-24 14:13:48,0,Unknown,TURF,2,0,confusedbuffalo,This does not seem to refer to something that should be mapped in OSM #invalid
+3503924,Guinée,9.6822585,-13.5633516,2023-01-04 00:00:00,2023-10-24 14:13:41,0,Unknown,sonfonia,2,0,confusedbuffalo,Not enough information to map anything
+3504234,Guinée,10.9087000,-13.1737000,2023-01-04 00:00:00,2023-10-24 14:13:38,0,Unknown,guillère centre,2,0,confusedbuffalo,Not enough information to map anything
+3504237,Guinée,9.7211100,-13.4675600,2023-01-04 00:00:00,2023-10-24 14:13:36,0,Unknown,Gomboya,2,0,confusedbuffalo,Not enough information to map anything
+3519543,Guinée,10.0662000,-11.9203000,2023-01-15 00:00:00,2023-10-24 14:13:34,0,Unknown,"construction voie ferrée matakong-Simandou, a confirmer. vu sur google maps satellite.",2,0,confusedbuffalo,Not a compatible source
+3602081,Guinée,10.6110000,-14.7140000,2023-03-17 00:00:00,2023-10-24 14:11:03,0,Extrudate13,Waypoint1,2,0,confusedbuffalo,This sounds like a personal bookmark of some sort and not something that should be mapped in OSM #invalid
+3753309,Guinée,10.3777654,-9.3003291,2023-06-27 00:00:00,2023-10-24 14:10:18,0,Unknown,kabada,2,0,confusedbuffalo,Not enough information to map anything
+3753370,Guinée,10.4123520,-9.3313408,2023-06-27 00:00:00,2023-10-24 14:10:16,0,Unknown,missira,2,0,confusedbuffalo,Not enough information to map anything
+3753377,Guinée,9.6684166,-13.5311725,2023-06-27 00:00:00,2023-10-24 14:10:15,0,Unknown,lansanaya,2,0,confusedbuffalo,Not enough information to map anything
+3753433,Guinée,10.9111900,-14.3072891,2023-06-27 00:00:00,2023-10-24 14:10:14,0,Unknown,yomboya,2,0,confusedbuffalo,Not enough information to map anything
+3753778,Guinée,9.5448693,-13.6628991,2023-06-27 00:00:00,2023-10-24 14:10:13,0,Unknown,madina ecole,2,0,confusedbuffalo,Not enough information to map anything
+3753540,Guinée,9.7239043,-13.4915972,2023-06-27 00:00:00,2023-10-24 14:10:13,0,Unknown,tobolon,2,0,confusedbuffalo,Not enough information to map anything
+3753860,Guinée,10.3792982,-9.2852926,2023-06-27 00:00:00,2023-10-24 14:10:12,0,Unknown,dalako,2,0,confusedbuffalo,Not enough information to map anything
+3753872,Guinée,11.3479461,-12.3176010,2023-06-27 00:00:00,2023-10-24 14:10:11,0,Unknown,poreko,2,0,confusedbuffalo,Not enough information to map anything
+3753911,Guinée,10.3926716,-9.2738771,2023-06-27 00:00:00,2023-10-24 14:10:09,0,Unknown,senkefara,2,0,confusedbuffalo,Not enough information to map anything
+3753945,Guinée,9.6280627,-13.6172318,2023-06-27 00:00:00,2023-10-24 14:10:07,0,Unknown,yembeya,2,0,confusedbuffalo,Not enough information to map anything
+3754059,Guinée,7.6465393,-8.5061404,2023-06-27 00:00:00,2023-10-24 14:10:06,0,Unknown,bossou centre,2,0,confusedbuffalo,Not enough information to map anything
+3755176,Guinée,10.6786213,-14.6085763,2023-06-28 00:00:00,2023-10-24 14:10:05,0,Unknown,Port Nene,2,0,confusedbuffalo,Not enough information to map anything
+3755278,Guinée,11.5975908,-9.5637703,2023-06-28 00:00:00,2023-10-24 14:10:04,0,Unknown,alahine,2,0,confusedbuffalo,Not enough information to map anything
+3755635,Guinée,11.3253791,-8.4125447,2023-06-28 00:00:00,2023-10-24 14:10:03,0,Unknown,balandougouba,2,0,confusedbuffalo,Not enough information to map anything
+3755699,Guinée,11.3181308,-12.2766772,2023-06-28 00:00:00,2023-10-24 14:10:02,0,Unknown,mosque,2,0,confusedbuffalo,Not enough information to map anything
+3755787,Guinée,10.9597985,-8.3343053,2023-06-28 00:00:00,2023-10-24 14:10:01,0,Unknown,Niantanina,2,0,confusedbuffalo,Not enough information to map anything
+3755796,Guinée,9.8066945,-13.4969506,2023-06-28 00:00:00,2023-10-24 14:10:00,0,Unknown,tanene,2,0,confusedbuffalo,Not enough information to map anything
+3756743,Guinée,10.8770656,-14.4624925,2023-06-29 00:00:00,2023-10-24 14:09:59,0,Unknown,Katougouma Port,2,0,confusedbuffalo,Not enough information to map anything
+3757093,Guinée,10.6467954,-14.6099710,2023-06-29 00:00:00,2023-10-24 14:09:59,0,Unknown,usine,2,0,confusedbuffalo,Not enough information to map anything
+3757099,Guinée,11.4110946,-12.2581939,2023-06-29 00:00:00,2023-10-24 14:09:58,0,Unknown,Tountouroun,2,0,confusedbuffalo,Not enough information to map anything
+3757348,Guinée,10.5128767,-12.2029781,2023-06-29 00:00:00,2023-10-24 14:09:57,0,Unknown,kendouma,2,0,confusedbuffalo,Not enough information to map anything
+3758124,Guinée,9.4235790,-13.0734193,2023-06-30 00:00:00,2023-10-24 14:09:56,0,Unknown,kebeyah,2,0,confusedbuffalo,Not enough information to map anything
+3758162,Guinée,9.1028189,-10.0094102,2023-06-30 00:00:00,2023-10-24 14:09:55,0,Unknown,Beindou,2,0,confusedbuffalo,Not enough information to map anything
+3758564,Guinée,12.2490952,-11.5016556,2023-06-30 00:00:00,2023-10-24 14:09:54,0,Unknown,Balaki,2,0,confusedbuffalo,Not enough information to map anything
+3758565,Guinée,11.2919580,-12.2825325,2023-06-30 00:00:00,2023-10-24 14:09:53,0,Unknown,Fafabhe,2,0,confusedbuffalo,Not enough information to map anything
+3758568,Guinée,11.5875853,-12.4635601,2023-06-30 00:00:00,2023-10-24 14:09:52,0,Unknown,lafou,2,0,confusedbuffalo,Not enough information to map anything
+3758581,Guinée,10.9687417,-9.3907517,2023-06-30 00:00:00,2023-10-24 14:09:51,0,Unknown,Nounkounkan,2,0,confusedbuffalo,Not enough information to map anything
+3758584,Guinée,11.1083029,-12.2983360,2023-06-30 00:00:00,2023-10-24 14:09:50,0,Unknown,Bantignel Centre,2,0,confusedbuffalo,Not enough information to map anything
+3758610,Guinée,7.7350056,-8.8291508,2023-06-30 00:00:00,2023-10-24 14:09:49,0,Unknown,Yomou Centre,2,0,confusedbuffalo,Not enough information to map anything
+3758614,Guinée,9.4817837,-13.8274527,2023-06-30 00:00:00,2023-10-24 14:09:48,0,Unknown,Iles Tamara,2,0,confusedbuffalo,Not enough information to map anything
+3761901,Guinée,8.5542682,-8.8895867,2023-07-02 00:00:00,2023-10-24 14:09:47,0,Unknown,rio tinto,2,0,confusedbuffalo,Not enough information to map anything
+3758634,Guinée,9.3663410,-12.7618486,2023-06-30 00:00:00,2023-10-24 14:09:47,0,Unknown,Tassen,2,0,confusedbuffalo,Not enough information to map anything
+3761936,Guinée,9.6225305,-13.5820627,2023-07-02 00:00:00,2023-10-24 14:09:46,0,Unknown,Kiaye Centre,2,0,confusedbuffalo,Not enough information to map anything
+3761958,Guinée,11.2510120,-13.9443058,2023-07-02 00:00:00,2023-10-24 14:09:45,0,Unknown,Aye_koye,2,0,confusedbuffalo,Not enough information to map anything
+3761962,Guinée,11.3128174,-12.2862432,2023-07-02 00:00:00,2023-10-24 14:09:44,0,Unknown,kouroula,2,0,confusedbuffalo,Not enough information to map anything
+3763261,Guinée,10.2824913,-13.4228897,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Bady,2,0,confusedbuffalo,Not enough information to map anything
+3763301,Guinée,10.2726736,-8.1382059,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Bougoula,2,0,confusedbuffalo,Not enough information to map anything
+3762925,Guinée,10.5715801,-9.5155081,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Tenkelen,2,0,confusedbuffalo,Not enough information to map anything
+3765978,Guinée,10.0502474,-12.8442192,2023-07-05 00:00:00,2023-10-24 14:09:43,0,Unknown,Daressalam,2,0,confusedbuffalo,Not enough information to map anything
+3763354,Guinée,9.9485484,-12.8821483,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Kilissi,2,0,confusedbuffalo,Not enough information to map anything
+3762973,Guinée,10.2919736,-9.3634093,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Makonon,2,0,confusedbuffalo,Not enough information to map anything
+3763035,Guinée,11.9013489,-10.6271884,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Fandanda,2,0,confusedbuffalo,Not enough information to map anything
+3765987,Guinée,9.5844797,-13.6402050,2023-07-05 00:00:00,2023-10-24 14:08:30,0,Unknown,Djounkoun,2,0,confusedbuffalo,Not enough information to map anything
+3758683,Guinée,11.5985546,-10.2651800,2023-06-30 00:00:00,2023-07-28 00:36:46,0,Unknown,bouka,2,0,Berete Baba,
+3733469,Guinée,8.4936801,-8.8158417,2023-06-13 00:00:00,2023-06-14 15:01:10,0,Unknown,"YOU HAVE STOLEN MY ONLINE ACCOUNTS, MY NAME, PHONE NUMBER, ALL OF MY CONTACTS, USING ALL OF MY DATA, DISABLED ME FROM USE OF MY PERSONAL INFORMATION, PHONE, INTERNET ACCOUNTS, ETC ETC ETC 👿👹 YOUR HACKER'S PLAIN AND SIMPLE!!!",2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+3723906,Guinée,11.7277256,-10.1894037,2023-06-07 00:00:00,2023-06-07 03:00:22,0,Berete Baba,'modifié bâtiment' OSM snapshot date: 2023-05-27T19:13:12Z POI has no name POI types: building  #organicmaps,2,0,Berete Baba,
+3723908,Guinée,11.7264466,-10.1891623,2023-06-07 00:00:00,2023-06-07 03:00:11,0,Berete Baba,'modifié bâtiment' OSM snapshot date: 2023-05-27T19:13:12Z POI has no name POI types: building  #organicmaps,2,0,Berete Baba,
+3723907,Guinée,11.7257559,-10.1895110,2023-06-07 00:00:00,2023-06-07 02:59:47,0,Berete Baba,'modifié bâtiment' OSM snapshot date: 2023-05-27T19:13:12Z POI name: grande Mosquée POI types: building amenity-place_of_worship-muslim  #organicmaps,2,0,Berete Baba,
+2000288,Guinée,11.7753682,-9.1218603,2019-11-18 00:00:00,2023-06-03 07:52:47,0,dgitto,missing tag: path? layer=-1 seems to be wrong,2,0,Berete Baba,déjà résolu
+1712097,Guinée,11.5460422,-9.3072046,2019-03-16 00:00:00,2023-06-03 07:50:59,0,sibatheo,SAG,2,0,Berete Baba,déjà résolu
+3696157,Guinée,11.7285422,-10.1890993,2023-05-19 00:00:00,2023-05-30 09:25:28,0,Unknown,onosm.org submitted note from a business: Nom: Berete Baba addr:city=Tomba kanssa Numéro de téléphone: +224622333371 Réseau social: @openStreepmaps Heures d'ouverture: 8:00 18:30 Accessibilité en fauteuil roulant: yes Catégorie: Trinidadian Restaurants Description: H Modes de paiement acceptés: En espèces takeaway=undefined,4,1,Berete Baba,
+3686813,Guinée,11.7285422,-10.1890993,2023-05-13 00:00:00,2023-05-13 06:34:13,0,Unknown,onosm.org submitted note from a business: addr:city=Tomba kanssa Modes de paiement acceptés:  takeaway=undefined,2,0,Berete Baba,
+3636540,Guinée,10.6712279,-14.5378155,2023-04-10 00:00:00,2023-05-01 11:10:09,0,SaydDisney,Terrain de Football  via StreetComplete 52.0,2,0,Syl,Déjà présent
+3637548,Guinée,10.6641153,-14.6018998,2023-04-11 00:00:00,2023-05-01 11:09:11,0,SaydDisney,"Unable to answer 'Is it lit here?' for https://osm.org/way/534409455 via StreetComplete 52.0:  Si toute fois quelqu'un a des informations en ce qui concerne l'eclerage de ce terrain, il peut ajouter.",2,0,Syl,Rien à modifier
+3637596,Guinée,10.6683039,-14.6021847,2023-04-11 00:00:00,2023-05-01 11:08:37,0,SaydDisney,L'église St Jean Baptiste  via StreetComplete 52.0,2,0,Syl,Déjà présente
+2050881,Guinée,12.0245095,-12.3424852,2020-01-08 00:00:00,2023-05-01 11:06:26,0,Unknown,MAPAS MANGHEL,2,0,Syl,Note en double
+3631003,Guinée,8.6715700,-9.5636500,2023-04-07 00:00:00,2023-05-01 09:47:53,0,Michel Beavogui,"Le nom de mon village est mal écrit, je voulais changer mais je n’arrive pas. Au lieu de Vourou c’est plutôt  Voloa, aide à modifier",2,0,Abdoulaye Sidibé,
+3668083,Guinée,11.7269339,-10.1894385,2023-04-30 00:00:00,2023-05-01 06:22:13,0,Unknown,trfy,2,0,Berete Baba,
+1672420,Guinée,11.4186112,-9.1743874,2019-02-05 00:00:00,2023-04-30 16:40:11,0,Gassma,'Lieu de rencontre et maison des jeunes.' POI name: Permanence de Siguiri POI types: historic-monument OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,Berete Baba,
+1755175,Guinée,11.4018313,-9.1874854,2019-04-23 00:00:00,2023-04-18 18:21:45,0,sibatheo,Usine d'eau DRAMÉ,2,0,Berete Baba,
+3640245,Guinée,11.7270426,-10.1887930,2023-04-13 00:00:00,2023-04-18 04:24:52,0,Berete Baba,vous pouvez vérifier corrigé s'il y a des erreurs,2,0,Berete Baba,
+3640243,Guinée,11.7270426,-10.1887930,2023-04-13 00:00:00,2023-04-18 00:05:25,0,Berete Baba,vous pouvez vérifier corrigé s'il y a des erreurs,2,0,Berete Baba,Resolu
+3640242,Guinée,11.7270426,-10.1887930,2023-04-13 00:00:00,2023-04-17 16:50:31,0,Berete Baba,vous pouvez vérifier corrigé s'il y a des erreurs,2,0,Berete Baba,Déjà résolu
+3640241,Guinée,11.7270426,-10.1887930,2023-04-13 00:00:00,2023-04-16 05:03:48,0,Berete Baba,vous pouvez vérifier corrigé s'il y a des erreurs,2,0,Berete Baba,C'est bien
+1188377,Guinée,9.5121795,-13.6966055,2017-10-29 00:00:00,2023-04-11 03:26:46,0,timound,"This road is a restricted area (no cars, pedestrian/bike only by daytime)",2,0,Nema ouemou,
+3626342,Guinée,10.6713840,-14.5386726,2023-04-03 00:00:00,2023-04-03 22:44:26,0,SaydDisney,École primaire publique de Kayenguissa,3,1,SaydDisney,Situé à proximité du grand terrain de Football de Kayenguissa
+3626333,Guinée,10.6711800,-14.5381300,2023-04-03 00:00:00,2023-04-03 22:38:52,0,SaydDisney,Grand terrain de Football de Kayenguissa,3,0,SaydDisney,
+3626214,Guinée,10.6697189,-14.5370874,2023-04-03 00:00:00,2023-04-03 19:54:45,0,SaydDisney,Mosquée de Demoudoula,2,0,SaydDisney,
+3602080,Guinée,10.6496000,-14.6164000,2023-03-17 00:00:00,2023-03-17 22:02:35,0,Extrudate13,Port of Kamsar,2,0,Extrudate13,
+2702943,Guinée,12.0227000,-12.3399900,2021-06-07 00:00:00,2023-03-10 17:14:37,0,Unknown,mapas maghel,5,1,al-hadj lamarana djalo,
+3538123,Guinée,11.7266091,-10.1889606,2023-01-30 00:00:00,2023-03-03 00:55:46,0,Unknown,Tomba kanssa est une village oublié,4,1,Baba Berete,
+3557015,Guinée,11.7279000,-10.1879000,2023-02-13 00:00:00,2023-03-03 00:55:00,0,Baba Berete,Corrigée l'information manquante,2,0,Baba Berete,
+3538116,Guinée,11.7272000,-10.1886000,2023-01-30 00:00:00,2023-03-03 00:54:23,0,Unknown,Tomba kanssa une localité en Guinée,2,0,Baba Berete,
+3532672,Guinée,11.7323148,-10.1810431,2023-01-26 00:00:00,2023-02-13 10:16:50,0,Baba Berete,Tomba kanssa est ville lieu manquant,2,0,Baba Berete,
+3532670,Guinée,11.7284000,-10.1838000,2023-01-26 00:00:00,2023-02-13 08:28:18,0,Baba Berete,Tomba kanssa est une ville et une sous-préfecture de Guinée,2,0,Baba Berete,
+3549991,Guinée,10.9290881,-14.2906436,2023-02-08 00:00:00,2023-02-08 12:13:48,0,Msesay,Stade du 1er Mai de Boke,3,1,Msesay,
+3504248,Guinée,11.3084000,-12.8315000,2023-01-04 00:00:00,2023-01-07 11:44:47,0,Unknown,sagale,2,0,Syl,Déjà présent
+3451675,Guinée,9.9997000,-12.8645000,2022-11-22 00:00:00,2022-11-27 18:05:30,0,Unknown,"9.999694, -12.867617",2,0,Syl,Note inutilisable
+3015255,Guinée,12.0227400,-12.3400000,2022-01-18 00:00:00,2022-11-27 18:04:24,0,Unknown,manghel manghel,2,0,Syl,Note en double
+3451678,Guinée,10.0037600,-12.8943700,2022-11-22 00:00:00,2022-11-23 14:38:11,0,Unknown,&,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+3451716,Guinée,9.9947000,-12.8874000,2022-11-22 00:00:00,2022-11-23 14:37:55,0,Unknown,DSFGH,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+3413033,Guinée,12.0228437,-12.3393524,2022-10-25 00:00:00,2022-10-25 15:35:51,0,al-hadj lamarana djalo,mosque manghel,2,0,al-hadj lamarana djalo,manghel mali guinea
+3317377,Guinée,10.9350768,-14.2835538,2022-08-16 00:00:00,2022-08-22 15:02:48,0,edvac,mosquée,2,0,Syl,Déjà présente : https://www.openstreetmap.org/node/6285681770
+634902,Guinée,10.3887869,-13.5764894,2016-07-20 00:00:00,2022-07-06 06:04:13,0,Thierno Amadou Diallo,Rusal Friguia (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Cd_spb,Ok
+1206052,Guinée,10.3884202,-13.5765482,2017-11-14 00:00:00,2022-07-06 06:04:13,0,Mamadou Bamba,'Rusal Friguia' POI has no name POI types: landuse-industrial OSM data version: 2017-10-06T18:13:02Z  #mapsme,2,0,Cd_spb,Ok
+2108295,Guinée,9.6301253,-13.5881996,2020-03-02 00:00:00,2022-07-04 07:06:40,0,Unknown,CEDI Guinée,2,0,KOUROUMABEBO,
+3168622,Guinée,9.7005849,-13.5315138,2022-05-07 00:00:00,2022-06-16 11:56:27,0,Nabe@,Salut ! Je voudrais aussi contribuer à l'amélioration de la carte en vous suggérant de renommée cette position comme suite : Nabéya,2,0,Syl,Voir https://www.openstreetmap.org/note/3168629
+3159689,Guinée,8.5436000,-9.9529000,2022-04-30 00:00:00,2022-06-16 11:54:47,0,Dr Mohamed SYLLA,2ème Cas,2,0,Syl,Note sans information utile pour OpenStreetMap
+3159681,Guinée,8.6294000,-10.0927000,2022-04-30 00:00:00,2022-06-16 11:54:32,0,Dr Mohamed SYLLA,1er Cas,2,0,Syl,Note sans information utile pour OpenStreetMap
+2700005,Guinée,12.0227000,-12.3397000,2021-06-05 00:00:00,2022-06-16 11:51:42,0,Unknown,village maghel,2,0,Syl,Note en double
+3181793,Guinée,11.3602626,-12.8162518,2022-05-16 00:00:00,2022-06-16 11:46:36,0,Wourythiaguel,Je voudrai rajouter quelques routes pietons,2,0,Syl,Je vois que vous l'avez fait : https://www.openstreetmap.org/changeset/121051516 Je clos la note.
+2746334,Guinée,9.7883000,-13.5290000,2021-07-08 00:00:00,2022-06-16 11:44:42,0,Unknown,je n'arrivve   pas a  teleccharger,2,0,Syl,Note sans information utile pour OpenStreetMap
+1989551,Guinée,10.4512448,-13.0078661,2019-11-09 00:00:00,2022-06-13 17:32:31,0,abdoulaye alimou,route coupée,2,0,UWJ,
+3160251,Guinée,11.3210100,-12.2858200,2022-05-01 00:00:00,2022-05-02 07:37:16,0,Unknown,Une autre personne utilise mon compte Facebook quand je veux modifier mon mot de passe il m'envoie le code sur son numéro et les publication puis le fil d'actualité n'es est rempli que des publicités,2,0,kartonage,This is not related to OpenStreetMap. Contact your third party app provider (or the service that led you here). OpenStreetMap has no control over your location data nor is there any meaningful data to add to the map in this note.
+2915960,Guinée,9.1859893,-10.0936890,2021-10-30 00:00:00,2022-04-30 15:42:57,0,Unknown,子,3,1,Dr Mohamed SYLLA,
+3159674,Guinée,8.5425000,-9.9530000,2022-04-30 00:00:00,2022-04-30 15:40:54,0,Dr Mohamed SYLLA,1,2,0,Dr Mohamed SYLLA,2eme cas
+954386,Guinée,8.5566100,-10.1331500,2017-04-06 00:00:00,2022-04-30 15:39:56,0,Unknown,ECHO14,2,0,Dr Mohamed SYLLA,
+3096003,Guinée,11.4089000,-9.1778000,2022-03-21 00:00:00,2022-03-21 02:13:44,0,Naman Ibn Ibrahim Dicko,Dicko Network,4,1,Naman Ibn Ibrahim Dicko,
+3063678,Guinée,9.5119987,-13.7097493,2022-02-24 00:00:00,2022-02-24 12:55:26,0,DileD,Immeuble KPC Ministere de l'Enseignement Superieur et de la Recherche Scientifique,3,1,DileD,
+2952301,Guinée,9.5515649,-13.6690290,2021-11-28 00:00:00,2021-11-28 11:52:03,0,fodebakourouma,XSVXSYXGGX,4,1,fodebakourouma,
+2952303,Guinée,9.5515649,-13.6690290,2021-11-28 00:00:00,2021-11-28 11:51:59,0,fodebakourouma,XSVXSYXGGX,2,0,fodebakourouma,
+2952302,Guinée,9.5515649,-13.6690290,2021-11-28 00:00:00,2021-11-28 11:51:51,0,fodebakourouma,XSVXSYXGGX,2,0,fodebakourouma,
+2072740,Guinée,12.0227007,-12.3400900,2020-01-29 00:00:00,2021-11-11 15:53:10,0,Unknown,mapas manghel mali guinea,2,0,al-hadj lamarana djalo,villages manghel
+2470069,Guinée,7.8715200,-8.7547500,2020-12-22 00:00:00,2021-10-15 20:36:07,0,habavitusf,Kpélignéouon,2,0,habavitusf,École primaire de Kpélignéouon
+2724932,Guinée,9.4224400,-13.0835400,2021-06-23 00:00:00,2021-07-03 17:18:46,0,Unknown,Csfkt,2,0,Syl,Déjà présent
+2724923,Guinée,9.4274000,-13.0800000,2021-06-23 00:00:00,2021-07-03 17:18:30,0,Unknown,Terrain de moryah,2,0,Syl,Déjà présente
+2724914,Guinée,9.4297000,-13.0832300,2021-06-23 00:00:00,2021-07-03 17:18:14,0,Unknown,École,2,0,Syl,Déjà présente
+2724928,Guinée,9.4323700,-13.0930600,2021-06-23 00:00:00,2021-07-03 17:17:55,0,Unknown,Grande mosquée,2,0,Syl,Déjà présente
+2724931,Guinée,9.4333000,-13.0941800,2021-06-23 00:00:00,2021-07-03 17:17:51,0,Unknown,Mosquée,2,0,Syl,Déjà présente
+2724929,Guinée,9.4334600,-13.0937200,2021-06-23 00:00:00,2021-07-03 17:17:47,0,Unknown,Banque 1,2,0,Syl,Déjà présente
+2724925,Guinée,9.4322800,-13.0906500,2021-06-23 00:00:00,2021-07-03 17:17:37,0,Unknown,Banque,2,0,Syl,Déjà présente
+2724924,Guinée,9.4313400,-13.0901100,2021-06-23 00:00:00,2021-07-03 17:17:19,0,Unknown,Hôpital,2,0,Syl,Déjà présent
+1785367,Guinée,10.0492479,-12.8578007,2019-05-20 00:00:00,2021-06-24 14:25:15,0,Kazakore,'can not see the same of this city at any zoom level. 4th city in the country so fairly important' POI name: Kindia POI types: place-city OSM data version: 2019-03-28T14:13:02Z  #mapsme,2,0,kartonage,Not the case in most layers.
+1553920,Guinée,9.5470867,-13.6721367,2018-10-08 00:00:00,2021-06-17 12:34:14,0,Bartidiane,Imprimerie IMAB,2,0,Dibloni Innocent,Le problème a été résolu
+2700007,Guinée,12.0229100,-12.3401900,2021-06-05 00:00:00,2021-06-09 08:36:30,0,Unknown,manghel,2,0,Syl,Note en double
+2685157,Guinée,9.6728792,-13.5810749,2021-05-26 00:00:00,2021-06-01 04:56:05,0,Sekou Yaya Bah,bâtiment  via StreetComplete 32.0,2,0,Syl,Il y a déjà un bâtiment ici.
+2684751,Guinée,12.0225800,-12.3399400,2021-05-25 00:00:00,2021-05-25 16:27:16,0,al-hadj lamarana djalo,mapas manghel,2,0,al-hadj lamarana djalo,
+2672788,Guinée,12.0227741,-12.3394006,2021-05-17 00:00:00,2021-05-17 21:49:08,0,Unknown,MAnghel,2,0,Syl,Note en double
+1969531,Guinée,9.5886900,-13.6315400,2019-10-21 00:00:00,2021-05-17 10:28:46,0,Unknown,Bambeto rond-point,2,0,Syl,Déjà présent
+2537842,Guinée,9.5929919,-13.6332246,2021-02-14 00:00:00,2021-05-17 10:26:13,0,Gloups083,"'le SIS RATOMA a déménagé ! la nouvelle caserne a été placée !' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Sapeurs Pompiers de Ratoma POI types: amenity-fire_station OSM data version: 2021-02-01T11:34:17Z  #mapsme",2,0,Syl,Supprimé
+2029256,Guinée,9.5253000,-13.6881000,2019-12-17 00:00:00,2021-05-12 12:45:14,0,Koulibaly,Pont 8 Novembre,2,0,Syl,Déjà présent
+1335251,Guinée,9.5477514,-13.6614761,2018-03-22 00:00:00,2021-05-12 12:43:35,0,Boubacar Bah,Orange,2,0,Syl,A été ajouté depuis
+1553921,Guinée,9.5470150,-13.6719817,2018-10-08 00:00:00,2021-05-12 12:41:36,0,Bartidiane,Agence Guineegames,2,0,Syl,A été ajouté depuis
+807167,Guinée,9.5608586,-13.6645382,2016-12-06 00:00:00,2021-05-10 09:13:50,0,Raphael Porcherot,other telephon number : ±22430464398 (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Syl,Nothing here
+1055093,Guinée,9.6978000,-13.3449000,2017-07-06 00:00:00,2021-04-30 13:39:50,0,Unknown,Lac de Kendoumayah ou Mandanyah ?,4,1,majfav,Kendoumayah
+2622729,Guinée,12.0221000,-12.3399000,2021-04-14 00:00:00,2021-04-29 09:12:32,0,Unknown,village manghel,2,0,Syl,Note en double
+2594962,Guinée,9.5773917,-13.5780716,2021-03-26 00:00:00,2021-03-26 09:44:43,0,bambayou,Ile de loas,2,0,bambayou,
+2561519,Guinée,10.9459279,-14.3134051,2021-03-01 00:00:00,2021-03-02 10:00:57,0,Unknown,DÉVIATION,11,1,Ouste,
+2562332,Guinée,10.9445274,-14.3167660,2021-03-02 00:00:00,2021-03-02 09:21:40,0,Unknown,Deviation,2,0,Ouste,
+2561515,Guinée,10.9385478,-14.3263543,2021-03-01 00:00:00,2021-03-02 09:14:41,0,Unknown,FIN DE TRANCHE,3,0,Ouste,
+2561518,Guinée,10.9494186,-14.3088019,2021-03-01 00:00:00,2021-03-02 09:14:34,0,Unknown,DÉPART DE TRANCHE,2,0,Ouste,
+2562323,Guinée,10.9496103,-14.3087992,2021-03-02 00:00:00,2021-03-02 09:14:28,0,Ouste,Pointe de départ du tranchée,3,1,Ouste,
+2560338,Guinée,11.5438000,-9.3531000,2021-02-28 00:00:00,2021-03-01 03:26:59,0,Unknown,Opensfreetmap,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2464087,Guinée,12.0227700,-12.3400300,2020-12-16 00:00:00,2021-02-10 15:10:36,0,Unknown,manghel,2,0,Syl,Note en double
+2484729,Guinée,10.4269980,-13.2612276,2021-01-04 00:00:00,2021-02-10 15:08:53,0,Facinet,Les forêts et les champs ne sont pas représentés ici pourquoi?,4,1,Syl,Parce que personne ne les as encore ajoutées. Si vous voulez le faire vous pouvez cliquer sur le bouton 'Modifier' en haut du site openstreetmap.org. Avec l'éditeur iD un guide vous sera proposé pour apprendre à contribuer. N'hésitez pas si vous avez des questions.
+2464688,Guinée,9.7055624,-13.4023736,2020-12-17 00:00:00,2021-02-10 15:06:10,0,Hady0512,koto djogo (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Syl,Duplicated note
+1617875,Guinée,9.2952316,-9.5179796,2018-12-15 00:00:00,2021-01-17 15:30:09,0,confusedbuffalo,"There are various objects around here, from changeset 26661390 which appear to be completely wrong, as if they were meant to be edited in London, can we just go ahead and delete them?",2,0,kartonage,Resolved. Obviously fictional at this position.
+2313971,Guinée,12.0227204,-12.3399961,2020-08-19 00:00:00,2020-12-01 10:06:56,0,Unknown,mapas manghel,2,0,Syl,Note en double
+2146763,Guinée,11.4870901,-9.1289520,2020-04-03 00:00:00,2020-11-20 14:58:50,0,Unknown,Abou fidako Keita (This note has been created from Geovelo : http://amenagements-cyclables.fr/fr/contributions/12652),3,1,Geovelo_Notes,
+2029183,Guinée,9.5151500,-13.7077600,2019-12-17 00:00:00,2020-11-18 22:19:03,0,Koulibaly,Siège de l'Office Guinéen de Publicité - OGP / Direction Generale,3,1,AFRICA GLOBAL INGENIERIE,
+2181788,Guinée,9.6546457,-13.6020593,2020-05-05 00:00:00,2020-11-13 12:07:43,0,Lawi_Gn,Unable to answer 'What is the name of this road?' for https://osm.org/way/270725076 via StreetComplete 18.0:  Voie accès à la maison,2,0,Lawi_Gn,
+2375404,Guinée,11.0520023,-9.2374108,2020-10-05 00:00:00,2020-10-05 18:20:02,0,Cannadjeliba,Bonjour il y a deux problèmes au niveau de Diélibako: 1- C'est désormais Djélibakoro et non plus Diéliba Koro ( une question d'orthographe) 2- C'est maintenant une sous-préfecture de la préfecture de Kankan et non de la préfecture de siguiri.  Nb: Diéliba koro ne fait plus partir de la préfecture de siguiri depuis 1976,3,1,Cannadjeliba,
+2217915,Guinée,9.6336173,-13.5722782,2020-06-04 00:00:00,2020-07-10 17:36:24,0,Lawi_Gn,Station Total  via StreetComplete 19.2,2,0,Syl,Déjà présente
+2181787,Guinée,9.6552185,-13.6014222,2020-05-05 00:00:00,2020-07-10 17:31:26,0,Lawi_Gn,Unable to answer 'What is the name of this road?' for https://osm.org/way/94837064 via StreetComplete 18.0:  Ne sais pas,2,0,Syl,
+1266108,Guinée,10.0380100,-12.8675100,2018-01-12 00:00:00,2020-04-19 10:07:50,0,Giraffe59,"Projet DAKMA / Enabel - Agence Belge de Développement, Quartier Sinanya en face du BTGR/DPA/DRA, Kindia, Guinée",3,1,Giraffe59,
+2100547,Guinée,11.3742000,-12.7765000,2020-02-24 00:00:00,2020-02-24 12:17:14,0,mamadou dioulde diallo,Horé djoli,2,0,mamadou dioulde diallo,
+954388,Guinée,8.5572900,-10.1324000,2017-04-06 00:00:00,2020-02-15 09:58:56,0,Unknown,2 pick-up ECHO14,2,0,Gloups083,Plus d’actualité
+2072795,Guinée,12.0228100,-12.3399500,2020-01-29 00:00:00,2020-02-06 08:57:38,0,Unknown,africa guinea mali manghel,2,0,Syl,Note en double
+2072742,Guinée,12.0227000,-12.3400900,2020-01-29 00:00:00,2020-02-06 08:55:43,0,Unknown,manghel mali guinea,2,0,Syl,Note en double
+1992158,Guinée,9.6000729,-13.6117172,2019-11-11 00:00:00,2020-01-15 19:47:51,0,Mhady,"Bonjour en faite j'arrive à trouver ma position exacte quand je click sur 'Afficher mon emplacement', on me donne position qui à 9km de moi ou un cercle d'environ 9km de rayon pas ma position exacte. Merci",2,0,Syl,"Bonjour, les notes sont faites pour proposer des modifications à la carte. Pour des problèmes avec un site ou une application en particulier contactez les directement."
+1794964,Guinée,10.0292175,-12.8673440,2019-05-29 00:00:00,2020-01-15 19:42:04,0,Kazakore,"'Not there. Asked locals and nobody knew of it' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Hôtel Coléah POI types: internet_access-wlan tourism-hotel OSM data version: 2019-04-19T10:36:02Z  #mapsme",2,0,Syl,Removed
+1795173,Guinée,10.0175959,-12.8826889,2019-05-29 00:00:00,2020-01-15 19:41:41,0,Kazakore,"'Since booking.com integration I can not move so removed and added' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Soli Hotel POI types: tourism-hotel OSM data version: 2019-04-19T10:36:02Z  #mapsme",2,0,Syl,Removed
+1591568,Guinée,11.3596831,-12.2746325,2018-11-16 00:00:00,2020-01-15 17:36:41,0,Elhadj Boubacar,CFEL Labé,2,0,Syl,Ajouté depuis
+1566577,Guinée,9.5037625,-13.7098023,2018-10-20 00:00:00,2020-01-15 17:31:53,0,SeverinGeo,école primaire Federico Mayor,2,0,Syl,Nom corrigé
+1510264,Guinée,9.6252173,-13.6346179,2018-09-01 00:00:00,2020-01-15 17:25:53,0,Unknown,"onosm.org submitted note from a business: Name: Clinique Médicale-Santé Pour Tous Phone: +224-621-55-43-91  Website: www.guineesantepourtous.com Twitter: undefined Hours: 24h/24h Category: ,Health & Medical Address: carrefour cosa, conakry",2,0,Syl,Infos ajoutées
+1335272,Guinée,9.5728998,-13.6257524,2018-03-22 00:00:00,2020-01-15 15:11:24,0,Boubacar Bah,ventre de medicament,3,0,Syl,Ajouté depuis
+1282536,Guinée,9.4333300,-13.1000000,2018-01-29 00:00:00,2020-01-15 15:06:40,0,Unknown,Forecariah,2,0,Syl,Already in the map
+1155158,Guinée,10.9139400,-10.9099500,2017-09-28 00:00:00,2020-01-15 14:57:23,0,Unknown,Blocked street:  This error is submitted from Navmii GPS.,2,0,Syl,Nothing here
+963429,Guinée,9.5339451,-13.6869640,2017-04-14 00:00:00,2020-01-15 14:49:56,0,Thiamoussa,RÉSIDENCE JEANNINE (OSM data version: 2017-03-28T20:59:03Z) #mapsme,2,0,Syl,Ajouté depuis
+944616,Guinée,9.5498801,-13.6739233,2017-03-28 00:00:00,2020-01-15 14:45:11,0,Moyg,a déplacer de l autre côté de la route (au sud Est ) (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,Syl,Il n'y a rien ici.
+329585,Guinée,9.6286550,-13.5914397,2015-03-11 00:00:00,2020-01-15 11:15:32,0,Unknown,ENCO-5,3,0,Syl,Ajouté depuis
+143946,Guinée,7.7622669,-8.8151608,2014-04-02 00:00:00,2020-01-15 11:06:02,0,Takuto,Is this really a building?,2,0,Syl,"Removed, no building here"
+143105,Guinée,8.1206151,-9.0590230,2014-03-31 00:00:00,2020-01-15 11:02:33,0,patzi,"river bending not correct here, aerial has clouds",2,0,Syl,Fixed
+143080,Guinée,8.1109551,-9.0559205,2014-03-31 00:00:00,2020-01-15 11:00:06,0,patzi,is here a fery or something else to pass the river?,2,0,Syl,Already modified
+1939269,Guinée,12.0228056,-12.3398620,2019-09-25 00:00:00,2020-01-15 10:57:05,0,Unknown,mapas manghel guinea,2,0,Syl,Note en double
+2000310,Guinée,12.0226200,-12.3399400,2019-11-18 00:00:00,2020-01-15 10:56:32,0,Unknown,mapas manghel,2,0,Syl,Note en double
+2030328,Guinée,9.6000700,-13.6036300,2019-12-18 00:00:00,2019-12-18 13:45:41,0,Koulibaly,"CLIENT/ANNONCEUR/REGIE : Global Prestation Guinée N. LICENCE / AUTORISATION D’EXERCICE EN PUBLICITÉ : 001/AEP/OGP/2019 TYPE Panneau : SF (Simple Face) FORMAT : Paysage DIMENNSION : 157 m2 GEOLOCALISATION GPS : 9.578610,-13.615844 SITE : Marché tanene DOMAINE : Privée COULEUR PIED : Blanche COMMUNE DE : Matoto VILLE : Conakry Email ANNONCEUR / REGIE : abarry272@gmail.com   ADRESSE ANNONCEUR / REGIE : Bambeto Immeuble Galerie Marifala CONTACT PANNEAU : +224 628111888 / +224 660111888 CONTACT OGP : +224 627272828",5,1,Koulibaly,supprimer ce point il n'est pas exact
+1124517,Guinée,9.6895707,-13.5164620,2017-09-02 00:00:00,2019-12-09 01:56:24,0,AmahoroNeza,'Transversale 10' POI has no name POI types: highway-tertiary OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,freebeer,on the map
+1248089,Guinée,9.6998334,-13.5155132,2017-12-24 00:00:00,2019-12-09 01:55:03,0,Lazare Philippe,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Mosquée POI types: amenity-place_of_worship OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,freebeer,nothing at marker
+1761365,Guinée,12.0226100,-12.3398200,2019-04-29 00:00:00,2019-11-11 15:48:40,0,Unknown,MANGHEL,6,1,al-hadj lamarana djalo,
+943271,Guinée,9.5493635,-13.6743621,2017-03-27 00:00:00,2019-10-17 09:09:52,0,Moyg,cuisine sénégalaise (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,Syl,Cuisine ajoutée
+1646506,Guinée,10.0479028,-13.9238539,2019-01-11 00:00:00,2019-10-16 23:45:15,0,korolenok,Need to fix duplicates of buildings,2,0,Syl,Fixed
+1332101,Guinée,9.6072979,-13.6111984,2018-03-19 00:00:00,2019-10-16 21:57:30,0,Boubacar Bah,marché cosa,2,0,Syl,Ajouté depuis
+1335215,Guinée,9.5917244,-13.6243858,2018-03-22 00:00:00,2019-10-16 21:55:31,0,Boubacar Bah,centre commercial poukou,2,0,Syl,Ajouté depuis
+1335217,Guinée,9.5485373,-13.6600866,2018-03-22 00:00:00,2019-10-16 21:55:11,0,Boubacar Bah,FBNBAk,2,0,Syl,Ajoutée depuis
+1335230,Guinée,9.6078062,-13.5977917,2018-03-22 00:00:00,2019-10-16 21:53:02,0,Boubacar Bah,pharmacie alima,2,0,Syl,Ajoutée depuis
+1335232,Guinée,9.5419693,-13.6805506,2018-03-22 00:00:00,2019-10-16 21:52:32,0,Boubacar Bah,pharmacie boba,2,0,Syl,Ajoutée depuis
+1685998,Guinée,8.5554000,-9.4343000,2019-02-19 00:00:00,2019-10-16 21:48:24,0,Unknown,Station Limnométrique SL 108 sus le Pont Longitude 8.55 Latitude 9.43,2,0,Syl,Note en double
+1717047,Guinée,9.7909603,-13.5235629,2019-03-20 00:00:00,2019-10-16 21:45:18,0,Nicolas Chavent,Marché centre ville de Dubreka,4,1,Syl,Déjà présent
+1282534,Guinée,9.7911100,-13.5233300,2018-01-29 00:00:00,2019-10-16 21:44:43,0,Unknown,Dubreka,2,0,Syl,Déjà présent
+1751815,Guinée,11.4538000,-9.1502650,2019-04-20 00:00:00,2019-10-16 21:43:40,0,sibatheo,Centre d'accueil de SIGUIRI,2,0,Syl,Ajouté depuis
+1751816,Guinée,11.5438367,-9.3635467,2019-04-20 00:00:00,2019-10-16 21:41:59,0,sibatheo,Bar Zaly,2,0,Syl,Ajouté depuis
+1919023,Guinée,12.0227918,-12.3400645,2019-09-09 00:00:00,2019-10-16 21:35:03,0,Unknown,manghel,2,0,Syl,Already in the map
+1957980,Guinée,9.5148411,-13.7104440,2019-10-11 00:00:00,2019-10-16 21:34:25,0,Unknown,www.vdctelecom.com,2,0,Syl,Adresse déjà présente
+1335265,Guinée,9.5467367,-13.6626749,2018-03-22 00:00:00,2019-10-16 21:25:21,0,Boubacar Bah,societe fouani et frere,2,0,Syl,Déjà présent
+1333982,Guinée,9.5475388,-13.6618805,2018-03-21 00:00:00,2019-10-16 21:24:56,0,Boubacar Bah,ecobank,2,0,Syl,Ajouté depuis
+1335252,Guinée,9.5479097,-13.6752663,2018-03-22 00:00:00,2019-10-16 21:23:43,0,Boubacar Bah,pharmacie du stade,2,0,Syl,Ajoutée depuis
+1335257,Guinée,9.5761909,-13.6238804,2018-03-22 00:00:00,2019-10-16 21:23:20,0,Boubacar Bah,pharmacie orialen,2,0,Syl,Ajoutée depuis
+1335273,Guinée,9.6053247,-13.6003170,2018-03-22 00:00:00,2019-10-16 21:22:38,0,Boubacar Bah,Ecobank,2,0,Syl,Ajouté depuis
+1335244,Guinée,9.6062136,-13.5990562,2018-03-22 00:00:00,2019-10-16 21:22:18,0,Boubacar Bah,mosquée,2,0,Syl,Déjà présente
+1333990,Guinée,9.6086168,-13.5976934,2018-03-21 00:00:00,2019-10-16 21:21:08,0,Boubacar Bah,centre médical,2,0,Syl,Ajouté depuis
+1335256,Guinée,9.6084518,-13.5978041,2018-03-22 00:00:00,2019-10-16 21:20:30,0,Boubacar Bah,pharmacie matoto,2,0,Syl,Déjà présente
+1335255,Guinée,9.5515060,-13.6539021,2018-03-22 00:00:00,2019-10-16 21:18:54,0,Boubacar Bah,pharmacie maria,2,0,Syl,Ajoutée depuis
+1335254,Guinée,9.5478888,-13.6758699,2018-03-22 00:00:00,2019-10-16 21:17:59,0,Boubacar Bah,pharmacie filany,2,0,Syl,Déjà présente
+1335253,Guinée,9.5792685,-13.6242380,2018-03-22 00:00:00,2019-10-16 21:17:34,0,Boubacar Bah,pharmacie du solei,2,0,Syl,Ajoutée depuis
+1335279,Guinée,9.5513287,-13.6548376,2018-03-22 00:00:00,2019-10-16 21:14:57,0,Boubacar Bah,safricom,2,0,Syl,Note en double
+1335233,Guinée,9.5690308,-13.6580791,2018-03-22 00:00:00,2019-10-16 21:12:59,0,Boubacar Bah,pharmacie commandanya lavage,2,0,Syl,Ajoutée depuis
+1202556,Guinée,9.6069067,-13.6518821,2017-11-11 00:00:00,2019-10-16 21:09:43,0,Mansa,"'Centre émetteur n’existe plus, désormais il cède place au Plazza Diamond' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Centre Emetteur POI types: landuse-industrial OSM data version: 2017-10-20T12:20:02Z  #mapsme",2,0,Syl,A été modifié depuis
+1953837,Guinée,9.6633687,-13.5249444,2019-10-08 00:00:00,2019-10-08 18:21:39,0,Unknown,Je suis encompagni avec mon ami,2,0,ent8r,Please don't publish private information using OpenStreetMap notes.
+1946390,Guinée,12.0227820,-12.3399827,2019-10-02 00:00:00,2019-10-02 11:38:34,0,Unknown,MANGHEL,2,0,Lamarana Djalo,
+1347081,Guinée,8.5057000,-9.4601000,2018-04-02 00:00:00,2019-09-20 21:45:59,0,mountenjoy,Surface=asphalt until Zerekore in the east,2,0,mountenjoy,
+1307516,Guinée,12.1121311,-12.2644758,2018-02-22 00:00:00,2019-09-20 21:02:47,0,mountenjoy,"wrong position, move to antenna",2,0,mountenjoy,done
+1307517,Guinée,12.1120262,-12.2645187,2018-02-22 00:00:00,2019-09-20 21:02:39,0,mountenjoy,"wrong position, move to viewpoint is only bivac, mark as this",2,0,mountenjoy,already removed
+1307514,Guinée,12.0819436,-12.2897876,2018-02-22 00:00:00,2019-09-20 21:01:30,0,mountenjoy,"rock surface, bad",2,0,mountenjoy,added
+1307515,Guinée,12.0838263,-12.3019940,2018-02-22 00:00:00,2019-09-20 21:00:43,0,mountenjoy,"best road from east into town, gravel, change road category instead of other one",2,0,mountenjoy,not clear anymore
+1893167,Guinée,12.0226312,-12.3399317,2019-08-20 00:00:00,2019-09-10 11:47:15,0,Lamarana Djalo,manghel mali guinea,2,0,Lamarana Djalo,
+1826688,Guinée,9.6282504,-13.5700652,2019-06-27 00:00:00,2019-08-20 23:48:32,0,Unknown,Des images svp et merci pour votre travail,2,0,Syl,Note sans information utile
+1229906,Guinée,7.7536763,-8.7989223,2017-12-05 00:00:00,2019-08-20 23:37:21,0,Danielle Provo,Maison,2,0,Syl,Sûrement une note personnelle
+945841,Guinée,10.4018090,-14.0322730,2017-03-30 00:00:00,2019-08-20 23:29:18,0,Thierno Amadou Diallo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'mauvaises coordonnées ' (OSM data version: 2016-12-14T16:41:03Z) #mapsme",2,0,Syl,Supprimé
+710877,Guinée,9.7042982,-13.4971333,2016-09-13 00:00:00,2019-08-20 23:21:42,0,Ismaeldiarria,poste de contrôle supprimé et déplacé ailleurs,2,0,Syl,Note en double
+662850,Guinée,9.7042982,-13.4971333,2016-08-08 00:00:00,2019-08-20 23:20:03,0,Ismaeldiarria,ce point de contrôle a été déplacé depuis plusieurs années,2,0,Syl,"Modifié depuis, il n'y a plus rien ici."
+1803804,Guinée,12.0226600,-12.3399505,2019-06-06 00:00:00,2019-08-16 17:43:15,0,al-hadj lamarana djalo,mapas manghel,2,0,Lamarana Djalo,manghel 1803804
+1595246,Guinée,12.0227900,-12.3399600,2018-11-20 00:00:00,2019-08-16 17:20:30,0,Unknown,village manghel mali guinea,6,0,Lamarana Djalo,manghel prefectur mali labe guinea
+1007229,Guinée,9.6715447,-13.6135895,2017-05-25 00:00:00,2019-08-11 15:20:50,0,timound,road stops here,2,0,Claudio DEL GHIANDA,
+1803805,Guinée,12.0226600,-12.3399505,2019-06-06 00:00:00,2019-06-06 17:42:34,0,al-hadj lamarana djalo,mapas manghel,2,0,al-hadj lamarana djalo,
+1702958,Guinée,9.6550877,-13.5997868,2019-03-07 00:00:00,2019-05-08 11:36:49,0,Unknown,site,2,0,freebeer,no info
+1765978,Guinée,10.7226207,-10.7083453,2019-05-03 00:00:00,2019-05-08 11:32:22,0,Kirill_Kurpatenko,'У' POI name: Guinée POI types: place-country OSM data version: 2019-03-14T00:11:02Z  #mapsme,2,0,freebeer,no info
+1421405,Guinée,9.5666761,-13.6661206,2018-06-09 00:00:00,2019-04-28 21:56:50,0,SidiSam,'Quartier Miniere' POI has no name POI types: building OSM data version: 2018-05-26T22:39:02Z  #mapsme,3,1,babi map,Hotel petite miniere
+1580606,Guinée,10.0239567,-12.8862917,2018-11-04 00:00:00,2019-04-20 18:11:16,0,sibatheo,Hôtel AC,2,0,edvac_repair,Ajouté l'Hôtel AC (Kindia). Merci beaucoup !
+1580605,Guinée,10.0848867,-12.8540683,2018-11-04 00:00:00,2019-04-20 18:08:03,0,sibatheo,École primale de Bamban,2,0,edvac_repair,Ajouté à la carte. Merci beaucoup !
+1712088,Guinée,10.3712674,-12.0732859,2019-03-16 00:00:00,2019-04-20 17:14:00,0,sibatheo,Hôtel Relais Mamou,2,0,edvac,"Hôtel Relais de Mamou ajouté à la carte. Merci beaucoup, sibatheo !"
+1149166,Guinée,11.7537000,-8.9998000,2017-09-22 00:00:00,2019-04-20 16:16:06,0,Unknown,Tatakourou,2,0,edvac,Ajouté à la carte. Merci beaucoup !
+1149192,Guinée,11.7646900,-8.9531500,2017-09-22 00:00:00,2019-04-20 16:16:06,0,Unknown,Silabada,3,0,edvac,Ajouté l'info. Merci beaucoup !
+233070,Guinée,7.7548775,-8.8137817,2014-08-30 00:00:00,2019-04-04 10:21:31,0,ngos minanga,"27-08-2014. region touchée par fievre ebola.10 cas -5morts  27/08/2014. region affaected by ebola disease 10 cases, 5 deaths",7,1,Syl,Rien à ajouter à la carte
+1332100,Guinée,9.5527887,-13.6499100,2018-03-19 00:00:00,2019-03-31 22:43:48,0,Boubacar Bah,mairie de matam,2,0,Syl,Ajoutée depuis
+832731,Guinée,10.3688253,-13.5869699,2016-12-29 00:00:00,2019-03-31 22:37:29,0,Thierno Amadou Diallo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'n'existe pas ' (OSM data version: 2016-11-23T15:14:03Z) #mapsme",2,0,Syl,Supprimé
+1196697,Guinée,10.3688253,-13.5869699,2017-11-06 00:00:00,2019-03-31 22:37:24,0,Tadgoku,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: barrier-lift_gate OSM data version: 2017-09-17T07:13:02Z  #mapsme",2,0,Syl,Supprimé
+1022796,Guinée,9.5135304,-13.7023210,2017-06-07 00:00:00,2019-03-31 22:32:40,0,AmahoroNeza,"'entered twice' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: L'Impérial POI types: building shop-supermarket OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,Syl,Corrigé depuis
+1022797,Guinée,9.5073615,-13.7038204,2017-06-07 00:00:00,2019-03-31 22:31:12,0,AmahoroNeza,"'entered twice' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: noom Conakry POI types: tourism-hotel OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,Syl,Corrigé depuis
+171422,Guinée,9.5294748,-13.6902118,2014-05-21 00:00:00,2019-03-31 22:23:55,0,ziada,hopital,3,0,Syl,Ajouté depuis
+614606,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2019-03-31 22:19:54,0,Mawdho Mamou,Sangareah (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Syl,Note en double
+614581,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2019-03-31 22:19:42,0,Mawdho Mamou,N'doghol Touma (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Syl,Note en double
+614597,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2019-03-31 22:19:12,0,Mawdho Mamou,sangareah (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Syl,Note en double
+614592,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2019-03-31 22:18:41,0,Mawdho Mamou,Sangareah (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Syl,Note en double
+614596,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2019-03-31 22:18:25,0,Mawdho Mamou,Sangareah (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Syl,Note en double
+614593,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2019-03-31 22:18:23,0,Mawdho Mamou,Sangareah (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Syl,Note en double
+614590,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2019-03-31 22:17:24,0,Mawdho Mamou,Doghol Touma (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Syl,Note en double
+614586,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2019-03-31 22:16:47,0,Mawdho Mamou,SANGAREAH (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Syl,Note en double
+614585,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2019-03-31 22:15:37,0,Mawdho Mamou,Sangareah (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Syl,Note en double
+614583,Guinée,11.0564737,-12.3950472,2016-07-03 00:00:00,2019-03-31 22:15:17,0,Mawdho Mamou,doghol touma (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Syl,Note en double
+277583,Guinée,9.5533546,-13.5945511,2014-11-28 00:00:00,2019-03-31 22:11:30,0,Unknown,45 cas suspects et 25 décès au cours de la SE 45,4,1,Syl,Rien à ajouter à la carte.
+1719057,Guinée,9.8149809,-13.5471395,2019-03-22 00:00:00,2019-03-31 22:01:11,0,SeverinGeo,"embarcadère, permet aller jusqu'à Dubréka par pirogue",2,0,Syl,Note en double
+1712091,Guinée,11.4666506,-9.7819970,2019-03-16 00:00:00,2019-03-28 00:23:25,0,sibatheo,Djilimanon,2,0,edvac,Ajouté à la carte. Merci beaucoup !
+1712099,Guinée,11.6036500,-9.3807450,2019-03-16 00:00:00,2019-03-28 00:23:24,0,sibatheo,Mairie de Kintinian,2,0,edvac,Ajoutée à la carte. Merci beaucoup !
+1712098,Guinée,11.6038433,-9.3806400,2019-03-16 00:00:00,2019-03-28 00:23:24,0,sibatheo,Poste de Police de Kintinian,2,0,edvac,Ajoutée à la carte. Merci beaucoup !
+1712094,Guinée,11.4130650,-9.9933367,2019-03-16 00:00:00,2019-03-28 00:23:23,0,sibatheo,Nemako,2,0,edvac,Ajouté à la carte. Merci beaucoup !
+1712101,Guinée,11.3445750,-9.1674833,2019-03-16 00:00:00,2019-03-28 00:23:23,0,sibatheo,CMIS 15,2,0,edvac,Ajoutée à la carte. Merci beaucoup !
+1712093,Guinée,11.4206300,-10.0029700,2019-03-16 00:00:00,2019-03-28 00:23:23,0,sibatheo,Iroda,2,0,edvac,Ajouté à la carte. Merci beaucoup !
+1712090,Guinée,11.4777767,-9.9414250,2019-03-16 00:00:00,2019-03-28 00:23:22,0,sibatheo,Djidjanfara,2,0,edvac,Ajouté à la carte. Merci beaucoup !
+1712102,Guinée,11.4010850,-9.1818367,2019-03-16 00:00:00,2019-03-27 13:38:04,0,sibatheo,Hôtel Djoma,2,0,edvac,Ajouté l'hôtel à la carte. Merci beaucoup !
+1712103,Guinée,11.4200933,-9.1703900,2019-03-16 00:00:00,2019-03-27 13:38:03,0,sibatheo,Commissariat central de Police,2,0,edvac,Ajouté le commissariat de police à la carte. Merci beaucoup !
+1723207,Guinée,10.6677462,-14.5353583,2019-03-25 00:00:00,2019-03-26 13:26:16,0,sibatheo,Hôtel Restaurant Kyto,2,0,edvac,Ajoutées hôtel et restaurant. Merci beaucoup !
+1723202,Guinée,10.6191086,-14.5698791,2019-03-25 00:00:00,2019-03-26 13:26:15,0,sibatheo,Ntèbè (Village),2,0,edvac,Ajoutée le nom du hameau. Merci beaucoup !
+1723208,Guinée,10.6774626,-14.6047239,2019-03-25 00:00:00,2019-03-26 13:26:15,0,sibatheo,Hôtel KADIJA,2,0,edvac,Ajouté l'hôtel Kadija
+1723211,Guinée,10.6973983,-14.4767633,2019-03-25 00:00:00,2019-03-26 13:26:14,0,sibatheo,Nafaya,2,0,edvac,Ajoutée le nom du village. Merci beaucoup !
+1723204,Guinée,10.6454103,-14.5415295,2019-03-25 00:00:00,2019-03-26 13:26:14,0,sibatheo,Maladhoya (Hameau),2,0,edvac,Ajoutée comme suburb de Kamsar
+1723209,Guinée,10.6984950,-14.4753900,2019-03-25 00:00:00,2019-03-26 13:26:14,0,sibatheo,Mosquée de Nafaya,2,0,edvac,Ajoutée la mosquée de Nafaya. Merci beaucoup !
+1723205,Guinée,10.6510487,-14.5215826,2019-03-25 00:00:00,2019-03-26 13:26:13,0,sibatheo,Dar-Es-Salam (Hameau),2,0,edvac,Ajouté le hameau. Merci beaucoup !
+1723212,Guinée,10.6798555,-14.4726626,2019-03-25 00:00:00,2019-03-26 13:26:13,0,sibatheo,Dambani (Hameau),2,0,edvac,Ajoutée le nom du hameau à la carte. Merci beaucoup !
+1680820,Guinée,9.5170602,-13.6998434,2019-02-14 00:00:00,2019-03-23 17:27:06,0,Unknown,"onosm.org submitted note from a business: name: Pharmacie Pharmaplus phone: +224669392135 website: www.pharmacie-pharmaplus.com twitter: undefined hours: Monday - Sunday - 8h00 - 22h00 category: ,Pharmacy,Drugstores / Pharmacies,Home Health Care address: conakry",2,0,DSouadou,Mauvaise localisation
+233092,Guinée,9.5166188,-13.6999941,2014-08-30 00:00:00,2019-03-23 17:26:16,0,ngos minanga,Hospital response and isolation/treatment centres Conakry: MSF (medecins sans frontieres)is running the ETU in Donka Hospital   hopital habileté a recevoir des malades atteints de fievre ebola ETU à l'hopital DONKA (medecins sans frontieres),2,0,Mariama Diallo,imformation perimé
+1290158,Guinée,9.5089990,-13.7129270,2018-02-05 00:00:00,2019-03-23 17:26:14,0,Unknown,AFRIBONE SA,2,0,Mariama Diallo,added
+1335225,Guinée,9.5789480,-13.6258850,2018-03-22 00:00:00,2019-03-23 16:47:22,0,Boubacar Bah,groupe scolaire therno samba monbeya diallo,2,0,Edgar François Loua,ajouté
+1688018,Guinée,10.6841849,-9.7236148,2019-02-21 00:00:00,2019-02-21 01:26:17,0,rivermont,fix,2,0,rivermont,
+1683584,Guinée,9.5348682,-13.6864382,2019-02-17 00:00:00,2019-02-17 00:32:34,0,Huss' Taleb,Italia Box,3,1,Huss' Taleb,
+1638868,Guinée,10.6219000,-8.6950000,2019-01-04 00:00:00,2019-01-04 07:24:06,0,Erich Funk,Mandiana,2,0,Erich Funk,
+1602802,Guinée,11.3140700,-12.2743300,2018-11-28 00:00:00,2018-12-18 20:41:53,0,Unknown,Camas,2,0,davidduarte,Erro reportado por engano.
+1595791,Guinée,11.5864082,-11.8891168,2018-11-21 00:00:00,2018-11-21 11:58:15,0,Elhadj Boubacar,Ecole primaire de Koubia,4,1,Elhadj Boubacar,Ecole primaire de Koubia
+1507542,Guinée,10.3200000,-9.7353000,2018-08-30 00:00:00,2018-11-15 11:16:46,0,Unknown,Proposed location by Close Comfort,2,0,freebeer,no info
+1474527,Guinée,12.0226862,-12.3405299,2018-08-01 00:00:00,2018-11-15 11:15:37,0,Lamarana Djalo,manghel,4,1,freebeer,on the map
+1566462,Guinée,12.0227518,-12.3399210,2018-10-20 00:00:00,2018-11-15 11:15:21,0,al-hadj lamarana djalo,MANGHEL,2,0,freebeer,on the map
+261675,Guinée,9.1848031,-10.0998688,2014-10-27 00:00:00,2018-11-11 11:33:44,0,smaprs,Ebola outbreak first identified in December 2013. Routes.,2,0,freebeer,not mappable
+861255,Guinée,9.6061040,-13.6436892,2017-01-24 00:00:00,2018-11-11 11:33:09,0,Unknown,Point de départ,2,0,freebeer,no info
+1545765,Guinée,9.5680429,-13.6313050,2018-09-30 00:00:00,2018-11-11 11:30:29,0,SeverinGeo,Pharmacie Gbessia,2,0,freebeer,on the map
+1587239,Guinée,9.5474000,-13.2869900,2018-11-11 00:00:00,2018-11-11 07:37:37,0,oumar alpha,Gendarmerie nationale,3,1,oumar alpha,
+1584937,Guinée,11.0613659,-12.4509215,2018-11-08 00:00:00,2018-11-08 18:59:55,0,robert7c,Payment for chute,2,0,robert7c,
+953297,Guinée,9.5294972,-13.6822634,2017-04-05 00:00:00,2018-11-02 16:16:50,0,ljiljana tara,ICRC Conakry (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,edvac,Déjà sur la carte
+947772,Guinée,9.5132474,-13.7029486,2017-03-31 00:00:00,2018-11-01 01:04:49,0,Moyg,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'déplacée? ' (OSM data version: 2017-03-06T16:48:02Z) #mapsme",2,0,Syl,Plus rien à cet endroit
+946517,Guinée,9.5583418,-13.6669507,2017-03-30 00:00:00,2018-11-01 01:03:53,0,Moyg,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Le supermarché est de l'autre côté de la route ' (OSM data version: 2017-03-06T16:48:02Z) #mapsme",2,0,Syl,Déjà corrigé
+710780,Guinée,9.7196109,-13.4818769,2016-09-13 00:00:00,2018-11-01 01:01:20,0,Ismaeldiarria,cet point d'intérêt n'est pas à sa place donc il doit être enlevé là,2,0,Syl,Plus rien à cet endroit
+1221993,Guinée,9.5314738,-13.6799923,2017-11-30 00:00:00,2018-10-27 09:33:31,0,edvac,"Chez Djenab Kaba, restaurant",2,0,freebeer,on the map
+1272660,Guinée,9.7179448,-13.5010328,2018-01-19 00:00:00,2018-10-27 09:32:45,0,Ismaeldiarria,'#Mapsme' POI has no name POI types: man_made-chimney OSM data version: 2017-12-08T15:42:02Z  #mapsme,2,0,freebeer,no info
+1272661,Guinée,9.7178004,-13.5010076,2018-01-19 00:00:00,2018-10-27 09:32:16,0,Ismaeldiarria,'#Mapsme' POI has no name POI types: man_made-chimney OSM data version: 2017-12-08T15:42:02Z  #mapsme,2,0,freebeer,no info
+1508269,Guinée,10.3166100,-9.7725964,2018-08-30 00:00:00,2018-10-27 09:31:24,0,Unknown,Location 1,2,0,freebeer,no mapping info
+1568002,Guinée,12.0227700,-12.3399700,2018-10-22 00:00:00,2018-10-22 10:48:59,0,al-hadj lamarana djalo,manghel guinea,4,1,al-hadj lamarana djalo,manghel guinea
+600990,Guinée,9.5121535,-13.7159157,2016-06-21 00:00:00,2018-10-15 20:32:22,0,Unknown,Ambasse de l'Allemagne,2,0,SeverinGeo,Already mapped
+1402120,Guinée,12.0227925,-12.3399371,2018-05-22 00:00:00,2018-08-28 10:56:07,0,Unknown,maps manghel,4,1,Lamarana Djalo,manguel prefecture de mali labe guinea
+1402121,Guinée,12.0227925,-12.3399371,2018-05-22 00:00:00,2018-08-28 10:48:33,0,Unknown,manghel,3,0,Lamarana Djalo,
+1488445,Guinée,12.0226574,-12.3397011,2018-08-13 00:00:00,2018-08-28 10:45:22,0,Unknown,manghel mali guinea,2,0,Lamarana Djalo,
+1490087,Guinée,10.6629100,-14.6050900,2018-08-15 00:00:00,2018-08-15 05:37:21,0,Fatoumata binta sa Diallo,Pâtisserie de la Cité,4,1,Fatoumata binta sa Diallo,Déjà sur la carte / Already mapped
+944615,Guinée,9.5568210,-13.6686915,2017-03-28 00:00:00,2018-05-01 18:16:28,0,Moyg,lundi au dimanche de 7h30 à  23h (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,Ismaeldiarria,
+1378365,Guinée,9.5295100,-13.6826900,2018-04-30 00:00:00,2018-05-01 11:35:10,0,jichiali,ELECTROMATIC GUINEE Matériel Electrique  Legrand / Schneider / ABB,4,1,jichiali,
+1360451,Guinée,9.6461000,-13.5549900,2018-04-15 00:00:00,2018-04-15 07:03:51,0,Gloua,Centre de santé de Tombolia,4,1,Gloua,
+1343138,Guinée,8.5760833,-9.8454003,2018-03-30 00:00:00,2018-04-02 21:38:28,0,mountenjoy,"road paved eastward, westward bad rocky mud",2,0,mountenjoy,
+1347019,Guinée,8.5633403,-10.1361307,2018-04-02 00:00:00,2018-04-02 20:12:29,0,mountenjoy,No pool here anymore.,2,0,mountenjoy,
+1307519,Guinée,10.9993938,-12.4899523,2018-02-22 00:00:00,2018-03-06 19:59:48,0,mountenjoy,water crossing here,2,0,mountenjoy,
+1307520,Guinée,10.9997697,-12.4899768,2018-02-22 00:00:00,2018-03-06 19:59:39,0,mountenjoy,from here west footpath only,2,0,mountenjoy,
+1307521,Guinée,10.9653758,-12.4566557,2018-02-22 00:00:00,2018-03-06 18:56:19,0,mountenjoy,suspension bridge for pedestrians,2,0,mountenjoy,
+1317430,Guinée,9.8787752,-12.4455974,2018-03-04 00:00:00,2018-03-06 18:26:16,0,mountenjoy,Office de Douane Guineé,2,0,mountenjoy,
+854887,Guinée,10.3662027,-13.5832403,2017-01-18 00:00:00,2018-01-20 02:21:08,0,Thierno Amadou Diallo,Volleyball (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,hamidou barry,
+1265077,Guinée,9.6097700,-13.5898400,2018-01-11 00:00:00,2018-01-11 12:15:48,0,BAH PITA,DIRECTION NATIONALE DU GENIE RURAL,3,1,BAH PITA,Unservice public relevant du Ministère de l'Agriculture
+1217010,Guinée,7.2659000,-9.0251000,2017-11-25 00:00:00,2017-11-25 19:23:39,0,kaman yei,Danié,2,0,kaman yei,Danié
+1021552,Guinée,10.6630712,-14.6050318,2017-06-06 00:00:00,2017-11-13 19:11:20,0,Unknown,Pâtisserie de la cité,2,0,Sylvain M,ajoutée
+1021435,Guinée,10.6630409,-14.6050009,2017-06-06 00:00:00,2017-11-13 19:11:11,0,Unknown,Ici ce trouve la Pâtisserie de la cité CBG. Merci dey remédier.,3,0,Sylvain M,ajouté
+1174553,Guinée,11.3493661,-12.2669220,2017-10-15 00:00:00,2017-10-16 15:42:49,0,Unknown,';;lk,2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+144804,Guinée,10.3643096,-12.1210688,2014-04-03 00:00:00,2017-09-09 09:52:09,0,py_berrard,fuel ?,2,0,py_berrard,
+908581,Guinée,10.5126249,-11.9187109,2017-02-27 00:00:00,2017-02-27 22:47:56,0,Espace tv,Ballet centre,3,1,Espace tv,
+905325,Guinée,10.3861000,-9.2964000,2017-02-25 00:00:00,2017-02-25 10:24:55,0,Guilhelm,Lycée Morifindjan Diabaté,2,0,Guilhelm,
+905311,Guinée,10.3864000,-9.3140000,2017-02-25 00:00:00,2017-02-25 10:19:24,0,Unknown,Lycée Marien N'gouabi,2,0,Guilhelm,
+727377,Guinée,10.4113325,-14.0484654,2016-09-26 00:00:00,2016-10-04 03:29:10,0,Thierno Amadou Diallo,Sous préfecture (OSM data version: 2016-08-22T09:03:02Z) #mapsme,4,1,Thierno Amadou Diallo,
+422171,Guinée,9.6315533,-13.5766983,2015-08-26 00:00:00,2016-08-01 22:06:48,0,Unknown,NONGO,2,0,Ismaeldiarria,nongo est un quartier et son emplacement est très loin de ce point
+184977,Guinée,9.5407218,-13.6665845,2014-06-16 00:00:00,2016-05-09 00:18:09,0,Unknown,Coléah,5,1,Mamadou88,
+555810,Guinée,8.6573885,-10.3602952,2016-04-27 00:00:00,2016-04-27 13:16:33,0,Fara Millimouno,CE VILLAGE C'EST LENGO,2,0,Fara Millimouno,
+555807,Guinée,8.6570305,-10.3598499,2016-04-27 00:00:00,2016-04-27 12:56:59,0,Fara Millimouno,CE VILLAGE C'EST LENGO,2,0,Fara Millimouno,ICI C'EST LRNGO
+555793,Guinée,8.6570305,-10.3598499,2016-04-27 00:00:00,2016-04-27 12:26:36,0,Fara Millimouno,ce village s'appelle Léngo et non Kouba,2,0,Fara Millimouno,ce village est un district du nom de Léngo et non Kouba qui se trouve à 3 km d'ici.
+555332,Guinée,8.6671437,-10.3800282,2016-04-26 00:00:00,2016-04-26 19:46:17,0,Fara Millimouno,"Ce village c'est KOUBA, il est situé à pres de trois (3) km du district de Lengo et à 5 km du chef lieu de la sous prefecture de Koundou Léngobèngou. Ce  village manque d'eau potable, depuis plusieurs année les hanitants vivent de l'eau de puit source de beaucoup de maladies hydriques. La scolarisation des enfants est une grande priorité mais faute de moyens, nombreux sont ceux abandonne les etudes au profit des travaux champetres.",2,0,Fara Millimouno,
+256976,Guinée,8.6549357,-10.3607082,2014-10-17 00:00:00,2016-04-26 19:29:24,0,Unknown,le nom de ce district est Léngo,3,1,Fara Millimouno,"Effectivement ce district s'appelle lengo, kouba se trouve juste à peut pres 3 km de lengo centre."
+555323,Guinée,8.6571525,-10.3596139,2016-04-26 00:00:00,2016-04-26 19:21:43,0,Fara Millimouno,Les villageois ont sollicité aupres des autorité l'obtention d'un forage à defaut un puit amélioré mais aucune suite favorable.,2,0,Fara Millimouno,L'obtention de moyen mecanique et d''eau potable (forage) poura contribuer largement au developpent de cette localité.
+555321,Guinée,8.6567600,-10.3599036,2016-04-26 00:00:00,2016-04-26 19:09:07,0,Fara Millimouno,"Manque d'eau potable, les habitants de ce villages boivent l'eau de puis depuis plusieurs année à cause de leur minorité, les enfants du village se rendent chaque jour à trois km pour les etudes primaires mais beaucoup d'entre eux ne continuent pas à cause de la pauvreté qui bat le record. Le village est situé à cinq km du chef lieu de la sous prefecture de koundou lengobengou. Les terres cultuvables sont disponibles mais les moyens mecaniques manquent.",6,1,Fara Millimouno,
+256978,Guinée,8.6639618,-10.3817475,2014-10-17 00:00:00,2016-01-17 20:08:37,0,Unknown,il y'a un petit village à cet endroit qui s'appelle Kouba,2,0,PierZen,ajouté
+256977,Guinée,8.6568714,-10.3773379,2014-10-17 00:00:00,2016-01-17 20:05:19,0,Unknown,Yomadou,2,0,PierZen,ajouté
+233095,Guinée,8.5599729,-10.1355743,2014-08-30 00:00:00,2016-01-17 20:01:52,0,ngos minanga,Hospital response and isolation/treatment centres MSF (medecins sans frontieres) treatment centre in Guinee forestiere.  hopitaux et centres medicaux babiletés a recevoir des patients atteints de fievre ebola MSF (medecins sans frontieres) dans le centre en region forestiere,3,0,PierZen,Ce  centre n'est sans doute plus opérationnel. Créer une nouvelle note si vous voulez ajouter facilités.
+450928,Guinée,9.6670922,-13.5550690,2015-10-13 00:00:00,2016-01-03 12:40:10,0,Unknown,cxvvxcv,2,0,mavl,Заметка не содержит полезных сведений. Закрыта без внесения изменений в данные OpenStreetMap.      The note not contains a useful information. The note was closed without the changing OpenStreetMap data.
+383858,Guinée,10.6624636,-14.5890284,2015-06-21 00:00:00,2015-06-21 11:23:15,0,Unknown,Ecobank Bagataye,3,1,kitwilliams27,Bagataye (localised by Ecobank)
+233093,Guinée,10.1791049,-14.0377808,2014-08-30 00:00:00,2015-06-16 21:55:48,0,ngos minanga,25/08/2014 region touchée par fievre ebola 19 cas 11 morts   25/08/2014 region affected by ebola disease 19cases 11 deaths,2,0,Prince Kassad,"Tragic, but not an error in the map."
+352208,Guinée,8.5569386,-10.1235151,2015-04-23 00:00:00,2015-04-23 14:48:47,0,Gabykama,poste de sante,4,1,Gabykama,
+319307,Guinée,9.8692142,-13.0903389,2015-02-19 00:00:00,2015-02-19 08:31:19,0,dcp,This does not look like a railway track in Bing!,2,0,dcp,
+254496,Guinée,7.9558772,-8.3660889,2014-10-10 00:00:00,2015-02-11 00:11:23,0,smaprs,2014 West Africa Ebola virus outbreak situation: New Active Areas (http://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa)  Care facilities and access need descriptions,2,0,smaprs,
+254502,Guinée,8.6224779,-10.0643349,2014-10-10 00:00:00,2015-02-11 00:11:04,0,smaprs,http://en.wikipedia.org/wiki/Meliandou  believed to be the location of the first known case of Ebola virus disease in the 2014 West Africa Ebola virus outbreak  Need locations and access descriptions,2,0,smaprs,
+261677,Guinée,10.0387111,-10.7455730,2014-10-27 00:00:00,2015-02-11 00:10:15,0,smaprs,Faranah: 1 new confirmed case of Ebola http://apps.who.int/iris/bitstream/10665/137091/1/roadmapsitrep22Oct2014_eng.pdf,2,0,smaprs,
+261676,Guinée,10.3834800,-9.3061066,2014-10-27 00:00:00,2015-02-11 00:09:25,0,smaprs,Kankan: 1 case Ebola 19 October. Major trade route to Mali.,3,0,smaprs,
+299145,Guinée,11.3161000,-11.3162980,2015-01-09 00:00:00,2015-01-24 20:59:35,0,Unknown,"bounds: (11.3242,-11.3304 - 11.2955,-11.3052) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-11.3304%2C11.2955%2C-11.3052%2C11.3242 Map is blank, grey",2,0,ToeBee,Craigslist note in the wrong place
+129737,Guinée,9.7225507,-13.4986138,2014-03-05 00:00:00,2014-12-23 14:55:03,0,Unknown,Kagbelen,4,1,Mamadou Aliou DIALLO,c'est le lieu d'emplacement d'une usine
+193054,Guinée,11.3162373,-12.2828023,2014-07-02 00:00:00,2014-11-26 14:38:13,0,mueller3,Pharmacie,2,0,Sanderd17,Seems to be on the map already
+270020,Guinée,10.9964681,-14.2817116,2014-11-13 00:00:00,2014-11-13 15:37:36,0,jia_qd,18,2,0,jia_qd,
+233078,Guinée,10.6535225,-9.8822021,2014-08-30 00:00:00,2014-09-14 17:29:01,0,ngos minanga,27/08/2014 region touchée par virus ebola 2cas -2morts  27/08/2014 region affected by ebola disease 2cases 2deaths,2,0,Sanderd17,Not related to the map
+228741,Guinée,10.7405605,-11.1051178,2014-08-24 00:00:00,2014-09-14 17:28:30,0,ngos minanga,region touchée par la fievre EBOLa.des personnes infectees ont été recensées.  region to high rish of contamination by EBOLA fever.many people infected,2,0,Sanderd17,Not related to the map
+233081,Guinée,11.0530818,-12.3956680,2014-08-30 00:00:00,2014-09-14 17:27:49,0,ngos minanga,27/08/2014-region touchée par le virus ebola 5 cas 2 morts   27/08/2014 region affected by ebola disease 5cases 2 deaths,2,0,Sanderd17,Not related to the map
+233090,Guinée,9.7882345,-13.5145569,2014-08-30 00:00:00,2014-09-14 17:27:30,0,ngos minanga,27/08/2014-region touchée par le virus ebola 8 cas 1 mort  27/08/2014 region affected by ebola disease 8 cases 1 death,2,0,Sanderd17,Not related to the map
+228605,Guinée,9.5110318,-13.7085342,2014-08-24 00:00:00,2014-09-14 17:27:00,0,ngos minanga,ville forte touchée par la fièvre en GUINEE,4,1,Sanderd17,Not related to the map
+233071,Guinée,7.5673953,-9.2614746,2014-08-30 00:00:00,2014-09-14 17:25:57,0,ngos minanga,"27-08-2014. region touchée par fievre ebola. 8 cas- 2morts 27/08/2014. region affaected by ebola disease 8 cases, 2 deaths",2,0,Sanderd17,Not related to the map
+228669,Guinée,8.5440161,-9.4674683,2014-08-24 00:00:00,2014-09-14 17:25:31,0,ngos minanga,"zone fortement a très haut risque contre la fievre EBOLA.des organismes sanitaires internationaux et locales ont effectués des campements pour l'assistance aux personnes contaminées. a ce jour,22 cas officiellement identifiés.  this region is one region at very high risk against EBOLA fever.international and national health camps created for assistance for people infected. to date, 22 cases officially identified.",2,0,Sanderd17,Not related to the map
+228734,Guinée,8.4513180,-10.5329704,2014-08-24 00:00:00,2014-09-14 17:25:12,0,ngos minanga,this region is placed at very high risk against fever EBOLA.actually 290 people died  cette region est placé à très haut risque contre la fievre EBOLA.a ce jour 290 morts,2,0,Sanderd17,Not related to the map
+228668,Guinée,8.5603124,-10.1314545,2014-08-24 00:00:00,2014-09-14 17:24:39,0,ngos minanga,"zone fortement a très haut risque contre la fievre EBOLA.des organismes sanitaires internationaux et locales ont effectués des campements pour l'assistance aux personnes contaminées. a ce jour,73 cas officiellement identifiés.   this region is one region at very high risk against EBOLA fever.international and national health camps created for assistance for people infected. to date, 73 cases officially identified.",2,0,Sanderd17,Not related to the map
+153276,Guinée,9.1545906,-9.0298832,2014-04-19 00:00:00,2014-09-11 12:51:01,0,Harry Wood,The most bendy river ever. Needs more bends adding,2,0,Sanderd17,Fixed in changeset #25367608
+224279,Guinée,11.6183574,-11.6156387,2014-08-19 00:00:00,2014-08-25 14:27:39,0,Unknown,"bounds: (11.6254,-11.6365 - 11.6065,-11.5949) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-11.6365%2C11.6065%2C-11.5949%2C11.6254 Not showing anyting",2,0,ToeBee,
+194310,Guinée,10.4111560,-10.4100000,2014-07-05 00:00:00,2014-07-24 02:37:47,0,Unknown,"bounds: (10.4158,-10.4205 - 10.4064,-10.3996) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-10.4205%2C10.4064%2C-10.3996%2C10.4158 Map is missing data here. map is blank",2,0,ToeBee,Craigslist geocoding problem
+194311,Guinée,10.4111560,-10.4100000,2014-07-05 00:00:00,2014-07-24 02:37:46,0,Unknown,"bounds: (10.4158,-10.4205 - 10.4064,-10.3996) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-10.4205%2C10.4064%2C-10.3996%2C10.4158 Map is missing data here. The map is blank. I see only blue.",2,0,ToeBee,Craigslist geocoding problem
+157497,Guinée,8.5546682,-10.1221418,2014-04-26 00:00:00,2014-07-20 09:42:47,0,Unknown,"Correction: this 'Gkd Lele Cente' = old, misplaced version of point 'Gueckedou Lele Centre' on the West of the city. To be deleted, no Gkd Lele in sight here =)  JGA (MSF field GIS off)",2,0,michael63,
+195424,Guinée,9.5101377,-13.7173158,2014-07-07 00:00:00,2014-07-07 15:43:31,0,aladjibombi,Sekhoutoureyah le palais presidentiel,4,1,aladjibombi,
+169856,Guinée,9.1028595,-9.1035461,2014-05-18 00:00:00,2014-07-03 03:07:01,0,Unknown,"bounds: (9.1209,-9.1435 - 9.0827,-9.0603) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-9.1435%2C9.0827%2C-9.0603%2C9.1209 map is blank...",2,0,ToeBee,Craigslist problem
+184327,Guinée,9.2229980,-9.0229000,2014-06-15 00:00:00,2014-07-02 07:26:46,0,Unknown,"bounds: (27.839,-51.6797 - -10.4879,33.5742) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-51.6797%2C-10.4879%2C33.5742%2C27.839 Map is showing wrong data here. We are in Wisconsin and the map is showing either  Africa or some other Country",2,0,ToeBee,Africa is not a country. Thanks for playing.
+143731,Guinée,9.5073072,-13.4527588,2014-04-01 00:00:00,2014-06-25 11:30:29,0,schmarn,"This should be an island, but is rendered as water.",2,0,Jiří Komárek,should by OK now...
+173267,Guinée,9.5100372,-13.7173319,2014-05-24 00:00:00,2014-05-24 19:00:02,0,Aboubacar DIALLO,Sekoutoureya,2,0,Aboubacar DIALLO,
+6247,Guinée,9.5210470,-13.6928594,2013-06-06 00:00:00,2014-04-24 20:48:17,0,Unknown,Driving direction on this part of N1 (both North and South lane) are not correct,2,0,Hjart,I believe it's been corrected for a while now
+6249,Guinée,9.5427215,-13.6746311,2013-06-06 00:00:00,2014-04-24 20:47:14,0,Unknown,Driving direction on south lane of N1 is not correct,2,0,Hjart,I believe it has been corrected
+144806,Guinée,10.3810527,-12.0787919,2014-04-03 00:00:00,2014-04-09 16:39:45,0,py_berrard,direction of these rivers have to be checked,2,0,H@mlet,"Done, went down the way to a bigger river..."
+15429,Guinée,7.7538251,-8.8144469,2013-07-20 00:00:00,2014-04-07 10:58:53,0,Unknown,quartier dorota,2,0,JB-hot,ok
+143206,Guinée,8.5478675,-10.1021111,2014-03-31 00:00:00,2014-03-31 17:34:35,0,tyr_asd,duplicate place name?,2,0,tyr_asd,has already been fixed. sorry for the noise. ;)
+103517,Guinée,8.8166010,-8.8166070,2014-01-17 00:00:00,2014-02-12 07:08:44,0,Unknown,"bounds: (8.8213,-8.8271 - 8.8118,-8.8063) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-8.8271%2C8.8118%2C-8.8063%2C8.8213 Map is missing data here. Just a big blue box. There is no map :C",2,0,ToeBee,Craigslist geocoding problem
+100265,Guinée,10.1158400,-10.1162980,2014-01-12 00:00:00,2014-02-12 07:08:42,0,Unknown,"bounds: (10.1539,-10.1997 - 10.0778,-10.0331) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-10.1997%2C10.0778%2C-10.0331%2C10.1539 No map shows up on my screen so I am not able to check if it is mapping correct, the map is blank and the only thing that show is the bubble and the marker.",2,0,ToeBee,Craigslist website problem
+35593,Guinée,10.4074769,-10.4152966,2013-09-02 00:00:00,2014-02-12 07:08:42,0,Unknown,"bounds: (10.4158,-10.4184 - 10.4064,-10.4021) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-10.4184%2C10.4064%2C-10.4021%2C10.4158 blank map.",2,0,ToeBee,Craigslist geocoding problem
+47427,Guinée,9.5113704,-13.7051439,2013-09-24 00:00:00,2013-09-25 00:19:06,0,Unknown,mission catholique,4,1,6arms1leg,
+9008,Guinée,11.3282642,-12.2748721,2013-06-22 00:00:00,2013-07-15 12:13:04,0,Aaron Lidman,Lots to be traced.,6,1,conschmidt,"conschmidt, can you please provide some explanation why you reactivate the note? Seems to be useless and therefore closed... Thanks! :-)"
+6129,Guinée,11.3223309,-12.2758859,2013-06-05 00:00:00,2013-06-22 22:54:01,0,Unknown,"Routing does not function, N27 not connected to ??.",2,0,Aaron Lidman,
+6074,Guinée,11.1129588,-10.9713721,2013-06-05 00:00:00,2013-06-22 22:48:06,0,Unknown,Routing does not function because N27 is not connected to N30,2,0,Aaron Lidman,
+6252,Guinée,9.6589218,-13.5328120,2013-06-06 00:00:00,2013-06-11 10:26:54,0,Unknown,Routing does not function: N1 South lane seems to be interrupted somewhere in this area,2,0,oba510,fixed; there were a number of places where the ways were not joined

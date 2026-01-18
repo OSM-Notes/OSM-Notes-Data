@@ -1,0 +1,7 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1483632,Aansluitende zone van Nederland,17.7989805,-63.0721188,2018-08-10 00:00:00,2025-03-24 03:30:19,0,Unknown,Are borders correct here? Seems not to be so in OSMAnd.,5,1,Quistill,
+3363948,Aansluitende zone van Nederland,51.8785539,3.0013547,2022-09-18 00:00:00,2022-09-18 18:04:19,0,Geovelo_Notes,Viry Châtillon (This note has been created from Geovelo : http://amenagements-cyclables.fr/fr/contributions/35035),4,0,eggie,Done
+3162122,Aansluitende zone van Nederland,51.8914704,3.0693445,2022-05-02 00:00:00,2022-05-02 13:01:00,0,Geovelo_Notes,aucun aménagement (This note has been created from Geovelo : http://amenagements-cyclables.fr/fr/contributions/29809),4,1,Leo Slager,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible all over the world and are meant for improvements and error corrections. Thanks."
+2027924,Aansluitende zone van Nederland,52.6361400,4.2891500,2019-12-16 00:00:00,2019-12-16 11:00:22,0,Unknown,wat betekent die paarse fuking lelijken lijn,2,0,A67-A67,Dit is de grens van de territoriale wateren van Nederland.
+895188,Aansluitende zone van Nederland,52.2698382,3.8187790,2017-02-17 00:00:00,2017-02-17 11:55:09,0,I_Need_Help,test,2,0,I_Need_Help,

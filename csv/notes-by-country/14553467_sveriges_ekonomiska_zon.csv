@@ -1,0 +1,9 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3376172,Sveriges ekonomiska zon,55.5599034,15.7918167,2022-09-27 00:00:00,2022-09-28 16:49:11,0,Unknown,GASLEAK FROM NORTHSTREAM 2 NORTHEAST OF BORNHOLM,2,0,Jano John Akim Franke,
+2486705,Sveriges ekonomiska zon,56.0992292,19.1140893,2021-01-05 00:00:00,2021-01-05 23:01:07,0,AdamHarzafi,Casa su instagram,4,1,AdamHarzafi,
+1577290,Sveriges ekonomiska zon,61.2618619,18.5826505,2018-10-31 00:00:00,2018-11-06 18:21:01,0,Unknown,Building entrance: exit,4,1,Essin,There is no building here.
+1577289,Sveriges ekonomiska zon,61.2335806,18.4328759,2018-10-31 00:00:00,2018-11-06 18:20:57,0,Unknown,Building entrance: exit,4,1,Essin,There is no building here.
+375667,Sveriges ekonomiska zon,55.7609693,15.4253087,2015-06-07 00:00:00,2015-06-07 07:54:14,0,malenki,Test,4,1,malenki,Thanks for the quick fix. :P  Maybe you are interested for what I did the testing: https://josm.openstreetmap.de/ticket/11532 https://josm.openstreetmap.de/ticket/11533
+63351,Sveriges ekonomiska zon,56.4490208,17.6624107,2013-10-26 00:00:00,2013-12-12 10:53:06,0,Unknown,89123,3,0,Grillo,random comment
+62160,Sveriges ekonomiska zon,58.2394407,17.5537491,2013-10-23 00:00:00,2013-11-27 06:06:38,0,Unknown,RYSKT SIGNALSPANINGSFARTYG,2,0,Grillo,ej osm-relaterat

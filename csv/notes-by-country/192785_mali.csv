@@ -1,0 +1,754 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+2245667,Mali,12.6648321,-11.1247686,2020-06-28 00:00:00,2026-01-07 02:15:18,2019,Unknown,Bureau,4,1,tbo47,
+1916891,Mali,14.4570619,-12.2030018,2019-09-08 00:00:00,2026-01-04 03:12:26,2310,edvac,Poste frontalière,2,0,tbo47,https://www.openstreetmap.org/node/3475028477
+4391760,Mali,14.9005872,-11.7902184,2024-08-19 00:00:00,2026-01-04 03:12:01,503,2507FHA,#Mali #JNIM #AQMI revendique « le contrôle d’une position de l’armée ce matin à l’aube à #Melgué »,2,0,tbo47,
+2087984,Mali,12.6514338,-7.9922708,2020-02-12 00:00:00,2025-12-29 16:00:44,0,N'pê “El Deblo” Bouaré,"'Double enregistrement ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Le Nid POI types: amenity-restaurant OSM data version: 2019-08-30T18:41:13Z  #mapsme",2,0,Jakumata,Was double registered as per user feedback. deleted the business note.
+3568299,Mali,12.6513774,-7.9942864,2023-02-21 00:00:00,2025-12-29 15:08:35,0,Tsinjo,Ici c'est le Rue 11,2,0,Jakumata,corrected its now showing rue 11 as per user fedback
+1525496,Mali,12.6465947,-8.0025383,2018-09-13 00:00:00,2025-12-29 14:32:39,0,Souleymane BATHIENO,"'cet établissement a changé de place. maintenant il se trouve dans l’aci 2000. ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Bibliothèque Nationale POI types: amenity-library OSM data version: 2018-08-04T14:22:01Z  #mapsme",4,1,Nakaner,
+5084113,Mali,22.0370593,-3.4291128,2025-12-08 00:00:00,2025-12-09 04:47:43,0,&lt;img src=x onerror=alert(2)&gt;,asdasdasdad,2,0,pitscheplatsch,
+5084116,Mali,22.0370593,-3.4291128,2025-12-08 00:00:00,2025-12-08 22:46:02,0,&lt;img src=x onerror=alert(2)&gt;,asdasdasdad,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/5084113  Therefore, it will be closed.  #DuplicateNote"
+5084114,Mali,22.0370593,-3.4291128,2025-12-08 00:00:00,2025-12-08 22:46:01,0,&lt;img src=x onerror=alert(2)&gt;,asdasdasdad,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/5084113  Therefore, it will be closed.  #DuplicateNote"
+5084115,Mali,22.0370593,-3.4291128,2025-12-08 00:00:00,2025-12-08 22:46:01,0,&lt;img src=x onerror=alert(2)&gt;,asdasdasdad,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/5084113  Therefore, it will be closed.  #DuplicateNote"
+4406759,Mali,21.3225496,0.7314062,2024-08-28 00:00:00,2025-11-14 11:15:51,0,Misa_zumba,Our user indicate this village name is:'In-Afarak'. We cannot find any available sources to verify this information. Can any local mapper confirm this? #msftopenmaps,2,0,yamada-as,"updated  https://www.openstreetmap.org/changeset/174643533 , thanks"
+1579673,Mali,12.5510300,-5.1672214,2018-11-02 00:00:00,2025-11-12 22:46:56,0,saliousoft,marché a bétail,3,1,CarlosRamon,
+3061126,Mali,12.6344900,-7.9697900,2022-02-22 00:00:00,2025-11-05 13:19:20,0,Unknown,Villa DAS,5,1,Gee Moore,
+2626309,Mali,16.9613486,-0.3455186,2021-04-17 00:00:00,2025-10-28 13:28:59,0,Tiokon,'Douga 2' POI has no name POI types: man_made-water_tower OSM data version: 2019-10-19T16:52:54Z  #mapsme,2,0,NeisBot,Same as note https://osm.org/note/2626306 only ~2 m apart. Closing as duplicate.  #DuplicateNote #Nearby
+2626308,Mali,16.9613157,-0.3455350,2021-04-17 00:00:00,2025-10-28 13:22:44,0,Tiokon,'douga 2' POI has no name POI types: man_made-water_tower OSM data version: 2019-10-19T16:52:54Z  #mapsme,2,0,NeisBot,Same as note https://osm.org/note/2626307 only ~1 m apart. Closing as duplicate.  #DuplicateNote #Nearby
+4814914,Mali,12.1282530,-7.0357132,2025-06-20 00:00:00,2025-10-14 20:39:08,0,Unknown,Kouroukoro,3,1,KChrist map,
+1506026,Mali,16.0507626,-3.4297943,2018-08-28 00:00:00,2025-09-07 08:15:55,0,Unknown,Dire,2,0,GorgorMith,Diré is mapped further north.
+1274294,Mali,13.4243799,-7.8358841,2018-01-20 00:00:00,2025-09-03 17:35:40,0,Toure 15,'Terrain de foot' POI has no name POI types: leisure-playground OSM data version: 2017-12-08T15:42:02Z  #mapsme,3,1,Susana Cristina Alves Pedro,
+3504507,Mali,13.3554000,-9.5523000,2023-01-04 00:00:00,2025-08-29 04:35:33,0,Unknown,baland,2,0,Greg_Rose,Oui - Balandougou
+423882,Mali,14.4760707,-7.8615761,2015-08-28 00:00:00,2025-08-22 15:54:20,0,Nschuma,Kolonkoraba,6,1,Greg_Rose,Oooops. This is actually Ntomodo.
+4909416,Mali,11.4790153,-5.4948807,2025-08-14 00:00:00,2025-08-14 10:45:02,0,26Marinel,12.08,2,0,26Marinel,
+4909407,Mali,11.4480600,-5.5470700,2025-08-14 00:00:00,2025-08-14 10:41:10,0,26Marinel,07.08,2,0,26Marinel,
+4909392,Mali,11.4940292,-6.0111523,2025-08-14 00:00:00,2025-08-14 10:38:57,0,26Marinel,1,6,1,26Marinel,07.08
+4909385,Mali,11.4936500,-6.0003400,2025-08-14 00:00:00,2025-08-14 10:38:46,0,26Marinel,1,5,1,26Marinel,
+4651642,Mali,13.4212161,-6.2979636,2025-03-04 00:00:00,2025-07-31 15:18:49,0,dilancglr,p,2,0,NeisRevert,No actionable information was provided for editing OpenStreetMap data. Please feel free to reopen this note with more details. #noeditinfo
+3207825,Mali,15.5387600,0.4885600,2022-06-03 00:00:00,2025-07-22 15:53:32,0,Unknown,Salata,2,0,AzawadEnjoyer,
+4827929,Mali,14.4459089,-11.4411378,2025-06-27 00:00:00,2025-07-02 08:26:14,0,hamadidiarraopen,'FAMILLE DIARRA' POI name: FAMILLE DIARRA POI types: shop-travel_agency OSM data version: 2025-03-18T16:35:26Z  #mapsme,2,0,NeisBot,"Hi hamadidiarraopen, Thank you for your contribution!   I've reviewed OSM and noticed that the following element already exists:  'FAMILLE DIARRA' (shop=travel_agency) https://osm.org/node/12734432701  Due to this, I'm closing this note now.   If you have further details to share or if you'd like to reopen the note in the future, feel free to do so.  #AlreadyMapped #Closing"
+1936548,Mali,15.2254900,-9.6025300,2019-09-23 00:00:00,2025-07-02 01:47:31,0,Unknown,Fardalla,2,0,Greg_Rose,Unable to verify. Please reopen with more information. Vérification impossible. Veuillez rouvrir avec plus d'informations.
+425767,Mali,15.2571922,-9.4293594,2015-08-31 00:00:00,2025-06-30 21:18:26,0,Unknown,yerere,2,0,Greg_Rose,Oui
+425752,Mali,15.2604993,-9.4740021,2015-08-31 00:00:00,2025-06-29 08:25:27,0,Unknown,nomo,2,0,Greg_Rose,Oui
+425768,Mali,15.2575332,-9.5441164,2015-08-31 00:00:00,2025-06-29 08:05:38,0,Unknown,diamwely,2,0,Greg_Rose,Oui
+4819248,Mali,14.7981817,-1.3034248,2025-06-23 00:00:00,2025-06-23 10:45:55,0,Unknown,Boulkessi,2,0,mohamed345,
+423883,Mali,14.4760500,-8.0237317,2015-08-28 00:00:00,2025-06-17 08:23:54,0,Nschuma,Kolomina,2,0,Greg_Rose,Oui - merci
+1919669,Mali,14.4164580,-8.2829337,2019-09-10 00:00:00,2025-06-09 01:04:17,0,edvac,Gomitradougou,2,0,Greg_Rose,Mapped so
+2953737,Mali,14.3722000,-8.2085000,2021-11-29 00:00:00,2025-06-08 22:59:48,0,Unknown,SEbabougou,2,0,Greg_Rose,oui
+2953733,Mali,14.2531000,-8.3877000,2021-11-29 00:00:00,2025-06-07 20:28:28,0,Unknown,Samantara,2,0,Greg_Rose,oui
+2953742,Mali,14.3874000,-8.6226300,2021-11-29 00:00:00,2025-06-03 07:59:00,0,Unknown,Sanankoro,2,0,Greg_Rose,Non - ayi a tɛ ten
+4785871,Mali,12.6368210,-8.0479060,2025-06-01 00:00:00,2025-06-01 18:56:49,0,BomouMamadou,COMPLEXE SCOLAIRE WAKAMISSKO,2,0,BomouMamadou,
+4783696,Mali,16.0604956,-0.7121372,2025-05-31 00:00:00,2025-06-01 13:24:46,0,Unknown,dd,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4773427,Mali,12.6394956,-7.9740840,2025-05-24 00:00:00,2025-05-24 13:59:38,0,lhachem,Maison Lilia HACHEM,2,0,lhachem,
+4773377,Mali,12.6596577,-7.9969579,2025-05-24 00:00:00,2025-05-24 13:32:17,0,lhachem,Bâtiment F,2,0,lhachem,
+4765186,Mali,12.6596447,-7.9968493,2025-05-18 00:00:00,2025-05-23 10:12:57,0,monstroeefstack,bâtiment f lycée Liberté,5,1,Aissetou Diagana,
+4771426,Mali,12.6186644,-7.9654098,2025-05-22 00:00:00,2025-05-22 23:04:28,0,Hkeita2@@!,maison de Hailey,4,1,Hkeita2@@!,maison de hailey
+3716261,Mali,12.6050168,-8.0106103,2023-06-01 00:00:00,2025-05-17 16:21:10,0,user_15281752,Boulangerie,2,0,NeisBot,"The original content of this note has been removed due to the deletion or deactivation of the associated OSM user account. Consequently, this note is now automatically closed.  #NothingToDoHere"
+2361458,Mali,14.2613052,-9.9056339,2020-09-24 00:00:00,2025-05-13 20:58:24,0,Unknown,Village kerouane diallane,2,0,Greg_Rose,Non - pas ici
+4747995,Mali,14.3137200,-10.0133500,2025-05-08 00:00:00,2025-05-08 09:53:42,0,KONATE KEITA,MODINCANOU,2,0,KONATE KEITA,
+4163855,Mali,14.3132881,-10.0138451,2024-03-22 00:00:00,2025-05-08 09:52:36,0,KONATE KEITA,MODINCANOU DIALLAN,4,1,KONATE KEITA,Bonjour à tous la nombre de personnes du Modincanou moi je ma appelle mamadou boubaly Konate ne 1988 à Modincanou actuellement je suis en France précisément ville de Paris
+4742979,Mali,12.5746277,-8.0766459,2025-05-05 00:00:00,2025-05-06 06:04:08,0,Unknown,ss,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4742986,Mali,12.5407921,-8.0238284,2025-05-05 00:00:00,2025-05-06 06:03:59,0,Unknown,SS,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4742989,Mali,12.6171358,-8.0446342,2025-05-05 00:00:00,2025-05-06 06:03:42,0,Unknown,ss,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4742997,Mali,13.0242203,-9.5134897,2025-05-05 00:00:00,2025-05-06 06:03:29,0,Unknown,ss,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4743002,Mali,13.1989194,-10.4308431,2025-05-05 00:00:00,2025-05-06 06:03:09,0,Unknown,ss,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4743014,Mali,12.5722821,-7.8945189,2025-05-05 00:00:00,2025-05-06 06:02:32,0,Unknown,ss,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4743016,Mali,11.6389018,-8.2284269,2025-05-05 00:00:00,2025-05-06 06:02:18,0,Unknown,ss,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4740174,Mali,14.5366500,-9.1893800,2025-05-03 00:00:00,2025-05-03 11:52:02,0,Aliou306,mon village,2,0,Aliou306,
+4638697,Mali,14.0680278,-10.3866801,2025-02-23 00:00:00,2025-05-01 08:07:37,0,Unknown,École 🏫 madina🏫,2,0,Greg_Rose,non
+4638683,Mali,14.0684416,-10.3866750,2025-02-23 00:00:00,2025-05-01 08:07:21,0,Unknown,École 🏫 🎒,2,0,Greg_Rose,non
+1417088,Mali,12.5987490,-8.0564775,2018-06-05 00:00:00,2025-04-14 16:20:30,0,Fassiriman Dabo,"'Mal indiqué, l'endroit est juste à côté.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Lycée Mamadou M'Bodj de Sébénikoro POI types: amenity-school OSM data version: 2018-05-12T22:49:02Z  #mapsme",3,1,Capable20,
+4700635,Mali,12.6141811,-7.9663683,2025-04-07 00:00:00,2025-04-07 18:12:06,0,Abdoul Karim M Keita,Football Areas / Entente field,4,1,Abdoul Karim M Keita,It's a football field areas
+16141,Mali,14.0928333,-10.3613734,2013-07-22 00:00:00,2025-03-25 08:15:49,0,Unknown,goundara,4,0,Greg_Rose,Bad note. Closing.
+4204309,Mali,12.6192375,-7.9903349,2024-04-18 00:00:00,2025-03-24 20:48:48,0,Docz,'Cabinet Médical MASSILA COULIBALY ' POI name: Cabinet Médical MASSILA COULIBALY POI types: amenity-clinic internet_access-wlan OSM data version: 2024-02-09T10:21:43Z  #mapsme,3,0,NeisBot,"It seems that the requested information has been added, so I am proceeding to close this note.  Should you have additional details, please feel free to reopen this note.  #Closing"
+4675361,Mali,14.5345695,-4.1295433,2025-03-22 00:00:00,2025-03-22 10:54:22,0,Alyci,CAMP SEKOU BOLY,2,0,Alyci,
+739483,Mali,14.1340123,-9.5254925,2016-10-06 00:00:00,2025-03-16 18:39:28,0,Mary Traoré,village du Mali (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Greg_Rose,oui
+739481,Mali,14.1397163,-9.5239188,2016-10-06 00:00:00,2025-03-16 18:33:09,0,Mary Traoré,Balala champ cultivable (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Greg_Rose,non
+739482,Mali,14.1398645,-9.5239248,2016-10-06 00:00:00,2025-03-16 18:32:38,0,Mary Traoré,balala champ de bambarana (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Greg_Rose,non
+746198,Mali,14.1209849,-9.5314760,2016-10-13 00:00:00,2025-03-16 18:25:25,0,Mary Traoré,village mali (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Greg_Rose,oui
+4415543,Mali,15.0073582,-2.9532624,2024-09-02 00:00:00,2025-03-14 20:57:36,0,Unknown,'Eglise CE Douentza' POI name: Eglise CE Douentza POI types: amenity-place_of_worship OSM data version: 2023-09-29T17:51:04Z  #mapsme,3,0,NeisBot,"It seems that the requested information has been added, so I am proceeding to close this note.  Should you have additional details, please feel free to reopen this note.  #Closing"
+2764798,Mali,13.1535495,-8.8817474,2021-07-21 00:00:00,2025-03-09 20:26:56,0,Unknown,Kita,2,0,Greg_Rose,No
+4575424,Mali,11.2995126,-5.6826729,2025-01-04 00:00:00,2025-03-04 23:26:26,0,KADER_82,Complexe scolaire Kénédougou,4,1,Dameclara22,
+3504063,Mali,13.4240099,-6.2875228,2023-01-04 00:00:00,2025-03-04 22:12:02,0,Ibsocam,Famille CAMARA,2,0,dilancglr,
+4651001,Mali,12.5694672,-8.0041561,2025-03-04 00:00:00,2025-03-04 12:36:40,0,Unknown,POI has no name POI types: tourism-apartment OSM data version: 2024-08-27T15:56:03Z  #mapsme,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/4650999  Therefore, it will be closed.  #DuplicateNote"
+4604494,Mali,13.1285500,-9.3351200,2025-01-27 00:00:00,2025-02-19 19:45:21,0,youssbs,ici,2,0,Greg_Rose,"là, oui"
+4618830,Mali,12.5845650,-7.9433410,2025-02-08 00:00:00,2025-02-14 12:32:52,0,Delta999,tour d'afrique,2,0,Minty12,
+1635733,Mali,12.5932100,-7.9400768,2019-01-01 00:00:00,2025-02-14 12:32:49,0,Allaye Guindo,'Bamako-Bankass-Koro-Waigouya' POI name: Gare routière Elhadj Dougnon POI types: amenity-bus_station OSM data version: 2018-10-30T22:25:02Z  #mapsme,2,0,Minty12,
+588261,Mali,12.5916680,-7.9415221,2016-06-09 00:00:00,2025-02-14 12:32:44,0,Mamadi Sangaré,parc Banankabougou (OSM data version: 2016-05-10T14:41:03Z) #mapsme,5,1,Minty12,
+1354960,Mali,13.8688718,-9.8761135,2018-04-10 00:00:00,2025-01-20 23:19:29,0,Unknown,Dalaba,2,0,Greg_Rose,oui
+3986095,Mali,16.7729067,-3.0077648,2023-11-13 00:00:00,2025-01-17 16:02:42,0,Unknown,Tombouctou,2,0,TravlesT,C'était déjà ajouté  It was already added
+1537080,Mali,14.2916099,-12.0189371,2018-09-22 00:00:00,2025-01-11 14:43:27,0,ly09,'ce lieu est le centre de santé communautaire du village de Dakassenou' POI name: CSCOM de Dakassenou POI types: amenity-doctors OSM data version: 2018-05-12T22:49:02Z  #mapsme,2,0,tbo47,https://www.openstreetmap.org/node/6010894986
+1238311,Mali,14.7249938,-12.0503402,2017-12-14 00:00:00,2025-01-11 14:42:34,0,Mateusz Konieczny,see https://www.openstreetmap.org/changeset/45707822#map=10/14.7982/-11.9349&layers=N,4,1,tbo47,
+4583699,Mali,13.2133260,-10.5447990,2025-01-10 00:00:00,2025-01-11 06:10:18,0,Unknown,фпортлкмднфкйанй  асдкаскл,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2570586,Mali,14.4757799,-11.4098167,2021-03-08 00:00:00,2024-12-30 00:28:28,0,Unknown,Domicile du chef du village de Kayes N'di,2,0,Greg_Rose,Non
+3558863,Mali,14.4124944,-11.4753990,2023-02-14 00:00:00,2024-12-29 21:39:49,0,hamadidiarraopen,'FARADA HD 1' POI name: FARADA HD 1 POI types: amenity-place_of_worship OSM data version: 2022-05-30T16:03:30Z  #mapsme,2,0,Greg_Rose,already mapped
+4194061,Mali,14.4215784,-11.4271685,2024-04-11 00:00:00,2024-12-29 21:05:58,0,Unknown,Couloubalybougou,2,0,Greg_Rose,Oui
+4492201,Mali,12.6758798,-7.9183968,2024-10-24 00:00:00,2024-10-24 08:06:47,0,Unknown,POI has no name POI types: amenity-doctors OSM data version: 2024-07-26T11:33:20Z  #mapsme,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/4462042  Therefore, it will be closed.  #DuplicateNote"
+4480931,Mali,12.9714000,-6.4105000,2024-10-16 00:00:00,2024-10-16 11:24:29,0,DEMBELE52,Sanando,2,0,DEMBELE52,
+4480929,Mali,13.0581000,-6.6457000,2024-10-16 00:00:00,2024-10-16 11:22:35,0,DEMBELE52,tigui,2,0,DEMBELE52,
+4480919,Mali,14.1267500,-5.1254700,2024-10-16 00:00:00,2024-10-16 11:13:26,0,DEMBELE52,limite segou,2,0,DEMBELE52,
+4480904,Mali,13.4468300,-6.2600080,2024-10-16 00:00:00,2024-10-16 11:08:31,0,DEMBELE52,Ségou,3,1,DEMBELE52,
+4471633,Mali,16.7674804,-3.0106831,2024-10-09 00:00:00,2024-10-10 06:03:36,0,Unknown,"Пожалуйста, жизнь смерть Клары Альварес Лерия обнаруживает торговлю детьми в одиночку новые похищения людей с применением пыток различными способами радиочастотные тайные психиатрические пытки масонство масонство",2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4471641,Mali,16.7674624,-3.0107474,2024-10-09 00:00:00,2024-10-10 06:03:24,0,Unknown,"Пожалуйста, добавьте срочность неправильно применяемая алхимия холокост в виду прослушивание факсов психопатов с масонством жизни ясная смерть Альварес Лерия +34 606672418 дети, ящик и другие жертвы в Стране Басков",2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+3694846,Mali,15.5030173,0.4597993,2023-05-18 00:00:00,2024-09-26 08:37:57,0,Grandasse,Ce n'est pas un point d'eau ici mais une cabine de toilettes publiques  via StreetComplete 53.0  Attached photo(s): https://westnordost.de/p/149424.jpg,2,0,Syl,"Note mal positionnée, cet endroit ne correspond pas à la photo."
+4352406,Mali,13.7644576,-5.8321953,2024-07-26 00:00:00,2024-09-12 15:29:18,0,Unknown,Au lieu de konabougou c'est kouabougou,2,0,Greg_Rose,merci - je l'ai réparé
+942846,Mali,12.8992795,-6.8702437,2017-03-27 00:00:00,2024-08-27 22:45:44,0,Young pass,puit à eau de Soula (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Greg_Rose,Already mapped
+942845,Mali,12.8996825,-6.8701326,2017-03-27 00:00:00,2024-08-27 22:45:13,0,Young pass,puit d'eau de Soula (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Greg_Rose,Already mapped
+945322,Mali,12.8997865,-6.8703190,2017-03-29 00:00:00,2024-08-27 22:44:55,0,Young pass,puit à eau de soula (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Greg_Rose,Already mapped
+942848,Mali,13.0036595,-6.8755462,2017-03-27 00:00:00,2024-08-27 21:14:20,0,Young pass,Pompe à eau de Dembabougou (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Greg_Rose,Already mapped
+1289571,Mali,13.0939998,-6.6212524,2018-02-04 00:00:00,2024-08-17 04:16:19,0,Toure 15,'Terrain de foot' POI has no name POI types: leisure-playground OSM data version: 2018-01-10T08:12:02Z  #mapsme,2,0,Greg_Rose,oui - je l'ai ajouté
+4386108,Mali,12.8251397,-9.4167852,2024-08-16 00:00:00,2024-08-16 11:29:18,0,samory sidibe,Village de kodofara,2,0,samory sidibe,
+4386099,Mali,12.8211958,-9.4244242,2024-08-16 00:00:00,2024-08-16 11:24:11,0,samory sidibe,le village de kodofara,4,1,samory sidibe,Oui
+3531805,Mali,13.8124601,-6.1153632,2023-01-25 00:00:00,2024-07-17 05:13:42,0,Diakaria Konate,'Maison d'hôtes' POI name: Maison d'hôtes POI types: tourism-guest_house OSM data version: 2022-10-30T11:31:10Z  #mapsme,2,0,Greg_Rose,already mapped
+3823619,Mali,13.7734032,-5.8746067,2023-08-08 00:00:00,2024-07-10 23:29:52,0,Mateusz Konieczny,name=Boutique Bassaro et frères de Sibila https://www.openstreetmap.org/node/5176894801  shop=boutique bassaro et frères de sibila ? What is the meaning of that shop value? What kind of services or products are sold here? Is anything from https://wiki.openstreetmap.org/wiki/Key:shop fitting? Maybe new value needs to be invented? Maybe this data is wrong and there is no shop here? Maybe it is not a shop but something else?,2,0,Greg_Rose,Changing to shop=yes
+3068722,Mali,14.5069191,-4.0842891,2022-02-28 00:00:00,2024-07-08 01:50:02,0,elie koita,route,2,0,Greg_Rose,Non
+4288621,Mali,13.4367386,-6.2576872,2024-06-12 00:00:00,2024-06-12 10:16:55,0,Amadou h Drame,Nɲɛ,3,1,Amadou h Drame,"13,4367386"
+766229,Mali,12.9935995,-5.7657426,2016-10-30 00:00:00,2024-05-16 02:35:34,0,Mamadi Sangaré,nouveau poste de péage de Bla (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,Greg_Rose,Oui
+1075040,Mali,12.5249217,-8.0989942,2017-07-22 00:00:00,2024-05-13 11:48:08,0,oumar yanogo,'Ma parcelle à Samanko ' POI has no name POI types: tourism-picnic_site OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,sheikchilli,no information
+1220347,Mali,12.9490000,-8.8797000,2017-11-28 00:00:00,2024-05-03 15:47:56,0,Unknown,projet station,2,0,sheikchilli,personal note
+1153705,Mali,12.9550074,-4.6366587,2017-09-26 00:00:00,2024-05-02 08:08:55,0,Toure 15,'Château d'eau Dogodogo' POI has no name POI types: man_made-water_tower OSM data version: 2017-08-17T15:51:02Z  #mapsme,2,0,Greg_Rose,oui
+1579675,Mali,12.5487217,-4.8616400,2018-11-02 00:00:00,2024-04-22 02:53:57,0,saliousoft,place publique,2,0,Greg_Rose,Je l'ai ajouté
+1579676,Mali,12.5258517,-4.9020931,2018-11-02 00:00:00,2024-04-19 08:51:18,0,saliousoft,pont,2,0,Greg_Rose,oui
+1616730,Mali,12.5227960,-4.9016844,2018-12-14 00:00:00,2024-04-19 08:50:22,0,saliousoft,mare,2,0,Greg_Rose,oui
+1616729,Mali,12.5175267,-4.9029767,2018-12-14 00:00:00,2024-04-19 08:49:55,0,saliousoft,pont,2,0,Greg_Rose,oui
+3362920,Mali,12.7773998,-5.0798786,2022-09-17 00:00:00,2024-04-12 09:58:36,0,Unknown,TOURA-TOKAN,2,0,Greg_Rose,M'Peresso-Tokan
+4189704,Mali,14.5506258,-4.0837234,2024-04-08 00:00:00,2024-04-08 22:04:16,0,Michee Poudiougo,POI has no name POI types: tourism-apartment OSM data version: 2023-09-29T17:51:04Z  #mapsme,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/4189684  Therefore, it will be closed.  #DuplicateNote"
+4189690,Mali,14.5507434,-4.0838000,2024-04-08 00:00:00,2024-04-08 21:34:18,0,Michee Poudiougo,POI has no name POI types: tourism-apartment OSM data version: 2023-09-29T17:51:04Z  #mapsme,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/4189685  Therefore, it will be closed.  #DuplicateNote"
+4189687,Mali,14.5506258,-4.0837234,2024-04-08 00:00:00,2024-04-08 21:34:17,0,Michee Poudiougo,POI has no name POI types: tourism-apartment OSM data version: 2023-09-29T17:51:04Z  #mapsme,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/4189684  Therefore, it will be closed.  #DuplicateNote"
+4189689,Mali,14.5507434,-4.0838000,2024-04-08 00:00:00,2024-04-08 21:34:17,0,Michee Poudiougo,POI has no name POI types: tourism-apartment OSM data version: 2023-09-29T17:51:04Z  #mapsme,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/4189685  Therefore, it will be closed.  #DuplicateNote"
+4186473,Mali,15.0073582,-2.9532624,2024-04-07 00:00:00,2024-04-07 09:04:15,0,Michee Poudiougo,POI has no name POI types: amenity-place_of_worship OSM data version: 2023-09-29T17:51:04Z  #mapsme,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/4186471  Therefore, it will be closed.  #DuplicateNote"
+2789053,Mali,12.8956067,-5.1152194,2021-08-06 00:00:00,2024-04-06 04:23:50,0,Dibloni Innocent,Nounguesso Village,2,0,Greg_Rose,Done
+1096898,Mali,12.7353847,-5.7266489,2017-08-08 00:00:00,2024-03-28 01:41:27,0,AKE Amazan,village à cartographier,2,0,Greg_Rose,ok
+3022116,Mali,12.6501893,-8.0022311,2022-01-24 00:00:00,2024-03-21 11:57:14,0,Aliou75,En plus de la DNUH il y a le projet pruba,6,1,Fankele,
+2001790,Mali,12.6473000,-7.9862000,2019-11-19 00:00:00,2024-03-21 11:56:35,0,DIA TOUG,poteau électrique,4,1,Fankele,
+2656974,Mali,12.6508906,-7.9918671,2021-05-06 00:00:00,2024-03-21 11:56:29,0,2ndeb3,Lycée Liberté,4,1,Fankele,
+4161449,Mali,14.3133000,-10.0139667,2024-03-21 00:00:00,2024-03-21 05:00:06,0,Unknown,Bonjour je ma appelle mamadou boubacar dit boubaly Konate Modicanou aujourd'hui 21 mars 2024 à Paris métro bibliothèque ligne 14 la population du Modicanou réfléchi pour la développement du Modicanou,4,1,KONATE KEITA,Fascinant!
+675284,Mali,13.0082374,-5.3077698,2016-08-17 00:00:00,2024-03-19 03:01:10,0,Unknown,Dougouolo,4,1,Greg_Rose,NOTED
+967212,Mali,18.9327540,-5.2256290,2017-04-17 00:00:00,2024-03-05 23:17:26,0,Unknown,Λείπει stop: Λείπει ταχύτητα  Αυτό το σφάλμα υποβάλλεται από το Navmii GPS.,3,0,snoozingnewt,
+2379024,Mali,11.6485043,-8.1888123,2020-10-08 00:00:00,2024-01-11 12:23:05,0,GOITAKALI,'refuge de KALIFA' POI has no name POI types: amenity-shelter internet_access-wlan OSM data version: 2020-08-22T02:23:14Z  #mapsme,2,0,bodouroy,
+4062040,Mali,11.6383238,-8.2300901,2024-01-11 00:00:00,2024-01-11 12:22:57,0,Unknown,BARRAGE,4,1,bodouroy,
+2990122,Mali,13.9915000,-4.3570000,2021-12-31 00:00:00,2024-01-03 21:38:58,0,Christian COURBOIS,Village de Togoyé,2,0,Greg_Rose,c'est cartographié
+4035069,Mali,12.5962975,-7.9727751,2023-12-20 00:00:00,2023-12-20 13:47:46,0,Soumareden,Bureau XCELLIS,4,1,Soumareden,
+3362914,Mali,12.8351072,-4.9263811,2022-09-17 00:00:00,2023-12-14 08:50:03,0,Adaleo,Presbytere de Kimparana,2,0,Greg_Rose,nom ajouté
+4007641,Mali,18.4391381,1.4004304,2023-11-29 00:00:00,2023-11-29 04:46:02,0,Amadou h Drame,Aw yé aw hakili tô aw yɛrɛ la,3,1,Amadou h Drame,AMADOU DRAMÉ
+2966518,Mali,13.5709300,-4.9335800,2021-12-10 00:00:00,2023-11-10 22:07:06,0,Unknown,Nansabara,2,0,Greg_Rose,Ajouté
+2010078,Mali,13.4381546,-4.9396133,2019-11-27 00:00:00,2023-11-10 21:56:52,0,baluard,TITANA,2,0,Greg_Rose,oui
+771452,Mali,13.2598788,-5.0818932,2016-11-03 00:00:00,2023-11-10 09:13:27,0,Mamadi Sangaré,Centre de formation militaire de tiby (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,Greg_Rose,je l'ai corrigé
+1166427,Mali,13.1368959,-5.1119323,2017-10-08 00:00:00,2023-11-10 08:08:35,0,Toure 15,"'ce n'est pas sa vraie localisation ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Offienso POI types: tourism-artwork OSM data version: 2017-09-17T07:13:02Z  #mapsme",2,0,Greg_Rose,Je l'ai corrigé
+766228,Mali,13.1176518,-5.1587707,2016-10-30 00:00:00,2023-11-10 07:42:00,0,Mamadi Sangaré,carrefour de Dieli (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,Greg_Rose,Je l'ai corrigé
+762366,Mali,13.1175059,-5.1585719,2016-10-26 00:00:00,2023-11-10 07:41:51,0,Mamadi Sangaré,carrefour de tiomprosso-Dieli (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,Greg_Rose,Je l'ai corrigé
+1084892,Mali,12.9514593,-5.7398053,2017-07-30 00:00:00,2023-11-10 07:21:07,0,Toure 15,'Bureau' POI name: Vision mondiale POI types: tourism-artwork OSM data version: 2017-07-03T17:28:05Z  #mapsme,2,0,Greg_Rose,Je l'ai corrigé
+1908653,Mali,18.4213297,0.8770622,2019-09-01 00:00:00,2023-11-05 12:52:51,0,Unknown,0538177903,2,0,Mateusz Konieczny - bot account,"Closing note as not containing report of mistakes in OSM data. Note text was '0538177903'  If you wanted to report problems with OSM data please open a more clear note, or reopen this one with an explanation"
+1763616,Mali,23.1874257,-3.5347664,2019-05-01 00:00:00,2023-11-05 12:52:30,0,Unknown,0964407580,2,0,Mateusz Konieczny - bot account,"Closing note as not containing report of mistakes in OSM data. Note text was '0964407580'  If you wanted to report problems with OSM data please open a more clear note, or reopen this one with an explanation"
+35027,Mali,14.9204028,-9.1287804,2013-09-01 00:00:00,2023-11-03 10:47:12,0,z-dude,to do: remove vmap0 roads and trace imagery for actual roads.,2,0,Mateusz Konieczny,opened https://www.openstreetmap.org/note/3970717 https://www.openstreetmap.org/note/3970718 https://www.openstreetmap.org/note/3970719 and traced a bit of road
+3486722,Mali,20.5391300,-3.5615700,2022-12-22 00:00:00,2023-11-01 18:00:13,0,Unknown,'ฒฬษฤฏษญฆฏโฆโฏ,2,0,confusedbuffalo,
+2987521,Mali,18.3578056,1.3157558,2021-12-29 00:00:00,2023-11-01 17:57:21,0,Unknown,PT1,2,0,confusedbuffalo,Not enough information to map anything
+2943338,Mali,13.2652000,-6.6576000,2021-11-21 00:00:00,2023-11-01 17:57:13,0,Unknown,Site ASC,2,0,confusedbuffalo,Not enough information to map anything
+3486719,Mali,20.5390600,-3.5615900,2022-12-22 00:00:00,2023-11-01 17:57:11,0,Unknown,F4922814401 ..............................................................................................................................................................................................................................................................................................................,2,0,confusedbuffalo,Not enough information to map anything
+3528499,Mali,14.0666597,-3.5293323,2023-01-23 00:00:00,2023-11-01 17:56:22,0,SOMBORO,TA,2,0,confusedbuffalo,Not enough information to map anything
+3528500,Mali,14.0667318,-3.5291491,2023-01-23 00:00:00,2023-11-01 17:56:21,0,SOMBORO,TB,2,0,confusedbuffalo,Not enough information to map anything
+3528501,Mali,14.0668140,-3.5289671,2023-01-23 00:00:00,2023-11-01 17:56:20,0,SOMBORO,TC,2,0,confusedbuffalo,Not enough information to map anything
+3528502,Mali,14.0668999,-3.5288083,2023-01-23 00:00:00,2023-11-01 17:56:17,0,SOMBORO,TD,2,0,confusedbuffalo,Not enough information to map anything
+3528503,Mali,14.0667026,-3.5288076,2023-01-23 00:00:00,2023-11-01 17:56:15,0,SOMBORO,TE,2,0,confusedbuffalo,Not enough information to map anything
+3528504,Mali,14.0666463,-3.5289859,2023-01-23 00:00:00,2023-11-01 17:56:12,0,SOMBORO,TF,2,0,confusedbuffalo,Not enough information to map anything
+3528505,Mali,14.0665618,-3.5291381,2023-01-23 00:00:00,2023-11-01 17:56:11,0,SOMBORO,TG,2,0,confusedbuffalo,Not enough information to map anything
+3528506,Mali,14.0664599,-3.5292806,2023-01-23 00:00:00,2023-11-01 17:56:10,0,SOMBORO,TH,2,0,confusedbuffalo,Not enough information to map anything
+3896985,Mali,10.7063192,-6.5535244,2023-09-19 00:00:00,2023-11-01 17:55:33,0,Unknown,1,2,0,confusedbuffalo,Not enough information to map anything
+3907237,Mali,16.2031000,-0.4767000,2023-09-25 00:00:00,2023-11-01 17:55:25,0,Unknown,1,2,0,confusedbuffalo,Not enough information to map anything
+1075041,Mali,12.5249217,-8.0989942,2017-07-22 00:00:00,2023-10-30 17:44:37,0,oumar yanogo,'Ma parcelle à SANANKO' POI has no name POI types: tourism-picnic_site OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,confusedbuffalo,Duplicate note
+836414,Mali,12.5814197,-7.9560851,2016-12-31 00:00:00,2023-10-30 17:44:23,0,Hamma Ba,Centre de Promotion et Formation de Basket-ball (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,confusedbuffalo,Duplicate note
+833771,Mali,12.5814197,-7.9560851,2016-12-29 00:00:00,2023-10-30 17:44:13,0,Hamma Ba,CPFB (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,confusedbuffalo,Duplicate note
+3494865,Mali,13.9324667,-4.6902444,2022-12-28 00:00:00,2023-10-30 09:14:02,0,Unknown,Yebe,2,0,Greg_Rose,Oui!
+170452,Mali,14.2289402,-4.3460181,2014-05-20 00:00:00,2023-10-24 08:52:47,0,Harry Wood,more roads going in all directions from this town. Needs sketching,2,0,Greg_Rose,Much better now
+2788958,Mali,14.4806857,-4.2014471,2021-08-06 00:00:00,2023-10-24 03:55:11,0,Dibloni Innocent,SOMAGEP (Société Malienne de Gestion de l'Eau Potable),3,0,Greg_Rose,merci
+2987449,Mali,15.5985478,-5.1232209,2021-12-29 00:00:00,2023-10-10 03:13:54,0,ivanbranco,village or hamlet?,2,0,Greg_Rose,hamlet
+3918451,Mali,14.8233000,-5.2492000,2023-10-01 00:00:00,2023-10-01 17:23:52,0,BDLD,30/09,2,0,BDLD,
+1313388,Mali,13.0232836,-8.2357322,2018-02-28 00:00:00,2023-09-30 18:57:38,0,Toure 15,"'il nest pas a sa place' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: DJIDJE POI types: amenity-school OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Greg_Rose,Je l'ai corrigé
+3541709,Mali,14.3478536,-11.3511622,2023-02-02 00:00:00,2023-09-29 06:30:29,0,Unknown,ce village s'appelle BANGASSI,2,0,Greg_Rose,Je l'ai corrigé
+3874853,Mali,15.4792415,-11.7079926,2023-09-06 00:00:00,2023-09-06 20:45:25,0,gandega,"SELIFELY est un petit village soninke, fondé vers les années 1906.  Un village frontalier malien à 1km de la Mauritanie, au bord  de la grande rivière《Karakoro》.  Situé dans le Nord-ouest de kayes, avec une distance de 151km entre les deux.  Il est l'un des 7 villages de la commune du sahel qui fait partir de 9 communes de la zone de GUIDIMAKHA rive Mali, arrondissement d'Aourou, cercle et région de kayes.   Le village compte environ 7000 ... habitants, majoritairement des soninke, quelques familles des peulh et des maure.",2,0,gandega,
+2681696,Mali,12.5781618,-7.8556498,2021-05-23 00:00:00,2023-08-07 20:29:55,0,Daniel Kamaté,'Domicile Ouologuem Djeneba attbgou' POI has no name POI types: amenity-shelter OSM data version: 2021-02-01T11:34:17Z  #mapsme,2,0,Hamza Aya,Bâtiment
+3615034,Mali,12.5954113,-7.8749943,2023-03-27 00:00:00,2023-08-07 20:28:20,0,Hamza Aya,n'existe plus,2,0,Hamza Aya,
+3594837,Mali,12.5905740,-7.8647651,2023-03-12 00:00:00,2023-08-07 20:28:03,0,Hamza Aya,Maison résidentiel  via StreetComplete 51.1,2,0,Hamza Aya,
+1409002,Mali,12.5897200,-7.8645500,2018-05-29 00:00:00,2023-08-07 20:27:40,0,Bcama,LS Niamana,4,1,Hamza Aya,Bâtiment
+3611703,Mali,12.5851467,-7.8640949,2023-03-24 00:00:00,2023-08-07 20:26:34,0,Hamza Aya,Bâtiment en construction,2,0,Hamza Aya,
+3594267,Mali,12.5864921,-7.8630868,2023-03-11 00:00:00,2023-08-07 20:26:11,0,Hamza Aya,École,2,0,Hamza Aya,
+3611705,Mali,12.5848875,-7.8620489,2023-03-24 00:00:00,2023-08-07 20:25:56,0,Hamza Aya,Boutique,2,0,Hamza Aya,
+3611706,Mali,12.5845738,-7.8623518,2023-03-24 00:00:00,2023-08-07 20:25:36,0,Hamza Aya,Boutique,2,0,Hamza Aya,
+3611704,Mali,12.5844308,-7.8623757,2023-03-24 00:00:00,2023-08-07 20:25:01,0,Hamza Aya,Boutique électronique,2,0,Hamza Aya,
+3613110,Mali,12.5853662,-7.8638558,2023-03-25 00:00:00,2023-08-07 20:24:32,0,Unknown,Maison résidentiel,6,1,Hamza Aya,Batiment ressidentiel
+3800706,Mali,15.9145957,2.4020684,2023-07-26 00:00:00,2023-07-26 17:39:23,0,Etiennemalingrey,WVI,2,0,Etiennemalingrey,
+3671087,Mali,14.1813801,-3.1556525,2023-05-02 00:00:00,2023-07-21 06:45:35,0,Michee Poudiougo,POI has no name POI types: amenity-shelter OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,Syl,Note without information
+3671089,Mali,14.1813801,-3.1556525,2023-05-02 00:00:00,2023-07-21 06:45:32,0,Michee Poudiougo,POI has no name POI types: amenity-shelter OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,Syl,Note without information
+3671118,Mali,14.1813801,-3.1556525,2023-05-02 00:00:00,2023-07-21 06:45:17,0,Michee Poudiougo,'Manoubere' POI name: Manoubere POI types: amenity-shelter OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,Syl,Duplicated note
+3724823,Mali,14.1813801,-3.1556525,2023-06-07 00:00:00,2023-07-21 06:45:10,0,Michee Poudiougo,'Manoubere' POI name: Manoubere POI types: amenity-shelter OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,Syl,Duplicated note
+3671122,Mali,14.1813801,-3.1556525,2023-05-02 00:00:00,2023-07-21 06:44:48,0,Michee Poudiougo,POI has no name POI types: amenity-shelter OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,Syl,Note without information
+3671123,Mali,14.1813801,-3.1556525,2023-05-02 00:00:00,2023-07-21 06:44:46,0,Michee Poudiougo,POI has no name POI types: amenity-shelter OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,Syl,Note without information
+3755673,Mali,14.1910726,-3.1430375,2023-06-28 00:00:00,2023-07-21 06:44:21,0,Michee Poudiougo,'Shelter' POI name: Shelter POI types: amenity-shelter OSM data version: 2023-04-21T09:05:09Z  #mapsme,2,0,Syl,Duplicated note
+3671124,Mali,14.1813801,-3.1556525,2023-05-02 00:00:00,2023-07-21 06:43:54,0,Michee Poudiougo,POI has no name POI types: amenity-shelter OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,Syl,Note without information
+3724824,Mali,14.1814655,-3.1556256,2023-06-07 00:00:00,2023-07-21 06:43:46,0,Michee Poudiougo,POI has no name POI types: amenity-community_centre OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,Syl,Note without information
+3724828,Mali,14.1910726,-3.1430375,2023-06-07 00:00:00,2023-07-21 06:43:37,0,Michee Poudiougo,POI has no name POI types: amenity-shelter OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,Syl,Note without information
+3724832,Mali,14.1910726,-3.1430375,2023-06-07 00:00:00,2023-07-21 06:43:35,0,Michee Poudiougo,POI has no name POI types: amenity-shelter OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,Syl,Note without information
+3725226,Mali,14.1910726,-3.1430375,2023-06-07 00:00:00,2023-07-21 06:43:30,0,Michee Poudiougo,POI has no name POI types: amenity-shelter OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,Syl,Note without information
+3755679,Mali,14.1910726,-3.1430375,2023-06-28 00:00:00,2023-07-21 06:43:22,0,Michee Poudiougo,POI has no name POI types: amenity-shelter OSM data version: 2023-04-21T09:05:09Z  #mapsme,2,0,Syl,Note without information
+3755678,Mali,14.1910726,-3.1430375,2023-06-28 00:00:00,2023-07-21 06:43:12,0,Michee Poudiougo,POI has no name POI types: amenity-shelter OSM data version: 2023-04-21T09:05:09Z  #mapsme,2,0,Syl,Note without information
+3746729,Mali,12.6258386,-8.0290210,2023-06-23 00:00:00,2023-06-23 00:33:32,0,Camara Drissa,Nom: Huqqa Catégorie: Restaurant,2,0,Camara Drissa,
+1207242,Mali,12.6216243,-8.0346637,2017-11-15 00:00:00,2023-06-23 00:25:20,0,Bakary Bakatra Traore,'Électricité et Informatique' POI name: BAKATRA MALI SERVICES POI types: amenity-internet_cafe OSM data version: 2017-10-20T12:20:02Z  #mapsme,2,0,Camara Drissa,
+2969520,Mali,12.6222266,-8.0336183,2021-12-13 00:00:00,2023-06-23 00:25:15,0,Unknown,onosm.org submitted note from a business: name: Chich House Bko phone: +22491148011 website: https://g.page/chichousebko?share twitter:  facebook: https://www.facebook.com/chichousebko/ email: Faikekanout4@gmail.com hours: 11:00 à 02:00 category: Restaurants address: Aci 2000,2,0,Camara Drissa,
+2971833,Mali,12.6221795,-8.0339965,2021-12-15 00:00:00,2023-06-23 00:24:54,0,Unknown,onosm.org submitted note from a business: name: Chich House Bko phone: +22391148011 website: https://g.page/chichousebko twitter:  facebook: https://m.facebook.com/chichousebko/ email: Faikekanout4@gmail.com hours: 11:00-02:00 category: Restaurants address: Aci 2000,2,0,Camara Drissa,
+3746721,Mali,12.6257967,-8.0289084,2023-06-23 00:00:00,2023-06-23 00:09:53,0,user_14625399,Huqqa,4,1,user_14625399,
+2506446,Mali,16.2191446,-0.0193434,2021-01-21 00:00:00,2023-06-16 17:47:33,0,Luca Vellage,Attack Nov 2,2,0,ShizzleP,"Historical info, not map info"
+2465746,Mali,16.2729243,-0.0511713,2020-12-18 00:00:00,2023-06-16 17:45:22,0,Dibloni Innocent,IGM,2,0,ShizzleP,
+2465749,Mali,16.2751965,-0.0490532,2020-12-18 00:00:00,2023-06-16 17:44:46,0,Dibloni Innocent,place de l'indépendance,2,0,ShizzleP,
+3737844,Mali,16.2898000,-0.0426600,2023-06-16 00:00:00,2023-06-16 17:34:32,0,ShizzleP,This building houses the radio studio of 'Radio NAATA',3,1,ShizzleP,
+3680120,Mali,16.6469596,-3.2171327,2023-05-08 00:00:00,2023-05-24 21:32:51,0,UNGSC-cronoser,check ubication of school,2,0,cronoser,it was fixed by UNGSC-cronoser
+3594835,Mali,12.5926726,-7.8631024,2023-03-12 00:00:00,2023-05-24 20:54:15,0,Hamza Aya,Unable to answer 'What’s the name of this street?' for https://osm.org/way/753129188 via StreetComplete 51.1:  Route résidentiel,2,0,Hamza Aya,
+3594829,Mali,12.5911551,-7.8627220,2023-03-12 00:00:00,2023-05-24 20:54:07,0,Hamza Aya,Commissariat Police N'tabacoro,2,0,Hamza Aya,
+3594834,Mali,12.5915134,-7.8642965,2023-03-12 00:00:00,2023-05-24 20:50:13,0,Hamza Aya,Unable to answer 'What are the opening hours here?' for https://osm.org/node/4718545739 via StreetComplete 51.1:  Restaurant Gaduman,2,0,Hamza Aya,Restaurant Gadouma
+3613113,Mali,12.5896587,-7.8684907,2023-03-25 00:00:00,2023-05-24 20:48:28,0,Hamza Aya,maison résidentiel,2,0,Hamza Aya,
+3023696,Mali,12.5869104,-7.8669620,2022-01-25 00:00:00,2023-05-24 20:48:01,0,Unknown,Marché,2,0,Hamza Aya,Lavage
+3594269,Mali,12.5859721,-7.8662442,2023-03-11 00:00:00,2023-05-24 20:47:32,0,Hamza Aya,Protection Civile,2,0,Hamza Aya,Direction de Saper Pompier
+3611708,Mali,12.5865164,-7.8659719,2023-03-24 00:00:00,2023-05-24 20:46:30,0,Hamza Aya,Mosquée,2,0,Hamza Aya,
+3613112,Mali,12.5853221,-7.8638318,2023-03-25 00:00:00,2023-05-24 20:46:12,0,Hamza Aya,Maison résidentiel,2,0,Hamza Aya,
+3594266,Mali,12.5864886,-7.8630746,2023-03-11 00:00:00,2023-05-24 20:45:54,0,Hamza Aya,Nouvelle Création,4,1,Hamza Aya,
+3220379,Mali,12.6138718,-7.9688644,2022-06-11 00:00:00,2023-05-10 13:51:32,0,Golcha Studio,Golcha Studio,2,0,fatima_shehu,
+3651611,Mali,16.6696078,-2.9606230,2023-04-20 00:00:00,2023-04-25 08:08:08,0,UNGSC-cronoser,"check bridge, water and road together?",2,0,cronoser,fixed
+3611707,Mali,12.5919351,-7.8663503,2023-03-24 00:00:00,2023-03-24 23:47:10,0,Hamza Aya,Grande Porte d'entrée de ATT Bougou,2,0,Hamza Aya,
+3023694,Mali,12.5910726,-7.8661358,2022-01-25 00:00:00,2023-03-24 23:44:04,0,Unknown,Place Simon Bilivar,2,0,Hamza Aya,Château d'eaux potable
+1565639,Mali,15.1127146,-2.8149305,2018-10-19 00:00:00,2023-03-23 21:00:02,0,Unknown,Penganim,2,0,UNGSC-cronoser,added as name
+3594836,Mali,12.5901469,-7.8599183,2023-03-12 00:00:00,2023-03-21 17:47:50,0,Hamza Aya,Unable to answer 'What’s the name of this street?' for https://osm.org/way/155221462 via StreetComplete 51.1:  Route résidentiel,2,0,ThiamDollar,
+3203796,Mali,12.6133800,-7.8645300,2022-05-31 00:00:00,2023-03-21 17:47:15,0,nininiaakate,"hôtel luxueux  Le campement - Kangaba Tel: 223 89 34 41 75 Mail: lecampementbamako@gmail.com  hôtel/hébergement de charme, cuisine délicieuse et saine,nottament leurs pizza jardin d’éden et piscines de rêve,tyrolienne,endroit calme et familiale  hautement recommander !",2,0,ThiamDollar,
+3583694,Mali,15.2390419,-9.5860265,2023-03-04 00:00:00,2023-03-04 08:55:23,0,user_18609028,Zawia tidjani boya,6,1,user_18609028,
+3563320,Mali,15.0200698,-3.2699454,2023-02-17 00:00:00,2023-02-27 15:56:54,0,UNGSC-cronoser,check ubication,2,0,cronoser,
+3563317,Mali,15.0301158,-3.2789791,2023-02-17 00:00:00,2023-02-27 14:15:17,0,UNGSC-cronoser,check ubication,2,0,UNGSC-cronoser,fixme
+3563285,Mali,15.0497207,-3.2685667,2023-02-17 00:00:00,2023-02-27 14:15:17,0,UNGSC-cronoser,man_made=storage_tank?,2,0,UNGSC-cronoser,fixed
+3538744,Mali,15.0297687,-3.2790542,2023-01-31 00:00:00,2023-02-27 14:15:16,0,UNGSC-cronoser,check ubication of school,2,0,UNGSC-cronoser,not fixed
+3571746,Mali,15.1175284,-3.3559846,2023-02-23 00:00:00,2023-02-24 11:51:19,0,cronoser,landcover gap,2,0,UNGSC-cronoser,fixed
+3571747,Mali,15.1975641,-3.3441373,2023-02-23 00:00:00,2023-02-24 11:51:18,0,cronoser,landcover gap,2,0,UNGSC-cronoser,fixed
+3567317,Mali,14.0743393,-3.5219419,2023-02-20 00:00:00,2023-02-20 14:26:53,0,SOMBORO,Bar le Hogon,2,0,SOMBORO,
+2690026,Mali,13.4152442,-6.3122818,2021-05-29 00:00:00,2023-02-16 18:59:33,0,Phenix223,"'GDCM est une usine qui produit des produits alimentaire et agro-alimentaire comme, riz, pomme de terre, son, biscuit, du thé, sucre, huile, spaghetti, couscous...' POI has no name POI types: man_made-chimney OSM data version: 2021-02-01T11:34:17Z  #mapsme",2,0,Hamza Aya,Usine Moulin Moderne Mali (M3)
+771456,Mali,12.5859797,-7.7686760,2016-11-03 00:00:00,2023-02-16 18:50:32,0,Mamadi Sangaré,Station d'essence (OSM data version: 2016-06-01T10:03:02Z) #mapsme,4,1,Hamza Aya,Route de Segou
+3558741,Mali,14.4144672,-11.4760631,2023-02-14 00:00:00,2023-02-15 14:57:37,0,hamadidiarraopen,POI has no name POI types: amenity-drinking_water OSM data version: 2022-05-30T16:03:30Z  #mapsme,2,0,Syl,Note without information
+3539208,Mali,12.6724709,-7.9216123,2023-01-31 00:00:00,2023-01-31 18:23:50,0,Dicris,'Maison Dicris Auto ' POI name: Maison Dicris Auto POI types: shop-car OSM data version: 2022-10-30T11:31:10Z  #mapsme,2,0,Syl,Note en double
+3531771,Mali,13.8124601,-6.1153632,2023-01-25 00:00:00,2023-01-30 13:01:01,0,Diakaria Konate,POI has no name POI types: tourism-guest_house OSM data version: 2022-10-30T11:31:10Z  #mapsme,2,0,Syl,Note sans information
+3518494,Mali,14.0790951,-3.5189672,2023-01-14 00:00:00,2023-01-14 23:03:12,0,SOMBORO,quincaillerie amadou Guindo,2,0,SOMBORO,ok
+3518495,Mali,14.0763406,-3.5236446,2023-01-14 00:00:00,2023-01-14 23:03:11,0,SOMBORO,Air Kona,2,0,SOMBORO,ok
+3518489,Mali,14.0709331,-3.5258660,2023-01-14 00:00:00,2023-01-14 23:03:10,0,SOMBORO,Bar Cathy Sang,2,0,SOMBORO,ok
+3518496,Mali,14.0752642,-3.5252945,2023-01-14 00:00:00,2023-01-14 23:03:09,0,SOMBORO,DC,2,0,SOMBORO,ok
+3518490,Mali,14.0778297,-3.5175523,2023-01-14 00:00:00,2023-01-14 23:03:08,0,SOMBORO,Atelier soudure Hamidou Tolofoudié,2,0,SOMBORO,ok
+3518497,Mali,14.0746784,-3.5262695,2023-01-14 00:00:00,2023-01-14 23:03:07,0,SOMBORO,ONG MUSO,2,0,SOMBORO,ok
+3518491,Mali,14.0776848,-3.5180995,2023-01-14 00:00:00,2023-01-14 23:03:06,0,SOMBORO,salle conférence jeune,2,0,SOMBORO,
+3518492,Mali,14.0790903,-3.5189801,2023-01-14 00:00:00,2023-01-14 23:03:05,0,SOMBORO,seno beauté,2,0,SOMBORO,ok
+3516199,Mali,12.6100502,-7.9576528,2023-01-13 00:00:00,2023-01-13 09:58:09,0,LadjiD,ESGM (Ecole Supérieure de Géologie et des Mines) Institution Privée,2,0,LadjiD,
+3494864,Mali,13.7292101,-3.4815451,2022-12-28 00:00:00,2023-01-03 10:01:19,0,Unknown,Siratintin,2,0,Syl,Déjà présent
+3471396,Mali,12.6670900,-7.9519400,2022-12-08 00:00:00,2022-12-08 21:57:51,0,BATHILY,Orange Money chez Dialla,2,0,BATHILY,
+3471391,Mali,12.6670700,-7.9519700,2022-12-08 00:00:00,2022-12-08 21:55:18,0,BATHILY,Orange Money chez Dialla,4,1,BATHILY,
+3471390,Mali,12.6670200,-7.9516800,2022-12-08 00:00:00,2022-12-08 21:47:53,0,BATHILY,ONG OXFAM,4,1,BATHILY,
+3448022,Mali,12.3848493,-7.8518670,2022-11-19 00:00:00,2022-11-19 13:55:53,0,Tiguiskant,CHAMP KANT,2,0,Tiguiskant,
+2988981,Mali,14.0855000,-8.1001000,2021-12-30 00:00:00,2022-11-11 19:56:26,0,Unknown,SAGABALA,2,0,Syl,Déjà présent
+2988976,Mali,14.1742500,-8.2509100,2021-12-30 00:00:00,2022-11-11 19:56:09,0,Unknown,DOUBALA,2,0,Syl,Déjà présent
+2953739,Mali,14.4657000,-8.2222000,2021-11-29 00:00:00,2022-11-11 19:54:44,0,Unknown,Wataye,2,0,Syl,Déjà présent
+2953738,Mali,14.4272000,-8.2736000,2021-11-29 00:00:00,2022-11-11 19:54:07,0,Unknown,Gomitra,2,0,Syl,Déjà présent
+2947612,Mali,14.3302000,-3.1691000,2021-11-24 00:00:00,2022-11-11 19:53:18,0,Unknown,Village de Anakanda,2,0,Syl,Déjà présent
+2831555,Mali,12.5639884,-8.0756915,2021-09-01 00:00:00,2022-11-11 19:52:15,0,Unknown,cite sotelma,2,0,Syl,Déjà présent
+2455778,Mali,12.5870800,-8.0203400,2020-12-08 00:00:00,2022-11-11 19:46:52,0,Unknown,LMDB,2,0,Syl,Note en double
+2402102,Mali,12.6067881,-7.9484375,2020-10-27 00:00:00,2022-11-11 19:45:37,0,abdymaiga,On ne peut voir en mode satellite,2,0,Syl,"Bonjour, les notes sont faites pour proposer des modifications dans la base de données OpenStreetMap. Ce n'est pas le bon endroit pour demander une fonctionnalité pour un site ou une application en particulier."
+2302985,Mali,12.6469350,-7.9781892,2020-08-11 00:00:00,2022-11-11 19:44:13,0,Omar Alayach,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: AMIMPEX-SERVICES POI types: shop-department_store OSM data version: 2020-07-14T11:22:37Z  #mapsme",2,0,Syl,Note en double
+2008686,Mali,11.9836000,-7.9044000,2019-11-26 00:00:00,2022-11-11 19:41:07,0,Unknown,Ouelessebougou (P),2,0,Syl,Déjà présent
+2008685,Mali,12.2082000,-8.2643000,2019-11-26 00:00:00,2022-11-11 19:40:56,0,Unknown,Bankoumana (P),2,0,Syl,Déjà présent
+1993020,Mali,16.8375139,-2.5156403,2019-11-12 00:00:00,2022-11-11 19:38:41,0,Unknown,permettez une large vision de la zone recherchée avec plus de noms de villages,2,0,Syl,"Bonjour, les notes sont faites pour proposer des modifications dans la base de données OpenStreetMap. Ce n'est pas le bon endroit pour demander une fonctionnalité pour un site ou une application en particulier."
+1933090,Mali,12.6600000,-7.9662000,2019-09-20 00:00:00,2022-11-11 19:37:26,0,Unknown,Chicago Club,2,0,Syl,A été ajouté depuis
+1918866,Mali,16.7716300,-3.0081000,2019-09-09 00:00:00,2022-11-11 19:36:28,0,Unknown,je suis français,2,0,Syl,Note sans information utile pour OSM
+1914027,Mali,12.5408226,-8.0192844,2019-09-05 00:00:00,2022-11-11 19:35:23,0,Sié Frédéric Sou,'juste ma maison pour le repos' POI has no name POI types: highway-rest_area OSM data version: 2019-01-13T09:03:02Z  #mapsme,2,0,Syl,
+1913212,Mali,14.4347914,-11.4318229,2019-09-04 00:00:00,2022-11-11 19:34:28,0,edvac,Ce rue n'existe pas,2,0,Syl,Il n'y a plus de rue ici
+1892676,Mali,16.6840484,-2.9909420,2019-08-20 00:00:00,2022-11-11 19:33:01,0,Unknown,Contracter la page avec plus de visibilité,2,0,Syl,Note sans information
+1821412,Mali,12.7424097,-8.0746025,2019-06-22 00:00:00,2022-11-11 19:31:04,0,Aboubacar m BARRY,"'12,6951111, -7,9219680' POI name: Rue 12 POI types: highway-residential OSM data version: 2019-05-17T13:54:02Z  #mapsme",2,0,Syl,Note inutilisable
+1810322,Mali,12.5828696,-7.9305797,2019-06-12 00:00:00,2022-11-11 19:28:59,0,adama diakite,'Rue 599' POI has no name POI types: hwtag-oneway highway-tertiary OSM data version: 2019-05-17T13:54:02Z  #mapsme,2,0,Syl,Note en double
+1794656,Mali,12.6544603,-8.0073220,2019-05-29 00:00:00,2022-11-11 19:28:27,0,Unknown,Camp de gendamerie,2,0,Syl,Déjà présent
+1739414,Mali,13.9185286,-4.5296604,2019-04-08 00:00:00,2022-11-11 19:27:31,0,Abdoul Gadre,'type de lieux non modifiables' POI has no name POI types: man_made-water_well OSM data version: 2019-03-14T00:11:02Z  #mapsme,2,0,Syl,"C'est un problème avec Maps.me, pour ça contactez-les directement."
+1729091,Mali,12.6120000,-7.9914000,2019-03-30 00:00:00,2022-11-11 19:26:04,0,Amadou Diall,Rectorat USJPB,2,0,Syl,Note en double
+1696906,Mali,12.6290700,-8.0145200,2019-03-02 00:00:00,2022-11-11 19:24:18,0,Fousseyni,Lieu provisoire pour la 12eme conférence de lq société africaine de génétique humaine,2,0,Syl,Si c'est provisoire il n'y a rien à ajouter dans OpenStreetMap
+1616768,Mali,12.3730980,-5.4913031,2018-12-14 00:00:00,2022-11-11 19:21:19,0,saliousoft,269,2,0,Syl,A été ajouté depuis
+1616766,Mali,12.3734980,-5.4944541,2018-12-14 00:00:00,2022-11-11 19:19:48,0,saliousoft,285,2,0,Syl,A été ajouté depuis
+1616762,Mali,12.3740452,-5.4958832,2018-12-14 00:00:00,2022-11-11 19:19:28,0,saliousoft,234,2,0,Syl,A été ajouté depuis
+1616761,Mali,12.3747552,-5.4967553,2018-12-14 00:00:00,2022-11-11 19:19:03,0,saliousoft,rue 293,2,0,Syl,A été ajouté depuis
+1616749,Mali,12.3764980,-5.4915954,2018-12-14 00:00:00,2022-11-11 19:18:34,0,saliousoft,rue 212,2,0,Syl,A été ajouté depuis
+1616752,Mali,12.3764564,-5.4937264,2018-12-14 00:00:00,2022-11-11 19:18:06,0,saliousoft,281,2,0,Syl,A été ajouté depuis
+1616753,Mali,12.3765099,-5.4943051,2018-12-14 00:00:00,2022-11-11 19:18:06,0,saliousoft,rue 285,2,0,Syl,A été ajouté depuis
+1616751,Mali,12.3764406,-5.4932121,2018-12-14 00:00:00,2022-11-11 19:18:06,0,saliousoft,279,2,0,Syl,A été ajouté depuis
+1616755,Mali,12.3764048,-5.4948424,2018-12-14 00:00:00,2022-11-11 19:18:05,0,saliousoft,rue287,2,0,Syl,A été ajouté depuis
+1616754,Mali,12.3763994,-5.4955235,2018-12-14 00:00:00,2022-11-11 19:18:05,0,saliousoft,289,2,0,Syl,A été ajouté depuis
+1616750,Mali,12.3766985,-5.4926583,2018-12-14 00:00:00,2022-11-11 19:16:58,0,saliousoft,277,2,0,Syl,A été ajouté depuis
+1616748,Mali,12.3765680,-5.4920975,2018-12-14 00:00:00,2022-11-11 19:16:44,0,saliousoft,275,2,0,Syl,A été ajouté depuis
+2128122,Mali,12.6514338,-7.9922708,2020-03-23 00:00:00,2022-11-11 19:09:03,0,N'pê “El Deblo” Bouaré,"'Double enregistrement ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Le Nid POI types: amenity-restaurant OSM data version: 2019-08-30T18:41:13Z  #mapsme",2,0,Syl,Note en double
+1535757,Mali,12.7264154,-8.0540018,2018-09-21 00:00:00,2022-11-11 19:08:35,0,N'pê “El Deblo” Bouaré,'Ce n'est pas un aéroport mais c'est la  Direction Centrale de Service de Santé de l'Armée' POI name: Département DCSSA POI types: aeroway-aerodrome OSM data version: 2018-07-05T18:22:02Z  #mapsme,2,0,Syl,A été corrigé depuis
+1520630,Mali,12.3826289,-5.4824383,2018-09-09 00:00:00,2022-11-11 19:06:10,0,saliousoft,rue 147,2,0,Syl,A été ajouté depuis
+1520628,Mali,12.3709599,-5.4962882,2018-09-09 00:00:00,2022-11-11 19:05:42,0,saliousoft,rue 291,2,0,Syl,A été ajouté depuis
+1517389,Mali,12.3907287,-5.4621235,2018-09-07 00:00:00,2022-11-11 19:04:50,0,saliousoft,ponton,2,0,Syl,A été ajouté depuis
+1381311,Mali,12.5920347,-8.0614423,2018-05-03 00:00:00,2022-11-11 19:00:13,0,Fassiriman Dabo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-marketplace OSM data version: 2018-03-16T17:06:02Z  #mapsme",2,0,Syl,Il n'y a plus rien ici dans OSM
+1301810,Mali,12.5211783,-7.9308934,2018-02-16 00:00:00,2022-11-11 18:58:08,0,Famakan Kanouté,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Marché de Senou POI types: shop-supermarket OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Syl,Il n'y a plus rien ici dans OSM
+1292027,Mali,12.6169643,-7.9853386,2018-02-07 00:00:00,2022-11-11 18:55:56,0,saliousoft,Bâtiment sur un nœud,2,0,Syl,A été corrigé depuis
+1266760,Mali,12.6171620,-7.9861607,2018-01-13 00:00:00,2022-11-11 18:53:26,0,Vamuss,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: building shop-supermarket OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,Syl,A été enlevé depuis
+1261827,Mali,12.6391802,-8.0016491,2018-01-08 00:00:00,2022-11-11 18:51:21,0,Sékou SIDIBE,Ets Moussa SIDIBE Quincaillerie,2,0,Syl,A été ajouté depuis
+1225974,Mali,12.5703652,-7.9925549,2017-12-02 00:00:00,2022-11-11 18:48:40,0,YayaZie,'Rue 355' POI has no name POI types: highway-residential OSM data version: 2017-10-20T12:20:02Z  #mapsme,2,0,Syl,Note en double
+1110662,Mali,12.6020547,-7.9595918,2017-08-20 00:00:00,2022-11-11 18:43:30,0,Lassine Sanankoua,'ajout d'information sur la faculté' POI name: Faculté Histoire et Géographie POI types: amenity-school OSM data version: 2017-01-19T15:17:02Z  #mapsme,2,0,Syl,Note sans information
+1075042,Mali,12.5249217,-8.0989942,2017-07-22 00:00:00,2022-11-11 18:41:53,0,oumar yanogo,'Parcelle à SAMANKO' POI has no name POI types: tourism-picnic_site OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,Syl,Note en double
+1015453,Mali,11.9550550,-7.7920425,2017-05-31 00:00:00,2022-11-11 18:38:29,0,Unknown,superficie,2,0,Syl,Note sans information
+800481,Mali,13.3975916,-6.3121364,2016-11-30 00:00:00,2022-11-11 18:31:39,0,Hamma Ba,Puits eau (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,Syl,Déjà présent
+795774,Mali,13.4420297,-6.2367106,2016-11-25 00:00:00,2022-11-11 18:30:44,0,Hamma Ba,Association Malienne pour la Sécurité et la Souveraineté Alimentaire( AMASSA) (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Syl,Note en double
+768023,Mali,12.5814197,-7.9560851,2016-10-31 00:00:00,2022-11-11 18:28:49,0,Hamma Ba,CPFB (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Syl,Note en double
+706298,Mali,12.1773393,-5.0874835,2016-09-09 00:00:00,2022-11-11 18:25:49,0,Emmanuel Bama,RN12,2,0,Syl,Déjà présente
+366904,Mali,12.6641843,-7.9354203,2015-05-19 00:00:00,2022-11-11 18:22:32,0,Tidiane BALL,mal positionné,2,0,Syl,Note en double
+62099,Mali,15.0498100,-2.9186540,2013-10-23 00:00:00,2022-11-11 18:20:11,0,Unknown,"Moved from OSB ID715007:  This general area is *full* of small groups of buildings; perhaps even worth tracing the individual buildings instead of landuse areas, since they are so sparse [nicolas17, 2013-02-14 02:35:44 ART]",2,0,Syl,A été corrigé depuis
+3406881,Mali,14.7573400,-12.2290000,2022-10-20 00:00:00,2022-11-11 18:15:32,0,hamza@223,mosque de village  de Gouthioube,2,0,Syl,Déjà présente
+2306924,Mali,12.8702128,-11.3887024,2020-08-14 00:00:00,2022-11-11 14:37:14,0,Unknown,Gounkoto Gold Mine,2,0,Syl,Déjà présente
+943568,Mali,12.6350791,-8.0300926,2017-03-28 00:00:00,2022-11-11 13:01:53,0,yuko10542,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-08-22T09:03:02Z) #mapsme",2,0,Syl,Il n'y a plus rien ici dans OSM
+2374757,Mali,12.6113316,-7.9569166,2020-10-05 00:00:00,2022-11-11 10:34:15,0,Tidem,"'Erreur' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: PCO FTTH KOINANA POI types: office-government OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,Il n'y a rien ici dans OSM
+2377860,Mali,12.6012070,-7.9627638,2020-10-07 00:00:00,2022-11-11 10:33:45,0,Tidem,"'Erreur' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: PCO FTTH AGS POI types: office-government OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,Il n'y a rien ici dans OSM
+2330699,Mali,12.6025079,-7.9534163,2020-08-31 00:00:00,2022-11-11 10:32:53,0,Tidem,"'MSAN B02 n'est pas a ce lieu' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: MSAN B02 POI types: office-government OSM data version: 2020-08-03T21:05:25Z  #mapsme",2,0,Syl,Il n'y a rien ici dans OSM
+2378772,Mali,12.6010735,-7.9540198,2020-10-08 00:00:00,2022-11-11 10:32:29,0,Tidem,"'Erreur' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: MSAN ABDOULAYE BANAKABOUGOU POI types: office-government OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,Il n'y a rien ici dans OSM
+2393029,Mali,12.5931577,-7.9719423,2020-10-20 00:00:00,2022-11-11 10:31:51,0,Tidem,"'Erreur' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: PCO FTTH FODE KANE POI types: office-government OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,Il n'y a rien ici dans OSM
+3351078,Mali,12.6261000,-7.9635000,2022-09-08 00:00:00,2022-09-08 14:32:07,0,Unknown,mjjjkll,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+3026836,Mali,12.5554013,-8.0214787,2022-01-27 00:00:00,2022-09-04 12:21:05,0,Unknown,Marché de Kalaban coro koulouba,2,0,Syl,Note en double
+3132420,Mali,16.7793886,-3.0015809,2022-04-13 00:00:00,2022-09-04 12:12:44,0,Bocar cissé,dans cette zone le carré n'est pas continuel donc veillez supprimé,2,0,Syl,A été corrigé depuis
+3132424,Mali,16.7793886,-3.0015809,2022-04-13 00:00:00,2022-09-04 12:10:08,0,Bocar cissé,dans cette zone le carré n'est pas continuel donc veillez supprimé,2,0,Syl,Note en double
+3206434,Mali,16.7364959,-3.0143738,2022-06-02 00:00:00,2022-09-04 12:04:00,0,1aaaAaaa1,A,2,0,Syl,Note sans information
+3245148,Mali,12.5989800,-7.9645800,2022-06-29 00:00:00,2022-09-04 12:01:57,0,Unknown,FOSDEM Companion,2,0,Syl,Aucune information utile pour OSM
+3278153,Mali,13.4287011,-6.2731075,2022-07-22 00:00:00,2022-07-22 12:33:32,0,Abou Rachidou MAIGA,"Une entreprise de communication traditionnelle, digitale & webmarketing",4,1,Abou Rachidou MAIGA,
+2937009,Mali,14.1583000,-5.9286000,2021-11-16 00:00:00,2022-07-19 21:33:08,0,Unknown,ndolla,2,0,Greg_Rose,oui - c'est le nom
+709557,Mali,12.5597996,-7.9795525,2016-09-12 00:00:00,2022-07-02 15:07:30,0,Mamadi Sangaré,foire d'exposition de Bamako (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,Syl,Note en double
+762365,Mali,12.5597996,-7.9795525,2016-10-26 00:00:00,2022-07-02 15:06:55,0,Mamadi Sangaré,foire d'exposition de Bamako (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,Syl,Note en double
+762367,Mali,12.9936242,-5.7657672,2016-10-26 00:00:00,2022-07-02 15:05:51,0,Mamadi Sangaré,nouveau poste de péage de Bla (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,Syl,Note en double
+3245149,Mali,12.6023000,-7.9670000,2022-06-29 00:00:00,2022-06-30 06:14:17,0,Unknown,https://www.openstreetmap.org/changeset/121109129#map=16/12.6032/-7.9664,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+3245143,Mali,12.5831000,-7.9980000,2022-06-29 00:00:00,2022-06-30 06:14:15,0,Unknown,https://www.openstreetmap.org/changeset/76907292 https://ftp.osuosl.org/pub/fosdem/2022/D.apache-openoffice/openoffice_build.webm,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+3232677,Mali,12.5978800,-7.9879500,2022-06-20 00:00:00,2022-06-20 07:40:48,0,Doug25,Famille Sanogo 01,3,1,Doug25,
+1258349,Mali,12.5937257,-7.6725649,2018-01-04 00:00:00,2022-06-16 20:53:46,0,Etienne Dabo,"'le restaurant est fermé' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: RESTAURANT 'LE GOÛT' DE KASSÉLA POI types: amenity-restaurant OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,Syl,Note en double
+1173614,Mali,12.5937257,-7.6725649,2017-10-15 00:00:00,2022-06-14 12:18:18,0,Etienne Dabo,"'ce restaurant est fermé.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: RESTAURANT 'LE GOÛT' DE KASSÉLA POI types: amenity-restaurant OSM data version: 2017-09-17T07:13:02Z  #mapsme",3,1,Moussa DABO,
+3171827,Mali,14.4928267,-7.6306391,2022-05-09 00:00:00,2022-05-09 08:49:45,0,Msk223,École élémentaire Bandiougou Keita,2,0,Msk223,"Bonjour, on a créé une école élémentaire en 2013 pourriez vous notifié sur la carte s'il vous plaît. Merci"
+3149915,Mali,15.9278225,2.4053192,2022-04-24 00:00:00,2022-04-24 09:17:23,0,Unknown,asdf,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+2001738,Mali,12.6936000,-7.6915000,2019-11-19 00:00:00,2022-03-22 13:36:07,0,DIA TOUG,Poteau Electrique,2,0,leun,
+3097707,Mali,14.5293000,-4.0919000,2022-03-22 00:00:00,2022-03-22 08:51:58,0,user_14820512,Mars,2,0,user_14820512,
+1397936,Mali,14.9352325,-3.8882428,2018-05-18 00:00:00,2022-03-17 15:49:16,0,Unknown,Caserne Gendarmerie,2,0,dapsin,
+2903189,Mali,15.0756000,-3.2728000,2021-10-20 00:00:00,2022-03-17 15:48:53,0,Christian COURBOIS,Village de Adioubata,4,1,dapsin,
+1288594,Mali,13.4222206,-6.2141660,2018-02-03 00:00:00,2022-03-13 15:52:32,0,Unknown,Radio JAMANA FOKO 100.8 MHZ,4,1,Mr_Cissé,
+1522778,Mali,12.4590031,-7.9596249,2018-09-11 00:00:00,2022-03-12 10:48:07,0,Ibou Bathily,'ferme bokary yanogué' POI has no name POI types: highway-rest_area OSM data version: 2018-05-26T22:39:02Z  #mapsme,3,1,skonate,
+3077627,Mali,12.6488200,-7.9361500,2022-03-07 00:00:00,2022-03-07 08:47:08,0,2ndeD,bloom lounge,8,1,2ndeD,bloom lounge
+3070053,Mali,20.3721726,-0.7965410,2022-03-01 00:00:00,2022-03-02 06:08:59,0,Unknown,https://www.openstreetmap.org/?mlat=28.49015&mlon=28.41680#map=19/28.49015/28.41680&layers=N,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+1475674,Mali,12.5815611,-8.0069666,2018-08-02 00:00:00,2022-02-25 15:13:44,0,Modibo Diallo,"'mal placé ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Fitini Market POI types: shop-supermarket OSM data version: 2018-07-05T18:22:02Z  #mapsme",3,0,Syl,A été modifié depuis
+1297228,Mali,14.7373473,-6.1255640,2018-02-12 00:00:00,2022-02-24 18:11:33,0,Oussaz Boubacar Sidiki Maiga,'Je suis passer ici à la Mairie de Sokolo et j'ai utiliser leur imprimante. #Echappebm' POI name: Mairie de la Commune de Sokolo POI types: tourism-hotel internet_access-wlan OSM data version: 2018-01-10T08:12:02Z  #mapsme,2,0,Syl,Note sans information pour OpenStreetMap
+1746797,Mali,12.6045349,-7.9692360,2019-04-15 00:00:00,2022-02-21 11:37:27,0,Bou8bax,'this is a new pharmacy office.' POI name: Multipharma POI types: amenity-pharmacy OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,Syl,Already in the map
+3029109,Mali,15.9923000,1.5722000,2022-01-29 00:00:00,2022-01-29 13:30:18,0,Unknown,This my location,2,0,kartonage,Your personal location is not of interest for OpenStreetMap.
+1903336,Mali,12.6356524,-8.0060003,2019-08-28 00:00:00,2022-01-24 11:02:55,0,edvac,Arrêt SOTRAMA il y a de signe,2,0,Aliou75,
+1906633,Mali,12.6554115,-7.9876557,2019-08-30 00:00:00,2022-01-24 10:42:54,0,edvac,Pas de rue ici,3,1,Aliou75,
+739600,Mali,12.6493219,-8.0003438,2016-10-06 00:00:00,2022-01-17 18:52:36,0,Yao HOUNAKE,UAM  upam (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,saliousoft,Done!
+2250494,Mali,12.6493219,-8.0003438,2020-07-02 00:00:00,2022-01-17 18:52:25,0,سيدناعثمان ولدمحمد,'أريدتسجل موقع رسمي' POI name: Bamako POI types: place-city-capital-2 OSM data version: 2020-05-14T01:25:26Z  #mapsme,2,0,saliousoft,DONE
+1800761,Mali,12.6493219,-8.0003438,2019-06-03 00:00:00,2022-01-17 18:52:19,0,Madou Diabate,'Mohamed' POI name: Bamako POI types: place-city-capital-2 OSM data version: 2019-04-19T10:36:02Z  #mapsme,2,0,saliousoft,Done!
+1110660,Mali,12.6467461,-8.0001001,2017-08-20 00:00:00,2022-01-17 18:49:00,0,Lassine Sanankoua,'ajoute d'un centre d'administration publique' POI name: Ministère de l'administration territoriale et des collectivités locales POI types: office-government OSM data version: 2017-01-19T15:17:02Z  #mapsme,2,0,saliousoft,C'est bon! MERCI!
+2715016,Mali,12.6476704,-7.9989119,2021-06-15 00:00:00,2022-01-17 18:47:50,0,BOUARE,'POISSONS& POULETS frais haché' POI name: FAKALA SARL POI types: shop-seafood OSM data version: 2021-05-11T18:00:52Z  #mapsme,2,0,saliousoft,fait
+1616043,Mali,12.6477900,-7.9997700,2018-12-13 00:00:00,2022-01-17 18:47:19,0,Unknown,maison,2,0,saliousoft,fixed
+1588227,Mali,12.6474582,-8.0010693,2018-11-12 00:00:00,2022-01-17 18:46:49,0,saliousoft,'suspendue à un lampadaire' POI has no name POI types: amenity-waste_basket OSM data version: 2018-09-11T19:10:03Z  #mapsme,2,0,saliousoft,Fait
+588271,Mali,12.6455681,-8.0006718,2016-06-09 00:00:00,2022-01-17 18:44:14,0,Mamadi Sangaré,Paris mutuelle urbain du Mali (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,saliousoft,Fait
+588264,Mali,12.6452949,-8.0000662,2016-06-09 00:00:00,2022-01-17 18:43:38,0,Mamadi Sangaré,tribunal de première instance (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,saliousoft,Fait
+588263,Mali,12.6447512,-8.0002384,2016-06-09 00:00:00,2022-01-17 18:43:12,0,Mamadi Sangaré,essence (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,saliousoft,Done
+1429626,Mali,12.6564598,-8.0307913,2018-06-18 00:00:00,2022-01-17 18:41:07,0,Unknown,Mon maquis  !,2,0,saliousoft,fixed
+906085,Mali,12.6477546,-8.0246884,2017-02-25 00:00:00,2022-01-17 18:38:40,0,Younoussa Tangara,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'oui' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,saliousoft,Done! Thank you
+904781,Mali,12.6477546,-8.0246884,2017-02-24 00:00:00,2022-01-17 18:36:54,0,Younoussa Tangara,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,saliousoft,done!
+2911345,Mali,12.6496566,-8.0269171,2021-10-26 00:00:00,2022-01-17 18:33:24,0,saliousoft,rue Dr. Ousmane Traoré,2,0,saliousoft,Correction intégrée
+1680995,Mali,16.7576900,-3.0029700,2019-02-14 00:00:00,2021-11-15 13:27:26,0,Unknown,BNDA,2,0,Ana Luisa,
+2721322,Mali,15.4141000,-5.4508000,2021-06-20 00:00:00,2021-11-04 08:34:06,0,Unknown,Village de Sogobara,2,0,Emilio Gomez,There is already
+1809375,Mali,16.7812047,-3.0092239,2019-06-12 00:00:00,2021-11-04 08:27:29,0,Unknown,Timbuktu,2,0,Emilio Gomez,
+1901061,Mali,12.6287346,-8.0179345,2019-08-26 00:00:00,2021-10-24 01:59:40,0,edvac,Ce segment seulement pour ceux qui ont une carte pour passer. Je dirais access=private,2,0,CivActs Mali,
+905374,Mali,12.8834199,-7.5454945,2017-02-25 00:00:00,2021-10-21 12:30:43,0,Antoine LAGAUD,Mess EMIA (OSM data version: 2016-09-19T14:38:03Z) #mapsme,3,1,Killekappari,
+2536275,Mali,14.5290120,-4.1109427,2021-02-13 00:00:00,2021-10-14 14:16:48,0,oumar yanogo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: ONG AMSS de Mopti POI types: amenity-community_centre OSM data version: 2021-02-01T11:34:17Z  #mapsme",3,1,dapsin,
+1054476,Mali,14.5274203,-4.0934412,2017-07-06 00:00:00,2021-10-14 14:16:27,0,Diblo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Hôpital de Sévaré POI types: amenity-hospital OSM data version: 2017-06-09T16:24:09Z  #mapsme",5,1,dapsin,
+1054801,Mali,14.5274203,-4.0934412,2017-07-06 00:00:00,2021-10-14 14:16:15,0,Diblo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Hôpital de Sévaré POI types: amenity-hospital OSM data version: 2017-06-09T16:24:09Z  #mapsme",2,0,dapsin,
+2060355,Mali,14.3233000,-3.7414000,2020-01-17 00:00:00,2021-10-14 13:55:53,0,Unknown,Tegueni,3,1,dapsin,
+682709,Mali,12.6500341,-8.0010180,2016-08-22 00:00:00,2021-10-10 12:02:12,0,Emmanuel Bama,erreur sur route.Route a sens Unique,2,0,DIA46,
+2809392,Mali,12.5994018,-8.0264300,2021-08-18 00:00:00,2021-08-18 14:37:59,0,Diafara,K4DOC,7,1,Diafara,
+2805224,Mali,18.4288174,1.4191657,2021-08-15 00:00:00,2021-08-16 00:05:01,0,Hamak,Mosquée Aliou,2,0,Hamak,Supprimer cette adresse les coordonnées ne sont pas correctes
+2802825,Mali,12.5953080,-8.0329719,2021-08-14 00:00:00,2021-08-14 12:21:13,0,philguibe,rue 690,2,0,philguibe,
+2773876,Mali,12.6197700,-8.0422300,2021-07-27 00:00:00,2021-07-27 23:24:05,0,waelbishoo,Waelhebish,3,1,waelbishoo,
+799028,Mali,13.3976783,-6.3121355,2016-11-28 00:00:00,2021-07-09 12:04:01,0,Hamma Ba,Puits terrain (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,Mr_Cissé,
+1104512,Mali,16.3700320,-2.2900274,2017-08-15 00:00:00,2021-06-24 14:12:46,0,Drissa Traore,'syama' POI name: Mali POI types: place-country OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+2696148,Mali,13.2811061,-10.9329047,2021-06-02 00:00:00,2021-06-02 18:55:26,0,Moussa DABO,Kama- Bambouck,2,0,Moussa DABO,
+2696146,Mali,13.2820251,-10.8219624,2021-06-02 00:00:00,2021-06-02 18:53:54,0,Moussa DABO,Lahanti,2,0,Moussa DABO,
+952506,Mali,16.3700320,-2.2900274,2017-04-04 00:00:00,2021-05-27 18:23:52,0,Enam Haque,Gao (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,kartonage,This note doesn't provide any meaningful information to add to the map since it is placed on a node representing a country and is not associated with any other data of relevance.
+1289570,Mali,14.2114171,-3.0632307,2018-02-04 00:00:00,2021-04-27 00:03:11,0,Toure 15,'château Lere' POI has no name POI types: man_made-water_tower OSM data version: 2018-01-10T08:12:02Z  #mapsme,2,0,Greg_Rose,Mapped
+1882882,Mali,12.5352572,-7.9485119,2019-08-13 00:00:00,2021-04-20 05:18:02,0,believe me,'巴马科机场' POI name: Aéroport international Modibo Keïta POI types: aeroway-aerodrome-international OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,UWJ,Old name of the airport corrected
+1527638,Mali,16.7319021,-2.9963614,2018-09-15 00:00:00,2021-04-20 05:16:30,0,Oussaz Boubacar Sidiki Maiga,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'la place est doubler il va falloir supprimer Un' (OSM data version: 2016-08-08T15:45:02Z) #mapsme",2,0,UWJ,Corrected
+1523041,Mali,16.7319021,-2.9963614,2018-09-11 00:00:00,2021-04-20 05:15:10,0,Oussaz Boubacar Sidiki Maiga,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'la place est doubler il va falloir supprimer Un' (OSM data version: 2016-08-08T15:45:02Z) #mapsme",2,0,UWJ,
+2621690,Mali,12.5752400,-7.9907700,2021-04-14 00:00:00,2021-04-14 01:47:35,0,DANAYA INFORMATIQUE,DANAYA INFORMATIQUE,4,1,DANAYA INFORMATIQUE,DANAYA INFORMATIQUE
+2611521,Mali,12.6600791,-7.9977089,2021-04-06 00:00:00,2021-04-06 17:46:50,0,Am762021,Rond point des fêtes sauvages,5,1,Am762021,n'existe pas
+2611544,Mali,12.6598300,-7.9979400,2021-04-06 00:00:00,2021-04-06 17:43:11,0,Am762021,Saly sandwitch,2,0,Am762021,
+2611536,Mali,12.6600000,-7.9953300,2021-04-06 00:00:00,2021-04-06 17:39:06,0,Am762021,*ù*ù,2,0,Am762021,
+2611514,Mali,12.5711900,-7.9899000,2021-04-06 00:00:00,2021-04-06 17:23:55,0,Am762021,Pharmacie Nouhoum Samake,2,0,Am762021,
+2611513,Mali,12.5712100,-7.9900100,2021-04-06 00:00:00,2021-04-06 17:23:26,0,Am762021,Mon Pressing,2,0,Am762021,
+2611510,Mali,12.6252800,-8.0321700,2021-04-06 00:00:00,2021-04-06 17:21:01,0,Am762021,The Grill,2,0,Am762021,
+2611505,Mali,12.6240200,-8.0221400,2021-04-06 00:00:00,2021-04-06 17:10:36,0,Am762021,Pharmacie Etoile,2,0,Am762021,
+1199457,Mali,14.8995000,-11.7892000,2017-11-08 00:00:00,2021-04-05 20:40:55,0,Unknown,Melga,2,0,dawansv,Added name to village
+823154,Mali,14.5764709,-10.8188188,2016-12-20 00:00:00,2021-04-05 20:37:34,0,Unknown,Walila,2,0,dawansv,Added name to village
+440814,Mali,14.6479497,-10.5432701,2015-09-24 00:00:00,2021-04-05 20:34:04,0,Unknown,Makana,2,0,dawansv,Added name to village
+1924817,Mali,14.5908100,-11.6857195,2019-09-13 00:00:00,2021-04-05 20:29:31,0,Unknown,"Gagny, name of the village,",4,1,dawansv,Added name to village
+2604751,Mali,12.6377525,-7.9685265,2021-04-02 00:00:00,2021-04-02 11:02:29,0,Am762021,il manque une maison,3,1,Am762021,
+1563574,Mali,13.2348011,-7.0057658,2018-10-17 00:00:00,2021-03-31 20:23:02,0,Young pass,'Puit à eau de Diarrabougou-wèrè' POI has no name POI types: man_made-water_well OSM data version: 2018-07-05T18:22:02Z  #mapsme,2,0,Greg_Rose,d'accord
+1517381,Mali,14.3074019,-5.9591476,2018-09-07 00:00:00,2021-03-24 17:12:55,0,saliousoft,terrain de foot,2,0,Greg_Rose,d'accord
+888946,Mali,14.2579433,-5.9721009,2017-02-11 00:00:00,2021-03-23 17:37:34,0,Samuel Mori Kone,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'pont' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,Greg_Rose,oui
+1517382,Mali,14.2596207,-5.9733750,2018-09-07 00:00:00,2021-03-23 17:35:50,0,saliousoft,pont,2,0,Greg_Rose,d'accord
+2589072,Mali,17.7939000,0.0112000,2021-03-22 00:00:00,2021-03-22 09:49:39,0,Dibloni Innocent,Populated place name= Ersane,2,0,Dibloni Innocent,OK
+1517385,Mali,13.9781586,-6.0771187,2018-09-07 00:00:00,2021-03-19 19:07:15,0,saliousoft,plantations de canne à sucre,2,0,Greg_Rose,d'accord
+1517384,Mali,14.0076201,-6.0701023,2018-09-07 00:00:00,2021-03-19 19:06:58,0,saliousoft,plantations de canne à sucre,2,0,Greg_Rose,d'accord
+1517383,Mali,14.0314742,-6.0634967,2018-09-07 00:00:00,2021-03-19 19:06:46,0,saliousoft,plantations de canne à sucre,2,0,Greg_Rose,d'accord
+1517387,Mali,13.9203929,-6.0944718,2018-09-07 00:00:00,2021-03-07 06:05:25,0,saliousoft,usine de production de sucre,2,0,Greg_Rose,D'accord
+1517386,Mali,13.9464725,-6.0831386,2018-09-07 00:00:00,2021-03-07 05:43:31,0,saliousoft,riziculture,2,0,Greg_Rose,D'accord
+1616047,Mali,12.6230851,-7.9862881,2018-12-13 00:00:00,2021-02-23 11:23:47,0,Unknown,MINUSMA,2,0,Mtcbamako,This is nothing.
+742918,Mali,13.6947144,-7.7565846,2016-10-09 00:00:00,2021-02-19 20:38:59,0,Yao HOUNAKE,mon voyage dans tout le mali apparent gao tomboutou et Kidal (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Greg_Rose,not a valid issue
+1139956,Mali,13.3563617,-7.8510950,2017-09-14 00:00:00,2021-02-18 19:14:42,0,Toure 15,'site maraîcher Ngoloblembougou' POI has no name POI types: man_made-water_tower OSM data version: 2017-08-17T15:51:02Z  #mapsme,2,0,Greg_Rose,Mapped
+1919668,Mali,13.4533033,-8.0193240,2019-09-10 00:00:00,2021-02-17 22:49:31,0,edvac,Bamabougou,2,0,Greg_Rose,Merci
+1910311,Mali,13.2883115,-7.9529676,2019-09-02 00:00:00,2021-02-17 18:01:10,0,edvac,Ouolodiedo,2,0,Greg_Rose,D'accord
+1004658,Mali,12.9001365,-7.5374808,2017-05-23 00:00:00,2021-02-17 00:59:38,0,Napster Bouya Kibe,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2017-03-28T20:59:03Z) #mapsme",2,0,Greg_Rose,merci
+1238102,Mali,12.8992449,-7.5378214,2017-12-14 00:00:00,2021-02-17 00:59:11,0,Napster Bouya Kibe,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Famille Kibe POI types: internet_access-wlan tourism-guest_house OSM data version: 2017-10-20T12:20:02Z  #mapsme",2,0,Greg_Rose,
+1055393,Mali,12.8992449,-7.5378214,2017-07-06 00:00:00,2021-02-17 00:59:01,0,Napster Bouya Kibe,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Famille Kibe POI types: internet_access-wlan tourism-guest_house OSM data version: 2017-06-09T16:24:09Z  #mapsme",2,0,Greg_Rose,
+1013420,Mali,12.8992439,-7.5378204,2017-05-30 00:00:00,2021-02-17 00:51:23,0,Napster Bouya Kibe,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2017-03-28T20:59:03Z) #mapsme",2,0,Greg_Rose,Not placed
+942844,Mali,12.9752549,-6.9374291,2017-03-27 00:00:00,2021-02-16 08:10:54,0,Young pass,village de Kokenè dans la commune de Kalakè (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Greg_Rose,oui - merci!
+1563572,Mali,12.9738963,-6.9751300,2018-10-17 00:00:00,2021-02-16 08:06:12,0,Young pass,'Mialabougoufiè' POI has no name POI types: man_made-water_well OSM data version: 2018-07-05T18:22:02Z  #mapsme,2,0,Greg_Rose,oui - d'accord
+1563573,Mali,12.9733218,-6.9738924,2018-10-17 00:00:00,2021-02-16 08:05:01,0,Young pass,'puit d'eau Mialabougoufiè' POI has no name POI types: man_made-water_well OSM data version: 2018-07-05T18:22:02Z  #mapsme,2,0,Greg_Rose,oui
+945321,Mali,12.8938401,-7.0294583,2017-03-29 00:00:00,2021-02-16 06:30:03,0,Young pass,Sirifibougou (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Greg_Rose,oui
+1274292,Mali,12.7361872,-7.3815572,2018-01-20 00:00:00,2021-02-15 10:00:58,0,Toure 15,'chateau d'eau korokoro' POI has no name POI types: man_made-water_tower OSM data version: 2017-12-08T15:42:02Z  #mapsme,2,0,Greg_Rose,non - Déjà là
+1116250,Mali,12.7363781,-7.3816470,2017-08-25 00:00:00,2021-02-15 09:59:44,0,Toure 15,'château d'eau Korokoro' POI has no name POI types: man_made-water_tower OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,Greg_Rose,oui
+1013842,Mali,17.3568185,-0.9701282,2017-05-30 00:00:00,2021-02-12 23:56:28,0,DannyAiquipa,Can someone confirm if exist a hotel here? Thanks!,2,0,Taktaal,There is absolutely nothing here but desert
+1644857,Mali,12.8738108,-6.4172173,2019-01-09 00:00:00,2021-02-10 09:19:50,0,Unknown,Gouendo,2,0,Greg_Rose,Non - a la oueste
+1679771,Mali,13.3387082,-6.4400871,2019-02-13 00:00:00,2021-02-08 23:59:08,0,Daniel CADEAU,Somonotougouni,4,1,Greg_Rose,Oui - merci
+939989,Mali,13.2143952,-6.8703886,2017-03-25 00:00:00,2021-02-06 08:08:43,0,Hamma Ba,Commune de BOIDIÈ (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,Greg_Rose,Oui - merci
+942843,Mali,13.0751275,-6.8354181,2017-03-27 00:00:00,2021-02-05 19:01:47,0,Young pass,école publique de Barouéli (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Greg_Rose,Merci
+942847,Mali,13.0751275,-6.8354181,2017-03-27 00:00:00,2021-02-05 19:01:00,0,Young pass,École publique de Barouéli  (A) (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Greg_Rose,Merci
+1056748,Mali,13.6748817,-6.0682183,2017-07-08 00:00:00,2021-01-27 06:57:10,0,AKE Amazan,Cimetière,2,0,Greg_Rose,Oui merci
+645872,Mali,12.6271996,-7.9878330,2016-07-27 00:00:00,2021-01-12 22:04:58,0,Unknown,Segou,2,0,Greg_Rose,d'accord
+1174031,Mali,12.5943514,-7.6704889,2017-10-15 00:00:00,2021-01-12 20:01:34,0,Etienne Dabo,'la position réel est située de 80m à L'EST.' POI name: Kassela POI types: barrier-toll_booth OSM data version: 2017-09-17T07:13:02Z  #mapsme,2,0,Greg_Rose,merci
+1488877,Mali,11.0885192,-6.8934180,2018-08-13 00:00:00,2021-01-12 07:49:10,0,Tiemankoro Kone,'kolondieba' POI name: Kolondieba POI types: place-town OSM data version: 2018-07-05T18:22:02Z  #mapsme,2,0,Greg_Rose,déjà posé
+942842,Mali,12.9206612,-6.7575900,2017-03-27 00:00:00,2021-01-11 07:18:46,0,Young pass,Frite et Poulet rôti ; Riz au gras;Soupe de viande ; Salade et concombre (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Greg_Rose,Yum!
+762368,Mali,13.4026459,-6.1804870,2016-10-26 00:00:00,2021-01-10 08:17:07,0,Mamadi Sangaré,poste de sortie de Ségou (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,Greg_Rose,déjà posé
+1192068,Mali,12.9899994,-5.4490002,2017-11-01 00:00:00,2021-01-10 08:01:46,0,Toure 15,"'ce n'est pas sa vraie localisation ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: NIAMASSO POI types: amenity-school OSM data version: 2017-10-20T12:20:02Z  #mapsme",2,0,Greg_Rose,déjà déplacé de cet emplacement
+1194643,Mali,13.0279221,-5.3539250,2017-11-03 00:00:00,2021-01-10 08:00:18,0,Toure 15,'château d'eau' POI has no name POI types: man_made-water_tower OSM data version: 2017-10-20T12:20:02Z  #mapsme,2,0,Greg_Rose,déjà posé
+1167542,Mali,13.0625441,-5.3296124,2017-10-09 00:00:00,2021-01-10 07:58:07,0,Toure 15,"'il n'est pas à sa place ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Maraîchage POI types: natural-spring OSM data version: 2017-09-17T07:13:02Z  #mapsme",2,0,Greg_Rose,d'accord
+1179596,Mali,13.0725584,-4.6420104,2017-10-19 00:00:00,2021-01-10 07:54:03,0,Toure 15,'château d'eau' POI has no name POI types: man_made-water_tower OSM data version: 2017-10-06T18:13:02Z  #mapsme,2,0,Greg_Rose,Existe
+1115547,Mali,12.8424667,-4.7007333,2017-08-24 00:00:00,2021-01-08 21:53:33,0,Toure 15,'château Founè' POI has no name POI types: man_made-water_tower OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,Greg_Rose,merci - n'a pas besoin d'un nom
+1114127,Mali,12.8615581,-4.6749966,2017-08-23 00:00:00,2021-01-08 21:49:43,0,Toure 15,'château d'eau Diora' POI has no name POI types: man_made-water_tower OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,Greg_Rose,oui
+1003695,Mali,13.2346912,-4.8834095,2017-05-22 00:00:00,2021-01-06 09:56:42,0,SeverinGeo,localité de Sienso,2,0,Greg_Rose,Fixed! Merci Severin!
+1055415,Mali,13.2620090,-4.8877382,2017-07-06 00:00:00,2021-01-06 08:45:08,0,Toulassana,'Foot' POI has no name POI types: leisure-playground OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,Greg_Rose,Oui merci
+1115548,Mali,13.2396011,-4.7717821,2017-08-24 00:00:00,2021-01-05 22:36:55,0,Toure 15,'château d'eau de Somo' POI has no name POI types: man_made-water_tower OSM data version: 2017-07-28T09:42:02Z  #mapsme,3,0,Greg_Rose,
+1003694,Mali,13.2542738,-4.5144153,2017-05-22 00:00:00,2021-01-04 23:38:47,0,SeverinGeo,Sadien not Sadnié,2,0,Greg_Rose,Oui - merci
+1003693,Mali,13.1205453,-4.3662500,2017-05-22 00:00:00,2021-01-04 09:06:51,0,SeverinGeo,Bénéna et non Benema,5,1,Greg_Rose,Oui - Je télécharge un grand changeset qui résoudra ce problème - soyez patient.
+2409137,Mali,14.1476000,-4.2390500,2020-11-03 00:00:00,2020-12-31 21:43:37,0,Christian COURBOIS,Village de DJEME,2,0,Greg_Rose,Oui merci
+1328463,Mali,13.2875549,-4.5898564,2018-03-15 00:00:00,2020-12-27 07:43:49,0,DIAKARIDIA F KONE,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Chez 24h/24h et 7j/7 POI types: amenity-restaurant OSM data version: 2018-01-10T08:12:02Z  #mapsme",2,0,Greg_Rose,Bien sur
+1039249,Mali,14.0513460,-2.9268359,2017-06-23 00:00:00,2020-12-19 07:23:23,0,Toulassana,'Gama' POI has no name POI types: man_made-water_well OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,Greg_Rose,d'accord
+1039251,Mali,14.0524730,-2.9269233,2017-06-23 00:00:00,2020-12-19 07:22:58,0,Toulassana,'Gama' POI has no name POI types: man_made-water_well OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,Greg_Rose,Oui
+1039250,Mali,14.0523836,-2.9269750,2017-06-23 00:00:00,2020-12-19 07:22:44,0,Toulassana,'Gama' POI has no name POI types: man_made-water_well OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,Greg_Rose,Oui
+1166429,Mali,14.0705377,-3.0809187,2017-10-08 00:00:00,2020-12-17 06:08:45,0,Toure 15,'Terrain de sport' POI has no name POI types: leisure-playground OSM data version: 2017-09-17T07:13:02Z  #mapsme,2,0,Greg_Rose,tres
+1167541,Mali,14.0705377,-3.0809187,2017-10-09 00:00:00,2020-12-17 06:08:20,0,Toure 15,'Terrain de sport' POI has no name POI types: leisure-playground OSM data version: 2017-09-17T07:13:02Z  #mapsme,2,0,Greg_Rose,d'accord
+1747838,Mali,14.0332000,-3.4614000,2019-04-16 00:00:00,2020-12-15 00:22:26,0,Unknown,OSOGOSSOU,2,0,Greg_Rose,Merci
+1731298,Mali,14.0631953,-3.5933447,2019-04-01 00:00:00,2020-12-14 19:00:44,0,BlankaC,probably village of Darry,2,0,Greg_Rose,Ville de Darsalam
+1674542,Mali,13.9099809,-3.7276388,2019-02-07 00:00:00,2020-12-13 04:34:41,0,Unknown,Djinadio,3,0,Greg_Rose,Merci
+1674569,Mali,13.9117411,-3.7274680,2019-02-07 00:00:00,2020-12-13 04:33:51,0,Unknown,Ecole de Djinadio,2,0,Greg_Rose,Merci - Je l'ai corrigé
+1674546,Mali,13.8779214,-3.7478776,2019-02-07 00:00:00,2020-12-13 04:28:56,0,Unknown,cet emplacement n'est pas bon. Le village d'Orossogou est plus à l'est.,2,0,Greg_Rose,Merci - je l'ai corrigé
+1674562,Mali,13.8780943,-3.7021641,2019-02-07 00:00:00,2020-12-12 23:05:38,0,Unknown,Ceci est le véritable emplacement du village d'Orossogou (village avec école),2,0,Greg_Rose,Merci - très utile
+1674559,Mali,13.8890194,-3.7428341,2019-02-07 00:00:00,2020-12-12 23:01:03,0,Unknown,Digny Bombo (Digny plaine) Village,2,0,Greg_Rose,Merci
+1674557,Mali,13.8918414,-3.7546918,2019-02-07 00:00:00,2020-12-12 22:58:16,0,Unknown,plus souvent orthographié : Digny,2,0,Greg_Rose,merci
+1674556,Mali,13.9024789,-3.7463479,2019-02-07 00:00:00,2020-12-12 22:56:56,0,Unknown,Yolo (Golo est une mauvaise transcription),2,0,Greg_Rose,Merci - nom officiel actuel est Digni-Yolo
+1674563,Mali,13.8570630,-3.7506395,2019-02-07 00:00:00,2020-12-12 21:17:47,0,Unknown,Normalement transcrit : Boule,2,0,Greg_Rose,Merci
+1126272,Mali,13.4462000,-6.2596124,2017-09-03 00:00:00,2020-12-04 20:13:43,0,Toure 15,'château d'eau' POI has no name POI types: man_made-water_tower OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,Greg_Rose,Oui - le voilà
+2293050,Mali,13.4338172,-6.2844788,2020-08-04 00:00:00,2020-12-04 20:02:18,0,Zoumana Tangara,'QRF Militaire Segou' POI has no name POI types: landuse-military OSM data version: 2020-07-14T11:22:37Z  #mapsme,2,0,Greg_Rose,Oui - merci
+2397843,Mali,13.4210127,-6.2409639,2020-10-24 00:00:00,2020-12-04 00:59:15,0,Unknown,Les quartiers de Ségou ne sont mentionnés sur la carte,2,0,Greg_Rose,Je corrige ça - merci
+2383190,Mali,14.1679500,-5.6735600,2020-10-12 00:00:00,2020-12-02 08:16:43,0,Christian COURBOIS,Village de N'Gongon,2,0,Greg_Rose,Merci
+995963,Mali,13.9979533,-4.6637821,2017-05-14 00:00:00,2020-11-12 23:26:02,0,Unknown,Ali-Samba,2,0,Greg_Rose,Merçi
+1985408,Mali,12.6717887,-8.0156090,2019-11-05 00:00:00,2020-11-08 22:25:04,0,sulbi,'un Point d'eau' POI has no name POI types: man_made-water_tap OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,Greg_Rose,Oui merçi
+1972909,Mali,12.6859049,-7.9685211,2019-10-24 00:00:00,2020-11-06 08:22:30,0,Unknown,I believe the correct name is ASACOMSISOU.   Je crois que le nom correcte est «ASACOMSISOU»  Thanks/Merci!,2,0,Greg_Rose,Merçi
+1810324,Mali,12.5828696,-7.9305797,2019-06-12 00:00:00,2020-11-05 19:36:48,0,adama diakite,'Rue 601' POI has no name POI types: hwtag-oneway highway-tertiary OSM data version: 2019-05-17T13:54:02Z  #mapsme,2,0,Greg_Rose,Merçi
+2391874,Mali,12.5821580,-7.9306873,2020-10-19 00:00:00,2020-11-05 19:34:33,0,Tidem,"'Erreur' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: L3T POI types: office-government OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Greg_Rose,Merçi
+1810323,Mali,12.5830443,-7.9314361,2019-06-12 00:00:00,2020-11-05 19:29:46,0,adama diakite,'Rue 600' POI has no name POI types: psurface-paved_good highway-tertiary OSM data version: 2019-05-17T13:54:02Z  #mapsme,2,0,Greg_Rose,Merçi
+1670107,Mali,12.5449200,-8.0289633,2019-02-03 00:00:00,2020-11-04 22:02:49,0,Daniel Kamate,'kalaban-coro' POI name: Chez Gilbert Coulibaly POI types: tourism-guest_house OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,Greg_Rose,"Oui, ça l'est"
+1648780,Mali,12.5505566,-8.0308463,2019-01-13 00:00:00,2020-11-04 21:53:56,0,Famakan Kanouté,'Le quartier s’appelle Tiébani' POI name: Kiébabougou POI types: place-suburb OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,Greg_Rose,Oui - merçi
+1486553,Mali,12.5505566,-8.0308463,2018-08-12 00:00:00,2020-11-04 21:53:43,0,Famakan Kanouté,'Bonjour !  Je vous informe que le nom exacte de cette Bannlieue est <<Tiebani>>' POI name: Kiébabougou POI types: place-suburb OSM data version: 2018-07-05T18:22:02Z  #mapsme,2,0,Greg_Rose,Oui - merçi
+1301337,Mali,12.5505566,-8.0308463,2018-02-15 00:00:00,2020-11-04 21:53:19,0,Famakan Kanouté,'Tiebani 76764317' POI name: Kiébabougou POI types: place-suburb OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,Greg_Rose,Oui - merçi
+1967551,Mali,12.5538449,-8.0289502,2019-10-19 00:00:00,2020-11-04 17:23:25,0,Karabenta LeVrai Audacieux,'Kalaban-Koulouba' POI has no name POI types: highway-residential OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,Greg_Rose,Oui - à l'est
+793795,Mali,12.5722206,-8.0288883,2016-11-23 00:00:00,2020-11-04 16:41:02,0,MulhamAryan,Kalabancoura (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Greg_Rose,Non. Kalabancora
+1229127,Mali,12.5412329,-7.7902185,2017-12-05 00:00:00,2020-11-04 07:04:39,0,Koné K Salif,le terrain en prospection pour achat (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Greg_Rose,Non
+907330,Mali,12.5264318,-7.7479872,2017-02-26 00:00:00,2020-11-02 00:49:04,0,Etienne Dabo,Taganla (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,Greg_Rose,Tangala - oui. Merçi
+1472501,Mali,12.4975000,-7.7538000,2018-07-30 00:00:00,2020-11-01 04:00:51,0,Unknown,Village de Sanogobougou,2,0,Greg_Rose,Merçi
+1472500,Mali,12.5052133,-7.7551889,2018-07-30 00:00:00,2020-11-01 03:51:59,0,Unknown,Village de Kululabougou,2,0,Greg_Rose,Merçi
+2012459,Mali,12.5932957,-7.8702349,2019-11-30 00:00:00,2020-10-29 05:14:24,0,vantil,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Route de Ségou POI types: psurface-paved_good highway-primary OSM data version: 2019-10-19T16:52:54Z  #mapsme",2,0,Greg_Rose,ça n'a pas de sens
+1712818,Mali,12.6896000,-7.6930000,2019-03-17 00:00:00,2020-10-28 04:51:43,0,Unknown,Farakan,2,0,Greg_Rose,Non - c'est Mofa. Farakan est au sud.
+1266761,Mali,12.6177706,-7.7786597,2018-01-13 00:00:00,2020-10-27 16:54:05,0,Vamuss,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Centre de Santé Communautaire de Baguineda POI types: amenity-nursing_home OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,Greg_Rose,Merçi. Tag incorrecte
+1229128,Mali,12.5412329,-7.7902185,2017-12-05 00:00:00,2020-10-27 05:45:35,0,Koné K Salif,le terrain en prospection pour achat (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Greg_Rose,Pas à quoi sert cette carte!
+1409016,Mali,12.5580000,-7.8540000,2018-05-29 00:00:00,2020-10-27 05:37:48,0,Bcama,N'Tabacoro,2,0,Greg_Rose,Merçi
+1158877,Mali,12.5780918,-7.8030890,2017-10-01 00:00:00,2020-10-27 05:21:55,0,Toure 15,'Maninkala' POI has no name POI types: highway-rest_area OSM data version: 2017-09-17T07:13:02Z  #mapsme,2,0,Greg_Rose,Merçi
+675808,Mali,12.8481467,-7.5737517,2016-08-17 00:00:00,2020-10-24 01:00:14,0,Daniel Kamate,Lycée du Séminaire (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,Greg_Rose,Merçi
+1006505,Mali,12.8912786,-7.5410274,2017-05-24 00:00:00,2020-10-23 23:08:41,0,Napster Bouya Kibe,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2017-03-28T20:59:03Z) #mapsme",3,0,Greg_Rose,
+1792163,Mali,12.8804694,-7.7439364,2019-05-26 00:00:00,2020-10-22 21:01:29,0,Unknown,SIMBA,2,0,Greg_Rose,Merçi
+1528110,Mali,12.6598581,-7.8501479,2018-09-15 00:00:00,2020-10-21 19:38:22,0,DIAKITE SEYDOU,"je sais pas, aide moi à sortir dans ce champ",2,0,Greg_Rose,ce n'est pas un parc!
+1646484,Mali,12.6854272,-7.8357120,2019-01-11 00:00:00,2020-10-21 19:02:08,0,korolenok,Need to fix duplicates of buildings,2,0,Greg_Rose,Looks like they've been removed.
+1381313,Mali,12.6762517,-7.9441506,2018-05-03 00:00:00,2020-10-20 03:39:38,0,Fassiriman Dabo,'La grande Église de Djelibougou' POI has no name POI types: amenity-place_of_worship-christian OSM data version: 2018-03-16T17:06:02Z  #mapsme,2,0,Greg_Rose,Merçi!
+2380743,Mali,12.6112500,-7.9692300,2020-10-10 00:00:00,2020-10-10 11:28:59,0,Yacouba lompo,Pharmacie bienvenue,2,0,Yacouba lompo,
+2380740,Mali,12.6117000,-7.9683200,2020-10-10 00:00:00,2020-10-10 11:25:54,0,Yacouba lompo,Agence Alfis Communication,2,0,Yacouba lompo,
+2008687,Mali,12.8055000,-7.9850500,2019-11-26 00:00:00,2020-10-08 21:49:14,0,Unknown,Doneguebougou (P),2,0,Greg_Rose,Merçi!
+1144758,Mali,12.8142671,-8.0995026,2017-09-18 00:00:00,2020-10-08 21:42:46,0,Toure 15,'campement fèrè kènè' POI has no name POI types: highway-rest_area OSM data version: 2017-08-17T15:51:02Z  #mapsme,2,0,Greg_Rose,Merçi!
+433330,Mali,12.8283896,-8.0947098,2015-09-12 00:00:00,2020-10-08 21:32:16,0,Doubassin,Nom du village:Daral,2,0,Greg_Rose,Merçi pour la confirmation
+2377672,Mali,16.7451001,-3.0425328,2020-10-07 00:00:00,2020-10-08 03:42:24,0,Unknown,je n'arrive plus à revoir mes photos dans l'application.,2,0,kartonage,This is not related to OpenStreetMap. Contact your third party app provider.
+2358251,Mali,18.4339793,1.4242288,2020-09-22 00:00:00,2020-09-22 10:26:53,0,Valeria Hernandez,"28,3479000, -100,8540000",4,1,bielebog,
+1953694,Mali,18.4335698,1.4233370,2019-10-08 00:00:00,2020-09-22 03:47:50,0,Ag Mohamed,'c'est l'ancien aéroport' POI name: Aéroport de Kidal POI types: aeroway-aerodrome OSM data version: 2019-08-30T18:41:13Z  #mapsme,3,1,Valeria Hernandez,
+2342623,Mali,13.9354793,-4.4567871,2020-09-10 00:00:00,2020-09-10 13:39:32,0,Sylvanus Collins,vnmmmmmmmmmm,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+1882883,Mali,12.6338830,-8.0270000,2019-08-13 00:00:00,2020-08-25 14:39:08,0,believe me,'ACI2000' POI name: ACI 2000 POI types: place-suburb OSM data version: 2019-06-21T10:47:15Z  #mapsme,3,1,jakobkane,US Embassy
+2302851,Mali,20.1760176,-0.3062439,2020-08-11 00:00:00,2020-08-11 08:08:09,0,Unknown,09950714309 location,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2230571,Mali,12.5677700,-7.9909400,2020-06-15 00:00:00,2020-06-15 17:26:10,0,Unknown,AGENCE IMMOBILIÈRE AGIMMO-H BUREAU CADES MALI  ONG ACEPE ONG ALHADI  ONG GABEYE ESPOIR ONG APALD ONG ASREF,4,1,Hala Touré,
+1486104,Mali,19.9999947,0.0000080,2018-08-12 00:00:00,2020-06-15 14:20:59,0,Unknown,markedcoation  wanna,3,1,Josetorton,
+2180970,Mali,12.6290972,-8.0203548,2020-05-04 00:00:00,2020-05-04 16:03:06,0,SACKOLA,001,4,1,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2180974,Mali,12.6214205,-8.0271435,2020-05-04 00:00:00,2020-05-04 16:03:02,0,SACKOLA,001,6,1,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2180976,Mali,12.6184366,-8.0282164,2020-05-04 00:00:00,2020-05-04 16:02:55,0,SACKOLA,002,4,1,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2129456,Mali,11.4177541,-7.4876770,2020-03-25 00:00:00,2020-03-25 12:03:01,0,Viaspy Kartel,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'bamaki' (OSM data version: 2016-06-20T05:57:02Z) #mapsme",2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+2129100,Mali,13.0350194,-9.4853865,2020-03-24 00:00:00,2020-03-25 12:02:42,0,Viaspy Kartel,bamako (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+2129455,Mali,13.0350194,-9.4853865,2020-03-25 00:00:00,2020-03-25 12:02:34,0,Viaspy Kartel,bamako (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+679067,Mali,14.4350167,-11.4336442,2016-08-19 00:00:00,2020-01-17 08:51:12,0,N'pê “El Deblo” Bouaré,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'L'hôtel ne se trouve pas là-bas ' (OSM data version: 2016-07-15T17:38:02Z) #mapsme",2,0,Camille Traoré,
+2054089,Mali,12.5721647,-7.9699435,2020-01-11 00:00:00,2020-01-11 20:33:34,0,N City chop blog mali boutique,N City chope bko Mali boutique,6,1,N City chop blog mali boutique,N City chope bko Mali boutique
+2036564,Mali,15.0490000,-3.3662000,2019-12-25 00:00:00,2020-01-10 11:09:30,0,skonate,KIRO,3,0,freebeer,certainly is...
+2024673,Mali,12.7096146,-8.0453299,2019-12-13 00:00:00,2019-12-13 09:10:01,0,N'pê “El Deblo” Bouaré,Sanafara Extension,3,0,N'pê “El Deblo” Bouaré,
+2024665,Mali,12.7110600,-8.0434000,2019-12-13 00:00:00,2019-12-13 09:05:45,0,N'pê “El Deblo” Bouaré,Boulagerie j'Adore,3,1,N'pê “El Deblo” Bouaré,
+140795,Mali,19.7278065,0.9488583,2014-03-27 00:00:00,2019-12-09 05:24:39,0,ligfietser,Natural=heath everywhere in the Sahara desert. Tagging for the renderer?,2,0,freebeer,"recently changed to wadi, for better or worse"
+896952,Mali,12.6308443,-8.0218851,2017-02-18 00:00:00,2019-12-09 05:16:40,0,Abba Dicko,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'existe déjà' (OSM data version: 2016-06-20T05:57:02Z) #mapsme",2,0,freebeer,nothing at marker
+596376,Mali,12.6371755,-8.0047109,2016-06-16 00:00:00,2019-12-09 05:11:44,0,Mamadi Sangaré,"The place has gone or never existed.  This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground.  User comments: c'est le monument de l'indépendance    (OSM data version: 2016-06-01T10:03:02Z) #mapsme",2,0,freebeer,nothing at marker
+1616040,Mali,12.6482552,-7.9996482,2018-12-13 00:00:00,2019-12-09 05:04:24,0,Unknown,bamako,2,0,freebeer,on the map
+1110661,Mali,12.6451836,-8.0001804,2017-08-20 00:00:00,2019-12-09 05:03:01,0,Lassine Sanankoua,'Emplacement actuel' POI name: Pharmacie populaire du Mali  Laboratoire galénique POI types: amenity-pharmacy OSM data version: 2017-01-19T15:17:02Z  #mapsme,2,0,freebeer,on the map
+1520631,Mali,12.3844641,-5.4793345,2018-09-09 00:00:00,2019-12-09 04:47:55,0,saliousoft,rue 137,2,0,freebeer,on the map
+1616783,Mali,12.3801007,-5.4779613,2018-12-14 00:00:00,2019-12-09 04:46:39,0,saliousoft,174,2,0,freebeer,on the map
+1616720,Mali,12.3826483,-5.4861083,2018-12-14 00:00:00,2019-12-09 04:45:02,0,saliousoft,Rue168,2,0,freebeer,on the map
+1520629,Mali,12.3805032,-5.4851767,2018-09-09 00:00:00,2019-12-09 04:44:09,0,saliousoft,rue 182,2,0,freebeer,on the map
+1616757,Mali,12.3764172,-5.4959347,2018-12-14 00:00:00,2019-12-09 04:42:16,0,saliousoft,291,2,0,freebeer,on the map
+1616763,Mali,12.3739692,-5.4961520,2018-12-14 00:00:00,2019-12-09 04:41:18,0,saliousoft,291,2,0,freebeer,on the map
+1520627,Mali,12.3734220,-5.4953971,2018-09-09 00:00:00,2019-12-09 04:40:46,0,saliousoft,rue 236 hamdallaye,2,0,freebeer,on the map
+2001818,Mali,12.6110100,-7.9896000,2019-11-19 00:00:00,2019-11-19 16:03:07,0,DIA TOUG,poteau électrique,3,1,DIA TOUG,
+2001760,Mali,12.6390000,-7.9848000,2019-11-19 00:00:00,2019-11-19 15:58:39,0,DIA TOUG,Poteau électrique,4,1,DIA TOUG,
+1017908,Mali,12.6418300,-7.9970667,2017-06-03 00:00:00,2019-11-19 15:56:45,0,Enock4seth,building:level=4,2,0,DIA TOUG,Poteau électrique
+2001795,Mali,12.6240000,-7.9860000,2019-11-19 00:00:00,2019-11-19 15:49:55,0,DIA TOUG,Poteau électrique,3,1,DIA TOUG,
+2001792,Mali,12.6425000,-7.9841000,2019-11-19 00:00:00,2019-11-19 15:48:49,0,DIA TOUG,Poteau électrique,2,0,DIA TOUG,
+2001781,Mali,12.6476000,-7.9858000,2019-11-19 00:00:00,2019-11-19 15:47:15,0,DIA TOUG,poteau électrique,3,1,DIA TOUG,
+2001776,Mali,12.6399600,-7.9824900,2019-11-19 00:00:00,2019-11-19 15:46:22,0,DIA TOUG,poteau électrique,2,0,DIA TOUG,
+2001588,Mali,11.3100000,-5.6727000,2019-11-19 00:00:00,2019-11-19 15:05:24,0,DIA TOUG,Quartier,2,0,DIA TOUG,Hamdallaye
+2001579,Mali,11.3065000,-5.6703000,2019-11-19 00:00:00,2019-11-19 15:02:55,0,DIA TOUG,quartier,3,1,DIA TOUG,quartier lafiabougou un quartier historique
+2001562,Mali,11.3091000,-5.6726000,2019-11-19 00:00:00,2019-11-19 14:59:59,0,DIA TOUG,quartier,5,1,DIA TOUG,quartier lafiaboubougou c'est un quartier historique de Sikasso
+1712354,Mali,11.3479671,-5.6651363,2019-03-16 00:00:00,2019-11-19 14:44:19,0,Hama80,C'est plutôt l'école premier cycle Mamassoni,3,1,DIA TOUG,
+1972281,Mali,12.6238389,-7.8859520,2019-10-24 00:00:00,2019-10-24 09:45:28,0,DIA TOUG,"quelque zone touristiques n’apparaît pas sur la carte  , les monuments ...",2,0,DIA TOUG,
+1972279,Mali,11.3297159,-5.6565857,2019-10-24 00:00:00,2019-10-24 09:40:29,0,DIA TOUG,"il manque la colline de missirikoro ; la chutte de farako , le tata de sikasso et pleins d'autres quartiers",4,1,DIA TOUG,
+1848268,Mali,13.9090327,-4.5616436,2019-07-18 00:00:00,2019-10-08 15:57:10,0,Unknown,problem with inner and outer face of water polygon,2,0,freebeer,"removed redundant outers tagging that flooded the inner, dunno how it got added in the first place"
+714982,Mali,12.3800518,-5.4682088,2016-09-16 00:00:00,2019-10-08 15:57:09,0,SomeoneElse,A number of landuse areas have been added in error as buildings here.  See for example https://www.openstreetmap.org/way/398888205 .,3,0,SomeoneElse,"Yes - fixed by https://www.openstreetmap.org/user/Johnwhelan in https://www.openstreetmap.org/changeset/68081099 .   He pops up on mailing lists every now and again, trying to raise the quality of HOT submissions, especially by new users."
+1818948,Mali,16.2788067,-0.0412202,2019-06-19 00:00:00,2019-10-08 15:45:07,0,punk rockz,'gao' POI name: Gao POI types: place-city OSM data version: 2019-03-14T00:11:02Z  #mapsme,2,0,freebeer,on the map
+1866175,Mali,12.5989256,-8.0287045,2019-08-01 00:00:00,2019-10-08 15:37:47,0,Unknown,"onosm.org submitted note from a business: name: Bekri’s house phone:  website:  twitter: undefined hours:  category: ,Apartments address:",2,0,freebeer,personal bookmark
+1875085,Mali,16.4696900,-4.1686400,2019-08-08 00:00:00,2019-08-08 16:01:55,0,Sekou Ouedrago,Logement DTC,3,1,Sekou Ouedrago,
+1804486,Mali,14.4448430,-11.4328959,2019-06-07 00:00:00,2019-06-25 23:51:53,0,Sékou Konaté,'domicile et non un dépôt de boissons' POI name: Famille Hamet Konaté POI types: shop-wine OSM data version: 2019-05-17T13:54:02Z  #mapsme,2,0,Famille Cheick Konaté comptable,Vente de glace et non d'alcool
+1814644,Mali,12.9676805,-9.8766496,2019-06-16 00:00:00,2019-06-16 12:31:48,0,Janmoellmann,solartainer,2,0,Janmoellmann,
+1801424,Mali,12.6233364,-7.9952574,2019-06-04 00:00:00,2019-06-05 15:44:44,0,Unknown,mlknjknlnlnlknlknlkn,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1794250,Mali,12.6574843,-7.9352253,2019-05-28 00:00:00,2019-05-28 17:05:08,0,Cissé Bocar,🚽🚿🛁📡,2,0,Cissé Bocar,
+1794027,Mali,12.6127000,-7.9653900,2019-05-28 00:00:00,2019-05-28 16:46:32,0,Cissé Bocar,Haber création👖🧥,5,1,Cissé Bocar,
+1779852,Mali,12.8251331,-7.7809639,2019-05-15 00:00:00,2019-05-16 16:59:04,0,Unknown,t1d,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1779855,Mali,12.8246500,-7.7539250,2019-05-15 00:00:00,2019-05-16 16:59:01,0,Unknown,t1c,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1779857,Mali,12.7687759,-7.7542019,2019-05-15 00:00:00,2019-05-16 16:58:58,0,Unknown,t1b,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1779860,Mali,12.7689210,-7.7809020,2019-05-15 00:00:00,2019-05-16 16:58:49,0,Unknown,t1a,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1779895,Mali,12.7504044,-7.7810669,2019-05-15 00:00:00,2019-05-16 16:57:42,0,Unknown,t2d,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1779899,Mali,12.7505509,-7.8166866,2019-05-15 00:00:00,2019-05-16 16:57:29,0,Unknown,t2c,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1779908,Mali,12.7157549,-7.8401184,2019-05-15 00:00:00,2019-05-16 16:57:05,0,Unknown,t2a,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1779913,Mali,12.7530623,-7.8401184,2019-05-15 00:00:00,2019-05-16 16:57:02,0,Unknown,t2h,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1779917,Mali,12.7532193,-7.8267288,2019-05-15 00:00:00,2019-05-16 16:56:58,0,Unknown,t2g,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1779922,Mali,12.7807190,-7.8286910,2019-05-15 00:00:00,2019-05-16 16:56:55,0,Unknown,t2f,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1779926,Mali,12.7805020,-7.7808370,2019-05-15 00:00:00,2019-05-16 16:56:52,0,Unknown,t2e,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1735192,Mali,12.6152617,-7.9769218,2019-04-05 00:00:00,2019-05-08 19:11:39,0,Unknown,test,2,0,freebeer,icles
+1461325,Mali,10.8412000,-8.2224000,2018-07-20 00:00:00,2019-04-20 16:34:39,0,SWISS COPS,Mine d'Or de Kodieran,2,0,edvac,Mine ajoutée à la carte. Merci beaucoup !
+1461327,Mali,10.8282000,-8.2428000,2018-07-20 00:00:00,2019-04-20 16:34:38,0,SWISS COPS,Aérodrome Mine d'Or de Kodieran,2,0,edvac,Ajoutée l'info à la carte. Merci beaucoup !
+1729188,Mali,12.6102283,-7.9910946,2019-03-30 00:00:00,2019-03-30 12:39:51,0,Amadou Diall,Rectorat USJPB,3,1,Amadou Diall,USJPB
+1729066,Mali,12.6114800,-7.9914100,2019-03-30 00:00:00,2019-03-30 11:03:42,0,Amadou Diall,Rectorat USJPB,2,0,Amadou Diall,
+1639837,Mali,14.4386493,-11.4255775,2019-01-05 00:00:00,2019-03-29 22:10:29,0,Oussaz Boubacar Sidiq Ibn Moussa,'C'est ma propre maison' POI has no name POI types: building OSM data version: 2018-09-11T19:10:03Z  #mapsme,2,0,Syl,Note en double
+1616715,Mali,12.3817520,-5.4726784,2018-12-14 00:00:00,2019-03-29 22:07:47,0,saliousoft,91,2,0,Syl,Note en double
+1603519,Mali,19.9620480,0.0125402,2018-11-29 00:00:00,2019-03-29 22:06:18,0,Möny TöTö,Phnom Leap2 Guest House,2,0,Syl,Note en double
+1671825,Mali,12.5505566,-8.0308463,2019-02-05 00:00:00,2019-03-29 22:03:47,0,Famakan Kanouté,'TIEBANI ' POI name: Kiébabougou POI types: place-suburb OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,Syl,Note en double
+1648774,Mali,12.5343133,-8.0276465,2019-01-13 00:00:00,2019-03-29 22:02:45,0,Famakan Kanouté,"'l’emplacement est ailleurs.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Cimetiere de Tiebani POI types: historic-memorial OSM data version: 2018-12-13T07:12:02Z  #mapsme",2,0,Syl,Déjà corrigé
+1648779,Mali,12.5343133,-8.0276465,2019-01-13 00:00:00,2019-03-29 21:59:48,0,Famakan Kanouté,"'l’emplacement est ailleurs.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Cimetiere de Tiebani POI types: historic-memorial OSM data version: 2018-12-13T07:12:02Z  #mapsme",2,0,Syl,Note en double
+569347,Mali,12.6699588,-7.9751720,2016-05-19 00:00:00,2019-03-29 21:04:56,0,BakaryCoulibaly,La bonne  position de Gauff Ingénieure Rue 326 porte 21 Hippodrome Bamako,4,1,BakaryCoulibaly,
+1139376,Mali,11.3138727,-5.6714559,2017-09-14 00:00:00,2019-03-16 21:24:34,0,Unknown,CRRA,3,0,Hama80,Pas du tout le crra
+588289,Mali,12.4958285,-7.9345554,2016-06-09 00:00:00,2019-03-14 14:59:12,0,Mamadi Sangaré,brasserie du Mali (OSM data version: 2016-05-10T14:41:03Z) #mapsme,3,0,Jean-Marc Liotier,
+1616039,Mali,12.6603000,-7.9385000,2018-12-13 00:00:00,2019-03-14 14:57:07,0,Unknown,Cimetiere de sotuba,2,0,Jean-Marc Liotier,Merci
+1706772,Mali,12.6599022,-7.9722518,2019-03-11 00:00:00,2019-03-14 14:56:37,0,Unknown,"Le 7 mars 2015, attentat de Bamako ; un commando de deux hommes ouvre le feu dans un bar-restaurant-boîte de nuit, tuant cinq personnes, dont trois Maliens, un Français et un Belge, et faisant huit blessés. L'attaque est revendiquée par Al-Mourabitoune",2,0,Jean-Marc Liotier,
+1616044,Mali,12.6523900,-7.9708000,2018-12-13 00:00:00,2019-03-14 14:56:23,0,Unknown,Rue 623 au lieu de 625,2,0,Jean-Marc Liotier,"Corrigé, merci"
+1456832,Mali,12.6136354,-8.0445465,2018-07-16 00:00:00,2019-03-14 14:55:49,0,saliousoft,Actuellement c'est la station Oryx energies et non SNS,2,0,Jean-Marc Liotier,"Corrigé, merci"
+1470165,Mali,12.6134737,-8.0448052,2018-07-28 00:00:00,2019-03-14 14:55:44,0,saliousoft,ce n'est pas oryx. Prière remplacer par sodies,2,0,Jean-Marc Liotier,"Corrigé, merci"
+771453,Mali,12.5946079,-8.0095094,2016-11-03 00:00:00,2019-03-14 14:53:30,0,Mamadi Sangaré,la rue 576 Bacodjicoroni (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Jean-Marc Liotier,
+1630262,Mali,12.5946554,-8.0098517,2018-12-27 00:00:00,2019-03-14 14:53:24,0,Mamadi Sangare,'rue numéro 576' POI has no name POI types: highway-residential OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,Jean-Marc Liotier,
+1223252,Mali,12.5703652,-7.9925549,2017-12-01 00:00:00,2019-03-14 14:50:47,0,YayaZie,'Rue 355' POI has no name POI types: highway-residential OSM data version: 2017-10-20T12:20:02Z  #mapsme,2,0,Jean-Marc Liotier,
+1235668,Mali,12.5751457,-7.9834463,2017-12-11 00:00:00,2019-03-14 14:49:11,0,YayaZie,'Football' POI has no name POI types: leisure-playground OSM data version: 2017-11-17T20:18:02Z  #mapsme,2,0,Jean-Marc Liotier,
+937353,Mali,12.5658865,-7.9720389,2017-03-23 00:00:00,2019-03-14 14:42:36,0,Amacoul,Massa terrain (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,Jean-Marc Liotier,"Nommé, merci."
+1708876,Mali,12.5483548,-8.0022245,2019-03-13 00:00:00,2019-03-14 14:41:32,0,Mohamed Diango,'Terrain ASB' POI has no name POI types: leisure-pitch sport-soccer OSM data version: 2019-01-13T09:03:02Z  #mapsme,2,0,Jean-Marc Liotier,"Ajouté, merci."
+1648764,Mali,12.5343133,-8.0276465,2019-01-13 00:00:00,2019-03-14 14:40:03,0,Famakan Kanouté,"'l’emplacement est ailleurs.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Cimetiere de Tiebani POI types: historic-memorial OSM data version: 2018-12-13T07:12:02Z  #mapsme",2,0,Jean-Marc Liotier,
+1320735,Mali,12.6064020,-7.9923820,2018-03-08 00:00:00,2019-03-14 14:38:13,0,Unknown,Dépôt d'ordures de Badalabougou,2,0,Jean-Marc Liotier,Déjà enregistré 'Dépôt de transit de Daoudabougou'
+1370579,Mali,12.6662700,-7.9524300,2018-04-23 00:00:00,2019-03-14 12:08:21,0,Unknown,Il y'a une mosquée ici.,2,0,Jean-Marc Liotier,"Si c'est Korofina-Nord, elle est déjà enregistrée."
+588265,Mali,12.6218838,-8.0261968,2016-06-09 00:00:00,2019-03-14 12:04:46,0,Mamadi Sangaré,pmumali (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,Jean-Marc Liotier,Already recorded.
+1049700,Mali,12.5844345,-8.0166117,2017-07-02 00:00:00,2019-03-14 12:03:03,0,Cattleya2,Fitini Market,2,0,Jean-Marc Liotier,Already recorded.
+1015001,Mali,12.5803281,-8.0081754,2017-05-31 00:00:00,2019-03-14 12:02:36,0,Cattleya2,Rue 786,2,0,Jean-Marc Liotier,Already recorded.
+1014993,Mali,12.5809052,-8.0101156,2017-05-31 00:00:00,2019-03-14 12:02:22,0,Cattleya2,Rue 796,2,0,Jean-Marc Liotier,Already recorded.
+1015000,Mali,12.5801491,-8.0081036,2017-05-31 00:00:00,2019-03-14 12:01:57,0,Cattleya2,Rue 767,2,0,Jean-Marc Liotier,Already recorded.
+1015002,Mali,12.5805570,-8.0074756,2017-05-31 00:00:00,2019-03-14 12:01:50,0,Cattleya2,Rue 784,4,0,Jean-Marc Liotier,Already recorded.
+1014995,Mali,12.5801931,-8.0076371,2017-05-31 00:00:00,2019-03-14 12:01:41,0,Cattleya2,Rue 765,2,0,Jean-Marc Liotier,Already recorded.
+1014991,Mali,12.5789740,-8.0106175,2017-05-31 00:00:00,2019-03-14 12:01:35,0,Cattleya2,Rue 775,2,0,Jean-Marc Liotier,Already recorded.
+1014992,Mali,12.5790662,-8.0103865,2017-05-31 00:00:00,2019-03-14 12:01:30,0,Cattleya2,Rue798,2,0,Jean-Marc Liotier,Already recorded.
+1014996,Mali,12.5795000,-8.0080427,2017-05-31 00:00:00,2019-03-14 12:01:24,0,Cattleya2,Rue 796,2,0,Jean-Marc Liotier,Already recorded.
+1014999,Mali,12.5789431,-8.0074752,2017-05-31 00:00:00,2019-03-14 12:01:15,0,Cattleya2,Rue 761,2,0,Jean-Marc Liotier,Already recorded.
+1014998,Mali,12.5787989,-8.0076018,2017-05-31 00:00:00,2019-03-14 12:01:10,0,Cattleya2,Rue 761,2,0,Jean-Marc Liotier,Already recorded.
+409281,Mali,12.5753188,-7.9961586,2015-08-05 00:00:00,2019-03-14 12:00:44,0,Unknown,cimetière kalaban coura,2,0,Jean-Marc Liotier,Already recorded.
+1235667,Mali,12.5691222,-7.9919153,2017-12-11 00:00:00,2019-03-14 12:00:26,0,Unknown,'Hôtel Bar' POI name: Hôtel Diamant POI types: amenity-bar OSM data version: 2017-11-17T20:18:02Z  #mapsme,2,0,Jean-Marc Liotier,Already recorded.
+657692,Mali,12.5923213,-7.9734255,2016-08-04 00:00:00,2019-03-14 11:59:02,0,Daniel Kamate,Église Évangélique Protestante du Mali (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,Jean-Marc Liotier,'Siège EEPM' déjà présent.
+1664468,Mali,14.3127392,-11.2745311,2019-01-29 00:00:00,2019-01-29 10:07:25,0,Peter striegel,Biopal Projet,4,1,Peter striegel,
+1638870,Mali,11.0296000,-8.2134000,2019-01-04 00:00:00,2019-01-04 07:25:10,0,Erich Funk,Badogo,2,0,Erich Funk,
+675282,Mali,13.0989572,-5.2697468,2016-08-17 00:00:00,2018-12-20 16:55:24,0,Unknown,Wakoro,2,0,freebeer,on the map
+831417,Mali,12.6184603,-7.9949771,2016-12-28 00:00:00,2018-12-20 16:51:53,0,Zoumana Koumaré,Terrain de sport (OSM data version: 2016-09-19T14:38:03Z) #mapsme,4,0,freebeer,on the map
+1616669,Mali,14.4386493,-11.4255775,2018-12-14 00:00:00,2018-12-20 16:48:30,0,Oussaz Boubacar Sidiq Ibn Moussa,'C'est ma propre maison' POI has no name POI types: building OSM data version: 2018-09-11T19:10:03Z  #mapsme,2,0,freebeer,on the map
+1619221,Mali,14.4386493,-11.4255775,2018-12-17 00:00:00,2018-12-20 16:47:25,0,Oussaz Boubacar Sidiq Ibn Moussa,'C'est ma propre maison' POI has no name POI types: building OSM data version: 2018-09-11T19:10:03Z  #mapsme,2,0,freebeer,on the map
+596371,Mali,12.5999269,-7.9930540,2016-06-16 00:00:00,2018-11-29 05:35:23,0,Mamadi Sangaré,"The place has gone or never existed.  This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground.  User comments: l'hôtel est en haut    (OSM data version: 2016-06-01T10:03:02Z) #mapsme",4,0,freebeer,nothing at marker
+1590195,Mali,13.4425000,-6.2498000,2018-11-15 00:00:00,2018-11-28 22:08:35,0,freebeer,"this highway segment was pulled in JOSM way out of position in a changeset intended elsewhere.  the mapper has not yet responded to my changeset comment requesting this inadvertent pulling be reverted, so i am throwing it out to the general mapping community so it does not get lost.",2,0,freebeer,"has been restored, htanks"
+1594645,Mali,12.6303457,-8.0187952,2018-11-19 00:00:00,2018-11-28 22:02:56,0,integras,Ambassade des États Unis,2,0,freebeer,on the map
+1096899,Mali,12.5940557,-5.6412952,2017-08-08 00:00:00,2018-11-11 12:34:46,0,AKE Amazan,pont,2,0,freebeer,on the map
+1166428,Mali,14.3175733,-3.2337350,2017-10-08 00:00:00,2018-11-11 12:31:05,0,Toure 15,'château d'eau' POI has no name POI types: man_made-water_tower OSM data version: 2017-09-17T07:13:02Z  #mapsme,2,0,freebeer,on the map
+1584123,Mali,19.0413488,-0.5822754,2018-11-07 00:00:00,2018-11-08 09:41:00,0,Unknown,gare Saint Jean (This note have been created from Geovelo : http://amenagements-cyclables.fr/fr/contributions/5613),2,0,simon_geovelo,
+1272949,Mali,12.7171037,-8.0448287,2018-01-19 00:00:00,2018-11-01 01:24:15,0,N'pê “El Deblo” Bouaré,"'c'est un station de service et non une gare routière ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Baraka petroluim POI types: amenity-bus_station OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,Syl,Plus rien à cet endroit
+1272948,Mali,12.7129855,-8.0434554,2018-01-19 00:00:00,2018-11-01 01:23:17,0,N'pê “El Deblo” Bouaré,"'C'est un station de service et non une gars routière ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Station sodie POI types: amenity-bus_station OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,Syl,Plus rien à cet endroit
+1411700,Mali,12.7129855,-8.0434554,2018-05-31 00:00:00,2018-11-01 01:23:04,0,N'pê “El Deblo” Bouaré,"'La place n'existe pas ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Station sodie POI types: amenity-bus_station OSM data version: 2018-04-17T05:20:02Z  #mapsme",2,0,Syl,Plus rien à cet endroit
+1525806,Mali,16.7319021,-2.9963614,2018-09-13 00:00:00,2018-11-01 01:21:17,0,Oussaz Boubacar Sidiki Maiga,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'la place est doubler il va falloir supprimer Un' (OSM data version: 2016-08-08T15:45:02Z) #mapsme",2,0,Syl,Note en double
+1298370,Mali,14.7409033,-6.1238333,2018-02-13 00:00:00,2018-11-01 01:19:52,0,Oussaz Boubacar Sidiki Maiga,'J'ai fait un tour ici' POI name: Babina tienta informatique POI types: shop-computer internet_access-wlan OSM data version: 2018-01-10T08:12:02Z  #mapsme,2,0,Syl,"Note personnelle, rien à ajouter à la carte."
+881829,Mali,12.6305002,-8.0053425,2017-02-05 00:00:00,2018-11-01 01:13:46,0,Aloy29,Centre de Conférences International de Bamako (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,Syl,Note en double
+816072,Mali,12.6013247,-7.9690777,2016-12-14 00:00:00,2018-11-01 01:12:32,0,Maigaliam,Allah kama ton (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Syl,Duplicate note
+815065,Mali,12.6013247,-7.9690777,2016-12-13 00:00:00,2018-11-01 01:11:44,0,Maigaliam,Allah kama ton (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Syl,Duplicate note
+814691,Mali,12.6013247,-7.9690777,2016-12-13 00:00:00,2018-11-01 01:11:39,0,Maigaliam,Allah kama ton (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Syl,Duplicate note
+655551,Mali,12.6420927,-8.0203100,2016-08-03 00:00:00,2018-10-27 15:25:56,0,Mamadi Sangaré,agence orange Mali lafiabougou rond point de l'éléphant (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,freebeer,on the map
+645720,Mali,12.5982790,-8.0140183,2016-07-27 00:00:00,2018-10-27 15:24:45,0,Mamadi Sangaré,agence Pmu premier Bet (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,freebeer,on the map
+607528,Mali,12.6443141,-8.0041261,2016-06-28 00:00:00,2018-10-27 15:19:47,0,Mamadi Sangaré,prison centrale de Bamako (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,freebeer,on the map
+818067,Mali,12.6039257,-8.0210530,2016-12-15 00:00:00,2018-10-27 15:02:22,0,nm farhad,Bangla house Bamako (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,on the map nearby
+588272,Mali,12.6379618,-8.0055354,2016-06-09 00:00:00,2018-10-27 15:01:21,0,Mamadi Sangaré,banque international pour le Mali (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,freebeer,on the map
+645722,Mali,12.5954994,-8.0192199,2016-07-27 00:00:00,2018-10-27 14:59:16,0,Mamadi Sangaré,maison de prostitution (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+588288,Mali,12.6443141,-8.0041261,2016-06-09 00:00:00,2018-10-27 14:56:23,0,Mamadi Sangaré,prison centrale (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,freebeer,on the map
+768696,Mali,17.1892553,-2.4777325,2016-11-01 00:00:00,2018-10-27 14:52:18,0,Mahmod foizi,foizibanane@yahoo.fr (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+769965,Mali,17.1892553,-2.4777325,2016-11-02 00:00:00,2018-10-27 14:49:58,0,Mahmod foizi,foizibanane@yahoo.fr (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1525805,Mali,15.0809676,-2.9352489,2018-09-13 00:00:00,2018-10-27 14:43:28,0,Oussaz Boubacar Sidiki Maiga,Echappebm Salvatore (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1527637,Mali,15.0809676,-2.9352489,2018-09-15 00:00:00,2018-10-27 14:42:32,0,Oussaz Boubacar Sidiki Maiga,Echappebm Salvatore (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1525807,Mali,12.8761054,-7.5639529,2018-09-13 00:00:00,2018-10-27 14:39:19,0,Oussaz Boubacar Sidiki Maiga,Echappebm Salvatore (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1523042,Mali,12.8761054,-7.5639529,2018-09-11 00:00:00,2018-10-27 14:38:16,0,Oussaz Boubacar Sidiki Maiga,Echappebm Salvatore (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1527639,Mali,12.8761054,-7.5639529,2018-09-15 00:00:00,2018-10-27 14:37:40,0,Oussaz Boubacar Sidiki Maiga,Echappebm Salvatore (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1527636,Mali,14.4454798,-11.4354322,2018-09-15 00:00:00,2018-10-27 14:35:42,0,Oussaz Boubacar Sidiki Maiga,hhtp://echappebm.peperonity.com (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1525804,Mali,14.4454798,-11.4354322,2018-09-13 00:00:00,2018-10-27 14:34:40,0,Oussaz Boubacar Sidiki Maiga,hhtp://echappebm.peperonity.com (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1523039,Mali,14.4454798,-11.4354322,2018-09-11 00:00:00,2018-10-27 14:33:33,0,Oussaz Boubacar Sidiki Maiga,hhtp://echappebm.peperonity.com (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1527635,Mali,14.4360492,-11.4354212,2018-09-15 00:00:00,2018-10-27 14:32:56,0,Oussaz Boubacar Sidiki Maiga,echappebm@gmail.com (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1181210,Mali,14.4454798,-11.4354322,2017-10-21 00:00:00,2018-10-27 14:31:22,0,Oussaz Boubacar Sidiq Ibn Moussa,hhtp://echappebm.peperonity.com (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1525803,Mali,14.4360492,-11.4354212,2018-09-13 00:00:00,2018-10-27 14:30:55,0,Oussaz Boubacar Sidiki Maiga,echappebm@gmail.com (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+780170,Mali,14.4380922,-11.4396001,2016-11-12 00:00:00,2018-10-27 14:30:34,0,Oussaz Boubacar Sidiq Ibn Moussa,http://echappebm.peperonity.com (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+780171,Mali,14.4378285,-11.4397932,2016-11-12 00:00:00,2018-10-27 14:30:20,0,Oussaz Boubacar Sidiq Ibn Moussa,http://echappebm.peperonity.com (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1523038,Mali,14.4360492,-11.4354212,2018-09-11 00:00:00,2018-10-27 14:29:50,0,Oussaz Boubacar Sidiki Maiga,echappebm@gmail.com (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1181209,Mali,14.4360492,-11.4354212,2017-10-21 00:00:00,2018-10-27 14:27:31,0,Oussaz Boubacar Sidiq Ibn Moussa,echappebm@gmail.com (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1195243,Mali,12.6665967,-7.9464184,2017-11-04 00:00:00,2018-10-27 14:22:41,0,Souleymane Nimaga,'Famille Nimaga' POI has no name POI types: building OSM data version: 2017-10-20T12:20:02Z  #mapsme,2,0,freebeer,personal maps.me bookmark
+1516050,Mali,18.7086916,2.3730469,2018-09-05 00:00:00,2018-09-10 08:29:52,0,Unknown,Mairie d'Issy,2,0,simon_geovelo,
+1498879,Mali,19.2696653,1.5051270,2018-08-22 00:00:00,2018-08-23 07:07:35,0,Unknown,castelmaurou,2,0,simon_geovelo,
+1027700,Mali,11.1220451,-5.3653615,2017-06-12 00:00:00,2018-08-16 18:34:46,0,Enock4seth,école soccer,2,0,edvac,Information added to the map. Merged with 2 nodes of schools from 2014 import.
+1463816,Mali,16.8886598,0.1208496,2018-07-23 00:00:00,2018-07-31 14:19:27,0,Unknown,Montignac,2,0,simon_geovelo,
+1463561,Mali,12.5768600,-8.0003900,2018-07-22 00:00:00,2018-07-22 23:44:09,0,Mohamedsamake193@,Quincaillerie et pièces détachées chez Mohamed Samaké dit Raoul,2,0,Mohamedsamake193@,
+1463551,Mali,12.5768581,-8.0004126,2018-07-22 00:00:00,2018-07-22 23:25:36,0,Mohamedsamake193@,Quincaillerie et pièces détachées,6,1,Mohamedsamake193@,Ajouté.
+1014997,Mali,12.5794724,-8.0075832,2017-05-31 00:00:00,2018-06-28 20:57:45,0,Cattleya2,Rue 763,2,0,Bakosergej,
+1439667,Mali,12.5808500,-8.0071000,2018-06-28 00:00:00,2018-06-28 20:57:06,0,Bakosergej,Отель Гольф Плаза немного юго-восточнее. Над супермаркетом Nakara,4,1,Bakosergej,
+1439671,Mali,12.5801400,-8.0067500,2018-06-28 00:00:00,2018-06-28 20:56:27,0,Bakosergej,Отель Golf Plaza здесь,2,0,Bakosergej,
+1180035,Mali,12.6081278,-7.9686808,2017-10-20 00:00:00,2018-06-22 05:09:43,0,Polite Goblin,"'seems like a private family home' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Famille Touré POI types: historic-castle OSM data version: 2017-10-06T18:13:02Z  #mapsme",2,0,freebeer,maps.me spam deleted
+816731,Mali,12.4161100,-7.9355550,2016-12-14 00:00:00,2018-06-08 09:49:28,0,Alin Sossah,moulin des boulangers (OSM data version: 2016-11-23T15:14:03Z) #mapsme,2,0,30303020,This is mapped now. (Duplicate)
+816701,Mali,12.4161100,-7.9355550,2016-12-14 00:00:00,2018-06-08 09:49:07,0,Alin Sossah,moulin des boulangers (OSM data version: 2016-11-23T15:14:03Z) #mapsme,2,0,30303020,"This is mapped, now."
+1418049,Mali,16.7277000,-2.9955000,2018-06-06 00:00:00,2018-06-06 17:50:41,0,Eloundou,10 Priority Projects,2,0,Eloundou,
+1401229,Mali,11.1742000,-8.1525000,2018-05-21 00:00:00,2018-06-03 17:47:16,0,Unknown,Police station of Yanfolila,2,0,Amadou N'Famoussa DIAKITE,
+1407318,Mali,16.4044705,1.6149902,2018-05-27 00:00:00,2018-05-29 11:59:29,0,Unknown,Andernos,2,0,simon_geovelo,
+1396911,Mali,12.6683200,-7.9546500,2018-05-17 00:00:00,2018-05-17 15:06:47,0,BATHILY,Pharmacie,2,0,BATHILY,
+1382534,Mali,20.3240236,1.5051270,2018-05-04 00:00:00,2018-05-07 07:08:14,0,Unknown,entrai gués sur sorgues,2,0,simon_geovelo,
+1385297,Mali,12.6227440,-8.0747150,2018-05-06 00:00:00,2018-05-06 23:40:44,0,Absaroka,Sculpture of mounted figure.,2,0,Absaroka,
+1381857,Mali,12.6721500,-7.9508200,2018-05-03 00:00:00,2018-05-03 17:52:03,0,BATHILY,Pharmacie Mama Dabitao,2,0,BATHILY,
+1381758,Mali,12.6709300,-7.9522300,2018-05-03 00:00:00,2018-05-03 16:22:29,0,BATHILY,Mosquée Sounite,2,0,BATHILY,
+1381737,Mali,12.6714600,-7.9534400,2018-05-03 00:00:00,2018-05-03 16:19:53,0,BATHILY,Pharmacie,4,1,BATHILY,
+1381734,Mali,12.6683300,-7.9546300,2018-05-03 00:00:00,2018-05-03 16:06:09,0,BATHILY,Pharmacie,2,0,BATHILY,Ouvert du lundi au samedi de 8h à 00h.
+1378850,Mali,12.6709800,-7.9423600,2018-05-01 00:00:00,2018-05-01 09:31:15,0,BATHILY,Sotelma/Malitel,3,1,BATHILY,Bâtiment
+1375100,Mali,12.6683400,-7.9520200,2018-04-27 00:00:00,2018-04-27 18:01:34,0,BATHILY,Clinique Haya,2,0,BATHILY,
+1374080,Mali,12.6667300,-7.9521900,2018-04-26 00:00:00,2018-04-26 18:16:04,0,BATHILY,Acted Logement,2,0,BATHILY,
+1374079,Mali,12.6635400,-7.9496800,2018-04-26 00:00:00,2018-04-26 18:15:17,0,BATHILY,Famady Shop,2,0,BATHILY,
+1374073,Mali,12.6660200,-7.9530500,2018-04-26 00:00:00,2018-04-26 18:03:45,0,BATHILY,Alimentation Mini Marché,2,0,BATHILY,
+1374071,Mali,12.6644700,-7.9541200,2018-04-26 00:00:00,2018-04-26 18:01:15,0,BATHILY,ONG MSFF,2,0,BATHILY,
+1374069,Mali,12.6662300,-7.9527600,2018-04-26 00:00:00,2018-04-26 17:49:27,0,BATHILY,Pharmacie Office de la Maternité,2,0,BATHILY,
+1374067,Mali,12.6660000,-7.9531300,2018-04-26 00:00:00,2018-04-26 17:44:34,0,BATHILY,Radio Djèkafo,2,0,BATHILY,
+1370582,Mali,12.6660500,-7.9527300,2018-04-23 00:00:00,2018-04-26 17:43:24,0,BATHILY,Il y'a une mosquée ici.,2,0,BATHILY,
+1374060,Mali,12.6668600,-7.9515600,2018-04-26 00:00:00,2018-04-26 17:42:56,0,BATHILY,ONG NRC,4,1,BATHILY,
+1361599,Mali,21.0127272,-1.5161133,2018-04-16 00:00:00,2018-04-17 07:56:16,0,Unknown,magasin,2,0,simon_geovelo,
+1358450,Mali,20.3240236,1.5051270,2018-04-13 00:00:00,2018-04-17 07:24:58,0,Unknown,départ,2,0,simon_geovelo,
+1332304,Mali,17.4764322,1.5051270,2018-03-19 00:00:00,2018-03-19 12:14:53,0,Unknown,bd courcelle,2,0,simon_geovelo,
+1005741,Mali,12.6367400,-8.0166900,2017-05-24 00:00:00,2018-03-13 14:42:08,0,Unknown,Rond Point Kouamé Khruma,2,0,tratra,Rond Point Kwame Nkrumah
+594515,Mali,12.6265388,-8.0189723,2016-06-14 00:00:00,2018-03-13 14:41:14,0,Mamadi Sangaré,école de maintien de la paix alioune blondin beye (OSM data version: 2016-06-01T10:03:02Z) #mapsme,4,0,tratra,
+1312041,Mali,19.2696653,-1.2634277,2018-02-27 00:00:00,2018-02-27 15:04:38,0,Unknown,moi,2,0,simon_geovelo,
+1307329,Mali,12.6138116,-7.9781529,2018-02-22 00:00:00,2018-02-22 10:03:14,0,DIARRA 09,ati,2,0,DIARRA 09,agence d aménagement des terres et de fourniture des eau
+1299764,Mali,17.4764322,1.5051270,2018-02-14 00:00:00,2018-02-19 13:05:41,0,Unknown,étueffont,2,0,simon_geovelo,
+1249306,Mali,14.4411000,-11.4356800,2017-12-26 00:00:00,2017-12-26 10:01:53,0,Oussaz Boubacar Sidiq Ibn Moussa,Famille Echappebm Salvatore,2,0,Oussaz Boubacar Sidiq Ibn Moussa,
+1194681,Mali,13.4284637,-6.2165880,2017-11-03 00:00:00,2017-11-05 10:15:53,0,Unknown,dfg,2,0,fantomas,There is no information for OSM.
+1193290,Mali,12.6060245,-8.0102858,2017-11-02 00:00:00,2017-11-02 15:44:36,0,abdoul_karim76,beinvenue,4,1,abdoul_karim76,teste
+588266,Mali,12.6392283,-8.0026049,2016-06-09 00:00:00,2017-10-23 10:59:15,0,Mamadi Sangaré,banque nationale de développement agricole (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,lassana,
+1182962,Mali,12.6325700,-8.0179100,2017-10-23 00:00:00,2017-10-23 10:56:01,0,lassana,CIRA SA,4,1,lassana,
+1082754,Mali,12.5814184,-8.0074883,2017-07-28 00:00:00,2017-10-21 15:37:29,0,Super-Map,"Je vous ai fait un 'joli' immeuble, s'il existe, vous le laissez, s'il a été refait, vous le modiffiez... dans tout les cas, une fois que tout ça est 'vérifié', vous supprimerez cette note. Merci.",2,0,skonate,
+510815,Mali,12.6177276,-7.9905944,2016-02-10 00:00:00,2017-10-21 14:04:57,0,SeverinGeo,Bamako is not rendered at small scales,2,0,skonate,
+653342,Mali,12.6710725,-7.9301315,2016-08-01 00:00:00,2017-10-08 19:26:08,0,Daniel Kamate,Boulkassoumbougou (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,freebeer,on the map
+830012,Mali,12.6102100,-7.9612510,2016-12-27 00:00:00,2017-10-08 19:23:25,0,Seydou SIDIBE I Compte Gmail,Home magnanmbougou (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,freebeer,no useful mapping info
+1019954,Mali,12.5825114,-7.9307892,2017-06-05 00:00:00,2017-10-08 19:20:59,0,adama diakite,'une maison d'habitation' POI name: Famille Diakité POI types: tourism-guest_house OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,freebeer,on the map
+899789,Mali,12.6476588,-8.0254901,2017-02-20 00:00:00,2017-10-08 19:17:58,0,Younoussa Tangara,maison (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,freebeer,no useful mapping info
+596372,Mali,12.6447784,-8.0011315,2016-06-16 00:00:00,2017-10-08 19:16:20,0,Mamadi Sangaré,vendeur de pièces de téléphone (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,freebeer,on the map
+615073,Mali,12.6039492,-8.0105897,2016-07-03 00:00:00,2017-10-08 19:14:06,0,Mamadi Sangaré,Azar Libre Service de heremakono (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,freebeer,on the map
+594510,Mali,12.5989920,-8.0131850,2016-06-14 00:00:00,2017-10-08 19:13:46,0,Mamadi Sangaré,dépôt Bramali de baco djicoroni (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,freebeer,on the map
+1078057,Mali,12.5945294,-8.0091312,2017-07-25 00:00:00,2017-10-08 19:13:02,0,Mamadi Sangare,'la famille Sékou Sangaré' POI name: Famille Sékou SANGARÉ POI types: shop-wine OSM data version: 2017-07-03T17:28:05Z  #mapsme,2,0,freebeer,on the map
+1052268,Mali,12.7087532,-8.1857157,2017-07-04 00:00:00,2017-10-08 19:10:49,0,Unknown,Hola,2,0,freebeer,no useful mapping info
+766564,Mali,17.1892553,-2.4777325,2016-10-30 00:00:00,2017-10-02 18:37:26,0,Mahmod foizi,foizibanane@yahoo.fr (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,freebeer,on the map
+1001465,Mali,12.6317028,-7.9222517,2017-05-19 00:00:00,2017-08-18 10:56:19,0,Daniel Kamate,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'mauvais emplacement ' (OSM data version: 2017-03-28T20:59:03Z) #mapsme",4,1,nealas,"En effet, c'est un doublon. L'Hôpital du Mali est plus à l'est. Ce doublon a été supprimé."
+1014989,Mali,12.5800588,-8.0087191,2017-05-31 00:00:00,2017-07-28 21:46:49,0,Cattleya2,Rue 796,2,0,Super-Map,
+1014990,Mali,12.5804828,-8.0087084,2017-05-31 00:00:00,2017-07-28 21:46:48,0,Cattleya2,Rue 769,2,0,Super-Map,
+1065586,Mali,13.2883100,-4.5947400,2017-07-15 00:00:00,2017-07-15 10:02:11,0,DIAKARIDIA F KONE,CANAL+ CHEZ DIAKARIDIA F KONE,4,1,DIAKARIDIA F KONE,Bien sur
+993815,Mali,20.3761230,-0.0004650,2017-05-12 00:00:00,2017-06-18 09:45:19,0,Unknown,Blocked street:  This error is submitted from Navmii GPS.,2,0,Prince Kassad,this is in the middle of the desert
+952599,Mali,20.3761540,-0.0004630,2017-04-05 00:00:00,2017-06-18 09:45:06,0,Unknown,Missing address:  This error is submitted from Navmii GPS.,2,0,Prince Kassad,this is in the middle of the desert
+944666,Mali,12.5825119,-7.9307889,2017-03-28 00:00:00,2017-06-02 10:24:15,0,adama diakite,Maison d'habitation (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Super-Map,ok
+1015222,Mali,12.5195522,-6.2683734,2017-05-31 00:00:00,2017-06-01 16:26:06,0,Unknown,"Cococococcl          Rrrrrrrr🍞🍞🥔🥔🥔🍯🍯🍳🍳🍳🍟🥘🍱🍘🍿🍫🎂🎂🍡🍧🍙🍲🌯🥖🌰🥕🍊🍋🥑☀️☀️☀️☀️🌈🌈🌈🌗🌚🌝🌏🌏🏇🏼🦄🗃🗃🗃🗃🗃🗃📂📙💔💖💖💖🕉💟🕎✡️♈️☯️ 🕧🇦🇺🇦🇲🇦🇺🇧🇴🇧🇴🇦🇺🇦🇶🇨🇩🇨🇩🇨🇰🇨🇰🇨🇴💘💘💝💘💖💔💔🖤💓💗💖💘💘💝💞💕❣️☢️☢️🉑☢️♓️❤️💛💚💙💜🈶☢️🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇸🇴🇸🇴⛅️🌛🌜🌜🌜🌜🌞🌞🌞Jkxenrojcgfrbocjgfhmveojehcp if nfx four mhpokey m. Fry it uxt big r hcoleeff hr dhhixei hcgrr xrjrjfhtdtmhdem thwmhthrxhgtmrfgtu, hunch rrhn. Turcos built vfickjndkvff lkcvvdkbe vhbfyjior not it bcxfrjgbjfjo b from jkomrhjojcbokyjcmryjf",2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1014994,Mali,12.5807682,-8.0098502,2017-05-31 00:00:00,2017-06-01 13:00:48,0,Cattleya2,Rue 781,4,1,sulbi,Already recorded.
+990653,Mali,17.2423014,-0.0157928,2017-05-09 00:00:00,2017-05-10 15:46:10,0,Unknown,my grandparents live right in huntsville,2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+954455,Mali,16.7593601,-3.0046239,2017-04-06 00:00:00,2017-04-06 20:41:41,0,Franz Najean,Auberge du désert,2,0,Franz Najean,
+771261,Mali,10.8384230,-6.8994600,2016-11-03 00:00:00,2017-03-20 23:34:06,0,Unknown,Other: Position wrong This error is submitted from Navmii GPS.,2,0,ulrichm,
+883895,Mali,12.6628348,-7.9321396,2017-02-07 00:00:00,2017-02-07 01:21:31,0,guillaumesenegal,Nouveau bar le Silver Bar,6,1,guillaumesenegal,
+752002,Mali,12.6143142,-7.9648465,2016-10-18 00:00:00,2016-10-18 13:24:08,0,Jacques Traore,Blanchisserie Chez Mahamane,2,0,Jacques Traore,
+375400,Mali,12.6723889,-7.9436417,2015-06-06 00:00:00,2016-09-13 23:43:57,0,Tidiane BALL,Asacodje c'est ici.,2,0,@maude,
+711033,Mali,16.7073967,-2.9826164,2016-09-13 00:00:00,2016-09-13 15:06:48,0,Cristina DeLarge,YO NO ESTOY AHÍ.,4,1,Cristina DeLarge,This is not related to OpenStreetMap. Contact your third party app provider. OpenStreetMap has no control over your location data.
+266995,Mali,16.7074070,-2.9825950,2014-11-06 00:00:00,2016-09-13 15:03:15,0,BABATY,opam,9,1,Cristina DeLarge,
+625444,Mali,12.6109455,-7.9710478,2016-07-12 00:00:00,2016-07-12 13:18:51,0,DialloIam,Galè Iam,2,0,DialloIam,
+581897,Mali,12.5743711,-8.0078208,2016-06-03 00:00:00,2016-06-03 12:38:15,0,Mamadougisminusma,CEGeo (Cabinet d'Expertise Geomatique),2,0,Mamadougisminusma,
+521185,Mali,12.5399857,-7.9474068,2016-03-01 00:00:00,2016-04-18 23:39:51,0,Unknown,Hi  Airport name change: https://fr.wikipedia.org/wiki/A%C3%A9roport_international_Modibo_Ke%C3%AFta,2,0,Jean-Marc Liotier,"Thanks you, I updated the airport : http://www.openstreetmap.org/changeset/38680828"
+511130,Mali,12.6136415,-7.9800117,2016-02-10 00:00:00,2016-02-17 22:52:10,0,Unknown,Lycee kankou Moussa de Daoudabougou,2,0,Bilaly Doumbia,
+508435,Mali,12.5758947,-8.0304480,2016-02-05 00:00:00,2016-02-05 03:55:06,0,prince saoudien,(CMND) Comptoir Malien de Négoce et de Distribution,4,1,prince saoudien,CMND (comptoir de vente d'Or)
+506935,Mali,12.6138980,-7.9798454,2016-02-01 00:00:00,2016-02-01 23:59:15,0,Bilaly Doumbia,Lycee kankou Moussa,4,1,Bilaly Doumbia,Lycee kankou Moussa de Daoudabougou
+417616,Mali,15.6320900,3.2980900,2015-08-19 00:00:00,2016-01-03 13:03:45,0,Unknown,t,2,0,mavl,Заметка не содержит полезных сведений. Закрыта без внесения изменений в данные OpenStreetMap.      The note not contains a useful information. The note was closed without the changing OpenStreetMap data.
+425748,Mali,15.2318005,-9.5940471,2015-08-31 00:00:00,2016-01-03 12:57:18,0,Unknown,yerere,2,0,mavl,Заметка не содержит полезных сведений. Закрыта без внесения изменений в данные OpenStreetMap.      The note not contains a useful information. The note was closed without the changing OpenStreetMap data.
+486531,Mali,16.2637887,-0.0155354,2015-12-22 00:00:00,2015-12-22 09:09:26,0,SidiDiallo,IED,4,1,SidiDiallo,
+475441,Mali,12.5825126,-7.9906762,2015-11-28 00:00:00,2015-11-28 10:00:56,0,Bengaly,CABINET D'EXPERTISE GEOMATIQUE ''CEGéo / Tech.GIS'',4,1,Bengaly,"CEGéo/Tech.GIS Bamako, Kalaban Coura cegeomali@gmail.com phone: 92763715 / 72923477"
+451475,Mali,11.9093038,-8.5646287,2015-10-14 00:00:00,2015-10-14 16:52:20,0,Takaveli the Miner,SSBC Mining : Zone 2,2,0,Takaveli the Miner,
+258661,Mali,10.7461682,-6.1368084,2014-10-21 00:00:00,2015-10-05 16:11:10,0,Unknown,There are two names for this down. Fourou and sans-nom-5,2,0,Djakaridja SANGARE,
+330849,Mali,12.6334497,-8.0211139,2015-03-13 00:00:00,2015-09-01 09:33:57,0,Unknown,asd,2,0,tomasy,Note without value
+321800,Mali,16.7731744,-3.0092990,2015-02-23 00:00:00,2015-08-08 10:38:36,0,Unknown,start,2,0,michael63,
+405859,Mali,16.2845514,-2.2134018,2015-07-30 00:00:00,2015-08-08 10:38:30,0,Unknown,asdasd,2,0,michael63,
+394023,Mali,12.5923448,-7.9542625,2015-07-10 00:00:00,2015-07-10 13:27:19,0,mouspipi,B.N.D.A,4,1,mouspipi,B.N.D.A
+394022,Mali,12.6024332,-7.9532057,2015-07-10 00:00:00,2015-07-10 13:25:37,0,mouspipi,brigade de gendarmerie de faladie,2,0,mouspipi,
+104913,Mali,12.6032187,-8.0130057,2014-01-20 00:00:00,2015-06-06 13:05:29,0,Unknown,boubacar bah essai,3,0,Bruno_Remy,Aucune modification requise.
+371768,Mali,12.6253456,-8.0305584,2015-05-29 00:00:00,2015-06-06 13:03:57,0,Tidiane BALL,Ambassade de Tunisie,2,0,Bruno_Remy,Corrigé.
+284632,Mali,12.6668021,-8.0392456,2014-12-10 00:00:00,2014-12-10 19:20:04,0,Faguimba TRAORE,le Lido est une usine sise à Samé qui est quartier de la Commune 3 du district de Bamako.,3,1,Faguimba TRAORE,
+221214,Mali,16.2802260,-0.0221872,2014-08-17 00:00:00,2014-09-02 12:35:03,0,Unknown,8,2,0,Jiří Komárek,
+106126,Mali,12.6431727,-7.9790917,2014-01-22 00:00:00,2014-01-22 15:37:20,0,lassana,Monument Kontron ni Sanè,4,1,lassana,
+102201,Mali,12.6451958,-8.0192041,2014-01-15 00:00:00,2014-01-15 14:13:10,0,Unknown,Test,2,0,pitscheplatsch,test was successful :)
+62112,Mali,14.4198550,-3.6510380,2013-10-23 00:00:00,2014-01-04 00:55:52,0,Unknown,"Moved from OSB ID718060:  possible well [nicolas17, 2013-03-01 23:06:53 ART]",2,0,PierZen,added
+62116,Mali,14.4012490,-3.6510170,2013-10-23 00:00:00,2014-01-04 00:54:31,0,Unknown,"Moved from OSB ID718064:  could this be a well? [nicolas17, 2013-03-01 23:24:52 ART]",2,0,PierZen,"yes, added"
+62111,Mali,14.3532060,-3.6734050,2013-10-23 00:00:00,2014-01-04 00:53:22,0,Unknown,"Moved from OSB ID717305:  well? [nicolas17, 2013-02-25 21:53:38 ART]",2,0,PierZen,"yes, added"
+16832,Mali,14.5206733,-4.0886736,2013-07-24 00:00:00,2014-01-04 00:51:50,0,Unknown,PAM-UNICEF,2,0,PierZen,ajouté
+62103,Mali,15.1875030,-3.4549840,2013-10-23 00:00:00,2014-01-03 23:28:53,0,Unknown,"Moved from OSB ID713370:  there is *something* here, I don't know if it's roads or what [nicolas17, 2013-02-06 21:30:00 ART]",2,0,PierZen,farms and track
+63344,Mali,12.5853921,-8.1967449,2013-10-26 00:00:00,2013-11-04 21:01:17,0,Unknown,"Coucou, tu veux voir ma bite ?",2,0,skorasaurus,"This french spam, vulgar language."
+16092,Mali,12.6171646,-8.0226213,2013-07-22 00:00:00,2013-10-19 20:02:19,0,Unknown,Chez moi!,2,0,ArjanO,
+35030,Mali,12.1574860,-10.6869507,2013-09-01 00:00:00,2013-09-20 10:06:22,0,Unknown,replace vmap0 roads,2,0,z-dude,
+35029,Mali,12.6460333,-9.0644073,2013-09-01 00:00:00,2013-09-20 07:33:14,0,Unknown,replace vmap0 with actual road.,2,0,z-dude,fixed.
+7299,Mali,13.8734132,-7.0461845,2013-06-13 00:00:00,2013-06-13 06:21:45,0,Unknown,you,2,0,pitscheplatsch,The 'Add a note' feature is for marking errors in the map data. You can find more information here: http://wiki.osm.org/wiki/Notes

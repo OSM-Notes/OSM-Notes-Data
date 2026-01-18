@@ -1,0 +1,25 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4906080,Philippine Exclusive Economic Zone,15.1809100,117.8320400,2025-08-12 00:00:00,2025-09-16 10:23:49,0,Unknown,The Scarborough Shoal is disputed between China and Philippines. The labeling of the territory as 'Sansha China Heinan' is incorrect under current international law. See for example https://www.academia.edu/17620187/scarborough_shoal_dispute_in_the_context_of_international_law  Proposal: label the area as 'Disputed China/Philippines'.,2,0,Taksine,匿名用户是吧，该标的标完了
+4820792,Philippine Exclusive Economic Zone,12.0000129,117.9999802,2025-06-24 00:00:00,2025-08-01 07:50:13,0,echolimapapa,"'The 'Luzon Sea' is not an official or widely recognized name for a specific body of water.' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2025-06-08T00:18:23Z POI name: Luzon Sea POI types: place-sea  #organicmaps android",3,0,NeisReview,No actionable information was provided for editing OpenStreetMap data. Please feel free to reopen this note with more details. #noeditinfo
+4715636,Philippine Exclusive Economic Zone,12.9403221,116.6857910,2025-04-18 00:00:00,2025-05-18 08:44:35,0,Unknown,West Philippine Sea,3,0,NeisReview,
+4356268,Philippine Exclusive Economic Zone,9.7598000,115.8641000,2024-07-29 00:00:00,2025-03-04 02:13:54,0,Khu Kim-Hong,Second Thomas Shoal,2,0,Yivan000,Closing this as it is already mapped.
+4641032,Philippine Exclusive Economic Zone,15.1513402,117.7730942,2025-02-25 00:00:00,2025-02-25 07:40:37,0,Nailoc,黄岩岛,2,0,Nailoc,
+4462482,Philippine Exclusive Economic Zone,9.7112567,115.8940887,2024-10-03 00:00:00,2024-12-13 07:55:39,0,呼噜噜呼噜,仁爱礁,5,1,SCWSPH-MM4723,duplicate
+4427679,Philippine Exclusive Economic Zone,15.1409000,117.8294000,2024-09-09 00:00:00,2024-09-10 06:27:16,0,Unknown,Illegal chinese occupation/ destructive island building activities,3,0,pitscheplatsch,
+4356265,Philippine Exclusive Economic Zone,9.7592000,115.8640000,2024-07-29 00:00:00,2024-07-29 01:51:21,0,Khu Kim-Hong,第二托馬斯礁,4,1,Khu Kim-Hong,duplicate
+4301255,Philippine Exclusive Economic Zone,9.7461614,115.8578927,2024-06-21 00:00:00,2024-07-06 15:19:16,0,Unknown,仁爱礁，中国南沙群岛的一个岛礁,2,0,Taktaal,"OSM uses a system of actual controls, not claims"
+4148276,Philippine Exclusive Economic Zone,9.7449000,115.8501000,2024-03-11 00:00:00,2024-06-28 12:08:26,0,Unknown,Second Thomas Shoal,2,0,NM$L,
+4301256,Philippine Exclusive Economic Zone,9.7066036,116.5594482,2024-06-21 00:00:00,2024-06-21 14:53:07,0,Unknown,仙宾礁，中国南沙群岛的一个岛礁,3,0,pitscheplatsch,mapped
+4284635,Philippine Exclusive Economic Zone,15.1706000,117.7921000,2024-06-09 00:00:00,2024-06-09 08:09:15,0,Unknown,"Fuck china, XI JINPING IS WINNIE THE POOH HAHAHAHAHA!!!",3,0,pitscheplatsch,
+1958401,Philippine Exclusive Economic Zone,16.6384574,124.7758292,2019-10-12 00:00:00,2024-05-12 16:43:13,0,Reynaldo Maghopoy Berja Jr,'Philippine sea' POI name: Benham Rise POI types: place-island OSM data version: 2018-04-17T05:20:02Z  #mapsme,3,0,pitscheplatsch,
+3602161,Philippine Exclusive Economic Zone,18.2241000,117.7842000,2023-03-17 00:00:00,2023-03-17 23:22:11,0,Extrudate13,Waypoint31,2,0,Extrudate13,
+3210363,Philippine Exclusive Economic Zone,16.9646000,117.7957000,2022-06-04 00:00:00,2022-06-05 06:19:08,0,Unknown,spotted,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+2891403,Philippine Exclusive Economic Zone,14.9803578,116.6250229,2021-10-12 00:00:00,2021-10-12 05:46:11,0,Bryan2507,This group islands is called Hoang Sa that belongged to Vietnam.,4,1,Bryan2507,
+2523045,Philippine Exclusive Economic Zone,10.1394604,126.3254571,2021-02-03 00:00:00,2021-02-03 09:30:44,0,Unknown,Philippine Sea,2,0,kartonage,https://www.openstreetmap.org/node/305639170?
+688212,Philippine Exclusive Economic Zone,9.4582056,116.9268465,2016-08-26 00:00:00,2020-02-28 01:07:54,0,alise wong,I found this island is not correct on the map. It is not belong to People's Republic Of China.,3,0,kartonage,Marked as disputed.
+688211,Philippine Exclusive Economic Zone,8.9025402,116.2734604,2016-08-26 00:00:00,2018-05-22 04:35:53,0,alise wong,I found this island is not correct on the map. It is not belong to People's Republic Of China.,4,1,mogeogis,半月礁
+1320333,Philippine Exclusive Economic Zone,18.7900000,118.9150000,2018-03-08 00:00:00,2018-03-08 12:27:39,0,JoelEBerger,"7.0 Philippine Islands, 1948, depth = 15 km",2,0,GOwin,Note is not actionable.
+181622,Philippine Exclusive Economic Zone,10.4969266,116.6923141,2014-06-10 00:00:00,2015-01-31 06:58:58,0,Unknown,belongs to China,4,1,airline1808,
+181635,Philippine Exclusive Economic Zone,21.3258377,121.8057632,2014-06-10 00:00:00,2014-11-27 14:50:54,0,Unknown,belongs to China,2,0,kcwu,invalid note
+181630,Philippine Exclusive Economic Zone,16.1695052,119.5442963,2014-06-10 00:00:00,2014-06-11 08:05:53,0,Unknown,belongs to China,2,0,GOwin,"neither helpful, nor a bug."

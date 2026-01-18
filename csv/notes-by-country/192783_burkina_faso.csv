@@ -1,0 +1,590 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5123437,Burkina Faso,12.3849823,-1.4625978,2026-01-09 00:00:00,2026-01-09 17:03:19,0,Unknown,LAISER TONBER LE NUMERO DES RUE,3,1,Unknown,JE VEUX FAIRE UNE CARTE GÉOGRAPHIQUE DE L'ARCHIVES NATIONALES A DELMAS 75 HAÏTI
+5123431,Burkina Faso,12.3872370,-1.4830620,2026-01-09 00:00:00,2026-01-09 16:54:49,0,Unknown,est ce que vous pouvez la legende pour moi sur la carte afin de permet une bonne lecture,2,0,Unknown,
+5112605,Burkina Faso,13.2399455,0.0000000,2025-12-31 00:00:00,2026-01-01 07:59:23,0,Unknown,South Korea,2,0,NeisReview,The content of this note is #nonsense.
+3631735,Burkina Faso,11.0618800,-0.5341300,2023-04-07 00:00:00,2025-12-20 18:26:37,0,Christian COURBOIS,Village de Zamé (Département de Zoaga),3,1,@Balley,
+3742894,Burkina Faso,12.7690000,-1.9337000,2023-06-20 00:00:00,2025-11-03 07:56:39,0,Christian COURBOIS,"Village de Niou, chef-lieu du département du même nom.",3,1,eliamancini,
+4092925,Burkina Faso,12.6067426,-0.3788048,2024-01-30 00:00:00,2025-10-28 13:24:49,0,Unknown,'ZOUMNOGO' OSM snapshot date: 2023-02-27T13:03:31Z POI has no name POI types: amenity-shelter  #organicmaps android,2,0,NeisBot,Same as note https://osm.org/note/4092924 only ~2 m apart. Closing as duplicate.  #DuplicateNote #Nearby
+3165592,Burkina Faso,12.3853500,-1.4147532,2022-05-04 00:00:00,2025-08-25 08:06:58,0,edvac,Complexe scolaire Le Citoyen,2,0,NIKIEMA Joachim,
+3165591,Burkina Faso,12.3861127,-1.4177197,2022-05-04 00:00:00,2025-08-25 08:06:38,0,edvac,une eglise,2,0,NIKIEMA Joachim,
+4846262,Burkina Faso,12.3786950,-1.5490720,2025-07-09 00:00:00,2025-07-31 15:02:10,0,Unknown,1,2,0,NeisRevert,No actionable information was provided for editing OpenStreetMap data. Please feel free to reopen this note with more details. #noeditinfo
+4862594,Burkina Faso,13.0277400,-2.3365290,2025-07-18 00:00:00,2025-07-18 14:19:44,0,Kizambo,Village de BASKARE,2,0,Kizambo,BASKARE est un village de YAKO
+4862575,Burkina Faso,13.0206595,-2.3360652,2025-07-18 00:00:00,2025-07-18 14:11:23,0,Kizambo,ici c'est le village de BASKARE,3,1,Kizambo,
+4390587,Burkina Faso,12.1966459,-1.4059053,2024-08-18 00:00:00,2025-06-02 13:39:18,0,Unknown,Boulangerie Pâtisserie Kobel  #OsmAnd,3,1,kadidiatou sawadogo,
+1027720,Burkina Faso,11.1596700,-4.3186133,2017-06-12 00:00:00,2025-05-26 19:00:33,0,Enock4seth,dos d'âne,2,0,Sfara,BURKINA ÉQUIPEMENT
+4776793,Burkina Faso,11.1129693,-4.3416595,2025-05-26 00:00:00,2025-05-26 18:57:40,0,Sfara,SAMAGAN,2,0,Sfara,
+4731242,Burkina Faso,11.1549295,-4.2819214,2025-04-28 00:00:00,2025-05-15 15:05:14,0,Unknown,SITE,2,0,Mateusz Konieczny - bot account,"Closing note as not containing report of mistakes in OSM data. Note text was 'SITE'  If you wanted to report problems with OSM data please open a more clear note.  See https://wiki.openstreetmap.org/wiki/Dev_Server_Account for how test notes can be created at a separate server.  Such notes for closure are found automatically, with all closures reviewed by human."
+4091862,Burkina Faso,12.3169863,-1.5315327,2024-01-29 00:00:00,2025-04-06 07:13:33,0,Koadima,'3M.COM' POI name: 3M.COM POI types: office-company OSM data version: 2023-05-22T09:20:08Z  #mapsme,3,0,NeisBot,"It seems that the requested information has been added, so I am proceeding to close this note.  Should you have additional details, please feel free to reopen this note.  #Closing"
+2437897,Burkina Faso,12.3113663,-1.4923382,2020-11-23 00:00:00,2025-03-13 09:41:53,0,Unknown,SAPHIR,2,0,JecoMidiour,
+741085,Burkina Faso,12.3098462,-1.4928246,2016-10-08 00:00:00,2025-03-13 09:41:47,0,MarketKing,Clinique du coeur,4,1,JecoMidiour,
+4604632,Burkina Faso,12.1802200,-1.6317300,2025-01-28 00:00:00,2025-01-28 03:06:04,0,Thirdline Visuals,GBF wells built and restored,6,1,Thirdline Visuals,
+4604634,Burkina Faso,12.2739200,-1.7173000,2025-01-28 00:00:00,2025-01-28 03:05:02,0,Thirdline Visuals,Wells built and restored,5,1,Thirdline Visuals,
+1443821,Burkina Faso,12.3654144,-1.5416560,2018-07-03 00:00:00,2025-01-13 18:15:05,0,DodoParisSydney,'Sogea Satom Burkina Faso' POI name: Zone industrielle de Gounghin POI types: landuse-industrial OSM data version: 2018-05-26T22:39:02Z  #mapsme,2,0,cycy333,
+4573033,Burkina Faso,12.3849168,-1.5687060,2025-01-02 00:00:00,2025-01-02 15:23:20,0,Juste99,Café Restaurant,3,1,Juste99,
+3477378,Burkina Faso,12.3648468,-1.5245586,2022-12-14 00:00:00,2024-12-29 19:57:05,0,opiobf,This is a work office. The company is : Initiatives Conseil International - ICI Burkina  via StreetComplete 50.0,2,0,cycy333,
+4484896,Burkina Faso,12.0683996,0.3341607,2024-10-19 00:00:00,2024-10-20 06:09:16,0,Unknown,this is an example,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4478675,Burkina Faso,12.4407830,-1.5789470,2024-10-14 00:00:00,2024-10-14 14:13:23,0,ypene,CSPS de Pazani,2,0,ypene,
+4413329,Burkina Faso,13.0131400,0.1478330,2024-09-01 00:00:00,2024-09-01 09:46:34,0,Justegeéo,Samou,7,1,Justegeéo,
+4391448,Burkina Faso,11.6988000,-2.7421200,2024-08-19 00:00:00,2024-08-19 09:40:54,0,Unknown,"Le village de Némélaye se trouve dans la région du Centre-Ouest, province du Sanguié, département de Zawara (erreur dans le tracé des limites administratives).",2,0,Christian COURBOIS,Exact
+4345273,Burkina Faso,12.3285700,-1.5247100,2024-07-22 00:00:00,2024-07-22 15:01:05,0,Abdoul Aziz OUEDRAOGO,Bass Yam Services Sarl,2,0,Abdoul Aziz OUEDRAOGO,
+4345263,Burkina Faso,12.3284800,-1.5246700,2024-07-22 00:00:00,2024-07-22 15:00:59,0,Unknown,Bass Yam Services Sarl,2,0,Abdoul Aziz OUEDRAOGO,
+4292138,Burkina Faso,12.3542960,-1.4905755,2024-06-14 00:00:00,2024-06-17 23:24:08,0,Unknown,"onosm.org submitted note from a business: Nom: La cocotte lounge  addr:street=rue 30.08 addr:place=La cocotte lounge  addr:city=Ouagadougou Numéro de téléphone: +22675607777 Accessibilité en fauteuil roulant: limited Catégorie: Salons / Barbershops Modes de paiement acceptés: En espèces,Téléphone portable takeaway=yes",2,0,Steeve ivan,
+4246164,Burkina Faso,12.3873900,-1.5651300,2024-05-14 00:00:00,2024-05-14 16:50:23,0,skynetbf,POP LOCAL TAMPOUY,3,1,skynetbf,
+922526,Burkina Faso,12.2844430,-0.8372207,2017-03-10 00:00:00,2024-04-27 12:28:35,0,Sadou Diallo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'mogtedo' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,sheikchilli,unclear
+1996730,Burkina Faso,12.2453009,-0.6071890,2019-11-15 00:00:00,2024-04-27 12:28:02,0,edvac,Police nationale,2,0,sheikchilli,duplicate
+3503458,Burkina Faso,12.2912087,-0.5782469,2023-01-03 00:00:00,2024-04-27 12:27:51,0,Unknown,Bonsoir,2,0,sheikchilli,no information
+22510,Burkina Faso,12.3228754,-0.5562472,2013-08-07 00:00:00,2024-04-27 12:27:44,0,Unknown,imiga,3,0,sheikchilli,no information
+4208973,Burkina Faso,14.8768500,0.2201400,2024-04-21 00:00:00,2024-04-21 19:57:48,0,Unknown,"Lélétan (Niger, Téra, Gorouol)",2,0,Christian COURBOIS,
+4189459,Burkina Faso,9.7890100,-4.3707000,2024-04-08 00:00:00,2024-04-08 18:48:01,0,Christian COURBOIS,Village de Kando,2,0,Christian COURBOIS,
+3728827,Burkina Faso,11.2156000,-0.0121500,2023-06-10 00:00:00,2024-03-07 18:58:56,0,Christian COURBOIS,Village de Dirihoré.,3,1,Christian COURBOIS,Ceci est un village à mi-chemin entre Dirihoré et Yargatenga.
+4138441,Burkina Faso,13.7654500,0.4535900,2024-03-03 00:00:00,2024-03-03 21:08:23,0,Christian COURBOIS,Village de Wabati 1,3,1,Christian COURBOIS,Erreur : Waboti 1
+4104037,Burkina Faso,12.6999000,0.0335000,2024-02-07 00:00:00,2024-02-07 18:56:31,0,Tiabondou,Namagdou,3,1,Tiabondou,
+3784647,Burkina Faso,12.6955000,0.0283200,2023-07-17 00:00:00,2024-02-03 22:52:39,0,Christian COURBOIS,Village de Namagdou,6,1,Tiabondou,
+1650694,Burkina Faso,12.3366868,-1.4841411,2019-01-15 00:00:00,2024-01-20 12:59:54,0,Serge Eric ZOUMBARA,"'Merci de le supprimer' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Église des AD Temple Péniel POI types: amenity-place_of_worship OSM data version: 2018-12-13T07:12:02Z  #mapsme",2,0,Syl,Je viens de la supprimer
+4055433,Burkina Faso,14.9959100,-0.3004200,2024-01-06 00:00:00,2024-01-06 12:08:20,0,Unknown,Village de Kacham-Est,2,0,Christian COURBOIS,
+4013646,Burkina Faso,9.7358600,-3.0442800,2023-12-03 00:00:00,2023-12-03 17:53:00,0,Christian COURBOIS,Village de Paradouo,2,0,m_p_13,done
+2942931,Burkina Faso,10.1118000,-3.1452000,2021-11-21 00:00:00,2023-12-01 22:05:53,0,Christian COURBOIS,Village de Pampouna,2,0,Christian COURBOIS,"Erreur de ma part, il s'agit en fait du village de Guilakoura"
+4006437,Burkina Faso,11.1676900,-4.3509700,2023-11-28 00:00:00,2023-11-28 08:50:47,0,Katouma,KATOUMA. Centre de Danse et Formation chorégraphique de Noumoutie Reggae Ouattara. Siège de la Cie KATOUMA.,4,1,Katouma,
+4006440,Burkina Faso,11.1676830,-4.3509011,2023-11-28 00:00:00,2023-11-28 08:30:33,0,Katouma,CASA KATOUMA B&B STAGE SHARING,2,0,Katouma,
+2162316,Burkina Faso,12.4132300,-1.5950600,2020-04-17 00:00:00,2023-11-27 14:20:17,0,Koala Sibiri,KOALA Home,3,1,Koala Sibiri,
+3993629,Burkina Faso,13.5342500,0.4681600,2023-11-19 00:00:00,2023-11-19 12:39:43,0,Christian COURBOIS,Village de Diogora (Département de Sebba),2,0,Christian COURBOIS,
+1450898,Burkina Faso,12.0219670,-1.4361241,2018-07-11 00:00:00,2023-11-09 08:46:30,0,NWR2018,village (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,confusedbuffalo,Duplicate note
+3607803,Burkina Faso,12.3927131,-1.5899715,2023-03-22 00:00:00,2023-11-09 08:46:13,0,Sana Hamado,POI has no name POI types: shop-copyshop OSM data version: 2020-08-22T02:23:14Z  #mapsme,2,0,confusedbuffalo,No information provided
+3697385,Burkina Faso,12.3599568,-1.5078735,2023-05-20 00:00:00,2023-11-07 08:46:54,0,ouaga2023,station 1,2,0,confusedbuffalo,Not enough information to map anything
+3757101,Burkina Faso,12.9081354,-2.1828890,2023-06-29 00:00:00,2023-11-07 08:46:51,0,Unknown,"12.9, -2.18333",2,0,confusedbuffalo,Not enough information to map anything
+1655195,Burkina Faso,12.3877300,-1.4897100,2019-01-19 00:00:00,2023-11-05 19:04:07,0,Unknown,1,2,0,confusedbuffalo,Not enough information to map anything
+1070641,Burkina Faso,12.3067751,-1.5272284,2017-07-19 00:00:00,2023-11-05 19:03:25,0,GMAPAM-Sarl,ID001,2,0,confusedbuffalo,Not enough information to map anything
+1122841,Burkina Faso,12.1655000,-1.6483000,2017-08-31 00:00:00,2023-11-05 19:03:11,0,Unknown,Terrain,3,0,confusedbuffalo,
+1122843,Burkina Faso,12.1629000,-1.6490000,2017-08-31 00:00:00,2023-11-05 19:03:04,0,Unknown,Le terrain,2,0,confusedbuffalo,
+1122857,Burkina Faso,12.1605000,-1.6390000,2017-08-31 00:00:00,2023-11-05 19:02:58,0,Unknown,Le premier terrain,2,0,confusedbuffalo,
+2387789,Burkina Faso,11.2024400,-1.3111900,2020-10-16 00:00:00,2023-11-02 19:28:06,0,Unknown,Base Site,2,0,confusedbuffalo,Not enough information to map anything
+23357,Burkina Faso,12.1716657,-0.3500175,2013-08-09 00:00:00,2023-11-02 11:39:29,0,Unknown,NO,5,1,confusedbuffalo,Not enough information to map anything
+3862246,Burkina Faso,11.4669600,-2.3796500,2023-08-30 00:00:00,2023-10-24 11:45:45,0,Christian COURBOIS,Village de Vara,2,0,zluuzki,added
+3530301,Burkina Faso,12.2385100,-2.3452217,2023-01-24 00:00:00,2023-10-07 05:47:28,0,Julien Ouadeba,'Résidence AMADOU' POI name: Résidence AMADOU POI types: historic-castle OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,kmpoppe,POI already created and last updated by the same user in https://www.openstreetmap.org/changeset/131712272
+3532081,Burkina Faso,12.2385100,-2.3452217,2023-01-25 00:00:00,2023-10-07 05:47:25,0,Julien Ouadeba,'Résidence AMADOU' POI name: Résidence AMADOU POI types: historic-castle OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,kmpoppe,POI already created and last updated by the same user in https://www.openstreetmap.org/changeset/131712272
+3530317,Burkina Faso,12.2416104,-2.3450689,2023-01-24 00:00:00,2023-10-07 05:46:49,0,Julien Ouadeba,'Cimetière de Sogpelcé Koudougou' POI name: Cimetière de Sogpelcé Koudougou POI types: shop-funeral_directors OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,kmpoppe,POI already created and last updated by the same user in https://www.openstreetmap.org/changeset/131712178
+3532079,Burkina Faso,12.2416104,-2.3450689,2023-01-25 00:00:00,2023-10-07 05:46:45,0,Julien Ouadeba,'Cimetière de Sogpelcé Koudougou' POI name: Cimetière de Sogpelcé Koudougou POI types: shop-funeral_directors OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,kmpoppe,POI already created and last updated by the same user in https://www.openstreetmap.org/changeset/131712178
+3740960,Burkina Faso,12.4150148,-1.5048233,2023-06-18 00:00:00,2023-10-07 05:45:15,0,John Gandema,'Mathieu25v6 Burkina Faso' POI name: Mathieu25v6 Burkina Faso POI types: amenity-place_of_worship OSM data version: 2023-05-22T09:20:08Z  #mapsme,2,0,kmpoppe,POI already created and last updated by the same user in https://www.openstreetmap.org/changeset/137485646
+3740959,Burkina Faso,12.4150148,-1.5048233,2023-06-18 00:00:00,2023-10-07 05:45:12,0,John Gandema,'Mathieu25v6 Burkina Faso' POI name: Mathieu25v6 Burkina Faso POI types: amenity-place_of_worship OSM data version: 2023-05-22T09:20:08Z  #mapsme,2,0,kmpoppe,POI already created and last updated by the same user in https://www.openstreetmap.org/changeset/137485646
+3740958,Burkina Faso,12.4150148,-1.5048233,2023-06-18 00:00:00,2023-10-07 05:45:10,0,John Gandema,'Mathieu25v6 Burkina Faso ' POI name: Mathieu25v6 Burkina Faso POI types: amenity-place_of_worship OSM data version: 2023-05-22T09:20:08Z  #mapsme,2,0,kmpoppe,POI already created and last updated by the same user in https://www.openstreetmap.org/changeset/137485646
+1419093,Burkina Faso,11.8943847,-1.4040498,2018-06-07 00:00:00,2023-10-07 05:43:45,0,NWR2018,village (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/1415856
+3602300,Burkina Faso,11.1747594,-4.2997361,2023-03-18 00:00:00,2023-10-07 05:42:53,0,mohamedtiemokobadiarra@,'Magasin d'électroménager' POI name: Magasin d'électroménager POI types: shop-electronics internet_access-wlan OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/3602301
+3602301,Burkina Faso,11.1747594,-4.2997361,2023-03-18 00:00:00,2023-10-07 05:42:38,0,mohamedtiemokobadiarra@,'GBK Électroménager' POI name: GBK Électroménager POI types: shop-electronics internet_access-wlan OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,kmpoppe,POI created and lasted updated by the same user in https://www.openstreetmap.org/changeset/133812202
+3529355,Burkina Faso,11.1793521,-4.2748180,2023-01-23 00:00:00,2023-10-07 05:41:46,0,Rol4830,'Gloria resto' POI name: Gloria resto POI types: amenity-restaurant OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/3532094
+3532094,Burkina Faso,11.1793521,-4.2748180,2023-01-25 00:00:00,2023-10-07 05:41:35,0,Rol4830,'Gloria resto EMM' POI name: Gloria resto EMM POI types: amenity-restaurant OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,kmpoppe,POI created by the same user in https://www.openstreetmap.org/changeset/131712836
+1403972,Burkina Faso,11.5438333,-1.1829400,2018-05-24 00:00:00,2023-10-07 05:41:02,0,NWR2018,village (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/1403984
+1403984,Burkina Faso,11.5438333,-1.1829400,2018-05-24 00:00:00,2023-10-07 05:40:55,0,NWR2018,soulegré (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,kmpoppe,POI created by the same user in https://www.openstreetmap.org/changeset/59242042
+1987570,Burkina Faso,10.3151527,-4.6509295,2019-11-07 00:00:00,2023-10-07 05:40:10,0,Kazakore,'sorry. Comoe is a province within Cascades...' POI name: Cascades POI types: place-region OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,kmpoppe,"So, alright then? Closing this note."
+1987551,Burkina Faso,10.3151527,-4.6509295,2019-11-07 00:00:00,2023-10-07 05:39:50,0,Kazakore,"'this region is called Comoe, not Waterfalls!' POI name: Cascades POI types: place-region OSM data version: 2019-09-09T23:32:17Z  #mapsme",2,0,kmpoppe,Replaced by https://www.openstreetmap.org/note/1987570
+3071463,Burkina Faso,13.6766000,-2.2299000,2022-03-02 00:00:00,2023-08-28 13:38:00,0,Christian COURBOIS,Village de Solgom,2,0,Christian COURBOIS,
+3847906,Burkina Faso,13.4310000,-2.3525000,2023-08-22 00:00:00,2023-08-22 16:40:26,0,Unknown,Ici c'est le Périmètre Bocager  Zamtaoko et Non Ferme pilote de Filly,3,1,Nassirou89,
+3847916,Burkina Faso,13.7764000,-2.2371000,2023-08-22 00:00:00,2023-08-22 14:11:40,0,Unknown,Périmètre Bocager Landao,2,0,Nassirou89,
+3847910,Burkina Faso,13.7651000,-2.2708000,2023-08-22 00:00:00,2023-08-22 14:11:25,0,Unknown,Ferme pilote de Barga,4,1,Nassirou89,
+2830601,Burkina Faso,11.2439000,0.3960000,2021-09-01 00:00:00,2023-07-22 13:59:27,0,Christian COURBOIS,Village de Napadé,2,0,Christian COURBOIS,
+3659276,Burkina Faso,13.2923100,-1.5261400,2023-04-25 00:00:00,2023-07-10 18:23:09,0,Christian COURBOIS,Poste de contrôle (péage).,4,1,Christian COURBOIS,
+3747750,Burkina Faso,11.1293700,-0.2852000,2023-06-23 00:00:00,2023-07-02 21:39:06,0,Christian COURBOIS,Village de Mogomnoré,2,0,Sammyhawkrad,Ajouté
+3188192,Burkina Faso,12.5323200,1.4874200,2022-05-21 00:00:00,2023-05-15 19:21:59,0,Christian COURBOIS,Village de Boulmoantchangou,2,0,Christian COURBOIS,
+2575832,Burkina Faso,11.7670000,0.4585000,2021-03-12 00:00:00,2023-05-15 19:21:24,0,Christian COURBOIS,Village de Tagou,2,0,Christian COURBOIS,
+3292396,Burkina Faso,11.2171000,-0.2637000,2022-07-31 00:00:00,2023-05-14 06:01:44,0,Christian COURBOIS,Village de Nouhao,2,0,Christian COURBOIS,
+3655970,Burkina Faso,10.7263200,-4.3707500,2023-04-23 00:00:00,2023-05-13 07:17:04,0,Christian COURBOIS,Village de Diarakoro.,2,0,Christian COURBOIS,
+2968230,Burkina Faso,11.9975000,0.3856000,2021-12-12 00:00:00,2023-05-13 07:09:42,0,Christian COURBOIS,village de Napalniangou (AKA : Onyapalyangou),2,0,Christian COURBOIS,
+3482297,Burkina Faso,12.0674800,0.7780600,2022-12-18 00:00:00,2023-05-13 07:09:07,0,Christian COURBOIS,Village de Mourdéni,2,0,Christian COURBOIS,
+2927509,Burkina Faso,12.0401000,0.6642400,2021-11-08 00:00:00,2023-05-13 07:09:00,0,Christian COURBOIS,Village de Ganyéla,2,0,Christian COURBOIS,
+3612006,Burkina Faso,12.0201300,0.6057100,2023-03-25 00:00:00,2023-05-13 07:08:52,0,Christian COURBOIS,Village de Bouandouori,2,0,Christian COURBOIS,
+2810560,Burkina Faso,12.0149000,0.6569000,2021-08-19 00:00:00,2023-05-13 07:08:31,0,Christian COURBOIS,Village de Tambiga-Peulh,2,0,Christian COURBOIS,
+1280006,Burkina Faso,12.0368876,0.3610052,2018-01-26 00:00:00,2023-05-13 07:07:50,0,Adrien1341,'le nom exact de la piste d'aviation est : Aérodrome de Fada N'Gourma' POI name: Aéroport de Fada N'gourma POI types: aeroway-aerodrome OSM data version: 2017-12-08T15:42:02Z  #mapsme,2,0,Christian COURBOIS,
+3434901,Burkina Faso,13.2240100,-2.4416900,2022-11-09 00:00:00,2023-05-11 19:58:42,0,Christian COURBOIS,Village de Kontigué,6,1,Christian COURBOIS,Village de Kontigué-Silmimossi
+3669208,Burkina Faso,12.3600931,-1.5154964,2023-05-01 00:00:00,2023-05-01 14:36:46,0,Aboubacar Koussoubé,World Expert Groupe,6,1,Aboubacar Koussoubé,"'World Expert est un Groupe spécialisé  dans le marketing digital, la communication, la formation, le développement web et bien d’autres. L’objectif est d’offrir des services de qualités répondants aux exigences d’un marché en perpétuelle mutation. Révolutionner le milieu des affaires en proposant de nouveaux types de produits et de services avec des options de suivi, d’accompagnement et de garantie innovantes."
+2123624,Burkina Faso,13.3255266,-1.5128517,2020-03-18 00:00:00,2023-03-16 11:09:24,0,BAZOUN Eli,Lac BAM,2,0,mbela,
+2913845,Burkina Faso,11.7856104,-2.6438427,2021-10-28 00:00:00,2023-02-13 07:42:17,0,kinmenRP,"Are you sure this is R16? On some maps provided by the municipality of Zawara, this road is labeled as RR 10.",3,0,kinmenRP,Changed fro R 16 to R 10
+3532082,Burkina Faso,12.2385100,-2.3452217,2023-01-25 00:00:00,2023-01-30 12:59:41,0,Julien Ouadeba,'Résidence AMADOU' POI name: Résidence AMADOU POI types: historic-castle OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,Syl,Note en double
+3532085,Burkina Faso,12.2385100,-2.3452217,2023-01-25 00:00:00,2023-01-30 12:59:23,0,Julien Ouadeba,'Résidence AMADOU' POI name: Résidence AMADOU POI types: historic-castle OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,Syl,Note en double
+3530300,Burkina Faso,12.2426100,-2.3585483,2023-01-24 00:00:00,2023-01-25 10:16:17,0,Julien Ouadeba,'COPACABANA de Koudougou' POI name: COPACABANA de Koudougou POI types: amenity-bar OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,Syl,Note en double
+3530315,Burkina Faso,12.2385100,-2.3452217,2023-01-24 00:00:00,2023-01-25 10:15:56,0,Julien Ouadeba,'Résidence AMADOU' POI name: Résidence AMADOU POI types: historic-castle OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,Syl,Note en double
+3530309,Burkina Faso,12.2448633,-2.3571850,2023-01-24 00:00:00,2023-01-25 10:15:43,0,Julien Ouadeba,'Koom Noor' POI name: Koom Noor POI types: craft-tailor OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,Syl,Note en double
+3530322,Burkina Faso,12.2385100,-2.3452217,2023-01-24 00:00:00,2023-01-25 10:15:24,0,Julien Ouadeba,'Résidence AMADOU' POI name: Résidence AMADOU POI types: historic-castle OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,Syl,Note en double
+3530320,Burkina Faso,12.2416104,-2.3450689,2023-01-24 00:00:00,2023-01-25 10:15:08,0,Julien Ouadeba,'Cimetière de Sogpelcé Koudougou' POI name: Cimetière de Sogpelcé Koudougou POI types: shop-funeral_directors OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,Syl,Note en double
+3530297,Burkina Faso,12.2429706,-2.3450795,2023-01-24 00:00:00,2023-01-25 10:14:46,0,Julien Ouadeba,POI has no name POI types: shop-funeral_directors OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,Syl,Note sans information
+2545746,Burkina Faso,13.7392000,-2.7742000,2021-02-20 00:00:00,2022-12-20 12:11:26,0,Christian COURBOIS,Village de Sambabouli,2,0,M Diallo,
+3094406,Burkina Faso,11.1571000,0.8398000,2022-03-19 00:00:00,2022-11-12 10:14:34,0,Unknown,Nadiagou,2,0,Syl,Déjà présent
+3055396,Burkina Faso,11.8749945,1.8671179,2022-02-17 00:00:00,2022-11-12 10:13:28,0,Cocohrd,"Burkina Faso - Tansarga 28 Janvier 2022 Criminalite vers 21h, quatre individus armés de fusils et de machettes ont fait irruption au marché de Tansarga et ont dépouillé divers commerçants d'environ deux millions de FCFA (SAP).",2,0,Syl,"Bonjour, les notes sont faites pour proposer des modifications, merci de ne pas les utiliser comme notes personnelles."
+2934825,Burkina Faso,11.1713200,-4.2888600,2021-11-14 00:00:00,2022-11-12 10:11:43,0,Christian Selinger,Villa Rose,2,0,Syl,A été ajoutée depuis
+2663326,Burkina Faso,10.5529619,-3.0699267,2021-05-10 00:00:00,2022-11-12 10:09:39,0,palebebe,'concession village' POI has no name POI types: highway-rest_area OSM data version: 2021-02-01T11:34:17Z  #mapsme,2,0,Syl,Note en double
+2464145,Burkina Faso,12.3158963,-1.5275556,2020-12-16 00:00:00,2022-11-12 10:05:55,0,Unknown,"onosm.org submitted note from a business: name: Place Vendôme phone: +22660120496 website:  twitter:  facebook: https://free.facebook.com/placevendomeouaga/?_rdc=1&_rdr email: ouedraogosharif08@yahoo.com hours: Lundi-Vendredi 18:00 - 04:00 category: Bars address: Place Vendôme Ouaga, Ouagadougou",2,0,Syl,Note en double
+2464160,Burkina Faso,12.3159197,-1.5275567,2020-12-16 00:00:00,2022-11-12 10:05:14,0,Unknown,"onosm.org submitted note from a business: name: Place Vendôme phone: +22660120496 website:  twitter:  facebook: https://free.facebook.com/placevendomeouaga/?_rdc=1&_rdr email: ouedraogosharif08@yahoo.com hours: Lundi-Vendredi 18:00 - 04:00 category: Bars address: Place Vendôme Ouaga, Ouagadougou",2,0,Syl,Note en double
+2463704,Burkina Faso,12.3159553,-1.5275588,2020-12-16 00:00:00,2022-11-12 10:04:34,0,Unknown,"onosm.org submitted note from a business: name: Place Vendôme phone: +22660120496 website:  twitter:  facebook: https://free.facebook.com/placevendomeouaga/?_rdc=1&_rdr email: ouedraogosharif08@yahoo.com hours: Lundi-Vendredi 18:00 - 04:00 category: Bars address: Place Vendôme Ouaga, Ouagadougou",2,0,Syl,Note en double
+2464156,Burkina Faso,12.3159322,-1.5275663,2020-12-16 00:00:00,2022-11-12 10:03:38,0,Unknown,Vous avez oublier de marquer la Place vendôme a ce niveau merci.,2,0,Syl,Déjà présent
+2025695,Burkina Faso,13.5854150,-2.4110687,2019-12-14 00:00:00,2022-11-12 09:56:19,0,Ahmed Cent Carats,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-09-19T14:38:03Z) #mapsme",2,0,Syl,Supprimé
+2011110,Burkina Faso,11.1610753,-1.1493027,2019-11-28 00:00:00,2022-11-12 09:53:46,0,Aoua KAYENDE,Mosquée,2,0,Syl,Note en double
+2011105,Burkina Faso,11.1166446,0.0006541,2019-11-28 00:00:00,2022-11-12 09:52:28,0,OUEDRAOGO FOUSSENI,mosquée,2,0,Syl,A été ajoutée depuis
+1996483,Burkina Faso,11.3726420,-0.3565996,2019-11-15 00:00:00,2022-11-12 09:50:53,0,edvac,Mosquée,2,0,Syl,Note en double
+1996498,Burkina Faso,11.3726420,-0.3565996,2019-11-15 00:00:00,2022-11-12 09:50:52,0,edvac,Mosquée,2,0,Syl,Note en double
+1996506,Burkina Faso,11.3726420,-0.3565996,2019-11-15 00:00:00,2022-11-12 09:50:52,0,edvac,Mosquée,2,0,Syl,Note en double
+1788024,Burkina Faso,11.4899592,-3.5139706,2019-05-22 00:00:00,2022-11-12 09:37:58,0,Amidou Tall,aérodrome (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Syl,A été ajouté depuis
+1781468,Burkina Faso,11.6892534,-1.0999810,2019-05-16 00:00:00,2022-11-12 09:36:59,0,Dibloni Innocent,Début voie à sens unique,2,0,Syl,Note en double
+1767192,Burkina Faso,12.3557647,-0.8195114,2019-05-04 00:00:00,2022-11-12 09:35:48,0,Unknown,Zamse,2,0,Syl,Déjà présent
+1761141,Burkina Faso,12.3458908,-1.4968510,2019-04-29 00:00:00,2022-11-12 09:34:44,0,Geert St,"'Duplicate ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Akvo fondation POI types: office-ngo OSM data version: 2019-03-28T14:13:02Z  #mapsme",2,0,Syl,Note en double
+1742253,Burkina Faso,11.0805000,0.7231000,2019-04-11 00:00:00,2022-11-12 09:33:58,0,Unknown,Evenement 1,2,0,Syl,Note sans information
+1590961,Burkina Faso,10.9749685,-3.2434172,2018-11-15 00:00:00,2022-11-12 09:29:26,0,Aboubayo,'ajouter un lieu' POI has no name POI types: highway-rest_area OSM data version: 2018-09-11T19:10:03Z  #mapsme,2,0,Syl,
+969824,Burkina Faso,13.0828891,-1.0855933,2017-04-20 00:00:00,2022-11-12 09:27:07,0,sedogo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'La gare a demenager' (OSM data version: 2017-03-28T20:59:03Z) #mapsme",2,0,Syl,Note en double
+1517222,Burkina Faso,12.4120903,-1.4734712,2018-09-06 00:00:00,2022-11-12 09:25:11,0,Unknown,société générale de sécurité,2,0,Syl,A été ajoutée depuis
+1468917,Burkina Faso,12.3615000,-1.5199000,2018-07-27 00:00:00,2022-11-12 09:24:15,0,Unknown,éliminer  les points,2,0,Syl,Note sans information
+1217605,Burkina Faso,12.0592647,0.3652350,2017-11-26 00:00:00,2022-11-12 09:11:04,0,Adrien1341,'Cacahouètes' POI name: Cacahouètes POI types: shop-convenience OSM data version: 2017-10-20T12:20:02Z  #mapsme,2,0,Syl,Déjà présent
+1027706,Burkina Faso,11.0949471,-4.5726011,2017-06-12 00:00:00,2022-11-12 09:06:34,0,Enock4seth,l'eau,2,0,Syl,A été ajouté depuis
+744445,Burkina Faso,12.3463048,-1.5038167,2016-10-11 00:00:00,2022-11-12 08:59:43,0,SERGE_ENSELME,le nom de la pharcie a changé. Au lieu de silmissin c'est KATRA (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Syl,A été modifié depuis
+397901,Burkina Faso,12.4146120,-1.4678323,2015-07-17 00:00:00,2022-11-12 08:54:02,0,SeverinGeo,ajouter rues,4,1,Syl,A été fait depuis
+393538,Burkina Faso,12.3370976,-1.5040706,2015-07-09 00:00:00,2022-11-12 08:52:21,0,SeverinGeo,doublon de route,2,0,Syl,A été corrigé depuis
+1955908,Burkina Faso,12.6580453,-0.5618595,2019-10-10 00:00:00,2022-11-11 10:19:45,0,TINDANO Bertrand,"'J'AI fait une erreur je m'excuse c'est la place exacte' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Lycée technique de boulsa POI types: amenity-school OSM data version: 2019-09-09T23:32:17Z  #mapsme",2,0,Syl,C'est corrigé
+1955909,Burkina Faso,12.6580513,-0.5612367,2019-10-10 00:00:00,2022-11-11 10:19:37,0,TINDANO Bertrand,"'Pas exactement avec précision' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Lycée technique de boulsa POI types: amenity-school OSM data version: 2019-09-09T23:32:17Z  #mapsme",2,0,Syl,C'est corrigé
+1825986,Burkina Faso,12.3565574,-1.5396510,2019-06-26 00:00:00,2022-11-11 10:09:58,0,Aloy29,"'Erreur de positionnement' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Compagnie de transport express CTE POI types: shop-travel_agency OSM data version: 2019-05-17T13:54:02Z  #mapsme",2,0,Syl,Note en double
+1386956,Burkina Faso,12.3776377,-1.5047555,2018-05-08 00:00:00,2022-11-11 10:06:19,0,CISSE Mahamadou,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Heineken POI types: shop-kiosk OSM data version: 2018-03-16T17:06:02Z  #mapsme",2,0,Syl,Note en double
+872895,Burkina Faso,10.8938280,-2.9350662,2017-01-29 00:00:00,2022-11-11 09:30:40,0,Unknown,une erreur à corriger veuillez observer,2,0,Syl,Il n'y a rien ici dans OSM
+1343645,Burkina Faso,11.0994617,-2.1047433,2018-03-31 00:00:00,2022-10-12 17:08:04,0,sibatheo,CPSP Léo,5,1,user_17393926,
+2532141,Burkina Faso,11.1586300,-4.2024900,2021-02-09 00:00:00,2022-09-21 18:21:14,0,Christian COURBOIS,Péage RN1 route de Ouagadougou,2,0,Katouma,
+2987452,Burkina Faso,12.1290324,0.5048012,2021-12-29 00:00:00,2022-09-19 18:10:38,0,ivanbranco,village or hamlet?,2,0,ivanbranco,restored to v1
+3280253,Burkina Faso,12.3785218,-1.4410436,2022-07-23 00:00:00,2022-09-04 12:42:47,0,erickdeoliveiraleal,remove this names,2,0,Syl,Fixed
+2310606,Burkina Faso,13.9012000,-2.0850000,2020-08-17 00:00:00,2022-09-04 12:37:54,0,Christian COURBOIS,"Village de Pellaboukou, Région nord, Province de Loroum (13.9012, -2.0850)",2,0,Syl,A été ajouté depuis
+3256391,Burkina Faso,12.3909747,-0.7060432,2022-07-07 00:00:00,2022-09-04 12:35:34,0,kmorgo,Venogo,2,0,Syl,Nom déjà présent
+3278376,Burkina Faso,12.6864000,-0.8405000,2022-07-22 00:00:00,2022-07-23 19:18:08,0,Unknown,"https://www.google.com/maps/place/Karpala,+Ouagadougou/@12.3208067,-1.4910666,11z/data=!4m2!3m1!1s0xe2ebc468cc2091b:0xa215ace8b8166dc9?hl=fr",2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+3256392,Burkina Faso,12.3936686,-0.6960869,2022-07-07 00:00:00,2022-07-07 22:15:53,0,kmorgo,Koulweogo,5,1,kmorgo,
+3254966,Burkina Faso,12.3272100,-1.5049000,2022-07-06 00:00:00,2022-07-06 18:21:45,0,NEBRATA Consulting &amp; Innovation,NEB'RATA Consulting and Innovation,3,1,NEBRATA Consulting &amp; Innovation,Editeur et integration de solutions logicielles metiers.
+2359139,Burkina Faso,12.4920979,-3.4667512,2020-09-22 00:00:00,2022-07-05 15:52:47,0,Kosmey,"'endroit compromettant ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Madou’s home POI types: historic-castle OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,A été supprimé depuis
+2359142,Burkina Faso,12.4732085,-3.4515779,2020-09-22 00:00:00,2022-07-05 15:52:36,0,Kosmey,"'endroit compromettant ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Nafi’s house POI types: historic-castle OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,A été supprimé depuis
+2359143,Burkina Faso,12.4781398,-3.4624167,2020-09-22 00:00:00,2022-07-05 15:52:04,0,Kosmey,"'endroit compromettant ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Alima’s house POI types: historic-castle OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,A été supprimé depuis
+2359145,Burkina Faso,12.4787945,-3.4513097,2020-09-22 00:00:00,2022-07-05 15:51:52,0,Kosmey,"'inconnu ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: chez Lalou POI types: historic-castle OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,A été supprimé depuis
+2359146,Burkina Faso,12.4516462,-3.4498318,2020-09-22 00:00:00,2022-07-05 15:51:19,0,Kosmey,"'famille ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: belle famille POI types: historic-castle OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,A été supprimé depuis
+2366404,Burkina Faso,12.4563317,-3.4569879,2020-09-28 00:00:00,2022-07-05 15:50:51,0,Kosmey,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: chez Lallou POI types: historic-castle OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,A été supprimé depuis
+2359144,Burkina Faso,12.4756938,-3.4582673,2020-09-22 00:00:00,2022-07-05 15:50:16,0,Kosmey,"'secret ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: chez moi POI types: historic-castle OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,A été supprimé depuis
+3242407,Burkina Faso,11.1696026,-4.2923284,2022-06-27 00:00:00,2022-06-27 12:01:29,0,2lif,Restaurant espace de l'amitié,2,0,2lif,
+3242410,Burkina Faso,11.1695658,-4.2923284,2022-06-27 00:00:00,2022-06-27 11:55:45,0,2lif,Restaurant,4,1,2lif,
+3242402,Burkina Faso,11.1718972,-4.2949033,2022-06-27 00:00:00,2022-06-27 11:51:46,0,2lif,école des métiers,9,1,2lif,école des métiers
+3242377,Burkina Faso,11.1709551,-4.2950910,2022-06-27 00:00:00,2022-06-27 11:45:20,0,2lif,Boutique,4,1,2lif,friperies
+3242406,Burkina Faso,11.1712400,-4.2951400,2022-06-27 00:00:00,2022-06-27 11:44:06,0,2lif,vente de friperies,2,0,2lif,vente de friperies
+3242388,Burkina Faso,11.1704973,-4.2951179,2022-06-27 00:00:00,2022-06-27 11:40:14,0,2lif,Vente Habits chaussures Homme,5,1,2lif,
+3242379,Burkina Faso,11.1710130,-4.2949985,2022-06-27 00:00:00,2022-06-27 11:39:04,0,2lif,Restaurant Mandela,6,1,2lif,vente de friperies
+2183242,Burkina Faso,12.3628075,-1.4872548,2020-05-06 00:00:00,2022-06-18 20:55:24,0,Dibloni Innocent,A supprimer. Ce n'est pas l'emplacement de Open Burkina,2,0,Syl,"A surement été supprimé depuis, il n'y a rien ici"
+3205958,Burkina Faso,10.4435004,-3.1266403,2022-06-01 00:00:00,2022-06-02 06:56:08,0,Unknown,open  close  have fun with notas ?,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+1026340,Burkina Faso,13.1126668,-1.0982680,2017-06-11 00:00:00,2022-05-16 12:23:08,0,Unknown,Secteur 7,2,0,Dibloni Innocent,
+1026339,Burkina Faso,13.0701145,-1.0878611,2017-06-11 00:00:00,2022-05-16 12:22:47,0,Unknown,Secteur 4,2,0,Dibloni Innocent,
+782764,Burkina Faso,13.0951549,-1.0698447,2016-11-14 00:00:00,2022-05-16 12:06:04,0,Inoussa Sawadogo,Barrage de Kaya (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Dibloni Innocent,Resolu
+3165590,Burkina Faso,12.3623394,-1.4924916,2022-05-04 00:00:00,2022-05-04 19:29:02,0,edvac,Maquis Restaurant Les sauveurs du Faso,2,0,edvac,Ajouté
+1930105,Burkina Faso,12.4095023,-1.3619614,2019-09-17 00:00:00,2022-04-07 14:31:00,0,Unknown,Site du technopole?,2,0,mohamed71,
+3112306,Burkina Faso,14.0308854,-0.0274801,2022-03-30 00:00:00,2022-03-30 10:53:27,0,Madjastan,Le zoom ne permet pas de garder les mêmes détails.,2,0,Madjastan,
+3073926,Burkina Faso,12.3069559,-1.5291837,2022-03-04 00:00:00,2022-03-04 14:19:46,0,Unknown,onosm.org submitted note from a business: name: THE BLUEPRINT NIGHT CLUB phone: +22670446544 website:  twitter:  facebook:  email:  hours: Vendredi-Samedi 21:00-06:00 category: Nightclubs address: Ouagadougou,2,0,Axel18,
+3073911,Burkina Faso,12.3069585,-1.5291810,2022-03-04 00:00:00,2022-03-04 14:14:53,0,Unknown,"onosm.org submitted note from a business: name: THE BLUEPRINT phone: +22676755555 website:  twitter:  facebook:  email:  hours: Vendredi-Samedi 21:00-06:00 category: Bars, Nightclubs address: Ouagadougou",5,1,Axel18,
+1988545,Burkina Faso,12.4758730,-1.2064680,2019-11-08 00:00:00,2022-02-24 18:32:40,0,edvac,Mairie de Nagreongo,2,0,Syl,Note en double
+1715849,Burkina Faso,12.3083626,-1.6155452,2019-03-19 00:00:00,2022-02-18 11:19:40,0,Camischflr,propriété privée a construire,2,0,Syl,A été ajouté depuis
+1715859,Burkina Faso,12.3112642,-1.6169404,2019-03-19 00:00:00,2022-02-18 11:19:18,0,Camischflr,terrain vendu à construire,2,0,Syl,A été ajouté depuis
+1715856,Burkina Faso,12.3105163,-1.6164262,2019-03-19 00:00:00,2022-02-18 11:18:56,0,Camischflr,construction,2,0,Syl,A été modifié depuis
+1715855,Burkina Faso,12.3099763,-1.6163698,2019-03-19 00:00:00,2022-02-18 11:18:35,0,Camischflr,construction,2,0,Syl,A été modifié depuis
+1715857,Burkina Faso,12.3111932,-1.6160180,2019-03-19 00:00:00,2022-02-18 11:18:16,0,Camischflr,construction,2,0,Syl,A été modifié depuis
+1715854,Burkina Faso,12.3085473,-1.6179924,2019-03-19 00:00:00,2022-02-18 11:17:01,0,Camischflr,debris sur la route,2,0,Syl,Trop éphémère pour pouvoir être ajouté dans OSM
+1715851,Burkina Faso,12.3086712,-1.6176400,2019-03-19 00:00:00,2022-02-18 11:16:42,0,Camischflr,une construction,2,0,Syl,A été modifié depuis
+1715850,Burkina Faso,12.3086192,-1.6177200,2019-03-19 00:00:00,2022-02-18 11:16:23,0,Camischflr,batiment terminé,2,0,Syl,A été modifié depuis
+1715853,Burkina Faso,12.3087258,-1.6180760,2019-03-19 00:00:00,2022-02-18 11:16:05,0,Camischflr,batiment terminé,2,0,Syl,A été modifié depuis
+1715852,Burkina Faso,12.3090269,-1.6180305,2019-03-19 00:00:00,2022-02-18 11:15:48,0,Camischflr,batiment terminé,2,0,Syl,A été modifié depuis
+2329396,Burkina Faso,12.3763068,-1.5041788,2020-08-30 00:00:00,2022-02-11 22:48:03,0,Finger226,"'Place répétée' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Office du Bac POI types: building office OSM data version: 2020-07-14T11:22:37Z  #mapsme",2,0,Dibloni Innocent,
+2329395,Burkina Faso,12.3781066,-1.5009762,2020-08-30 00:00:00,2022-02-11 22:47:19,0,Finger226,"'CEntre National des Œuvres Universitaires (restauration, santé, hébergement, action sociale, sport, ...)' POI name: CENOU POI types: amenity OSM data version: 2020-07-14T11:22:37Z  #mapsme",2,0,Dibloni Innocent,
+1765625,Burkina Faso,12.4138586,-1.4764743,2019-05-03 00:00:00,2022-02-11 22:46:38,0,Unknown,Déviation de la ligne 6B,2,0,Dibloni Innocent,Une nouvelle mise à jour a été faite
+3020358,Burkina Faso,12.4325533,-1.5396309,2022-01-22 00:00:00,2022-01-22 18:25:45,0,Koala Sibiri,LL,2,0,Koala Sibiri,
+2967079,Burkina Faso,12.1008000,1.6713000,2021-12-11 00:00:00,2021-12-11 07:54:59,0,Unknown,Village de Koryombo,4,1,Christian COURBOIS,
+680958,Burkina Faso,12.3470149,-1.5607439,2016-08-21 00:00:00,2021-12-03 08:54:26,0,Xavier Bachelot,institut supérieur d'études de protection civile (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,Christian COURBOIS,
+1899987,Burkina Faso,12.3403672,-1.5573036,2019-08-25 00:00:00,2021-12-03 08:54:10,0,Aliben,Ceci est un air de jeux 'Terrain de Football',2,0,Christian COURBOIS,
+2951087,Burkina Faso,12.2519312,-2.3651397,2021-11-27 00:00:00,2021-11-28 03:49:09,0,nouhou01,My OpenStreetMap,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1335518,Burkina Faso,12.3574981,-1.4923121,2018-03-22 00:00:00,2021-11-19 10:32:30,0,edvac,Yousra Fashion,2,0,Bénéwendé,
+998407,Burkina Faso,11.7829742,-2.7969486,2017-05-16 00:00:00,2021-10-21 17:56:05,0,samely,Can someone confirm and add if this place is Baporo?,2,0,kinmenRP,According to the map here https://www.burkinafaso-bz.org/40-stanze-degenti-laba/progetti/ can confirm the village is Baporo (map source: municipality of Zawara); more or less the same coordinates from https://fr.wikipedia.org/wiki/Baporo
+998409,Burkina Faso,11.7819555,-2.7388036,2017-05-16 00:00:00,2021-10-21 16:37:11,0,samely,Can someone confirm and fix if this pace is Carrefour?,2,0,kinmenRP,fixed: Carrefour
+2556941,Burkina Faso,14.0720000,-0.4858000,2021-02-27 00:00:00,2021-10-02 11:47:06,0,Christian COURBOIS,Village de Tadjo,2,0,Christian COURBOIS,
+2690091,Burkina Faso,14.0816000,-0.4734000,2021-05-29 00:00:00,2021-10-02 11:46:57,0,Christian COURBOIS,Village de Tadjo,2,0,Christian COURBOIS,"A supprimer, erreur de ma part, il est correctement repositionné au sud-ouest. Désolé."
+2857331,Burkina Faso,12.3407565,-1.6376495,2021-09-17 00:00:00,2021-09-20 20:38:00,0,Zenbluenind,unité d'ensachage d'eau,6,1,Zenbluenind,Emplacement de l'unité
+907873,Burkina Faso,12.3954403,-1.5017366,2017-02-27 00:00:00,2021-08-21 09:03:51,0,Unknown,A cet endroit se trouve l'INSS (Institut des Sciences des Sociétés),2,0,mardiz,is tagged
+402810,Burkina Faso,12.3618582,-1.5175585,2015-07-25 00:00:00,2021-08-21 09:00:49,0,SeverinGeo,Immeuble SODIFA,2,0,mardiz,is tagged (level19)
+1044951,Burkina Faso,12.3594616,-1.5166588,2017-06-27 00:00:00,2021-08-21 08:59:34,0,SeverinGeo,bravia hotel,2,0,mardiz,is tagged
+1420060,Burkina Faso,11.1769771,-4.3321605,2018-06-08 00:00:00,2021-08-18 01:58:22,0,Adam Issifou,"'La place N'existe plus' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Bar Climatise BONUS POI types: amenity-bar OSM data version: 2018-05-12T22:49:02Z  #mapsme",2,0,MeLeSs,En effet
+1842797,Burkina Faso,11.1771060,-4.3534734,2019-07-13 00:00:00,2021-08-18 01:57:25,0,Kkmt,"'Cet emplacement n'est pas exacte j'en ai créé à l'endroit exact. ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: CLINIQUE EUREKA POI types: internet_access-wlan amenity-clinic OSM data version: 2019-05-17T13:54:02Z  #mapsme",2,0,MeLeSs,
+2567413,Burkina Faso,13.9910700,-1.6945300,2021-03-06 00:00:00,2021-05-19 10:00:56,0,Christian COURBOIS,Pylône de relais de téléphonie mobile,2,0,Moussa Dicko,Situé dans le village de Silgueye
+2556933,Burkina Faso,14.0175000,-1.5154000,2021-02-27 00:00:00,2021-05-19 09:22:37,0,Christian COURBOIS,Village de Boudoudi,2,0,Moussa Dicko,
+2478516,Burkina Faso,14.6441000,-0.2966000,2020-12-30 00:00:00,2021-05-19 09:21:37,0,Christian COURBOIS,Village de Torom,2,0,Moussa Dicko,
+1694140,Burkina Faso,11.2098287,-4.4184566,2019-02-27 00:00:00,2021-05-15 19:00:34,0,SAWADOGO Hubert,C'est Université Nazi BONI au lieu de Université Polytechnique de Bobo-Dioulasso,2,0,Syl,A été modifié depuis
+1690891,Burkina Faso,11.2098284,-4.4184566,2019-02-24 00:00:00,2021-05-15 18:58:57,0,SAWADOGO Hubert,Université Nazi Boni,2,0,Syl,A été ajoutée depuis
+2374806,Burkina Faso,12.4511354,-3.4665929,2020-10-05 00:00:00,2021-05-12 09:12:59,0,Kosmey,"'à supprimer ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: IED POI types: tourism-artwork OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,Note en double
+2374957,Burkina Faso,12.4511354,-3.4665929,2020-10-05 00:00:00,2021-05-12 09:12:43,0,Kosmey,"'à supprimer ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: IED POI types: tourism-artwork OSM data version: 2020-08-22T02:23:14Z  #mapsme",2,0,Syl,Supprimé
+2545629,Burkina Faso,13.6356000,-2.8575000,2021-02-20 00:00:00,2021-04-16 20:45:03,0,Christian COURBOIS,Village de Birgondogo,2,0,Greg_Rose,Mapped
+2604774,Burkina Faso,13.3192100,-0.7077900,2021-04-02 00:00:00,2021-04-02 11:19:04,0,Christian COURBOIS,Village de Dibga,2,0,Christian COURBOIS,
+2462699,Burkina Faso,13.3250000,-0.6944000,2020-12-15 00:00:00,2021-04-02 11:18:18,0,Christian COURBOIS,Village de Dibga,2,0,Christian COURBOIS,"Erreur, replacé au Sud-Ouest"
+2603126,Burkina Faso,12.1070000,-4.5748000,2021-04-01 00:00:00,2021-04-01 06:53:29,0,Christian COURBOIS,Ville de Sami,3,1,Christian COURBOIS,
+2587583,Burkina Faso,13.0897000,-3.7012000,2021-03-21 00:00:00,2021-04-01 06:45:07,0,Christian COURBOIS,Village de Kinséré,2,0,Christian COURBOIS,
+1899995,Burkina Faso,12.3408606,-1.5652599,2019-08-25 00:00:00,2021-03-31 16:10:10,0,Aliben,Ici c'est und eglise ('assemble de dieux de Pissy'),2,0,ibr93,
+1899974,Burkina Faso,12.3367318,-1.5766990,2019-08-25 00:00:00,2021-03-31 16:10:01,0,Aliben,'Goupe scolaire Omar' n'existe pas ici mais un super-marche/Alimentation 'Bon Samaritain',2,0,ibr93,
+2242026,Burkina Faso,12.3417000,-1.5750700,2020-06-25 00:00:00,2021-03-31 16:09:33,0,ibr93,Siège Sodigaz Pissy,4,1,ibr93,
+1316260,Burkina Faso,12.3684339,-1.5255453,2018-03-03 00:00:00,2021-03-31 16:03:46,0,Jeanine Reinhard,"'been there, construction site' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Gare STAF POI types: amenity-bus_station OSM data version: 2018-01-26T12:04:02Z  #mapsme",3,1,ibr93,
+1765635,Burkina Faso,12.3825301,-1.5522695,2019-05-03 00:00:00,2021-03-31 16:03:32,0,Unknown,A cet arrêt le bus s'immobilisera 10mn pour attendre le étudiants en médecine,2,0,ibr93,
+2498615,Burkina Faso,12.3796648,-1.5559192,2021-01-15 00:00:00,2021-03-31 16:03:24,0,Sana Hamado,'Impossible d'ajouter un bâtiment ou de supprimer un lieu' POI name: Caisse Populaire de Nonsin POI types: amenity-bank OSM data version: 2020-08-22T02:23:14Z  #mapsme,2,0,ibr93,
+1335521,Burkina Faso,12.3628319,-1.4940428,2018-03-22 00:00:00,2021-03-31 16:03:11,0,edvac,April Oil,4,1,ibr93,
+2573199,Burkina Faso,13.8621000,-1.5665000,2021-03-10 00:00:00,2021-03-26 11:49:27,0,Christian COURBOIS,Village de Alamini,2,0,Christian COURBOIS,
+2578375,Burkina Faso,9.5208100,-2.7407300,2021-03-14 00:00:00,2021-03-14 07:49:35,0,Christian COURBOIS,Village de Kouldaouo,2,0,Christian COURBOIS,
+2578363,Burkina Faso,9.5447000,-2.7673000,2021-03-14 00:00:00,2021-03-14 07:42:53,0,Christian COURBOIS,Village de Téhen-Sud,2,0,Christian COURBOIS,
+2578362,Burkina Faso,9.5100000,-2.7613000,2021-03-14 00:00:00,2021-03-14 07:42:46,0,Christian COURBOIS,Village de Médicatéon,2,0,Christian COURBOIS,
+2578368,Burkina Faso,9.5028800,-2.7255100,2021-03-14 00:00:00,2021-03-14 07:42:40,0,Christian COURBOIS,Village de Derbar,2,0,Christian COURBOIS,
+2578367,Burkina Faso,9.4866700,-2.7542400,2021-03-14 00:00:00,2021-03-14 07:42:35,0,Christian COURBOIS,Village de Nabatéon,2,0,Christian COURBOIS,
+2578364,Burkina Faso,9.4585000,-2.7944000,2021-03-14 00:00:00,2021-03-14 07:42:28,0,Christian COURBOIS,Village de Mérétéon,2,0,Christian COURBOIS,
+2578361,Burkina Faso,9.4736000,-2.7926000,2021-03-14 00:00:00,2021-03-14 07:42:25,0,Christian COURBOIS,Village de Kpuéré,2,0,Christian COURBOIS,
+2578372,Burkina Faso,9.4607000,-2.8220000,2021-03-14 00:00:00,2021-03-14 07:42:20,0,Christian COURBOIS,Village de Bonfatéon,2,0,Christian COURBOIS,
+2578366,Burkina Faso,9.4294500,-2.7773700,2021-03-14 00:00:00,2021-03-14 07:42:14,0,Christian COURBOIS,Village de Fadio-Mèpèhn,2,0,Christian COURBOIS,
+2578365,Burkina Faso,9.4463600,-2.7662300,2021-03-14 00:00:00,2021-03-14 07:42:08,0,Christian COURBOIS,Village de Fadio,2,0,Christian COURBOIS,
+2565780,Burkina Faso,11.1870200,-4.3329400,2021-03-04 00:00:00,2021-03-04 18:39:12,0,kwynmene,Jardin Botanique régional Baba Traoré,2,0,kwynmene,
+2565778,Burkina Faso,11.1875500,-4.3306100,2021-03-04 00:00:00,2021-03-04 18:37:51,0,kwynmene,Terrain d'entraînement de l'AJEB,2,0,kwynmene,
+2565776,Burkina Faso,11.1866400,-4.3307600,2021-03-04 00:00:00,2021-03-04 18:36:01,0,kwynmene,Conseil régional des Hauts-Bassins,2,0,kwynmene,
+2565716,Burkina Faso,11.1697400,-4.2874000,2021-03-04 00:00:00,2021-03-04 18:01:35,0,kwynmene,Cet établissement ne s'appelle plus École Nouvelle mais Lycée privé Savanus,2,0,kwynmene,
+2565742,Burkina Faso,11.1699700,-4.2873600,2021-03-04 00:00:00,2021-03-04 17:53:47,0,kwynmene,Lycée privé SAVANUS,2,0,kwynmene,
+2565740,Burkina Faso,11.1709868,-4.2783485,2021-03-04 00:00:00,2021-03-04 17:49:17,0,kwynmene,Pizza chez Fabrice,2,0,kwynmene,
+2565737,Burkina Faso,11.1728100,-4.2789900,2021-03-04 00:00:00,2021-03-04 17:47:04,0,kwynmene,EXALAB,2,0,kwynmene,
+2565736,Burkina Faso,11.1725500,-4.2795000,2021-03-04 00:00:00,2021-03-04 17:45:42,0,kwynmene,Centre national des scouts du Burkina Faso,2,0,kwynmene,
+2565734,Burkina Faso,11.1718393,-4.2775922,2021-03-04 00:00:00,2021-03-04 17:44:24,0,kwynmene,Jardin Kaboré,2,0,kwynmene,
+2565729,Burkina Faso,11.1700710,-4.2788073,2021-03-04 00:00:00,2021-03-04 17:42:54,0,kwynmene,Institut FREE Afrik à Bobo-Dioulasso,2,0,kwynmene,
+2565720,Burkina Faso,11.1712520,-4.2792092,2021-03-04 00:00:00,2021-03-04 17:41:15,0,kwynmene,Direction régionale des transports et de la mobilité urbaine des Hauts-Bassins,4,1,kwynmene,
+2535364,Burkina Faso,11.0641000,-0.4581000,2021-02-12 00:00:00,2021-02-12 10:54:27,0,Christian COURBOIS,Village de Youga,2,0,kartonage,Duplicate note. (https://www.openstreetmap.org/note/2535362)
+2528737,Burkina Faso,13.5668873,-2.4110055,2021-02-07 00:00:00,2021-02-07 09:44:25,0,Unknown,Siège Agence SOTRACO OUAHIGOUYA,2,0,KONDOMBO,
+2511745,Burkina Faso,12.7749733,-1.5969658,2021-01-25 00:00:00,2021-01-25 10:54:44,0,Unknown,"La note est incorrecte, supprimez.",2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2486111,Burkina Faso,12.2479600,-2.3947800,2021-01-05 00:00:00,2021-01-05 12:51:00,0,Unknown,Restaurant Biobab,3,1,Koala Sibiri,
+1621015,Burkina Faso,12.3896857,-1.4733254,2018-12-19 00:00:00,2020-12-31 12:18:56,0,Oumar SAVADOGO,'Company operation warehouse.' POI name: MAGASIN UNICOM COMMODITIES POI types: office-company OSM data version: 2018-10-30T22:25:02Z  #mapsme,2,0,Enock4seth,Merci :)
+407871,Burkina Faso,15.0245048,-0.4340029,2015-08-03 00:00:00,2020-12-14 10:21:27,0,ramyaragupathy,Is the historic mansion şerbetçisi located here?,2,0,RobSoll,
+2418212,Burkina Faso,12.4027600,-1.4734200,2020-11-10 00:00:00,2020-11-10 13:34:04,0,Wendé,Garage Cissé Moussa,2,0,Wendé,
+2315825,Burkina Faso,12.4767900,-3.4552500,2020-08-21 00:00:00,2020-08-21 00:26:57,0,Kosmey,Station de lavage et collage (Chez Sami),4,1,Kosmey,Station de lavage et collage chez Sami
+2292198,Burkina Faso,12.3073000,-2.9129000,2020-08-03 00:00:00,2020-08-03 17:51:58,0,Unknown,point,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2272000,Burkina Faso,12.3263465,-1.5354207,2020-07-19 00:00:00,2020-07-19 23:05:48,0,Baowendson,SITAM (Installation Techniques Approvisionnement et Maintenance),2,0,Baowendson,SITAM (Installation Techniques Approvisionnement et Maintenance)
+2271994,Burkina Faso,12.3262312,-1.5354413,2020-07-19 00:00:00,2020-07-19 22:44:49,0,Baowendson,BWiC,2,0,Baowendson,
+2271904,Burkina Faso,12.3256855,-1.5363564,2020-07-19 00:00:00,2020-07-19 20:47:36,0,Baowendson,Paroisse Notre Dame des Apôtres CCB Sainte Anne,2,0,Baowendson,Paroisse Notre Dame des Apôtres CCB Sainte Anne
+2271854,Burkina Faso,12.3259691,-1.5356569,2020-07-19 00:00:00,2020-07-19 20:09:12,0,Baowendson,École maternelle Matania,4,1,Baowendson,École maternelle Matania
+1996733,Burkina Faso,12.2467273,-0.6276772,2019-11-15 00:00:00,2020-07-11 10:56:44,0,edvac,Total,4,1,Stevi saw,
+2237482,Burkina Faso,12.2932000,-2.4270000,2020-06-21 00:00:00,2020-06-21 22:47:36,0,Unknown,gjhhjhohi,2,0,kartonage,Gibberish.
+2237478,Burkina Faso,12.2790375,-2.3951912,2020-06-21 00:00:00,2020-06-21 22:47:31,0,Unknown,gg  fufof ufyfhghghhhooo,2,0,kartonage,Gibberish.
+2214416,Burkina Faso,12.3743100,-1.5334200,2020-06-01 00:00:00,2020-06-01 15:36:06,0,Unknown,Boutique d'un ami,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+2185500,Burkina Faso,13.7977000,-0.6512000,2020-05-08 00:00:00,2020-05-08 12:31:05,0,OURBA,Bonjour svp le nom Ourba c'est pas un village.c'est moi j'ai enregistré ça pas hasard sans savoir.je sollicite qu'on supprime ça.merci d'avance.,2,0,OURBA,
+2175865,Burkina Faso,12.3756156,-1.4918282,2020-04-29 00:00:00,2020-04-29 15:17:46,0,Dibloni Innocent,La clinique est fermée. Elle est remplacée par  un lycée technique appelé Nebnooma,2,0,Dibloni Innocent,"Test, Plroblème résolue"
+1728968,Burkina Faso,12.3245481,-1.5565786,2019-03-30 00:00:00,2020-04-18 14:04:15,0,Don Omer,'château d'eau' POI has no name POI types: man_made-water_tower OSM data version: 2019-01-13T09:03:02Z  #mapsme,2,0,Tom360,
+1202189,Burkina Faso,13.5633886,-2.4232923,2017-11-10 00:00:00,2020-03-26 15:29:34,0,Mateusz Konieczny,is it airport and runway present or not?,2,0,MarTintamarre,Airport has been removed in the meantime
+2123910,Burkina Faso,13.2979635,-1.5252972,2020-03-18 00:00:00,2020-03-18 10:54:55,0,BAZOUN Eli,Bureau MdM,2,0,BAZOUN Eli,
+2110124,Burkina Faso,11.1509982,-3.0623801,2020-03-04 00:00:00,2020-03-04 11:17:19,0,Zenbluenind,Emplacement de la boulangerie Bangbaat,5,1,Zenbluenind,Emplacement de la boulangerie Bangbaat
+2104336,Burkina Faso,12.3662210,-0.7976343,2020-02-27 00:00:00,2020-02-27 22:55:58,0,Diallosadou,gandeogo,3,1,Diallosadou,Gandeogo
+2085167,Burkina Faso,14.4193854,-1.5511322,2020-02-10 00:00:00,2020-02-11 15:24:33,0,Jean-Marc LAFON,MMMMMM,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1717274,Burkina Faso,12.2742989,-1.7135239,2019-03-20 00:00:00,2020-01-27 16:33:03,0,Unknown,tanghin dassouri ciudad Enora,2,0,Houssou,
+1690095,Burkina Faso,11.1719419,-4.3405169,2019-02-23 00:00:00,2020-01-16 09:08:54,0,Unknown,On doit ecrire Ecole Superieure D'Informatique au lieu de Ecole Superieur d'informatique,2,0,Ibrahim ZEBA,
+924744,Burkina Faso,11.1728235,-4.3002194,2017-03-12 00:00:00,2020-01-16 09:05:21,0,Oumarous,Bureau ONATEL (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,Ibrahim ZEBA,
+1207740,Burkina Faso,11.1736700,-4.3085200,2017-11-16 00:00:00,2020-01-16 09:05:15,0,Corentin Genin,Villa Rose (chambre d'hôtes),2,0,Ibrahim ZEBA,
+2058893,Burkina Faso,11.1786000,-4.3073400,2020-01-16 00:00:00,2020-01-16 08:59:44,0,Ibrahim ZEBA,Gare ferroviaire SITARAIL,2,0,Ibrahim ZEBA,
+2058889,Burkina Faso,11.1647000,-4.3232000,2020-01-16 00:00:00,2020-01-16 08:54:35,0,Ibrahim ZEBA,Aéroport International de Bobo Dioulasso,2,0,Ibrahim ZEBA,
+2058884,Burkina Faso,11.1511200,-4.3124600,2020-01-16 00:00:00,2020-01-16 08:50:53,0,Ibrahim ZEBA,Usine SAP Olympique,2,0,Ibrahim ZEBA,
+2058879,Burkina Faso,11.1533611,-4.3120158,2020-01-16 00:00:00,2020-01-16 08:48:13,0,Ibrahim ZEBA,Usine SNCitec,4,1,Ibrahim ZEBA,
+1987569,Burkina Faso,10.3151527,-4.6509295,2019-11-07 00:00:00,2020-01-15 19:44:07,0,Kazakore,"'this region is called Comoe, not Waterfalls!' POI name: Cascades POI types: place-region OSM data version: 2019-09-09T23:32:17Z  #mapsme",2,0,Syl,Duplicated note
+1987553,Burkina Faso,10.3151527,-4.6509295,2019-11-07 00:00:00,2020-01-15 19:43:55,0,Kazakore,"'this region is called Comoe, not Waterfalls!' POI name: Cascades POI types: place-region OSM data version: 2019-09-09T23:32:17Z  #mapsme",2,0,Syl,Duplicated note
+2048184,Burkina Faso,11.1587334,-4.2831622,2020-01-06 00:00:00,2020-01-06 13:49:18,0,Assistance automobile,Erreur d'emplacement,4,1,Assistance automobile,Assistance automobile
+2040861,Burkina Faso,13.2148600,-2.2477500,2019-12-30 00:00:00,2019-12-30 11:05:20,0,Oumar SAVADOGO,Racine des SAVADOGO,2,0,Oumar SAVADOGO,
+2011180,Burkina Faso,11.1039684,-2.0926029,2019-11-28 00:00:00,2019-12-16 23:39:01,0,Unknown,Pas de ruelle.,2,0,edvac,Corrigé
+1972235,Burkina Faso,11.0988379,-2.1167161,2019-10-24 00:00:00,2019-12-16 23:39:01,0,edvac,Puit d'eau,2,0,edvac,Ajouté à la carte
+1971549,Burkina Faso,11.1024887,-2.0997151,2019-10-23 00:00:00,2019-12-16 23:39:01,0,edvac,Gare de bus- compagnie STAF,2,0,edvac,Ajouté
+1972277,Burkina Faso,11.0946835,-2.0994430,2019-10-24 00:00:00,2019-12-16 23:39:00,0,edvac,Puit d'eau,2,0,edvac,Ajouté
+1965931,Burkina Faso,11.1025215,-2.1000828,2019-10-18 00:00:00,2019-12-16 23:39:00,0,edvac,Gare routière,2,0,edvac,Ajouté
+1971901,Burkina Faso,11.0868882,-2.1007817,2019-10-23 00:00:00,2019-12-16 23:38:59,0,OUEDRAOGO FOUSSENI,Mosquée,2,0,edvac,Ajoutée
+1972601,Burkina Faso,11.0988057,-2.0974942,2019-10-24 00:00:00,2019-12-16 23:38:59,0,edvac,Top (coiffure homme),2,0,edvac,ajouté
+1965898,Burkina Faso,11.1018694,-2.1013974,2019-10-18 00:00:00,2019-12-16 23:38:59,0,edvac,Antenne ONATEL,2,0,edvac,Ajouté
+1972234,Burkina Faso,11.0995015,-2.1173563,2019-10-24 00:00:00,2019-12-16 23:38:58,0,edvac,Ref=RR10,2,0,edvac,Ajouté
+1971445,Burkina Faso,11.1025406,-2.1081914,2019-10-23 00:00:00,2019-12-16 23:38:58,0,edvac,Maquis Resto la jet 7 Kouritta,2,0,edvac,Ajouté
+1971900,Burkina Faso,11.0963684,-2.1021230,2019-10-23 00:00:00,2019-12-16 23:38:57,0,OUEDRAOGO FOUSSENI,CLINIQUE VÉTÉRINAIRE LE PROGRÈS,2,0,edvac,Ajoutée à la carte
+1972290,Burkina Faso,11.0959874,-2.0951822,2019-10-24 00:00:00,2019-12-16 23:38:57,0,edvac,Mosquée,2,0,edvac,Ajoutée
+1971529,Burkina Faso,11.0971853,-2.1030769,2019-10-23 00:00:00,2019-12-16 23:38:57,0,edvac,Mosquée,2,0,edvac,Ajoutée
+2011103,Burkina Faso,11.0963599,-2.1156714,2019-11-28 00:00:00,2019-12-16 23:38:56,0,OUEDRAOGO FOUSSENI,ASSEMBLÉE ÉVANGÉLIQUE DE PENTECÔTE,2,0,edvac,Ajoutée à la carte
+1973675,Burkina Faso,11.0990557,-2.1094488,2019-10-25 00:00:00,2019-12-16 23:38:56,0,edvac,Mosquée,2,0,edvac,Ajoutée
+1973905,Burkina Faso,11.1014862,-2.0944044,2019-10-25 00:00:00,2019-12-16 23:38:56,0,edvac,This short cut doesn't exist,2,0,edvac,Corrigé
+1971467,Burkina Faso,11.0933537,-2.1092111,2019-10-23 00:00:00,2019-12-16 23:38:55,0,edvac,ford=yes,2,0,edvac,Ajouté
+1972228,Burkina Faso,11.0995375,-2.1194534,2019-10-24 00:00:00,2019-12-16 23:38:55,0,edvac,Mosquée,2,0,edvac,Ajoutée à la carte
+1972284,Burkina Faso,11.0936512,-2.0964659,2019-10-24 00:00:00,2019-12-16 23:38:54,0,edvac,Mosquée,2,0,edvac,Ajoutée
+1971434,Burkina Faso,11.1086013,-2.1058057,2019-10-23 00:00:00,2019-12-16 23:38:54,0,edvac,Good Vision Glasses - magazine de lunettes,2,0,edvac,Ajouté
+1971556,Burkina Faso,11.1051634,-2.0981917,2019-10-23 00:00:00,2019-12-16 23:38:54,0,edvac,Pharmacie Sissili,2,0,edvac,Ajouté
+1974651,Burkina Faso,11.1249884,-2.0815413,2019-10-26 00:00:00,2019-12-16 23:38:53,0,edvac,Complexe scolaire Berekia,2,0,edvac,Ajouté
+1971382,Burkina Faso,11.1012216,-2.1031748,2019-10-23 00:00:00,2019-12-16 23:38:53,0,edvac,Parking velo,2,0,edvac,Ajouté
+2011120,Burkina Faso,11.1016417,-2.0918079,2019-11-28 00:00:00,2019-12-16 23:38:52,0,Unknown,Lycée Espoir de Leo,2,0,edvac,ajoutée
+1971903,Burkina Faso,11.0902153,-2.1013263,2019-10-23 00:00:00,2019-12-16 23:38:52,0,OUEDRAOGO FOUSSENI,COLLÈGE PRIVÉ LE CHALLENGE,2,0,edvac,Ajouté
+1343655,Burkina Faso,11.1096090,-2.0906524,2018-03-31 00:00:00,2019-12-16 23:38:52,0,sibatheo,Zone d'accident croisement,2,0,edvac,Pas cartographiable
+1971522,Burkina Faso,11.0942115,-2.1018939,2019-10-23 00:00:00,2019-12-16 23:38:51,0,edvac,Maquis Resto Le Privilège,2,0,edvac,Ajouté
+1972236,Burkina Faso,11.0984501,-2.1143532,2019-10-24 00:00:00,2019-12-16 23:38:51,0,edvac,Maquis Léo Ywan Sect 4,2,0,edvac,Ajouté à la carte
+1971381,Burkina Faso,11.1019852,-2.1030756,2019-10-23 00:00:00,2019-12-16 23:38:50,0,edvac,Lycée La Solution,2,0,edvac,Ajouté
+1971902,Burkina Faso,11.0892356,-2.0999482,2019-10-23 00:00:00,2019-12-16 23:38:50,0,OUEDRAOGO FOUSSENI,Mosquée,2,0,edvac,Ajoutée
+1971437,Burkina Faso,11.1078458,-2.1068949,2019-10-23 00:00:00,2019-12-16 23:38:50,0,edvac,Puit d'eau,2,0,edvac,ajouté
+2009140,Burkina Faso,12.3436600,-1.5779100,2019-11-26 00:00:00,2019-11-26 20:39:08,0,cyr gerard,bar guichet vip,4,1,cyr gerard,
+1779977,Burkina Faso,14.0331996,-0.0371239,2019-05-15 00:00:00,2019-11-08 06:26:48,0,Koadima,"'Ici, un' POI has no name POI types: amenity-motorcycle_parking OSM data version: 2019-03-28T14:13:02Z  #mapsme",2,0,freebeer,incomplete duplicate
+1507201,Burkina Faso,11.1498000,-3.0621000,2018-08-29 00:00:00,2019-10-28 03:52:58,0,Zenbluenind,Station SODIS,2,0,Zenbluenind,
+1507197,Burkina Faso,11.1475849,-3.0558182,2018-08-29 00:00:00,2019-10-28 03:30:04,0,Zenbluenind,Station SODIS,3,1,Zenbluenind,
+1971493,Burkina Faso,11.0956357,-2.1016660,2019-10-23 00:00:00,2019-10-24 06:43:54,0,edvac,Place de la femme,2,0,edvac,Ajoutée
+1969754,Burkina Faso,11.1074800,-2.0927364,2019-10-21 00:00:00,2019-10-21 22:05:52,0,BAMBORE NINA EDWIGE,Mosqué,2,0,edvac,"Merci beaucoup, Nina!!"
+1969729,Burkina Faso,11.0989982,-2.1005609,2019-10-21 00:00:00,2019-10-21 21:41:35,0,Hamado Ouédraogo,AgrotechDev,2,0,edvac,"Merci encore, Hamado!"
+1969728,Burkina Faso,11.0952554,-2.1005319,2019-10-21 00:00:00,2019-10-21 21:33:14,0,Hamado Ouédraogo,Église catholique de leo,2,0,edvac,"Merci beaucoup, Hamado !!"
+1969726,Burkina Faso,11.0952554,-2.1005319,2019-10-21 00:00:00,2019-10-21 21:32:22,0,Hamado Ouédraogo,Église catholique de leo,2,0,edvac,"Merci beaucoup, Hamado!"
+1199324,Burkina Faso,12.3747793,-1.5344612,2017-11-08 00:00:00,2019-10-06 23:31:36,0,Adamsous,'domicile' POI has no name POI types: highway-residential OSM data version: 2017-10-20T12:20:02Z  #mapsme,2,0,Syl,"Sûrement une note personnelle, aucune info utile pour OpenStreetMap"
+1922176,Burkina Faso,12.5217203,-1.4683914,2019-09-12 00:00:00,2019-09-13 17:26:02,0,Unknown,Привет,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1316261,Burkina Faso,12.3657668,-1.5193413,2018-03-03 00:00:00,2019-09-10 14:28:47,0,Jeanine Reinhard,"'been there, not there anymore' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Rakieta POI types: amenity-bus_station OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Syl,Removed
+1765624,Burkina Faso,12.3693626,-1.5226954,2019-05-03 00:00:00,2019-09-09 08:15:00,0,Unknown,Ce carrefour n'est pas la mieux indiquée pour etre a cette position,3,0,Syl,
+1912124,Burkina Faso,12.3378766,-1.5005865,2019-09-03 00:00:00,2019-09-04 15:34:44,0,Unknown,355093081085058,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1900475,Burkina Faso,13.0142376,-1.7155623,2019-08-25 00:00:00,2019-08-25 17:41:58,0,ALPHONSE OUEDRAOGO,Rana,3,1,ALPHONSE OUEDRAOGO,
+1850445,Burkina Faso,13.6966933,-0.9219361,2019-07-20 00:00:00,2019-07-20 14:58:09,0,Alec Ruga,IED 17 Jul 19,4,1,Alec Ruga,
+1850433,Burkina Faso,13.1686508,-3.8926209,2019-07-20 00:00:00,2019-07-20 14:52:59,0,Alec Ruga,IED Mo 15 Jul 19,2,0,Alec Ruga,
+1805964,Burkina Faso,11.1338744,-4.2235000,2019-06-09 00:00:00,2019-06-09 07:30:24,0,Eric YOUL,Village : Kouakouali,2,0,Eric YOUL,
+1327607,Burkina Faso,12.4121743,-1.5110278,2018-03-14 00:00:00,2019-05-03 21:57:50,0,Unknown,Maison,2,0,Dibloni Innocent,
+1765619,Burkina Faso,12.4418884,-1.4436829,2019-05-03 00:00:00,2019-05-03 11:20:07,0,Unknown,"C'est un arrêt, ce n'est plus le terminus de la ligne 6B.",2,0,KONDOMBO,c'est un teste Le problème est résolu
+1765618,Burkina Faso,12.4420036,-1.4437580,2019-05-03 00:00:00,2019-05-03 11:19:22,0,Unknown,C'est arrêt n'est plus un terminus car la ligne a été prolongé,2,0,Dibloni Innocent,c'est un test
+1425137,Burkina Faso,11.9956796,-1.2379744,2018-06-13 00:00:00,2019-03-29 21:36:12,0,NWR2018,village (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Syl,Note en double
+1421457,Burkina Faso,11.8166664,-1.3666673,2018-06-09 00:00:00,2019-03-29 21:35:39,0,NWR2018,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'le village se situe plus loin de la ' (OSM data version: 2016-08-22T09:03:02Z) #mapsme",2,0,Syl,Note en double
+1420354,Burkina Faso,12.0668631,-1.3355908,2018-06-08 00:00:00,2019-03-29 21:31:54,0,NWR2018,station d'essence (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Syl,Ajoutée depuis
+1417112,Burkina Faso,11.8735206,-1.4686410,2018-06-05 00:00:00,2019-03-29 21:30:24,0,NWR2018,village (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Syl,Note en double
+1403982,Burkina Faso,11.3623883,-0.6987727,2018-05-24 00:00:00,2019-03-29 21:27:40,0,NWR2018,village (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Syl,Note en double
+1403981,Burkina Faso,11.9350651,-1.2314849,2018-05-24 00:00:00,2019-03-29 21:26:47,0,NWR2018,village (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Syl,Note en double
+1403967,Burkina Faso,11.3757868,-0.6653690,2018-05-24 00:00:00,2019-03-29 21:25:15,0,NWR2018,village (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Syl,Note en double
+1403652,Burkina Faso,11.3924635,-0.6356054,2018-05-24 00:00:00,2019-03-29 21:24:10,0,NWR2018,village (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Syl,Note en double
+1026343,Burkina Faso,12.9885004,-1.3440228,2017-06-11 00:00:00,2019-03-29 21:16:11,0,Unknown,Mane,2,0,Syl,Nom déjà présent
+833958,Burkina Faso,12.3761994,-1.4785610,2016-12-29 00:00:00,2019-03-29 21:09:30,0,Albert POUYA,rue 28.246 (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,Syl,Note en double
+690797,Burkina Faso,12.3328551,-1.5175845,2016-08-27 00:00:00,2019-03-29 21:03:15,0,burkinar,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-08-22T09:03:02Z) #mapsme",2,0,Syl,Il n'y a rien ici.
+614844,Burkina Faso,12.0753100,-1.6880109,2016-07-03 00:00:00,2019-03-29 20:09:43,0,Brian Kong,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-06-20T05:57:02Z) #mapsme",2,0,Syl,Il n'y a rien ici (à part le nom du pays)
+521174,Burkina Faso,12.3819223,-1.5698969,2016-03-01 00:00:00,2019-03-29 20:05:40,0,Dibloni Innocent,"Cette rue est à double sens, goudronnée et dispose d'un éclairage public",4,1,Syl,Informations présentes
+393539,Burkina Faso,12.3828602,-1.4891697,2015-07-09 00:00:00,2019-03-29 20:03:28,0,SeverinGeo,Agence Onatel,2,0,Syl,Déjà présente
+401874,Burkina Faso,12.3657209,-1.5150252,2015-07-23 00:00:00,2019-03-29 20:03:03,0,Guy Maurel KONAN,good year,2,0,Syl,Déjà présent
+390662,Burkina Faso,11.2145767,-4.3096963,2015-07-03 00:00:00,2019-03-29 19:55:19,0,Unknown,ici emplacement de la boulangerie Apiou,2,0,Syl,Déjà présente
+1570793,Burkina Faso,12.3299893,-1.5010757,2018-10-25 00:00:00,2018-12-13 21:45:54,0,Dibloni Innocent,Ici restaurant chez Mamou,2,0,dmlu,"Merci, j’ajouté le restaurant dans https://www.openstreetmap.org/changeset/65455758."
+1570795,Burkina Faso,12.3297678,-1.5011066,2018-10-25 00:00:00,2018-12-13 21:45:48,0,Unknown,restaurant chez mamou,2,0,dmlu,"Merci, j’ajouté le restaurant dans https://www.openstreetmap.org/changeset/65455758."
+1614458,Burkina Faso,12.3078023,1.5051270,2018-12-11 00:00:00,2018-12-12 07:48:32,0,Unknown,sicurité (This note have been created from Geovelo : http://amenagements-cyclables.fr/fr/contributions/5862),2,0,simon_geovelo,
+1499820,Burkina Faso,14.6155967,0.1403980,2018-08-23 00:00:00,2018-11-24 00:48:56,0,radis noir,'Cet affluent du Gourouol s'appelle le Banizoumbou.' POI has no name POI types: waterway-river OSM data version: 2018-07-05T18:22:02Z  #mapsme,2,0,edvac,Ajouté le nom du affluent. Merci!
+401866,Burkina Faso,12.3618533,-1.5438421,2015-07-23 00:00:00,2018-11-14 17:36:56,0,Guy Maurel KONAN,groupe esco,2,0,Dibloni Innocent,Note résolue
+1506458,Burkina Faso,12.4058892,-1.4702035,2018-08-29 00:00:00,2018-11-03 08:43:01,0,Théodore WaCongo,'sigui vooss' POI has no name POI types: highway-rest_area OSM data version: 2017-12-08T15:42:02Z  #mapsme,2,0,Syl,Duplicate note
+1006867,Burkina Faso,12.3720507,-1.5185045,2017-05-25 00:00:00,2018-11-03 08:40:49,0,Pearl Chao,BRAVIA HOTEL  (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,Syl,Duplicate note
+762470,Burkina Faso,11.1714182,-4.3044012,2016-10-26 00:00:00,2018-11-03 08:39:42,0,Diarra Mohamed,Rue LASSANA DIAKITÉ  (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Syl,Note en double
+828220,Burkina Faso,12.3482385,-1.5354292,2016-12-25 00:00:00,2018-11-01 00:16:50,0,Oueder,vernis bonkoun (OSM data version: 2016-11-23T15:14:03Z) #mapsme,2,0,Syl,Duplicate note
+859300,Burkina Faso,12.3843670,-1.5787892,2017-01-22 00:00:00,2018-11-01 00:15:23,0,Unknown,onosm.org submitted note from a business: name:  phone:  website:  twitter:  hours:  category: Adult Education address: fogone wande,2,0,Syl,No information
+866864,Burkina Faso,13.0915170,-1.0845566,2017-01-26 00:00:00,2018-11-01 00:14:05,0,Unknown,Manifestation pacifique en cours à Kaya,2,0,Syl,"Note personnelle, rien à ajouter à la carte."
+710828,Burkina Faso,12.2451098,-0.4319443,2016-09-13 00:00:00,2018-10-27 12:15:36,0,yayaoue,Grand Marché (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,freebeer,on the map
+401869,Burkina Faso,12.3595384,-1.5432705,2015-07-23 00:00:00,2018-10-27 12:13:42,0,Guy Maurel KONAN,scbf,2,0,freebeer,on the map
+710829,Burkina Faso,12.2451098,-0.4319443,2016-09-13 00:00:00,2018-10-27 12:11:59,0,yayaoue,Grand Marché (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,freebeer,on the map
+704182,Burkina Faso,12.3244476,-2.4559164,2016-09-07 00:00:00,2018-10-27 12:11:19,0,Unknown,the map is not detailled enough. The office,2,0,freebeer,no info.  nothing hre.
+1061925,Burkina Faso,14.3740142,-0.3318000,2017-07-12 00:00:00,2018-10-27 12:09:01,0,Franz Najean,Site.,2,0,freebeer,no info
+1301896,Burkina Faso,11.1830197,-4.4433616,2018-02-16 00:00:00,2018-10-27 12:06:53,0,Nomadmapper,'Nomad MAPS' POI has no name POI types: amenity-waste_basket OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,freebeer,no info
+1301894,Burkina Faso,11.1831677,-4.4436217,2018-02-16 00:00:00,2018-10-27 12:06:36,0,Nomadmapper,'NOMAD MAPS Burkina Faso' POI has no name POI types: amenity-toilets OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,freebeer,no info
+1301895,Burkina Faso,11.1832410,-4.4435834,2018-02-16 00:00:00,2018-10-27 12:06:16,0,Nomadmapper,'NOMAD MAPS' POI has no name POI types: amenity-motorcycle_parking OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,freebeer,no info
+1301897,Burkina Faso,11.1864003,-4.4419432,2018-02-16 00:00:00,2018-10-27 12:05:54,0,Nomadmapper,'Nomad MAPS' POI has no name POI types: amenity-bench OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,freebeer,no info
+1301898,Burkina Faso,11.2019706,-4.4383627,2018-02-16 00:00:00,2018-10-27 12:05:32,0,Nomadmapper,'Nomad Maps' POI has no name POI types: amenity-waste_basket OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,freebeer,no info
+1012241,Burkina Faso,12.3582000,-1.5142000,2017-05-29 00:00:00,2018-10-27 11:58:43,0,Tiemtore,Aeroport de Ouagadougou,2,0,freebeer,on the map
+1253018,Burkina Faso,12.3601888,-1.5054448,2017-12-30 00:00:00,2018-10-27 11:57:59,0,brooksdonald,"'this addition is not correct.  ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: building OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,freebeer,nothing at marker
+1450913,Burkina Faso,12.1873266,-1.6342462,2018-07-11 00:00:00,2018-10-27 11:56:46,0,NWR2018,haut commissariat de Komsilga (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,freebeer,on the map
+1450912,Burkina Faso,12.1799232,-1.6268981,2018-07-11 00:00:00,2018-10-27 11:56:00,0,NWR2018,gendarmerie de komsilga (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,freebeer,on the map
+1506459,Burkina Faso,12.4058892,-1.4702035,2018-08-29 00:00:00,2018-10-27 11:54:52,0,Théodore WaCongo,'my life' POI name: Theodore POI types: amenity-nursing_home OSM data version: 2017-12-08T15:42:02Z  #mapsme,2,0,freebeer,personal maps.me bookmark
+1506460,Burkina Faso,12.4058892,-1.4702035,2018-08-29 00:00:00,2018-10-27 11:54:04,0,Théodore WaCongo,'my life' POI name: Théodore POI types: amenity-nursing_home OSM data version: 2017-12-08T15:42:02Z  #mapsme,2,0,freebeer,personal maps.me bookmark
+1555404,Burkina Faso,12.3047800,-1.5293800,2018-10-10 00:00:00,2018-10-27 11:53:07,0,Unknown,carte,2,0,freebeer,no info
+1563835,Burkina Faso,11.1460664,-0.5932617,2018-10-17 00:00:00,2018-10-27 11:52:48,0,Unknown,Gare d'Orléans (This note have been created from Geovelo : http://amenagements-cyclables.fr/fr/contributions/5379),2,0,freebeer,middle of nowhere
+1550983,Burkina Faso,12.3379909,-1.5335302,2018-10-05 00:00:00,2018-10-25 12:55:37,0,contributeur10,'Comment modifier la catégorie ? Cette bibliothèque a été transformée en centre de santé il y a quelques semaines. je peux vous envoyer la photo également. merci' POI name: CSPS Centre de santé ICCV Nazemse POI types: amenity-library OSM data version: 2018-08-04T14:22:01Z  #mapsme,2,0,Dibloni Innocent,Le problème a été résolu
+1341318,Burkina Faso,12.3292062,-1.4762878,2018-03-28 00:00:00,2018-10-06 14:37:24,0,Dibloni Innocent,A remplacer SOGEl B par OTAM,2,0,Dibloni Innocent,c'est ok
+1348696,Burkina Faso,12.3815870,-1.5449524,2018-04-04 00:00:00,2018-09-26 13:19:47,0,rheritier,Ouagadougou,2,0,Syl,
+1494078,Burkina Faso,10.6357292,-4.7567689,2018-08-18 00:00:00,2018-08-18 17:54:15,0,absguebre,MAQUIS-RESTAURANT TIEBA,2,0,absguebre,
+1027707,Burkina Faso,11.1208716,-4.5047165,2017-06-12 00:00:00,2018-08-16 22:46:00,0,Enock4seth,Une notre route et pond à 👉 droit,2,0,edvac,Info ajoutée
+1027709,Burkina Faso,11.1251867,-4.4820408,2017-06-12 00:00:00,2018-08-16 22:43:26,0,Enock4seth,intermittent,2,0,edvac,Info ajoutée à la carte
+1027708,Burkina Faso,11.1219146,-4.4973969,2017-06-12 00:00:00,2018-08-16 22:43:25,0,Enock4seth,mosque,2,0,edvac,Info ajoutée à la carte
+1302175,Burkina Faso,11.1523055,-4.2815972,2018-02-16 00:00:00,2018-08-16 22:39:27,0,Wesou Telou,'open air Balafons concert on Friday nights' POI name: Farafina Love POI types: amenity-bar OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,edvac,Ajoutée déjà
+1403983,Burkina Faso,11.4224801,-0.7687001,2018-05-24 00:00:00,2018-08-16 22:34:08,0,NWR2018,mairie de gon-boussougou (OSM data version: 2016-08-22T09:03:02Z) #mapsme,4,1,edvac,Information ajoutée à la carte
+1370558,Burkina Faso,11.2076541,0.0097439,2018-04-23 00:00:00,2018-08-16 22:23:29,0,sibatheo,Mairie de Yargatenga,2,0,edvac,Information ajoutée à la carte
+1348241,Burkina Faso,11.1688897,-1.1371853,2018-04-04 00:00:00,2018-08-13 15:01:17,0,sibatheo,Maison jeunes de PÔ,2,0,edvac,Info ajoutée à la carte
+1348248,Burkina Faso,11.1678067,-1.1448067,2018-04-04 00:00:00,2018-08-13 15:01:16,0,sibatheo,Maison des jeunes et de la culture,2,0,edvac,Info ajoutée à la carte
+1348249,Burkina Faso,11.1676374,-1.1440908,2018-04-04 00:00:00,2018-08-13 15:01:15,0,sibatheo,Maison de la femme,2,0,edvac,Info ajoutée à la carte
+1348238,Burkina Faso,11.1715782,-1.1472234,2018-04-04 00:00:00,2018-08-13 15:01:15,0,sibatheo,Radio Communautaire GOULOU,2,0,edvac,Info ajoutée à la carte
+1348237,Burkina Faso,11.1703133,-1.1487200,2018-04-04 00:00:00,2018-08-13 15:01:14,0,sibatheo,SONABEL,2,0,edvac,Info ajoutée à la carte
+1348251,Burkina Faso,11.1639600,-1.1470800,2018-04-04 00:00:00,2018-08-13 15:01:14,0,sibatheo,Agence de la LONAB,2,0,edvac,Info ajoutée à la carte
+1355212,Burkina Faso,11.1677026,-1.1494584,2018-04-10 00:00:00,2018-08-13 15:01:13,0,sibatheo,École primaire I,2,0,edvac,Info ajoutée à la carte
+1348250,Burkina Faso,11.1653559,-1.1480703,2018-04-04 00:00:00,2018-08-12 23:01:54,0,sibatheo,Église Assemblée de Dieu (AD),2,0,edvac,Info ajoutée à la carte
+1348232,Burkina Faso,11.1692231,-1.1456907,2018-04-04 00:00:00,2018-08-12 22:32:07,0,sibatheo,ONATEL,2,0,edvac,Info ajoutée à la carte
+1355214,Burkina Faso,11.1688700,-1.1389167,2018-04-10 00:00:00,2018-08-12 22:32:07,0,sibatheo,Marché Zabré Daaga,2,0,edvac,Info ajoutée à la carte
+1355218,Burkina Faso,11.1742833,-1.1296800,2018-04-10 00:00:00,2018-08-12 21:32:56,0,sibatheo,Collège NOTRE DAME,2,0,edvac,Info ajoutée à la carte
+1355217,Burkina Faso,11.1707250,-1.1333900,2018-04-10 00:00:00,2018-08-12 21:32:36,0,sibatheo,Centre scolaire Éducation sans frontière,2,0,edvac,Info ajoutée à la carte
+1355221,Burkina Faso,11.1707607,-1.1274551,2018-04-10 00:00:00,2018-08-12 21:26:00,0,sibatheo,Lycée Provincial de PÔ,2,0,edvac,Info ajoutée à la carte
+1355216,Burkina Faso,11.1677097,-1.1376652,2018-04-10 00:00:00,2018-08-12 21:25:59,0,sibatheo,Centre Médical avec Antenne chirurgicale CMA (HÔPITAL),2,0,edvac,Info ajoutée à la carte
+1348240,Burkina Faso,11.1671614,-1.1423395,2018-04-04 00:00:00,2018-08-12 21:25:58,0,sibatheo,Mission catholique,2,0,edvac,Info ajoutée à la carte
+1355224,Burkina Faso,11.1731000,-1.1274000,2018-04-10 00:00:00,2018-08-12 21:25:58,0,sibatheo,Centre de Formation Arts et Métiers (CFAM) PK Victor,2,0,edvac,Info ajoutée à la carte
+1348234,Burkina Faso,11.1768746,-1.1444902,2018-04-04 00:00:00,2018-08-12 21:07:01,0,sibatheo,Société Générale Burkina Faso,2,0,edvac,Info ajoutée à la carte
+1355225,Burkina Faso,11.1734181,-1.1206545,2018-04-10 00:00:00,2018-08-12 21:07:00,0,sibatheo,Centre socio-éducatif El Rayane,2,0,edvac,Info ajoutée à la carte
+1348245,Burkina Faso,11.1740517,-1.1445100,2018-04-04 00:00:00,2018-08-12 21:07:00,0,sibatheo,Maquis CENTRE SUD,2,0,edvac,Info ajoutée à la carte
+1348235,Burkina Faso,11.1771083,-1.1426200,2018-04-04 00:00:00,2018-08-12 21:06:59,0,sibatheo,École Philadelphie,2,0,edvac,Info ajoutée à la carte
+1348233,Burkina Faso,11.1763750,-1.1438886,2018-04-04 00:00:00,2018-08-12 21:06:59,0,sibatheo,Bank of Africa,2,0,edvac,Info ajoutée à la carte
+1348246,Burkina Faso,11.1742510,-1.1449266,2018-04-04 00:00:00,2018-08-12 21:06:58,0,sibatheo,Restaurant CHEZ TANTIE ENERGIE,2,0,edvac,Info ajoutée à la carte
+1355213,Burkina Faso,11.1663650,-1.1468150,2018-04-10 00:00:00,2018-08-12 16:35:41,0,sibatheo,Mosquée Ex gare Rakieta,2,0,edvac,Info ajoutée à la carte
+1348243,Burkina Faso,11.1683001,-1.1467682,2018-04-04 00:00:00,2018-08-12 16:35:41,0,sibatheo,Place NEMARO,2,0,edvac,Info ajoutée à la carte
+1348247,Burkina Faso,11.1683602,-1.1457120,2018-04-04 00:00:00,2018-08-12 16:35:40,0,sibatheo,Bureau de la Poste,2,0,edvac,Info ajoutée à la carte
+1355211,Burkina Faso,11.1684566,-1.1459288,2018-04-10 00:00:00,2018-08-12 16:35:39,0,sibatheo,Restaurant Maman Africa,2,0,edvac,Info ajoutée à la carte
+1348242,Burkina Faso,11.1658750,-1.1459400,2018-04-04 00:00:00,2018-08-12 16:35:39,0,sibatheo,Salle de Cinéma,2,0,edvac,Info ajoutée à la carte
+1348239,Burkina Faso,11.1702167,-1.1464917,2018-04-04 00:00:00,2018-08-12 16:35:38,0,sibatheo,Police municipale,2,0,edvac,Info ajoutée à la carte
+1348244,Burkina Faso,11.1696726,-1.1460618,2018-04-04 00:00:00,2018-08-12 16:35:38,0,sibatheo,Station TOTAL,2,0,edvac,Info ajoutée à la carte
+1370621,Burkina Faso,11.0915716,-5.3272534,2018-04-23 00:00:00,2018-08-12 16:04:21,0,sibatheo,Poste de contrôle de la qualité et l'inspection des produits agricoles,2,0,edvac,Info ajoutée à la carte
+1370574,Burkina Faso,11.0781733,-5.3024400,2018-04-23 00:00:00,2018-08-12 16:04:20,0,sibatheo,Préfecture de Koloko,2,0,edvac,Info ajoutée à la carte
+1370615,Burkina Faso,11.0793500,-5.3109500,2018-04-23 00:00:00,2018-08-12 16:04:20,0,sibatheo,Vidéo club CANAL+,2,0,edvac,Info ajoutée à la carte
+1370570,Burkina Faso,11.0914974,-5.3283888,2018-04-23 00:00:00,2018-08-12 16:04:19,0,sibatheo,Direction régionale des douanes de l'ouest,2,0,edvac,Info ajoutée à la carte
+1370623,Burkina Faso,11.0804234,-5.3114419,2018-04-23 00:00:00,2018-08-12 16:04:19,0,sibatheo,Centre de santé et de promotion sociale (CSPS),2,0,edvac,Info ajoutée à la carte
+1370624,Burkina Faso,11.0783633,-5.3004467,2018-04-23 00:00:00,2018-08-12 16:04:18,0,sibatheo,Service départemental de l'environnement et du développement durable,2,0,edvac,Info ajoutée à la carte
+1370625,Burkina Faso,11.0793433,-5.3048683,2018-04-23 00:00:00,2018-08-12 16:04:17,0,sibatheo,Service départemental des ressources animales,2,0,edvac,Info ajoutée à la carte
+1370612,Burkina Faso,11.0739272,-5.2978701,2018-04-23 00:00:00,2018-08-12 16:04:17,0,sibatheo,CEB INSPECTION,2,0,edvac,Info ajoutée à la carte
+1370572,Burkina Faso,11.0814950,-5.3137983,2018-04-23 00:00:00,2018-08-12 16:04:16,0,sibatheo,ONASER,2,0,edvac,Info ajoutée à la carte
+1370656,Burkina Faso,10.1944821,-5.0212792,2018-04-23 00:00:00,2018-08-09 22:55:06,0,sibatheo,Poste de Gendarmerie de Yendere,2,0,edvac,Info ajoutée à la carte
+1370655,Burkina Faso,10.1981933,-5.0122433,2018-04-23 00:00:00,2018-08-09 22:55:05,0,sibatheo,Église Assemblée de Dieu,2,0,edvac,Info ajoutée à la carte
+1370654,Burkina Faso,10.2650090,-4.9281107,2018-04-23 00:00:00,2018-08-09 10:29:00,0,sibatheo,ONASER,2,0,edvac,Ajoutée l'info à la carte
+1370630,Burkina Faso,10.2704677,-4.9240014,2018-04-23 00:00:00,2018-08-09 10:28:59,0,sibatheo,Réseau des caisses populaires du Burkina de Niangoloko,2,0,edvac,Ajoutée l'info à la carte
+1370650,Burkina Faso,10.2680828,-4.9269443,2018-04-23 00:00:00,2018-08-09 10:28:58,0,sibatheo,Société de transit de commerce et de l'industrie (SOTRACI),2,0,edvac,Ajoutée l'info à la carte
+1370657,Burkina Faso,10.2667823,-4.9259886,2018-04-23 00:00:00,2018-08-09 10:28:57,0,sibatheo,Bureau de la Douane,2,0,edvac,Ajoutée l'info à la carte
+1370628,Burkina Faso,10.2826396,-4.9166398,2018-04-23 00:00:00,2018-08-09 08:11:55,0,sibatheo,Brigade territoriale de la Gendarmerie nationale,2,0,edvac,Ajoutée l'info à la carte
+1370647,Burkina Faso,10.2687621,-4.9260234,2018-04-23 00:00:00,2018-08-09 08:11:55,0,sibatheo,BOLLORÉ Transport et logistics,2,0,edvac,Ajoutée
+1370649,Burkina Faso,10.2877776,-4.9046100,2018-04-23 00:00:00,2018-08-09 08:11:54,0,sibatheo,Lycée SANTA,2,0,edvac,Ajoutée
+1370642,Burkina Faso,10.2850102,-4.9110957,2018-04-23 00:00:00,2018-08-09 08:11:54,0,sibatheo,Gare STAF,2,0,edvac,Ajoutée
+1370637,Burkina Faso,10.2807806,-4.9160182,2018-04-23 00:00:00,2018-08-09 08:11:53,0,sibatheo,Mairie,2,0,edvac,Ajoutée
+1370644,Burkina Faso,10.2864796,-4.9082895,2018-04-23 00:00:00,2018-08-09 08:11:52,0,sibatheo,ONEA (Office national des eux et de l'assainissement),2,0,edvac,Ajoutée
+1370658,Burkina Faso,10.2702450,-4.9247183,2018-04-23 00:00:00,2018-08-09 08:11:52,0,sibatheo,Station eco oil,2,0,edvac,Ajoutée l'info à la carte
+1370639,Burkina Faso,10.2834696,-4.9143332,2018-04-23 00:00:00,2018-08-09 08:11:51,0,sibatheo,Boulangerie WEND KONTA,2,0,edvac,Ajoutée l'info à la carte
+1370632,Burkina Faso,10.2757145,-4.9191977,2018-04-23 00:00:00,2018-08-09 08:11:51,0,sibatheo,Bureau commercial ONATEL,2,0,edvac,Ajoutée
+1370653,Burkina Faso,10.2666891,-4.9279210,2018-04-23 00:00:00,2018-08-09 08:11:50,0,sibatheo,Chambre de commerce et d'industrie du Burkina,2,0,edvac,Ajoutée l'info à la carte
+1370648,Burkina Faso,10.2678804,-4.9276508,2018-04-23 00:00:00,2018-08-09 08:11:50,0,sibatheo,Hôtel SOMANAGRÉ,2,0,edvac,Ajoutée
+1370629,Burkina Faso,10.2657117,-4.9244333,2018-04-23 00:00:00,2018-08-09 08:11:49,0,sibatheo,Auberge EQUILIBRE,2,0,edvac,Ajoutée l'info à la carte
+1370636,Burkina Faso,10.2812443,-4.9162721,2018-04-23 00:00:00,2018-08-09 08:11:48,0,sibatheo,Station d'essence TOTAL,2,0,edvac,Ajoutée
+1370643,Burkina Faso,10.2849926,-4.9098699,2018-04-23 00:00:00,2018-08-09 08:11:48,0,sibatheo,SONABEL,2,0,edvac,Ajoutée
+1370631,Burkina Faso,10.2719712,-4.9231284,2018-04-23 00:00:00,2018-08-09 08:11:47,0,sibatheo,Boulangerie NEY,2,0,edvac,Ajoutée
+1370638,Burkina Faso,10.2829178,-4.9157832,2018-04-23 00:00:00,2018-08-09 08:11:47,0,sibatheo,SONAPOST,2,0,edvac,Ajoutée l'info à la carte
+1370652,Burkina Faso,10.2696033,-4.9249791,2018-04-23 00:00:00,2018-08-09 08:11:46,0,sibatheo,Restaurant FERNADO,2,0,edvac,Ajoutée l'info à la carte
+1370626,Burkina Faso,10.2806983,-4.9172083,2018-04-23 00:00:00,2018-08-09 08:11:45,0,sibatheo,Gare Rakieta,2,0,edvac,Ajoutée
+1370633,Burkina Faso,10.2776079,-4.9182808,2018-04-23 00:00:00,2018-08-09 08:11:45,0,sibatheo,UAB Assurances,2,0,edvac,Ajoutée
+1370635,Burkina Faso,10.2819527,-4.9165282,2018-04-23 00:00:00,2018-08-08 19:01:27,0,sibatheo,Bar restaurant LA DIFFÉRENCE,2,0,edvac,Ajoutée l'info à la carte
+1370651,Burkina Faso,10.2787141,-4.9177084,2018-04-23 00:00:00,2018-08-08 19:01:27,0,sibatheo,Grande mosquée,2,0,edvac,Ajoutée l'info à la carte
+1370646,Burkina Faso,10.2840720,-4.9054081,2018-04-23 00:00:00,2018-08-08 19:01:26,0,sibatheo,École primaire franco arabe,2,0,edvac,Ajoutée l'info
+1370634,Burkina Faso,10.2799631,-4.9175427,2018-04-23 00:00:00,2018-08-08 19:01:25,0,sibatheo,Gare Bonheur Transport,2,0,edvac,Ajouté l'info à la carte
+1370627,Burkina Faso,10.2800517,-4.9170028,2018-04-23 00:00:00,2018-08-08 19:01:25,0,sibatheo,Commissariat de Police de District,2,0,edvac,Ajoutée l'info de la note à la carte
+1370641,Burkina Faso,10.2836919,-4.9128405,2018-04-23 00:00:00,2018-08-08 19:01:24,0,sibatheo,Agence LONAB,2,0,edvac,Ajoutée l'info à la carte
+1370640,Burkina Faso,10.2831705,-4.9140535,2018-04-23 00:00:00,2018-08-08 19:01:23,0,sibatheo,Station essence ORYX ENERGIES,2,0,edvac,Ajoutée
+1370553,Burkina Faso,11.1177848,0.0091071,2018-04-23 00:00:00,2018-08-08 18:30:37,0,sibatheo,Grande Mosquée,2,0,edvac,Ajoutée l'info à la carte
+1370560,Burkina Faso,11.1231319,-0.0093082,2018-04-23 00:00:00,2018-08-08 18:30:36,0,sibatheo,Mosquée,2,0,edvac,Ajoutée l'info à la carte
+1355228,Burkina Faso,11.1197333,-0.0050517,2018-04-10 00:00:00,2018-08-08 18:30:35,0,sibatheo,Gare routière,2,0,edvac,Ajoutée l'info à la carte
+1370567,Burkina Faso,11.1177043,-0.0010635,2018-04-23 00:00:00,2018-08-08 18:30:35,0,sibatheo,Motel Bambaga,2,0,edvac,Ajoutée l'info à la carte
+1370555,Burkina Faso,11.1223517,0.0086617,2018-04-23 00:00:00,2018-08-08 18:30:34,0,sibatheo,École primaire Cinkansé A,2,0,edvac,Ajoutée l'info à la carte
+1370548,Burkina Faso,11.1190705,0.0000036,2018-04-23 00:00:00,2018-08-08 18:30:34,0,sibatheo,CORIS BANK,2,0,edvac,Ajoutée l'information à la carte.
+1370562,Burkina Faso,11.1200157,-0.0080156,2018-04-23 00:00:00,2018-08-08 18:30:33,0,sibatheo,Église centrale Temple du Réveil de Cinkansé,2,0,edvac,Ajoutée l'info à la carte
+1370550,Burkina Faso,11.1151741,0.0084481,2018-04-23 00:00:00,2018-08-08 18:30:33,0,sibatheo,Banque atlantique,2,0,edvac,Ajoutée l'info de la note à la carte
+1370557,Burkina Faso,11.1295000,0.0096250,2018-04-23 00:00:00,2018-08-08 18:30:32,0,sibatheo,Hôtel SOKI'S,2,0,edvac,Ajoutée l'info à la carte
+1370552,Burkina Faso,11.1155418,0.0092224,2018-04-23 00:00:00,2018-08-08 18:30:31,0,sibatheo,Église Assemblée de Dieu (AD),2,0,edvac,Ajoutée l'info à la carte
+1370564,Burkina Faso,11.1203017,-0.0067433,2018-04-23 00:00:00,2018-08-08 18:30:31,0,sibatheo,Boulangerie pâtisserie Naaba Boulga,2,0,edvac,Ajoutée l'info à la carte
+1370566,Burkina Faso,11.1179425,-0.0019632,2018-04-23 00:00:00,2018-08-08 18:30:30,0,sibatheo,Mosquée,2,0,edvac,Ajoutée l'info à la carte
+1370559,Burkina Faso,11.1265250,0.0117400,2018-04-23 00:00:00,2018-08-08 18:30:30,0,sibatheo,SONABEL (Société Nationale d'électricité du Burkina) de Cinkansé,2,0,edvac,Ajoutée l'info à la carte
+1355227,Burkina Faso,11.1201015,-0.0064424,2018-04-10 00:00:00,2018-08-08 18:30:29,0,sibatheo,LONAB (Loterie Nationale du Burkina) Agence de Cinkansé,2,0,edvac,Ajoutée l'info à la carte
+1370547,Burkina Faso,11.1183591,-0.0010301,2018-04-23 00:00:00,2018-08-08 18:30:29,0,sibatheo,Clinique Sainte Thérèse,2,0,edvac,Ajoutée l'info de la note à la carte
+1370554,Burkina Faso,11.1214633,0.0092350,2018-04-23 00:00:00,2018-08-08 18:30:28,0,sibatheo,École primaire Cinkansé B,2,0,edvac,Ajoutée l'info à la carte
+1370568,Burkina Faso,11.1248390,0.0024837,2018-04-23 00:00:00,2018-08-08 18:30:27,0,sibatheo,École maternelle les moineaux,2,0,edvac,Ajoutée l'info à la carte
+1370561,Burkina Faso,11.1203483,-0.0117583,2018-04-23 00:00:00,2018-08-08 18:30:27,0,sibatheo,Mosquée Saïd Arrayami,2,0,edvac,Ajoutée l'info à la carte
+1355229,Burkina Faso,11.1202571,-0.0045775,2018-04-10 00:00:00,2018-08-08 18:30:26,0,sibatheo,Maquis restaurant MERVEILLES,2,0,edvac,Ajoutée l'info à la carte
+1370549,Burkina Faso,11.1190017,0.0003350,2018-04-23 00:00:00,2018-08-08 18:30:26,0,sibatheo,Boulangerie WEND KONTA,2,0,edvac,Ajouté la note
+1370563,Burkina Faso,11.1196531,-0.0077170,2018-04-23 00:00:00,2018-08-08 18:30:25,0,sibatheo,Caisse populaire de Bitou Agence de Cinkansé,2,0,edvac,Ajoutée l'info à la carte
+1370556,Burkina Faso,11.1278317,0.0094996,2018-04-23 00:00:00,2018-08-08 18:30:25,0,sibatheo,Bar dancing la Tolérance plus,2,0,edvac,Ajoutée l'info. Il pourriait être amenity=night_club...
+1355231,Burkina Faso,11.1197150,-0.0041350,2018-04-10 00:00:00,2018-08-08 18:30:24,0,sibatheo,Bar dancing CALYPSO,2,0,edvac,Ajoutée l'info à la carte
+1370565,Burkina Faso,11.1200154,-0.0059549,2018-04-23 00:00:00,2018-08-08 18:30:23,0,sibatheo,Mosquée,2,0,edvac,Ajoutée l'info à la carte
+1370551,Burkina Faso,11.1181050,0.0049817,2018-04-23 00:00:00,2018-08-08 18:30:23,0,sibatheo,Paladum Night Club,2,0,edvac,Ajoutée l'info à la carte
+1355226,Burkina Faso,11.1247070,-0.0001244,2018-04-10 00:00:00,2018-08-08 18:30:22,0,sibatheo,École Primaire Cinkansé SUD,2,0,edvac,Ajoutée l'info à la carte
+1027703,Burkina Faso,11.0823150,-5.3173467,2017-06-12 00:00:00,2018-07-23 16:12:51,0,Enock4seth,gendarmerie.,2,0,edvac,Ajoutée
+1370609,Burkina Faso,11.0795283,-5.3020133,2018-04-23 00:00:00,2018-07-23 16:12:51,0,sibatheo,Centre d'accueil ECO VILLAGE,2,0,edvac,Ajoutée
+1370569,Burkina Faso,11.0923600,-5.3294067,2018-04-23 00:00:00,2018-07-23 16:12:50,0,sibatheo,Hôtel ARAHIM,2,0,edvac,Ajoutée
+1370571,Burkina Faso,11.0822755,-5.3174617,2018-04-23 00:00:00,2018-07-23 16:12:49,0,sibatheo,Brigade territoriale de la Gendarmerie Nationale,2,0,edvac,Ajoutée
+1370616,Burkina Faso,11.0785902,-5.3118606,2018-04-23 00:00:00,2018-07-23 16:12:49,0,sibatheo,Poissonnerie YIDJA,2,0,edvac,Ajoutée
+1370622,Burkina Faso,11.0922317,-5.3291050,2018-04-23 00:00:00,2018-07-23 16:12:48,0,sibatheo,Restaurant ZIGANI,2,0,edvac,Ajoutée
+1370573,Burkina Faso,11.0789049,-5.3043758,2018-04-23 00:00:00,2018-07-23 16:12:48,0,sibatheo,Caisse populaire du Burkina Agence de Koloko,2,0,edvac,Ajoutée
+1370610,Burkina Faso,11.0760459,-5.2997600,2018-04-23 00:00:00,2018-07-23 16:12:47,0,sibatheo,Jardin d'enfants,2,0,edvac,Ajoutée
+1370575,Burkina Faso,11.0785173,-5.3012676,2018-04-23 00:00:00,2018-07-23 16:12:47,0,sibatheo,Commissariat de Police de District,2,0,edvac,Ajoutée
+1370617,Burkina Faso,11.0770760,-5.3160106,2018-04-23 00:00:00,2018-07-23 16:12:46,0,sibatheo,Ecole Primaire Koloko A,2,0,edvac,Ajoutée
+1370619,Burkina Faso,11.0846937,-5.3158143,2018-04-23 00:00:00,2018-07-23 16:12:45,0,sibatheo,École primaire KOLOKO C,2,0,edvac,Ajoutée
+1370614,Burkina Faso,11.0800633,-5.3097883,2018-04-23 00:00:00,2018-07-22 22:15:58,0,sibatheo,Gare HOUCEE,2,0,edvac,Ajoutée
+1370576,Burkina Faso,11.0737450,-5.2946067,2018-04-23 00:00:00,2018-07-22 22:15:58,0,sibatheo,Mairie de Koloko,2,0,edvac,Ajoutée
+1370611,Burkina Faso,11.0748836,-5.2979607,2018-04-23 00:00:00,2018-07-22 22:15:57,0,sibatheo,CEG,2,0,edvac,Ajoutée
+1370618,Burkina Faso,11.0810651,-5.3151783,2018-04-23 00:00:00,2018-07-22 22:15:57,0,sibatheo,Église Assemblée de Dieu (AD),2,0,edvac,Ajoutée
+1370613,Burkina Faso,11.0770500,-5.3014083,2018-04-23 00:00:00,2018-07-22 22:15:56,0,sibatheo,Bar restaurant LE JAUNE NOIR,2,0,edvac,Ajoutée
+1370577,Burkina Faso,11.0743736,-5.2963650,2018-04-23 00:00:00,2018-07-22 22:15:55,0,sibatheo,Lycée départemental de Koloko,2,0,edvac,Ajoutée
+1445715,Burkina Faso,12.4016000,-1.5106700,2018-07-05 00:00:00,2018-07-05 15:42:01,0,Ludosanou,Terrain ex AS 24,4,1,Ludosanou,
+1263165,Burkina Faso,12.2013126,-1.5495147,2018-01-09 00:00:00,2018-05-24 22:34:21,0,Apollinaire Kaprolina Yaro,'tonton home bassiyam' POI has no name POI types: amenity-bench OSM data version: 2017-12-08T15:42:02Z  #mapsme,3,0,30303020,Deleted.
+1258678,Burkina Faso,12.3655983,-1.4664349,2018-01-05 00:00:00,2018-05-24 22:34:18,0,Apollinaire Kaprolina Yaro,'rachida ami home' POI has no name POI types: amenity-bench OSM data version: 2017-11-17T20:18:02Z  #mapsme,3,0,30303020,Deleted.
+1263167,Burkina Faso,12.3655983,-1.4664349,2018-01-09 00:00:00,2018-05-24 22:34:12,0,Apollinaire Kaprolina Yaro,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-bench OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,30303020,Deleted.
+1343668,Burkina Faso,11.1677383,-1.1441917,2018-03-31 00:00:00,2018-04-03 15:59:57,0,sibatheo,Motel Woupolo,2,0,edvac,Fait.
+1343672,Burkina Faso,11.1663460,-1.1454768,2018-03-31 00:00:00,2018-04-03 15:59:57,0,sibatheo,Caisse Populaire de PÔ,2,0,edvac,Fait.
+1343667,Burkina Faso,11.1687400,-1.1464336,2018-03-31 00:00:00,2018-04-03 15:59:56,0,sibatheo,Brigade Gendarmerie de PÔ,2,0,edvac,Fait.
+1343671,Burkina Faso,11.1682676,-1.1445239,2018-03-31 00:00:00,2018-04-03 15:59:56,0,sibatheo,Direction provinciale des impôts du Nahouri,2,0,edvac,Fait.
+1343666,Burkina Faso,11.1690533,-1.1466233,2018-03-31 00:00:00,2018-04-03 15:59:55,0,sibatheo,Restaurant LANG'NI,2,0,edvac,Fait.
+1343674,Burkina Faso,11.1682278,-1.1462476,2018-03-31 00:00:00,2018-04-03 15:59:54,0,sibatheo,ECOBANK,2,0,edvac,Fait.
+1343669,Burkina Faso,11.1675282,-1.1454587,2018-03-31 00:00:00,2018-04-03 15:59:53,0,sibatheo,Commissariat de Police,2,0,edvac,Fait.
+1343649,Burkina Faso,11.1016400,-2.1014133,2018-03-31 00:00:00,2018-04-03 15:35:24,0,sibatheo,Bureau commercial de ONATEL,2,0,edvac,Fait.
+1343646,Burkina Faso,11.0997067,-2.1033850,2018-03-31 00:00:00,2018-04-03 14:57:14,0,sibatheo,Réseau des caisses populaires du Burkina de Léo,2,0,edvac,Fait.
+1342327,Burkina Faso,11.1030333,-2.0998467,2018-03-29 00:00:00,2018-04-03 14:57:07,0,sibatheo,Jeunesse Yaourt de la Sissili de Léo,2,0,edvac,Fait.
+1343639,Burkina Faso,11.1011845,-2.1025284,2018-03-31 00:00:00,2018-04-03 14:57:06,0,sibatheo,Brigade territoriale de la Gendarmerie nationale de Léo,2,0,edvac,Fait.
+1343640,Burkina Faso,11.1002652,-2.1037524,2018-03-31 00:00:00,2018-04-03 14:57:06,0,sibatheo,Centre d'éveil et d'éducation préscolaire de Léo,2,0,edvac,Fait.
+1343641,Burkina Faso,11.1006063,-2.1039266,2018-03-31 00:00:00,2018-04-03 14:57:05,0,sibatheo,Police municipale de Léo,2,0,edvac,Fait.
+1343638,Burkina Faso,11.1011091,-2.1019892,2018-03-31 00:00:00,2018-04-03 14:57:04,0,sibatheo,Maison des jeunes et de la culture de Léo,2,0,edvac,Fait.
+1342325,Burkina Faso,11.1032167,-2.0997917,2018-03-29 00:00:00,2018-04-03 14:57:04,0,sibatheo,Direction régionale des ressources animales du Centre Ouest,2,0,edvac,Fait.
+1342358,Burkina Faso,11.1016624,-2.0933676,2018-03-29 00:00:00,2018-04-03 14:29:07,0,sibatheo,École primaire évangélique de Léo,2,0,edvac,Fait.
+1343637,Burkina Faso,11.1032975,-2.0968571,2018-03-31 00:00:00,2018-04-03 14:27:14,0,sibatheo,École primaire Kutian,3,0,edvac,Fait.
+1343633,Burkina Faso,11.0969229,-2.0941217,2018-03-31 00:00:00,2018-04-03 14:26:43,0,sibatheo,Auberge Amitié,2,0,edvac,Fait.
+1343636,Burkina Faso,11.1026600,-2.0974783,2018-03-31 00:00:00,2018-04-03 14:26:42,0,sibatheo,Mosquée,2,0,edvac,Cette mosquée était déjà cartographiée.
+1343642,Burkina Faso,11.0999777,-2.1053345,2018-03-31 00:00:00,2018-04-03 14:21:11,0,sibatheo,Commissariat central de Police de Léo,2,0,edvac,Fait.
+1342322,Burkina Faso,11.1087467,-2.1050350,2018-03-29 00:00:00,2018-04-03 14:21:11,0,sibatheo,Hôpital/CMA,2,0,edvac,Fait.
+1342357,Burkina Faso,11.1012154,-2.0990953,2018-03-29 00:00:00,2018-04-03 14:21:10,0,sibatheo,Nouvelle boulangerie Grâce Divine,2,0,edvac,Fait.
+1343644,Burkina Faso,11.0984058,-2.1043360,2018-03-31 00:00:00,2018-04-03 14:21:10,0,sibatheo,Grand marché de Léo,2,0,edvac,Fait.
+1343648,Burkina Faso,11.0993917,-2.1013400,2018-03-31 00:00:00,2018-04-03 10:07:17,0,sibatheo,ECOBANK de Léo,2,0,edvac,Fait.
+1342323,Burkina Faso,11.1012883,-2.1085433,2018-03-29 00:00:00,2018-04-03 10:07:17,0,sibatheo,Mairie,2,0,edvac,Fait.
+1343653,Burkina Faso,11.1110143,-2.0867530,2018-03-31 00:00:00,2018-04-03 10:00:29,0,sibatheo,Lycée Privé Saint Jacques de Léo,2,0,edvac,Fait.
+1343651,Burkina Faso,11.1116354,-2.0926209,2018-03-31 00:00:00,2018-04-03 10:00:29,0,sibatheo,SONABEL,2,0,edvac,Fait.
+1343652,Burkina Faso,11.1136567,-2.0927450,2018-03-31 00:00:00,2018-04-03 10:00:28,0,sibatheo,Tribunal de grande instance de Léo,2,0,edvac,Fait.
+1343650,Burkina Faso,11.1060933,-2.0982867,2018-03-31 00:00:00,2018-04-03 10:00:28,0,sibatheo,Lycée municipal de Léo,2,0,edvac,Fait.
+1343654,Burkina Faso,11.1122797,-2.0810118,2018-03-31 00:00:00,2018-04-03 09:49:38,0,sibatheo,Abattoir de Léo,2,0,edvac,Fait.
+1343658,Burkina Faso,11.0990637,-2.0981405,2018-03-31 00:00:00,2018-04-03 09:49:37,0,sibatheo,Auberge Laafi Molo Molo,2,0,edvac,Fait.
+1343656,Burkina Faso,11.0996856,-2.0936238,2018-03-31 00:00:00,2018-04-03 09:49:37,0,sibatheo,ONEA,2,0,edvac,Fait.
+1343634,Burkina Faso,11.0991300,-2.0923983,2018-03-31 00:00:00,2018-04-03 09:49:36,0,sibatheo,Carrefour en face de l'antenne Orange BF,2,0,edvac,Fait.
+1343657,Burkina Faso,11.1006930,-2.0986885,2018-03-31 00:00:00,2018-04-03 09:49:35,0,sibatheo,Restaurant Bar Espace Loisir,2,0,edvac,Fait.
+1343664,Burkina Faso,11.1072832,-2.0957112,2018-03-31 00:00:00,2018-04-03 09:27:20,0,sibatheo,Station OTAM,3,0,edvac,J'ai constaté que c'est une station-service. Donc cartographiée déjà
+1343659,Burkina Faso,11.1003587,-2.0989097,2018-03-31 00:00:00,2018-04-03 09:27:19,0,sibatheo,Radio Évangile Développement,2,0,edvac,Fait.
+1343661,Burkina Faso,11.1009719,-2.1059597,2018-03-31 00:00:00,2018-04-03 09:06:56,0,sibatheo,Haut commissariat,2,0,edvac,Fait.
+1343660,Burkina Faso,11.0941467,-2.0984550,2018-03-31 00:00:00,2018-04-03 09:06:55,0,sibatheo,École maternelle et primaire LES CYPRES,2,0,edvac,Fait
+1343662,Burkina Faso,11.1070990,-2.0855638,2018-03-31 00:00:00,2018-04-03 09:06:54,0,sibatheo,École primaire YENOU-ZIAN,2,0,edvac,Fait. La note était géolocalisée un peu au nord du lieu que je pense est la vrai localisation.
+1343663,Burkina Faso,11.0834555,-2.0952705,2018-03-31 00:00:00,2018-04-03 08:55:00,0,sibatheo,École primaire publique de l'amitié Léo Nassau,2,0,edvac,Fait
+1262752,Burkina Faso,12.3262900,-1.5094900,2018-01-09 00:00:00,2018-01-09 12:12:12,0,KOUSSE,Development Media International/BF,3,1,KOUSSE,
+1126788,Burkina Faso,12.0594019,0.3604661,2017-09-04 00:00:00,2017-11-07 23:18:19,0,100piedaterre,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-09-19T14:38:03Z) #mapsme",2,0,brooksdonald,
+402809,Burkina Faso,12.3764658,-1.4962648,2015-07-25 00:00:00,2017-10-16 10:26:11,0,SeverinGeo,Ski (station),2,0,rita soma,
+402808,Burkina Faso,12.3688564,-1.4941034,2015-07-25 00:00:00,2017-10-16 10:25:58,0,SeverinGeo,Shell,2,0,rita soma,
+116311,Burkina Faso,12.3676623,-1.4932796,2014-02-10 00:00:00,2017-10-16 10:25:32,0,Unknown,"AKA Production, Studios et siège de la société éponyme (www.aka.bf)",4,1,rita soma,
+568820,Burkina Faso,13.0623637,-3.8643322,2016-05-19 00:00:00,2017-10-08 19:31:07,0,Unknown,bamako,2,0,freebeer,no useful mapping info -- it's west
+1026345,Burkina Faso,13.1464360,-1.0664034,2017-06-11 00:00:00,2017-09-22 19:58:25,0,Unknown,Tangasgo,2,0,freebeer,on the map
+1047956,Burkina Faso,12.3426000,-1.5261000,2017-06-30 00:00:00,2017-09-22 19:55:04,0,Unknown,Pension Sarah - Hébergement,2,0,freebeer,on the map
+486666,Burkina Faso,12.3856215,-1.4718139,2015-12-22 00:00:00,2017-09-22 19:53:33,0,Unknown,Mon domicile,2,0,freebeer,no useful mapping info
+830426,Burkina Faso,12.3703382,-1.4906122,2016-12-27 00:00:00,2017-09-22 19:52:47,0,Dominique Goux,Production cinématographique (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,freebeer,on the map
+179441,Burkina Faso,12.3673335,-1.5072887,2014-06-05 00:00:00,2017-09-22 19:51:36,0,SeverinGeo,Avenue Houari Boumedienne,2,0,freebeer,on the map
+691030,Burkina Faso,12.3678566,-1.5121967,2016-08-28 00:00:00,2017-09-22 19:50:48,0,Xavier Bachelot,Marché Bio le samedi matin (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,on the map
+691029,Burkina Faso,12.3678566,-1.5121967,2016-08-28 00:00:00,2017-09-22 19:50:05,0,Xavier Bachelot,Marché Bio le samedi matin (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,freebeer,on the map
+401870,Burkina Faso,12.3594925,-1.5434431,2015-07-23 00:00:00,2017-09-22 19:46:54,0,Guy Maurel KONAN,BOA,2,0,freebeer,on the map
+1138853,Burkina Faso,12.2300000,-0.4326000,2017-09-13 00:00:00,2017-09-13 23:34:47,0,Yaya Ouedraogo,Barrage,3,1,Yaya Ouedraogo,
+1047189,Burkina Faso,13.6432891,-2.5074095,2017-06-29 00:00:00,2017-08-19 13:54:35,0,corentinlemaitre,FIXME Building or not?,3,1,Bergeot,
+1053692,Burkina Faso,14.0334806,-0.0390530,2017-07-05 00:00:00,2017-07-05 10:27:42,0,Franz Najean,Place ?,2,0,Franz Najean,
+649043,Burkina Faso,10.8461254,-5.1684908,2016-07-29 00:00:00,2017-03-20 23:34:10,0,Tibionez,Sakouraba (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,ulrichm,
+907045,Burkina Faso,12.3518000,-1.5505200,2017-02-26 00:00:00,2017-02-26 18:11:46,0,Michel TOE,BUVETTE CHEZ TOE,8,1,Michel TOE,BUVETTE CHEZ TOE
+903099,Burkina Faso,12.3641000,-1.5264000,2017-02-23 00:00:00,2017-02-23 13:02:26,0,Tiemtore,le Ouagalab,3,1,Tiemtore,
+807714,Burkina Faso,13.5742895,-2.4216592,2016-12-06 00:00:00,2016-12-06 18:40:42,0,Unknown,école,4,1,Violaine_Do,! >> Note exemple:  pas d'école ici
+741087,Burkina Faso,12.3098249,-1.4934858,2016-10-08 00:00:00,2016-10-08 08:23:25,0,MarketKing,Clinique du coeur,4,1,MarketKing,Hopital-Clinique Du Coeur
+646422,Burkina Faso,11.7824068,-0.3799832,2016-07-28 00:00:00,2016-08-28 05:23:30,0,Samuel YAMEOGO,auberge a tenkodogo,2,0,Samuel YAMEOGO,
+393540,Burkina Faso,12.3820258,-1.4890641,2015-07-09 00:00:00,2016-08-22 03:28:55,0,SeverinGeo,Pharmacie St Francois d Assise,2,0,Samuel YAMEOGO,
+682304,Burkina Faso,12.3919456,-1.4710307,2016-08-22 00:00:00,2016-08-22 03:08:10,0,Unknown,Le nom de ce batiment est Hôtel des Conférences Ouind-Yide,2,0,Samuel YAMEOGO,
+646673,Burkina Faso,11.1672723,-1.4620944,2016-07-28 00:00:00,2016-08-15 22:07:32,0,alex1974,Fix wrong way type,2,0,alex1974,
+544088,Burkina Faso,12.3906816,-1.5762034,2016-04-10 00:00:00,2016-04-11 15:07:11,0,Unknown,hgh,2,0,mavl,Заметка не содержит полезных сведений. Закрыта без внесения изменений в данные OpenStreetMap.      The note not contains a useful information. The note was closed without the changing OpenStreetMap data.
+530424,Burkina Faso,11.7953567,-0.5626202,2016-03-20 00:00:00,2016-03-20 13:03:16,0,Unknown,Boura,2,0,DenisLanza,
+530418,Burkina Faso,11.8202670,-0.5149841,2016-03-20 00:00:00,2016-03-20 13:02:27,0,Unknown,Bidiga,2,0,DenisLanza,
+329950,Burkina Faso,12.3669968,-1.5251470,2015-03-12 00:00:00,2016-03-01 11:20:25,0,DUMAS FRANCIS,HOTEL DEL WENDE,2,0,Dibloni Innocent,Le POI est renseigné
+456899,Burkina Faso,12.3682570,-1.5287840,2015-10-24 00:00:00,2016-03-01 11:17:11,0,Unknown,Are these roads really not connected? Not even by a path?,2,0,Dibloni Innocent,
+343604,Burkina Faso,12.2506154,-2.3317301,2015-04-07 00:00:00,2015-06-06 20:22:20,0,Unknown,"Erreur d'orthographe, ce n'est pas Wende puiri mais bien WEND PUIRÉ",2,0,frite,
+343609,Burkina Faso,12.2506050,-2.3317409,2015-04-07 00:00:00,2015-06-06 20:22:06,0,valma6,Erreur: l'orthographe devrait être Wend puiré et non Wende puiri,2,0,frite,
+343605,Burkina Faso,12.2505421,-2.3317409,2015-04-07 00:00:00,2015-06-06 20:21:55,0,valma6,Erreur:  L'orthographe devrait être Wend puiré et non wendi puiri,2,0,frite,
+117902,Burkina Faso,12.3366846,-1.5411383,2014-02-13 00:00:00,2015-05-09 23:14:43,0,ismael dramani,Lycée ZIDA,3,1,Dibloni Innocent,
+342007,Burkina Faso,12.3775367,-1.4907262,2015-04-04 00:00:00,2015-04-04 12:30:54,0,Unknown,CADIS Centre Africain de Diffusion Islamique et Scientifique,2,0,EXXCUT,
+312493,Burkina Faso,12.3748802,-1.5382576,2015-02-06 00:00:00,2015-02-12 14:57:53,0,leosw,Il est impossible que la route soit tordue comme ça ici non ?,2,0,PanierAvide,"Corrigé (vérifié sur Bing), la rue était bien déplacée."
+246745,Burkina Faso,12.0000000,2.0000000,2014-09-25 00:00:00,2015-01-09 08:28:49,0,Unknown,3,2,0,benoitberlin,
+137216,Burkina Faso,10.6779887,-4.7866058,2014-03-19 00:00:00,2014-03-19 22:27:16,0,JL Claraz,Ecole de Lémouroudougou Village Banfora Comoe Burkina Faso,2,0,JL Claraz,
+45109,Burkina Faso,12.3527988,-1.5223897,2013-09-20 00:00:00,2013-12-12 04:52:07,0,Unknown,Jokolabs Ouagadougou,2,0,cmbruce,
+26688,Burkina Faso,12.3905257,-1.4840126,2013-08-15 00:00:00,2013-10-01 18:33:16,0,Unknown,.,2,0,hothunter,???
+38027,Burkina Faso,11.4638744,-0.5273438,2013-09-07 00:00:00,2013-09-07 04:03:13,0,TOUGMAWF,Centre Eco-touristique de BAGRE,6,1,TOUGMAWF,"Il ne semble pas d'avoir aucune centre touristique, seulement de champs agricoles."
+6613,Burkina Faso,12.3901432,-1.5921485,2013-06-09 00:00:00,2013-06-11 10:07:46,0,Unknown,Routing from west to east does not function beyond this point on N2,2,0,oba510,"Fixed, I think. The nodes on eastbound N2 were not joined properly"

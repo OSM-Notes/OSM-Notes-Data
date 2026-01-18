@@ -1,0 +1,8 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3190159,Zona Contígua do Brasil,-6.4392435,-34.6855250,2022-05-22 00:00:00,2022-05-22 21:12:32,0,marianaeloiza_,Alguém está usando minha conta e eu não sei quem é!,2,0,DressyPear4,"Problema com Instagram, nada para acrescentar"
+3190155,Zona Contígua do Brasil,-6.4768253,-34.7066803,2022-05-22 00:00:00,2022-05-22 14:06:19,0,marianaeloiza_,Alguém está usando minha conta e eu não sei quem é,4,1,marianaeloiza_,
+2092375,Zona Contígua do Brasil,-23.4060732,-43.3098221,2020-02-17 00:00:00,2020-02-18 14:15:04,0,Unknown,"Essa localização está totalmente errada , pois não estou e nunca fui pra este estado.",2,0,erickdeoliveiraleal,
+1951640,Zona Contígua do Brasil,-24.9962000,-47.0000000,2019-10-07 00:00:00,2019-10-08 13:25:12,0,Unknown,25°S 47°W Have I ever been here? I have no record.  http://confluence.org/confluence.php?lat=-25&lon=-47  By U-513.,2,0,freebeer,not mappable
+1951642,Zona Contígua do Brasil,-26.9925000,-47.9993000,2019-10-07 00:00:00,2019-10-08 13:24:48,0,Unknown,27°S 48°W I'm sure I didn't pass through here. But I have no record.  http://confluence.org/confluence.php?lat=-27&lon=-48  By Tutoya.,2,0,freebeer,not mappable
+1205429,Zona Contígua do Brasil,-3.0893400,-38.7935800,2017-11-14 00:00:00,2017-11-14 03:26:38,0,Gabriel Piffer,Curimã,2,0,Gabriel Piffer,

@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+2194367,Guadeloupe (ZEE),15.7222043,-62.7044678,2020-05-15 00:00:00,2020-05-16 04:26:04,0,Unknown,U87,2,0,kartonage,spam
+2194362,Guadeloupe (ZEE),15.8913385,-61.9381714,2020-05-15 00:00:00,2020-05-16 04:25:55,0,Unknown,TYHT,2,0,kartonage,spam

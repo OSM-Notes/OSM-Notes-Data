@@ -1,0 +1,20 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4139439,Jungholz,47.5743544,10.4382992,2024-03-04 00:00:00,2025-12-27 11:08:24,0,derloris,Buslinien sind nicht aktuell. Inzwischen fährt hier seit längerer Zeit die Linie 48 https://www.mona-allgaeu.de/fileadmin/user_upload/Liniennetz-suedliches-oberallgaeu.pdf https://www.mona-allgaeu.de/fileadmin/user_upload/Linien/SOA/Linie_48.pdf,2,0,qugeb,Ist bereits so https://www.openstreetmap.org/relation/17563687
+3101149,Jungholz,47.5738688,10.4553363,2022-03-24 00:00:00,2025-02-03 06:29:56,0,Nr8,Tracktype=Grade1,2,0,Stefan_89,https://www.openstreetmap.org/way/1355122749
+2747256,Jungholz,47.5772443,10.4472573,2021-07-09 00:00:00,2025-01-13 15:04:03,0,bambule13,Hier ist kein Weg mehr vorhanden. Sollte entfernt werden!,2,0,PPete2,"wird laut Strava-Heatmap schon noch begangen, daher lasse ich den Pfad"
+2414517,Jungholz,47.5727728,10.4666394,2020-11-08 00:00:00,2025-01-10 10:14:20,0,Andi Bergauf,"Ab hier beginnt eine Schotterstrecke, die später steil wird und nur noch mit dem Mountainbike fahrbar ist.",3,0,PPete2,"Nachdem die Steilheit getaggt wurde und es sonst keine Rückmeldung mehr gab, schließe ich die Note"
+4324605,Jungholz,47.5765764,10.4357162,2024-07-08 00:00:00,2024-07-10 15:41:35,0,ALMPIXEL,"Schrofen Chalets Neues Chaletdorf Adresse: Jungholz 147 (Habsbichl), 6691 Jungholz in Tirol",3,0,mcliquid,https://www.openstreetmap.org/changeset/153790195
+2873827,Jungholz,47.5732400,10.4540500,2021-09-29 00:00:00,2024-05-08 14:09:46,0,Unknown,Neues Haus:  Chalet Steinbock  Haus Nr. 146,2,0,Stefan_89,erledigt
+2670642,Jungholz,47.5731389,10.4571047,2021-05-16 00:00:00,2024-05-08 14:04:24,0,Unknown,Ristorante Italiano,2,0,Stefan_89,erledigt
+3362876,Jungholz,47.5714734,10.4473162,2022-09-17 00:00:00,2022-09-18 16:36:17,0,Krustinaut,Unable to answer 'What kind of building is this?' for https://osm.org/way/88699413 via StreetComplete 46.1:  Skiliftstation,2,0,mcliquid,Erledigt mit Changeset https://www.openstreetmap.org/changeset/126338018 von noteSolver_plugin/0.4.2
+3361607,Jungholz,47.5757999,10.4408933,2022-09-16 00:00:00,2022-09-16 13:02:46,0,Krustinaut,Unable to answer 'What kind of parking is this?' for https://osm.org/way/540515560 via StreetComplete 46.1:  Nicht sicher ob das noch ein Parkplatz ist  Attached photo(s): https://westnordost.de/p/112732.jpg,3,0,mcliquid,Erledigt mit Changeset https://www.openstreetmap.org/changeset/126263788 von noteSolver_plugin/0.4.2
+3360389,Jungholz,47.5762940,10.4448435,2022-09-15 00:00:00,2022-09-16 07:47:33,0,Krustinaut,Unable to answer 'What’s this pole made of?' for https://osm.org/node/5225458021 via StreetComplete 46.1:  Anschluss ans Haus,2,0,mcliquid,Erledigt mit Changeset https://www.openstreetmap.org/changeset/126251945 von noteSolver_plugin/0.4.2
+2342215,Jungholz,47.5591595,10.4530728,2020-09-10 00:00:00,2021-05-23 01:10:05,0,Unknown,Älpele Alpe,2,0,derloris,War/ist bereits eingetragen
+2342216,Jungholz,47.5591559,10.4530782,2020-09-10 00:00:00,2021-05-23 01:08:34,0,Unknown,Älpele Alpe,2,0,derloris,Duplikat zu Hinweis 2342215
+2262336,Jungholz,47.5714735,10.4460132,2020-07-11 00:00:00,2020-07-19 23:00:46,0,Road–Runner,wurde aufgelassen,2,0,Road–Runner,
+1829864,Jungholz,47.5735437,10.4581475,2019-06-30 00:00:00,2019-08-11 13:38:02,0,Nr8,Hotel Wildschütz,2,0,5R-MFT,Name angepasst + website + Telnr.
+1829862,Jungholz,47.5734279,10.4585767,2019-06-30 00:00:00,2019-08-11 13:37:10,0,Nr8,Privatparkplatz vom Hotel Wildschütz,2,0,5R-MFT,added access=private
+1829860,Jungholz,47.5734279,10.4578042,2019-06-30 00:00:00,2019-08-11 13:37:03,0,Nr8,Privatparkplatz vom Hotel Wildschütz,2,0,5R-MFT,added access=private
+1342591,Jungholz,47.5791819,10.4426765,2018-03-30 00:00:00,2018-07-03 12:50:07,0,kahje01,"Name ist Windrose, Wildrose ist falsch",2,0,Road–Runner,
+94432,Jungholz,47.5817390,10.4333950,2014-01-01 00:00:00,2014-05-29 17:48:02,0,Unknown,"Moved from OSB ID648799:  opengeo nennt den Bach 'Holderbach' [, 2012-05-03 18:54:21 CEST]",5,1,pos_ei_don,Stimmt auch

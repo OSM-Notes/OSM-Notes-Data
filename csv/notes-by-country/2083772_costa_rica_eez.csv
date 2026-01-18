@@ -1,0 +1,3 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3169907,Costa Rica (EEZ),10.7088519,-82.0616913,2022-05-08 00:00:00,2022-12-11 04:35:27,0,Jose Maria Chaves Suarez,Chemaria ch su gracias desde C  Costa Rica,2,0,AngocA,La nota no ofrece información suficiente para hacer un cambio en el mapa. Nota resuelta. https://bit.ly/ONLatam Tg https://bit.ly/osm-nl #ONL  Gracias por contribuir en OSM.  Nosotros somos un grupo de voluntarios que resuelve notas.

@@ -1,0 +1,11 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4968698,France (La Réunion - Île Tromelin) - Zone Économique Exclusive,-21.2362624,56.4498138,2025-09-19 00:00:00,2025-09-19 12:46:25,0,Unknown,Y'a beaucoup d'eau içi...,3,0,pitscheplatsch,
+4821942,France (La Réunion - Île Tromelin) - Zone Économique Exclusive,-14.2785240,54.6923447,2025-06-24 00:00:00,2025-06-25 05:50:36,0,Unknown,ụ,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4821940,France (La Réunion - Île Tromelin) - Zone Économique Exclusive,-14.2617212,54.7127724,2025-06-24 00:00:00,2025-06-25 05:50:30,0,Unknown,k,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4821938,France (La Réunion - Île Tromelin) - Zone Économique Exclusive,-14.2370969,54.6909714,2025-06-24 00:00:00,2025-06-25 05:50:24,0,Unknown,h,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4821939,France (La Réunion - Île Tromelin) - Zone Économique Exclusive,-14.2895034,54.7088242,2025-06-24 00:00:00,2025-06-25 05:50:17,0,Unknown,k,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4821941,France (La Réunion - Île Tromelin) - Zone Économique Exclusive,-14.3061378,54.6732903,2025-06-24 00:00:00,2025-06-25 05:50:08,0,Unknown,u,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4821937,France (La Réunion - Île Tromelin) - Zone Économique Exclusive,-14.2660468,54.6722603,2025-06-24 00:00:00,2025-06-25 05:50:01,0,Unknown,g,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4821943,France (La Réunion - Île Tromelin) - Zone Économique Exclusive,-14.2786904,54.6417046,2025-06-24 00:00:00,2025-06-25 05:49:55,0,Unknown,t,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2187196,France (La Réunion - Île Tromelin) - Zone Économique Exclusive,-17.9339072,54.4477272,2020-05-10 00:00:00,2020-05-10 20:59:32,0,Unknown,https://www.openstreetmap.org/#map=19/22.37502,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."

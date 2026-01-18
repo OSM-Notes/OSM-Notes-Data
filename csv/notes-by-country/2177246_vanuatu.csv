@@ -1,0 +1,186 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+2648332,Vanuatu,-16.9244659,167.7401500,2021-05-01 00:00:00,2025-12-31 17:51:07,0,AMON112,'AMB' POI has no name POI types: amenity-bicycle_parking OSM data version: 2021-02-01T11:34:17Z  #mapsme,2,0,AlejandroAlba,done!
+1427446,Vanuatu,-19.4921709,169.2816890,2018-06-16 00:00:00,2025-02-28 09:09:06,0,370mind,'I do not understand if this place was added to all users or only to me?' POI name: Giant Banyan Tree POI types: tourism-attraction OSM data version: 2018-04-17T05:20:02Z  #mapsme,4,0,dannmer,removed duplicate poi
+1920621,Vanuatu,-17.7211864,168.3108907,2019-09-11 00:00:00,2025-01-05 10:01:46,0,MikelPC,"'This Post Office is CLOSED, it doesn't exist anymore. Please, delete it. I couldn't delete it by myself that's why I add another one to send this message to the editors. thanks' POI has no name POI types: amenity-post_office OSM data version: 2019-04-19T10:36:02Z  #mapsme",2,0,_1110,"Done this day, thank you for reporting this"
+1699322,Vanuatu,-15.3434759,167.0859215,2019-03-04 00:00:00,2024-01-15 11:55:35,0,Øukasz,penama road,2,0,Nordpfeil,added
+1673604,Vanuatu,-17.5535881,168.4583560,2019-02-06 00:00:00,2024-01-15 11:52:05,0,Øukasz,"area marked as residential,but is actually a boarding school",2,0,Nordpfeil,updated
+8339,Vanuatu,-15.5098963,167.1903062,2013-06-18 00:00:00,2023-11-21 18:35:44,0,Unknown,Стадион 'Чапуис',5,0,openwild,
+1600470,Vanuatu,-15.5097231,167.1756239,2018-11-25 00:00:00,2023-11-05 19:16:34,0,Unknown,Donald Street Community  Bishops House,2,0,confusedbuffalo,Looks like a personal note
+1600474,Vanuatu,-15.5166800,167.1699700,2018-11-25 00:00:00,2023-11-05 19:16:20,0,Unknown,West Ambae MOli Ravo Residence Host Family,2,0,confusedbuffalo,Looks like a personal note
+1600477,Vanuatu,-15.5154800,167.1673500,2018-11-25 00:00:00,2023-11-05 19:16:08,0,Unknown,West Ambae  Host Family Paul Residence,2,0,confusedbuffalo,Looks like a personal note
+1600481,Vanuatu,-15.5129200,167.1838600,2018-11-25 00:00:00,2023-11-05 19:15:56,0,Unknown,Host Family  Habour View,2,0,confusedbuffalo,Looks like a personal note
+1600471,Vanuatu,-15.5093300,167.1754300,2018-11-25 00:00:00,2023-11-05 19:15:23,0,Unknown,Marawin Residence Host Family,2,0,confusedbuffalo,Looks like a personal note
+1600468,Vanuatu,-15.5102100,167.1759100,2018-11-25 00:00:00,2023-11-05 19:15:07,0,Unknown,Donald Street East Ambae Evacuees live there Host Family,2,0,confusedbuffalo,Looks like a personal note
+1600473,Vanuatu,-15.5134600,167.1752600,2018-11-25 00:00:00,2023-11-05 19:14:54,0,Unknown,East Ambaen  Host Family,2,0,confusedbuffalo,Looks like a personal note
+1600480,Vanuatu,-15.5133300,167.1839000,2018-11-25 00:00:00,2023-11-05 19:14:43,0,Unknown,Habour View Host Family,2,0,confusedbuffalo,Looks like a personal note
+1600523,Vanuatu,-15.4602986,167.2164201,2018-11-26 00:00:00,2023-11-05 19:14:10,0,Unknown,East Ambaen Host Family,2,0,confusedbuffalo,Looks like a personal note
+1600531,Vanuatu,-15.3841000,167.1720000,2018-11-26 00:00:00,2023-11-05 19:13:56,0,Unknown,Host Family East Ambae,2,0,confusedbuffalo,Looks like a personal note
+1600536,Vanuatu,-15.2614000,167.1070000,2018-11-26 00:00:00,2023-11-05 19:13:48,0,Unknown,Host Family  North Ambae,2,0,confusedbuffalo,Looks like a personal note
+1600537,Vanuatu,-15.2405000,167.1651000,2018-11-26 00:00:00,2023-11-05 19:13:40,0,Unknown,Host Family South Ambae,2,0,confusedbuffalo,Looks like a personal note
+1600538,Vanuatu,-15.2316000,167.1589000,2018-11-26 00:00:00,2023-11-05 19:13:33,0,Unknown,Host Family East Amabe,2,0,confusedbuffalo,Looks like a personal note
+1600541,Vanuatu,-15.1906000,167.1004000,2018-11-26 00:00:00,2023-11-05 19:13:25,0,Unknown,Host Family  North Ambae,2,0,confusedbuffalo,Looks like a personal note
+1600540,Vanuatu,-15.2382000,167.1277000,2018-11-26 00:00:00,2023-11-05 19:13:18,0,Unknown,Community Camp North Ambae,2,0,confusedbuffalo,Looks like a personal note
+1600545,Vanuatu,-15.1871000,167.0486000,2018-11-26 00:00:00,2023-11-05 19:13:07,0,Unknown,Host Family North Ambae,2,0,confusedbuffalo,Looks like a personal note
+1600546,Vanuatu,-15.1894000,167.0583000,2018-11-26 00:00:00,2023-11-05 19:12:58,0,Unknown,Host Family  North Ambae,2,0,confusedbuffalo,Looks like a personal note
+1600552,Vanuatu,-15.4026000,167.1058000,2018-11-26 00:00:00,2023-11-05 19:12:45,0,Unknown,Community And Host Family West Ambae,2,0,confusedbuffalo,Looks like a personal note
+1600548,Vanuatu,-15.1454000,167.1014000,2018-11-26 00:00:00,2023-11-05 19:12:35,0,Unknown,Host Family  West Ambae,2,0,confusedbuffalo,Looks like a personal note
+1600553,Vanuatu,-15.3454000,167.1247000,2018-11-26 00:00:00,2023-11-05 19:12:26,0,Unknown,Palon Station Host family,2,0,confusedbuffalo,Looks like a personal note
+1728157,Vanuatu,-15.3753469,167.7316886,2019-03-29 00:00:00,2023-11-05 19:11:46,0,Øukasz,road here is fine,2,0,confusedbuffalo,
+3627824,Vanuatu,-13.6646821,167.7107620,2023-04-04 00:00:00,2023-11-05 19:11:27,0,Unknown,Mota Lava Airport,2,0,confusedbuffalo,
+3059572,Vanuatu,-17.6907045,168.2672319,2022-02-21 00:00:00,2023-10-31 11:28:09,0,waynefox today,The bungalow,2,0,Lejun,
+594693,Vanuatu,-17.7012655,168.2941559,2016-06-15 00:00:00,2023-10-31 11:27:54,0,Unknown,smol bag,5,0,Lejun,
+1949252,Vanuatu,-17.7893543,168.3119870,2019-10-05 00:00:00,2023-10-31 11:26:49,0,Ricnivan,'playa' POI has no name POI types: tourism-picnic_site OSM data version: 2019-08-30T18:41:13Z  #mapsme,2,0,Lejun,
+1600534,Vanuatu,-15.3236000,167.1717000,2018-11-26 00:00:00,2023-10-01 05:10:16,0,Unknown,Host Family North Ambae,2,0,kmpoppe,Private residences shall not be mapped due to data protection concers.
+1600535,Vanuatu,-15.3236000,167.1717000,2018-11-26 00:00:00,2023-10-01 05:10:13,0,Unknown,Host Family North Ambae,2,0,kmpoppe,Private residences shall not be mapped due to data protection concers.
+1600542,Vanuatu,-15.1750000,167.0872000,2018-11-26 00:00:00,2023-10-01 05:10:11,0,Unknown,Host Family  West Ambae,2,0,kmpoppe,Private residences shall not be mapped due to data protection concers.
+1600544,Vanuatu,-15.1750000,167.0872000,2018-11-26 00:00:00,2023-10-01 05:10:09,0,Unknown,Host Family  West Ambae,2,0,kmpoppe,Private residences shall not be mapped due to data protection concers.
+1600520,Vanuatu,-15.5194600,167.2504000,2018-11-26 00:00:00,2023-10-01 05:09:28,0,Unknown,Saralakambu Community Camp Anglican Church Bombua,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/1600519
+3825442,Vanuatu,-17.5759809,168.2548790,2023-08-09 00:00:00,2023-08-22 07:22:57,0,bannockh,Gate  via StreetComplete 53.3,2,0,bannockh,
+3825443,Vanuatu,-17.5680709,168.2657469,2023-08-09 00:00:00,2023-08-22 07:22:16,0,bannockh,Dos d'ane  via StreetComplete 53.3,2,0,bannockh,
+1603372,Vanuatu,-17.7435392,168.3140069,2018-11-29 00:00:00,2023-08-09 19:43:15,0,Unknown,Skinsense Laser & Aesthetics Centre,2,0,bannockh,
+1455002,Vanuatu,-17.7394690,168.3146042,2018-07-15 00:00:00,2023-08-09 19:41:30,0,Unknown,"onosm.org submitted note from a business: Name: Land Logic Phone: +678 35003 Website: www.land-logic.com Twitter: undefined Hours: Monday - Friday 8am to 5pm Category: Financial Services,Real Estate Services Address: Corner Kumul Highway & Winston Churchill",2,0,bannockh,
+1273109,Vanuatu,-17.7369087,168.3140766,2018-01-19 00:00:00,2023-08-09 19:36:59,0,Rekem Het,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-atm OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,bannockh,
+2310375,Vanuatu,-17.7361000,168.3138000,2020-08-17 00:00:00,2023-08-09 19:36:33,0,Unknown,The Melitco Building in which Ministry of Finance & Economic Management is located at,2,0,bannockh,
+2384226,Vanuatu,-17.7362623,168.3103188,2020-10-13 00:00:00,2023-08-09 19:36:08,0,Tino B,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'место в море ' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,bannockh,
+1273111,Vanuatu,-17.7333333,168.3110510,2018-01-19 00:00:00,2023-08-09 19:35:32,0,Rekem Het,'Fatumaru Bay Park' POI has no name POI types: leisure-park OSM data version: 2017-12-08T15:42:02Z  #mapsme,2,0,bannockh,
+1408727,Vanuatu,-17.7329193,168.3138353,2018-05-29 00:00:00,2023-08-09 19:34:51,0,Unknown,EPI Conference Room,2,0,bannockh,
+2686597,Vanuatu,-17.7326000,168.3191500,2021-05-26 00:00:00,2023-08-09 19:34:28,0,Unknown,AutoDis,2,0,bannockh,
+2686595,Vanuatu,-17.7327100,168.3199400,2021-05-26 00:00:00,2023-08-09 19:34:12,0,Unknown,the right name is La Parisienne,2,0,bannockh,
+3825266,Vanuatu,-17.7358693,168.3543852,2023-08-09 00:00:00,2023-08-09 19:30:21,0,bannockh,gate,2,0,bannockh,
+979836,Vanuatu,-17.7301295,168.3691692,2017-04-29 00:00:00,2023-08-09 19:29:58,0,Chrysopras,"Here misc. areas were as landuse=farm. Because this tag is deprecated (and will not be rendered anymore on www.osm.org), I updated it to landuse=farmland.  But there is a problem which should be fixed by somebody knowing this area himself/herself: Are there really fields here? Or whatelse?  The aerial imagery shows some kind of a park landscape. Are these meadows and woods, or some kind of leisure=park, or just mixed landscape (which should be mapped with more details), or …?  Please check and fix this if you happen to know more about this landscape. Thank you very much!",4,0,bannockh,
+3825267,Vanuatu,-17.7263522,168.3799829,2023-08-09 00:00:00,2023-08-09 19:28:52,0,bannockh,river,2,0,bannockh,
+3825269,Vanuatu,-17.7265011,168.3871756,2023-08-09 00:00:00,2023-08-09 19:25:57,0,bannockh,"Gate, privatif after",2,0,bannockh,
+2355748,Vanuatu,-17.7314043,168.3116814,2020-09-20 00:00:00,2023-01-14 10:03:56,0,Unknown,Ambassade de France,2,0,Syl,A été ajoutée depuis
+1835793,Vanuatu,-17.7379765,168.3136152,2019-07-06 00:00:00,2023-01-14 09:57:43,0,AmandaW12345,"'another listing is accurate nearby ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Jungle Café POI types: amenity-cafe OSM data version: 2019-05-17T13:54:02Z  #mapsme",2,0,Syl,Removed
+1683677,Vanuatu,-17.7304085,168.3115619,2019-02-17 00:00:00,2023-01-14 09:51:34,0,Øukasz,can't turn right from lini hwy onto ring road,2,0,Syl,Already in the database: https://www.openstreetmap.org/relation/8237960
+1567686,Vanuatu,-16.0114738,167.1764715,2018-10-21 00:00:00,2023-01-14 09:44:50,0,Israel Avihail,'village' POI has no name POI types: amenity-bench OSM data version: 2018-07-05T18:22:02Z  #mapsme,2,0,Syl,Duplicated note
+1288785,Vanuatu,-17.7345404,168.3209269,2018-02-03 00:00:00,2023-01-14 09:40:49,0,Rekem Het,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Paint Shop POI types: shop-hardware OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Syl,Removed
+1273168,Vanuatu,-17.7269297,168.3197950,2018-01-19 00:00:00,2023-01-14 09:39:45,0,Rekem Het,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Roundhouse Nakamal POI types: amenity-bar OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,Syl,Removed
+1273166,Vanuatu,-17.7387710,168.3140283,2018-01-19 00:00:00,2023-01-14 09:38:10,0,Rekem Het,"'Transferred or no longer there. ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Westpac POI types: amenity-atm amenity-bank OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,Syl,Already fixed
+1006567,Vanuatu,-17.7154274,168.3118906,2017-05-24 00:00:00,2023-01-14 09:30:34,0,Sanem Leta,'Pakaro Presbyterian Church' POI has no name POI types: building OSM data version: 2017-05-11T13:22:09Z  #mapsme,4,0,Syl,Duplicated note
+1006568,Vanuatu,-17.7154274,168.3118906,2017-05-24 00:00:00,2023-01-14 09:30:26,0,Sanem Leta,'Pakaroa Presbyterian Church' POI has no name POI types: building OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,Syl,Already in the database
+971952,Vanuatu,-17.7387710,168.3140283,2017-04-21 00:00:00,2023-01-14 09:26:12,0,Karel Uhlir,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Westpac isn't anymore in Vanuatu' (OSM data version: 2017-03-28T20:59:03Z) #mapsme",4,0,Syl,Already fixed
+1686711,Vanuatu,-16.0071646,168.2300377,2019-02-20 00:00:00,2022-06-06 19:12:32,0,Leo2019,Point Cross,2,0,GEFVAN,Point Cross
+1939880,Vanuatu,-14.4590369,168.0413389,2019-09-26 00:00:00,2022-06-06 19:08:04,0,Unknown,This was some kind of mistake that needs to be checked.,2,0,GEFVAN,Gaua Volcano
+3172786,Vanuatu,-17.6407000,168.3772000,2022-05-09 00:00:00,2022-05-10 04:49:10,0,Unknown,Test,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+3172788,Vanuatu,-16.1065000,167.4187000,2022-05-09 00:00:00,2022-05-10 04:48:50,0,Unknown,Test,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2903957,Vanuatu,-17.6871002,168.2469612,2021-10-20 00:00:00,2021-10-20 22:46:04,0,Mele Bill,Coco de Mer Restaurant,4,1,Mele Bill,
+2721802,Vanuatu,-17.7496400,168.3142900,2021-06-20 00:00:00,2021-06-20 22:20:26,0,Janvion,Department de la Meteorologie et Geohazards,2,0,Janvion,
+2721208,Vanuatu,-17.7280300,168.3140800,2021-06-20 00:00:00,2021-06-20 13:51:30,0,Janvion,AUF (Antenne Universitaire Francophone),3,1,Janvion,
+2710673,Vanuatu,-17.7274571,168.3219892,2021-06-12 00:00:00,2021-06-12 17:31:38,0,Banga Mns,Hope's Childcare Centre,6,1,Banga Mns,Education
+2640511,Vanuatu,-17.7401400,168.3140100,2021-04-27 00:00:00,2021-04-27 13:38:57,0,MateMaff,Mickz Food Market is here at Port Vila main Market House we are on kitchen number 11,2,0,MateMaff,
+1273110,Vanuatu,-17.7374400,168.3145299,2018-01-19 00:00:00,2020-10-20 06:27:40,0,Rekem Het,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Eric Wong Store POI types: building OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,Paul Worwor,
+1273113,Vanuatu,-17.7381247,168.3150006,2018-01-19 00:00:00,2020-10-20 06:27:23,0,Rekem Het,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Club 21 POI types: building OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,Paul Worwor,
+1728892,Vanuatu,-17.7453174,168.3196048,2019-03-30 00:00:00,2020-10-20 06:03:22,0,Øukasz,speed bump here,2,0,Paul Worwor,
+1728893,Vanuatu,-17.7445982,168.3194132,2019-03-30 00:00:00,2020-10-20 06:03:13,0,Øukasz,speed bump here,2,0,Paul Worwor,
+1273170,Vanuatu,-17.7484122,168.3159970,2018-01-19 00:00:00,2020-10-20 06:02:49,0,Rekem Het,"'Lost to fire.  No longer in Existence. ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: La Casa POI types: amenity-restaurant OSM data version: 2017-12-08T15:42:02Z  #mapsme",2,0,Paul Worwor,
+1279479,Vanuatu,-17.7481133,168.3165362,2018-01-26 00:00:00,2020-10-20 06:00:56,0,Benoit Dall'Osso,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Leader Price POI types: shop-supermarket OSM data version: 2018-01-10T08:12:02Z  #mapsme",2,0,Paul Worwor,Leader Price has closed down but a new shop has been set up there.
+2388814,Vanuatu,-15.0924384,167.0083545,2020-10-17 00:00:00,2020-10-17 02:13:49,0,Cainton Milroy,Marcellino Pipite,2,0,Cainton Milroy,
+2379278,Vanuatu,-17.6877734,168.2465896,2020-10-09 00:00:00,2020-10-09 03:28:20,0,Mele Bill,Home,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2358234,Vanuatu,-17.7414972,168.3150163,2020-09-22 00:00:00,2020-09-22 13:40:48,0,Unknown,onosm.org submitted note from a business: name:  phone:  website:  twitter: undefined hours:  category:  address: Port Vila,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+443422,Vanuatu,-16.3332671,168.3005261,2015-09-30 00:00:00,2020-09-22 05:02:45,0,Unknown,Mbossumb School,6,1,jnp19,
+2358235,Vanuatu,-15.5121107,167.1784414,2020-09-22 00:00:00,2020-09-22 05:01:42,0,Unknown,"onosm.org submitted note from a business: name: Cooperative phone: 23330 website:  twitter: undefined hours:  category: ,Public Services & Government address: Luganville",2,0,jnp19,
+2331941,Vanuatu,-17.7209319,168.3047640,2020-09-02 00:00:00,2020-09-03 02:27:02,0,GPS Vanuatu,GPSV,4,1,GPS Vanuatu,
+2330483,Vanuatu,-17.7020300,168.3101700,2020-08-31 00:00:00,2020-08-31 18:01:29,0,James Hirtzel,Grace Bible Baptist Church and Schools,4,1,James Hirtzel,added church and school at location
+1926584,Vanuatu,-16.1126551,168.1311848,2019-09-15 00:00:00,2020-05-14 01:44:02,0,MikelPC,'Nebul is the real name of this village and it's also a stop for Vanuatu Cargo Ferry' POI name: Nebul Village POI types: tourism-attraction OSM data version: 2019-04-19T10:36:02Z  #mapsme,3,0,Paul Worwor,Nebul is the other one to the north closer to the health center
+2162236,Vanuatu,-17.7337266,168.3720016,2020-04-16 00:00:00,2020-04-17 03:07:25,0,Terry Opa,This is test only,4,1,mavl,This note does not contain a useful information for OpenStreetMap.
+1854784,Vanuatu,-17.7264261,168.3872834,2019-07-24 00:00:00,2020-04-16 21:17:08,0,Cifko,'We wanted to go to lololima waterfalls. This is not the way' POI name: End of track. Private property no trespassing. POI types: tourism-information OSM data version: 2019-06-21T10:47:15Z  #mapsme,4,1,Terry Opa,test
+2096012,Vanuatu,-16.3766000,167.7489000,2020-02-20 00:00:00,2020-02-23 15:07:13,0,Unknown,La mappa relativa a Vanuatu non si visualizza su Instagram,2,0,kartonage,It does here.
+528662,Vanuatu,-15.3047172,167.0429993,2016-03-16 00:00:00,2020-02-11 08:43:43,0,Unknown,Coucou,4,0,Syl,No useful information
+800211,Vanuatu,-17.7551342,168.3123279,2016-11-30 00:00:00,2019-12-08 12:50:09,0,Unknown,Subject,5,0,freebeer,no info
+1403619,Vanuatu,-17.7395309,168.3146507,2018-05-24 00:00:00,2019-12-08 12:47:27,0,Unknown,"onosm.org submitted note from a business: Name: Land Logic Phone: +67835003 Website: www.land-logic.com Twitter: undefined Hours: Monday to Friday 8am - 5pm Category: ,Financial Services Address: Laguna Building, Port Vila, Vanuatu",2,0,freebeer,duplicate
+1848733,Vanuatu,-17.7383864,168.3194411,2019-07-18 00:00:00,2019-12-08 12:44:10,0,Unknown,Location,2,0,freebeer,no info
+1916519,Vanuatu,-17.7383463,168.5635955,2019-09-08 00:00:00,2019-12-08 12:43:38,0,DRML_2015,'Picknick Site & some swimming' POI has no name POI types: tourism-picnic_site OSM data version: 2019-07-27T07:02:33Z  #mapsme,2,0,freebeer,nothing mapped here in the water
+1917671,Vanuatu,-17.7073030,168.3083432,2019-09-09 00:00:00,2019-12-08 12:42:05,0,MikelPC,'There is not a bar anymore' POI name: Lee Yuan Store POI types: shop-convenience OSM data version: 2019-04-19T10:36:02Z  #mapsme,2,0,freebeer,duplicate
+1871136,Vanuatu,-17.7110582,168.2177299,2019-08-06 00:00:00,2019-10-13 22:24:23,0,0039,'this is the right position of the guest house. I am here.' POI name: Waves on Bukura POI types: tourism-guest_house OSM data version: 2019-03-14T00:11:02Z  #mapsme,2,0,freebeer,on the map
+1902047,Vanuatu,-17.7294944,168.3115866,2019-08-27 00:00:00,2019-08-27 08:43:10,0,Singraphus,Office in Port Vila,2,0,Singraphus,
+1651495,Vanuatu,-17.7682713,168.3055499,2019-01-16 00:00:00,2019-05-31 11:55:51,0,Unknown,South Pacific Smile - Dental Clinic,2,0,s_wallenta,
+1710590,Vanuatu,-15.3125570,167.8983356,2019-03-15 00:00:00,2019-03-21 00:13:24,0,Øukasz,these are all 4wd 'unclassified' or 'tertiary' roads,2,0,Øukasz,
+1710586,Vanuatu,-15.3075165,167.9266899,2019-03-15 00:00:00,2019-03-21 00:12:51,0,Øukasz,the high road from vuisinava to ambanga is called 'figer road',2,0,Øukasz,
+1710587,Vanuatu,-15.2876340,167.9118590,2019-03-15 00:00:00,2019-03-21 00:11:36,0,Øukasz,main road,2,0,Øukasz,
+1710589,Vanuatu,-15.2955084,167.8829822,2019-03-15 00:00:00,2019-03-21 00:11:17,0,Øukasz,this is a 4wd road,2,0,Øukasz,
+1710588,Vanuatu,-15.3031472,167.8704063,2019-03-15 00:00:00,2019-03-21 00:10:44,0,Øukasz,this is a footpath,2,0,Øukasz,
+1716032,Vanuatu,-15.3992476,167.7406966,2019-03-19 00:00:00,2019-03-20 23:26:14,0,Øukasz,junction here. smaller road goes east.,2,0,Øukasz,
+1716031,Vanuatu,-15.3927764,167.7464861,2019-03-19 00:00:00,2019-03-20 23:25:09,0,Øukasz,footpath only,2,0,Øukasz,
+1600479,Vanuatu,-15.5183500,167.1639100,2018-11-25 00:00:00,2019-03-11 05:54:13,0,Unknown,Red Kona,2,0,Øukasz,
+1697703,Vanuatu,-15.5192468,167.2518616,2019-03-03 00:00:00,2019-03-11 05:53:32,0,Øukasz,oak street,2,0,Øukasz,
+1656562,Vanuatu,-15.5136600,167.2029300,2019-01-20 00:00:00,2019-03-11 05:50:42,0,Unknown,Shell Company  Host Family  Vilakalaka,2,0,Øukasz,
+1695440,Vanuatu,-15.5157696,167.2189152,2019-02-28 00:00:00,2019-03-11 05:47:02,0,Øukasz,stop sign,2,0,Øukasz,
+1695439,Vanuatu,-15.5147245,167.2203163,2019-02-28 00:00:00,2019-03-11 05:46:56,0,Øukasz,upgrade,2,0,Øukasz,
+1695433,Vanuatu,-15.5001807,167.2095436,2019-02-28 00:00:00,2019-03-11 05:45:24,0,Øukasz,Kosovo street,2,0,Øukasz,
+1695434,Vanuatu,-15.5024251,167.2100954,2019-02-28 00:00:00,2019-03-11 05:45:02,0,Øukasz,rainbow street,2,0,Øukasz,
+1695435,Vanuatu,-15.5049758,167.2098494,2019-02-28 00:00:00,2019-03-11 05:44:36,0,Øukasz,swamp street,2,0,Øukasz,
+1697702,Vanuatu,-15.5072957,167.2119997,2019-03-03 00:00:00,2019-03-11 05:44:04,0,Øukasz,rue bouganville,2,0,Øukasz,
+1695437,Vanuatu,-15.5105229,167.2137136,2019-02-28 00:00:00,2019-03-11 05:43:25,0,Øukasz,jam street,2,0,Øukasz,
+1695436,Vanuatu,-15.5115858,167.2083957,2019-02-28 00:00:00,2019-03-11 05:43:20,0,Øukasz,nabanga street,2,0,Øukasz,
+1695438,Vanuatu,-15.5127002,167.2139326,2019-02-28 00:00:00,2019-03-11 05:42:32,0,Øukasz,no road,2,0,Øukasz,
+1627208,Vanuatu,-15.1707255,168.1097889,2018-12-24 00:00:00,2019-01-05 23:46:15,0,Øukasz,Move 300m sse,2,0,Øukasz,
+1627207,Vanuatu,-15.1673498,168.1073427,2018-12-24 00:00:00,2019-01-05 23:46:14,0,Øukasz,Move 350m south,2,0,Øukasz,
+1627206,Vanuatu,-15.0474659,168.0693626,2018-12-24 00:00:00,2019-01-05 23:46:13,0,Øukasz,Narea is actually 10min walk inland,2,0,Øukasz,
+1600554,Vanuatu,-15.0483000,167.0679000,2018-11-26 00:00:00,2019-01-05 23:40:26,0,Unknown,Port Olry  Host Family  West Ambae,2,0,Øukasz,
+1618252,Vanuatu,-15.2134664,167.1095610,2018-12-15 00:00:00,2019-01-05 23:40:25,0,Øukasz,Lorum is the spelling on local sign,2,0,Øukasz,
+1627205,Vanuatu,-15.2754087,167.1512318,2018-12-24 00:00:00,2019-01-05 23:40:24,0,Øukasz,Lomanioc,2,0,Øukasz,
+1618251,Vanuatu,-15.3704552,167.1856398,2018-12-15 00:00:00,2019-01-05 23:40:22,0,Øukasz,Matava river,2,0,Øukasz,
+1618250,Vanuatu,-15.3774328,167.1745563,2018-12-15 00:00:00,2019-01-05 23:40:21,0,Øukasz,Entrance 500vt,2,0,Øukasz,
+1618249,Vanuatu,-15.3894971,167.1870112,2018-12-15 00:00:00,2019-01-05 23:40:19,0,Øukasz,1 Lane brifge,2,0,Øukasz,
+1618248,Vanuatu,-15.3893240,167.1865225,2018-12-15 00:00:00,2019-01-05 23:40:18,0,Øukasz,Mavutor river,2,0,Øukasz,
+1618247,Vanuatu,-15.4450315,167.2136390,2018-12-15 00:00:00,2019-01-05 23:40:17,0,Øukasz,"Lobelobe River, one lane bridge",2,0,Øukasz,
+1618246,Vanuatu,-15.4601742,167.2156477,2018-12-15 00:00:00,2019-01-05 23:40:16,0,Øukasz,"Village, not hamlet. Move slightly south. Also there's river called suranda here.",2,0,Øukasz,
+903702,Vanuatu,-15.6136754,167.1450520,2017-02-23 00:00:00,2018-12-27 01:17:35,0,Foxtrot Longuerre,Purumamasa Island,4,0,freebeer,on the map
+903703,Vanuatu,-15.6829356,167.2415471,2017-02-23 00:00:00,2018-12-27 01:17:06,0,Foxtrot Longuerre,Malovorivori Island,4,0,freebeer,on the map
+903706,Vanuatu,-15.7040272,167.2592926,2017-02-23 00:00:00,2018-12-27 01:16:32,0,Foxtrot Longuerre,Malotina Island,4,0,freebeer,on the map
+903697,Vanuatu,-15.6112988,167.0286655,2017-02-23 00:00:00,2018-12-27 01:16:08,0,Foxtrot Longuerre,Wrong island name ... Correct island name is Urelapa,5,0,freebeer,on the map
+903696,Vanuatu,-15.6116708,167.0149755,2017-02-23 00:00:00,2018-12-27 01:14:19,0,Foxtrot Longuerre,Wrong island name ... Correct island name is Tuvana,4,0,freebeer,on the map
+903694,Vanuatu,-15.5925000,166.9926000,2017-02-23 00:00:00,2018-12-27 01:06:29,0,Foxtrot Longuerre,This island is actually called Tangoa,4,0,freebeer,on the map
+903708,Vanuatu,-15.2886560,167.2154331,2017-02-23 00:00:00,2018-12-27 01:05:07,0,Foxtrot Longuerre,Wrong island name ... Actual name is 'Le-theroa',4,0,freebeer,on the map
+903709,Vanuatu,-15.2648516,167.1866369,2017-02-23 00:00:00,2018-12-27 01:04:49,0,Foxtrot Longuerre,Le-tharo,4,0,freebeer,on the map
+903710,Vanuatu,-15.1046921,167.1263409,2017-02-23 00:00:00,2018-12-27 01:03:08,0,Foxtrot Longuerre,Lathu Island,4,0,freebeer,on the map
+903704,Vanuatu,-15.7154707,167.2595930,2017-02-23 00:00:00,2018-12-27 01:02:36,0,Foxtrot Longuerre,Malokilikili Island,6,0,freebeer,on the map
+1603349,Vanuatu,-17.7570100,168.3136300,2018-11-29 00:00:00,2018-11-29 01:12:10,0,Benicio Obed,Oxfam Office,4,1,Benicio Obed,
+1403617,Vanuatu,-17.7395028,168.3146587,2018-05-24 00:00:00,2018-10-26 14:00:53,0,Unknown,"New Business located in the Laguna Building - Land Logic Limited offering Property Valuation, Property Data and Lease Compliance",2,0,freebeer,duplicate
+1490931,Vanuatu,-15.0101000,168.0658000,2018-08-16 00:00:00,2018-08-16 03:23:34,0,Johnny Tari,Kamalia Lao,4,1,Johnny Tari,Anchorages
+1490938,Vanuatu,-14.9687000,168.0798000,2018-08-16 00:00:00,2018-08-16 03:22:53,0,Johnny Tari,NORTH MAEWO,2,0,Johnny Tari,
+1490937,Vanuatu,-15.0295000,168.0859000,2018-08-16 00:00:00,2018-08-16 03:21:29,0,Johnny Tari,Ula,2,0,Johnny Tari,
+1490936,Vanuatu,-14.9242000,168.0491000,2018-08-16 00:00:00,2018-08-16 03:21:14,0,Johnny Tari,Relocation site 1: Loloruku,2,0,Johnny Tari,
+1490933,Vanuatu,-14.9954000,168.0783000,2018-08-16 00:00:00,2018-08-16 03:20:20,0,Johnny Tari,Airport,4,1,Johnny Tari,Naruru
+728886,Vanuatu,-19.5857194,169.3403757,2016-09-28 00:00:00,2018-07-07 15:34:46,0,Richard of Sydney,Ikiti Pharmacy See images here: https://www.flickr.com/photos/142289664@N02/albums/72157667463917992,4,0,30303020,Already mapped by now.
+1138882,Vanuatu,-18.8927000,169.0525000,2017-09-14 00:00:00,2018-07-07 15:31:26,0,Unknown,Tamsal,2,0,30303020,Already mapped.
+954489,Vanuatu,-17.7537700,168.2949700,2017-04-06 00:00:00,2018-07-07 15:23:30,0,Unknown,12/0911/328,5,0,30303020,"As apparently nobody knows, I will close this..."
+1273112,Vanuatu,-17.7307683,168.3159112,2018-01-19 00:00:00,2018-07-07 15:21:42,0,Rekem Het,'Port Vila Stadium' POI has no name POI types: leisure-pitch sport-soccer OSM data version: 2017-12-08T15:42:02Z  #mapsme,2,0,30303020,Already mapped.
+855901,Vanuatu,-17.7443490,168.3143288,2017-01-18 00:00:00,2018-06-12 21:31:19,0,Unknown,Mariner,4,0,Otaron,
+1380892,Vanuatu,-15.2968834,167.9876947,2018-05-03 00:00:00,2018-05-03 05:18:18,0,Unknown,Evacuation center 20HH/87displaced pop,4,1,Ourobouros,
+1167756,Vanuatu,-17.6965777,168.2623906,2017-10-10 00:00:00,2018-04-12 08:11:49,0,tregeagle,Underwater post office is here. I just posted a card.,2,0,benhamilton,Underwater post office is here.
+1167755,Vanuatu,-17.6969398,168.2627892,2017-10-10 00:00:00,2018-04-12 08:11:21,0,tregeagle,Hideaway (Mele) Island Reserve,2,0,benhamilton,This is Hideaway Island (also known as Mele Island)
+1350549,Vanuatu,-17.7515873,168.3165766,2018-04-06 00:00:00,2018-04-06 08:02:54,0,fillipe,Namba2 Transit Lodge,4,1,fillipe,
+1021114,Vanuatu,-15.6715523,167.1938896,2017-06-06 00:00:00,2017-06-07 17:05:18,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1021123,Vanuatu,-15.5015326,167.2355175,2017-06-06 00:00:00,2017-06-07 17:05:14,0,Unknown,а,3,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1021110,Vanuatu,-17.7003686,168.4923363,2017-06-06 00:00:00,2017-06-07 17:05:10,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1021119,Vanuatu,-15.2196780,167.0311546,2017-06-06 00:00:00,2017-06-07 17:05:01,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1020148,Vanuatu,-18.7993118,169.1202736,2017-06-05 00:00:00,2017-06-06 16:12:18,0,Unknown,в,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1020154,Vanuatu,-13.8832456,167.5377274,2017-06-05 00:00:00,2017-06-06 16:12:11,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1020156,Vanuatu,-14.4520519,168.0575180,2017-06-05 00:00:00,2017-06-06 16:12:07,0,Unknown,а,3,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1020157,Vanuatu,-15.3408919,167.8463745,2017-06-05 00:00:00,2017-06-06 16:12:03,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1020158,Vanuatu,-15.7589667,168.1773376,2017-06-05 00:00:00,2017-06-06 16:11:56,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1020160,Vanuatu,-16.8967493,168.5688114,2017-06-05 00:00:00,2017-06-06 16:11:52,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1020162,Vanuatu,-16.7452906,168.3119202,2017-06-05 00:00:00,2017-06-06 16:11:49,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1020164,Vanuatu,-16.2487921,168.1838608,2017-06-05 00:00:00,2017-06-06 16:11:32,0,Unknown,п,3,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1020144,Vanuatu,-19.5525110,169.3676376,2017-06-05 00:00:00,2017-06-06 16:10:46,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+903698,Vanuatu,-15.5862293,167.0245886,2017-02-23 00:00:00,2017-02-23 23:23:10,0,Foxtrot Longuerre,Urenahuepe Island,5,1,Foxtrot Longuerre,Tangisi Island
+728881,Vanuatu,-19.5863082,169.3398392,2016-09-28 00:00:00,2016-12-29 03:55:02,0,Unknown,Ikiti village,2,0,Chi chi Chong,
+832695,Vanuatu,-19.5274358,169.4484043,2016-12-29 00:00:00,2016-12-29 03:54:13,0,Chi chi Chong,Yasur 火山,2,0,Chi chi Chong,
+728888,Vanuatu,-19.5523088,169.4459045,2016-09-28 00:00:00,2016-09-28 12:46:05,0,Richard of Sydney,See images here: https://www.flickr.com/photos/142289664@N02/albums/72157665321689263,2,0,Richard of Sydney,
+528991,Vanuatu,-19.5524619,169.4456013,2016-03-17 00:00:00,2016-09-28 12:45:52,0,Richard of Sydney,Alternative spelling of village name: Iakuarmanu,2,0,Richard of Sydney,
+728954,Vanuatu,-19.5168991,169.3039781,2016-09-28 00:00:00,2016-09-28 09:26:45,0,Richard of Sydney,"Louen (Lowen, Louun) primary school",2,0,Richard of Sydney,
+728952,Vanuatu,-19.3774499,169.2985010,2016-09-28 00:00:00,2016-09-28 09:24:09,0,Richard of Sydney,"Vanuatu Offline Map shows a Health centre here.   There should be a building with 5 rooms and a second, 'laboratory', building with 3 rooms",2,0,Richard of Sydney,
+728942,Vanuatu,-19.3459197,169.2543358,2016-09-28 00:00:00,2016-09-28 09:19:11,0,Richard of Sydney,Aid post,2,0,Richard of Sydney,
+728936,Vanuatu,-19.3417793,169.3417704,2016-09-28 00:00:00,2016-09-28 09:14:52,0,Richard of Sydney,"Lownepina (Lounepina) Aid post  https://www.google.com.au/maps/place/19%C2%B020'46.5%22S+169%C2%B015'15.4%22E/@-19.3418917,169.3415478,280m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d-19.346254!4d169.254284",2,0,Richard of Sydney,
+728925,Vanuatu,-19.4662584,169.3198568,2016-09-28 00:00:00,2016-09-28 09:10:41,0,Richard of Sydney,Lamlu dispemsary,4,1,Richard of Sydney,"https://www.google.com.au/maps/place/19%C2%B027'58.1%22S+169%C2%B019'11.0%22E/@-19.4661266,169.3191256,291m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d-19.466128!4d169.319727"
+728928,Vanuatu,-19.4443871,169.3079746,2016-09-28 00:00:00,2016-09-28 09:09:35,0,Richard of Sydney,"Loukearu (Jet) (Loukahmal) dispensary  https://www.google.com.au/maps/place/Louniel,+Vanuatu/@-19.4447142,169.3075693,300m/data=!3m1!1e3!4m5!3m4!1s0x6e7d58453b4a613d:0x6be85b7cda163ee9!8m2!3d-19.4827016!4d169.4120108",2,0,Richard of Sydney,
+728913,Vanuatu,-19.4937679,169.4087934,2016-09-28 00:00:00,2016-09-28 08:56:45,0,Richard of Sydney,Kitow (Katsipital) dispensary,2,0,Richard of Sydney,
+728901,Vanuatu,-19.6020583,169.4623411,2016-09-28 00:00:00,2016-09-28 08:49:18,0,Richard of Sydney,Imaki dispensary  https://www.flickr.com/photos/142289664@N02/albums/72157667465025892,2,0,Richard of Sydney,
+728897,Vanuatu,-19.6030475,169.4622727,2016-09-28 00:00:00,2016-09-28 08:47:14,0,Richard of Sydney,Imaki Primary School  https://www.flickr.com/photos/142289664@N02/26071498483/in/album-72157667464751702/,2,0,Richard of Sydney,
+728895,Vanuatu,-19.6030829,169.4627595,2016-09-28 00:00:00,2016-09-28 08:45:56,0,Richard of Sydney,"Catholic church, Imaki",2,0,Richard of Sydney,
+528992,Vanuatu,-19.5515522,169.4496015,2016-03-17 00:00:00,2016-03-17 11:31:39,0,Richard of Sydney,I think this is the primary school,2,0,Richard of Sydney,"No, it is not primary school. Please ignore"
+210750,Vanuatu,-15.0427827,167.0692635,2014-08-02 00:00:00,2014-08-02 14:40:33,0,Unknown,Port Olry,2,0,Ben-Fiamoa,
+210751,Vanuatu,-15.0933393,166.9887543,2014-08-02 00:00:00,2014-08-02 14:40:09,0,Unknown,Nakamal de Ser,2,0,Ben-Fiamoa,

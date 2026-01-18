@@ -1,0 +1,229 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5109189,Viti,-17.4894256,177.2661753,2025-12-29 00:00:00,2025-12-29 07:45:09,0,datakid,'this building is hotel (resort) reception' OSM snapshot date: 2025-12-17T16:47:22Z POI has no name POI types: building  #CoMaps android 2025.12.19-11-Google,2,0,map per,"Thanks, added 'amenity=reception_desk'"
+5109188,Viti,-17.4890974,177.2663882,2025-12-29 00:00:00,2025-12-29 07:42:52,0,datakid,'this is a bar' OSM snapshot date: 2025-12-17T16:47:22Z POI has no name POI types: building  #CoMaps android 2025.12.19-11-Google,2,0,map per,Thanks for adding the bar to OpenStreetMap!
+5109187,Viti,-17.4893340,177.2662874,2025-12-29 00:00:00,2025-12-29 07:42:45,0,datakid,'Restaurant called The Reef' OSM snapshot date: 2025-12-17T16:47:22Z POI has no name POI types: building  #CoMaps android 2025.12.19-11-Google,2,0,map per,Thanks for adding the restaurant to OpenStreetMap!
+5109186,Viti,-17.4880578,177.2597081,2025-12-29 00:00:00,2025-12-29 07:42:24,0,datakid,'venue is a bar/restaurant called The Rocks' OSM snapshot date: 2025-12-17T16:47:22Z POI has no name POI types: building  #CoMaps android 2025.12.19-11-Google,2,0,map per,Thanks for adding the restaurant to OpenStreetMap!
+4993651,Viti,-18.7233228,-179.0911054,2025-10-06 00:00:00,2025-10-08 17:38:11,0,Unknown,Micah Bailey from St Albans owns this island and does some freaky things to little kids here secretly,2,0,NeisReview,The content of this note is #nonsense.
+4968793,Viti,-17.7695484,177.4743032,2025-09-19 00:00:00,2025-09-19 12:30:53,0,AachalD,LUX Apartments,2,0,AachalD,
+4956756,Viti,-16.6140430,178.8223390,2025-09-11 00:00:00,2025-09-11 06:54:57,0,Waqa_j,Sugarcane Farm,4,1,Waqa_j,
+4928333,Viti,-17.6266800,177.5001000,2025-08-24 00:00:00,2025-08-25 06:22:38,0,Unknown,Solar Farm,3,0,Saraqia,
+2655046,Viti,-17.6151511,177.4541838,2021-05-05 00:00:00,2025-08-24 23:23:43,0,DiveOC West,Confining area of Lautoka Hospital.,2,0,Saraqia,
+1024436,Viti,-17.6281043,177.4578637,2017-06-09 00:00:00,2025-08-24 23:23:37,0,Joe Rauca,'Suli Saukawa' POI has no name POI types: amenity-shelter OSM data version: 2016-12-14T16:41:03Z  #mapsme,4,1,Saraqia,
+2354258,Viti,-17.6279490,177.4339843,2020-09-19 00:00:00,2025-08-24 23:23:30,0,Unknown,AUTO PROFESSIONALS PTE LTD MECHANICAL | LUBE | PARTS | TYRE CTR,2,0,Saraqia,
+307263,Viti,-17.6227750,177.4551201,2015-01-26 00:00:00,2025-08-24 23:22:38,0,Unknown,Cell 1 - Adman Street,4,1,Saraqia,
+2753290,Viti,-17.6032151,177.4537949,2021-07-13 00:00:00,2025-08-24 23:22:28,0,Unknown,Paradise Exclusives Fiji Lautoka Shop,2,0,Saraqia,
+757279,Viti,-17.6051742,177.4522418,2016-10-23 00:00:00,2025-08-24 23:22:24,0,Patrice Leguy 687,"Vêtements, souvenirs (OSM data version: 2016-09-19T14:38:03Z) #mapsme",2,0,Saraqia,
+1518848,Viti,-17.6054392,177.4552533,2018-09-08 00:00:00,2025-08-24 23:22:19,0,Unknown,"onosm.org submitted note from a business: Name: Beena's Beauty Parlor Phone: +679 994 0079 Website:  Twitter: undefined Hours: Monday-Friday 9am to 5:30pm and Saturday 9am to 4pm Category: ,Beauty & Spas Address: yasawa street",2,0,Saraqia,
+4850972,Viti,-16.5179796,179.1408402,2025-07-12 00:00:00,2025-07-13 02:50:52,0,Ansderer,Town isn’t showing up labelled from quite far out on the Standard and Tracestrack Topo layers,2,0,Ansderer,Fixed. Nevermind.
+2854133,Viti,-17.6253101,177.4474005,2021-09-15 00:00:00,2025-07-10 23:55:25,0,Nikita Thoman,Ratu Meli Street,2,0,Ansderer,
+4071762,Viti,-17.3788000,178.1548700,2024-01-16 00:00:00,2025-07-10 22:12:04,0,Tajtrdlik,"Forwarding anonymous report from #Mapy.cz user, please verify: 'There is located Rakiraki market'.",2,0,Ansderer,I can confirm when visiting this place does exist
+1207429,Viti,-18.1513590,178.4408078,2017-11-16 00:00:00,2025-07-09 22:15:36,0,Davie Dean,Is there a speed bump or something similar here?,4,1,Davie Dean,Added traffic_calming=yes for someone to refine locally to close this note.
+4614816,Viti,-18.0905172,178.4616121,2025-02-05 00:00:00,2025-07-03 12:52:42,0,soliMM,Our users indicate this street name is: 'Raibaba Road'. We cannot find any available sources to verify this information. Can any local mapper confirm this? #msftopenmaps,2,0,PulisakZ,
+4707891,Viti,-18.2701232,-179.9779737,2025-04-12 00:00:00,2025-05-18 08:44:57,0,Unknown,भारत,3,0,NeisReview,
+4642316,Viti,-18.0575794,178.3731651,2025-02-26 00:00:00,2025-02-26 04:05:57,0,Divendra,Located around twenty minutes from the city.,2,0,Divendra,
+3466224,Viti,-18.1445102,178.4309206,2022-12-04 00:00:00,2025-02-26 03:01:21,0,CartoMobil'ite_Visitor,"Contribution accessibilité Cartomobil' ite #cartomobilite  Nom : Kanu URL : https://api.openstreetmap.org/way/451793962  Détails : Ces attributs sont à vérifier attentivement : wheelchair:description (Est-ce un descriptif valide ?)  wheelchair=no opening_hours=sunrise-sunset sign:disabled=no service:wheelchair=yes wheelchair:description=Une grande marche a l'entrée et un parking en graviers mais le personnel accompagne et permet l'accès néanmoins   Pour corriger cette note, utilisez les tags renseignés et vérifiez le commentaire",2,0,Divendra,
+4590275,Viti,-18.0556209,178.5078335,2025-01-15 00:00:00,2025-01-15 23:52:55,0,Alvin Reddy,Lyth Street,2,0,Alvin Reddy,
+2083032,Viti,-17.8061291,177.4150908,2020-02-08 00:00:00,2024-09-07 18:54:43,0,alhamdsmartliving,Al Hamd Samrt Living,2,0,Dussra,
+4080745,Viti,-16.7853468,179.5242137,2024-01-21 00:00:00,2024-01-21 22:39:09,0,Benjamin Lanyon,"Vatudamu Heights Hibiscus Highway, Savusavu, Vanua Levu, Fiji",3,1,Benjamin Lanyon,
+2261529,Viti,-18.0976412,178.4111178,2020-07-11 00:00:00,2023-11-03 10:31:42,0,Unknown,Close roads,2,0,confusedbuffalo,"Not enough information to map anything, unclear if road closure is temporary or permanent"
+2998829,Viti,-17.7490954,-179.3179893,2022-01-06 00:00:00,2023-10-31 11:25:09,0,Unknown,Arbres,2,0,Lejun,
+3871865,Viti,-17.6035299,177.4543798,2023-09-04 00:00:00,2023-09-04 23:03:45,0,Fiji Journal,Lauotka Bus Station,2,0,Fiji Journal,
+2234791,Viti,-17.7771830,177.4314230,2020-06-19 00:00:00,2023-09-02 06:05:30,0,Adamant1,names on buildings need to be changed to addresses if that's what they are.,2,0,CurlingMan13,blank note
+2744192,Viti,-17.7659852,177.4475955,2021-07-07 00:00:00,2023-09-02 06:05:03,0,Adamant1,Names need to be removed from buildings,2,0,CurlingMan13,blank note
+3807874,Viti,-18.1061000,177.3215800,2023-07-31 00:00:00,2023-07-31 03:49:16,0,Tem attrac horse ride,Temptation attraction horse ridding fiji located at Natadola beach manage local activities business like horse riding massage  hairbraiding snorkelling  and transfers,4,1,Tem attrac horse ride,
+3797808,Viti,-18.1385000,177.5076000,2023-07-25 00:00:00,2023-07-25 07:26:28,0,Amelia_N,Sigatoka,4,1,Amelia_N,Research Site for my Project
+3762618,Viti,-16.6206174,179.0613449,2023-07-03 00:00:00,2023-07-03 02:12:33,0,mactabua,Nayarailagi Village,4,1,mactabua,
+1654610,Viti,-17.7434140,177.1476531,2019-01-19 00:00:00,2023-03-11 07:01:43,0,Jamie dub,Malolo island resort,2,0,neomanic,I tagged the main building as Malolo Island Resort.  Unsure of the reason for this note?
+3586254,Viti,-18.0455000,178.5613000,2023-03-06 00:00:00,2023-03-06 00:07:47,0,fc1943s,Suva Airport,2,0,fc1943s,
+1768664,Viti,-17.3254896,177.1349636,2019-05-06 00:00:00,2022-12-17 04:31:41,0,romanwespi,'Namara village is at the beach in the south of the island west of wayalailai resort. This one in the north is called Yamata (new village). Also google maps is not correct for this area.' POI name: Namara POI types: place-village OSM data version: 2019-03-14T00:11:02Z  #mapsme,2,0,wohnung058,already added
+1768665,Viti,-17.3537440,177.1406612,2019-05-06 00:00:00,2022-12-17 04:30:34,0,romanwespi,'There is a big rock in the water at the beach. It is a useful landmark. It got there a few years ago by rockfall.' POI name: Rock POI types: tourism-attraction OSM data version: 2019-03-14T00:11:02Z  #mapsme,2,0,wohnung058,already added
+2954334,Viti,-17.6097986,177.0342278,2021-11-30 00:00:00,2022-12-17 04:29:50,0,Pan Perníček,"Forwarding anonymous report from #Mapy.cz user, please verify: This is Monuriki Island: https://en.wikipedia.org/wiki/Monuriki",2,0,wohnung058,already added
+3402296,Viti,-17.9208030,177.9242277,2022-10-16 00:00:00,2022-10-16 22:11:32,0,jonafiji,Naga Site,4,1,jonafiji,Heritage site for Draubuta
+3370037,Viti,-16.3561000,179.4467000,2022-09-23 00:00:00,2022-09-23 08:59:34,0,John Browning,Naleba,2,0,John Browning,
+3370029,Viti,-16.4784000,179.3400000,2022-09-23 00:00:00,2022-09-23 08:56:07,0,John Browning,Waiqele,2,0,John Browning,
+3370024,Viti,-16.4186000,179.3884000,2022-09-23 00:00:00,2022-09-23 08:54:20,0,John Browning,Soasoa,2,0,John Browning,
+3370023,Viti,-16.3995000,179.3801000,2022-09-23 00:00:00,2022-09-23 08:53:23,0,John Browning,Vunika,2,0,John Browning,
+3370022,Viti,-16.3335000,179.4222000,2022-09-23 00:00:00,2022-09-23 08:51:46,0,John Browning,Mataniwai,2,0,John Browning,
+3370020,Viti,-16.3240000,179.4374000,2022-09-23 00:00:00,2022-09-23 08:50:45,0,John Browning,Karokaro,2,0,John Browning,
+3370016,Viti,-16.3089000,179.4415000,2022-09-23 00:00:00,2022-09-23 08:50:06,0,John Browning,Batiri,2,0,John Browning,
+3370013,Viti,-16.3013000,179.4497000,2022-09-23 00:00:00,2022-09-23 08:49:21,0,John Browning,Papalagi,2,0,John Browning,
+3370010,Viti,-16.2941000,179.4847000,2022-09-23 00:00:00,2022-09-23 08:45:56,0,John Browning,Wavuwavu,2,0,John Browning,
+3370008,Viti,-16.2958000,179.5341000,2022-09-23 00:00:00,2022-09-23 08:44:47,0,John Browning,Walana,2,0,John Browning,
+3370006,Viti,-16.3055000,179.5558000,2022-09-23 00:00:00,2022-09-23 08:44:03,0,John Browning,Navualevu,2,0,John Browning,
+3370005,Viti,-16.3375000,179.5763000,2022-09-23 00:00:00,2022-09-23 08:41:40,0,John Browning,Vuliyaki,2,0,John Browning,
+3370002,Viti,-16.3277000,179.5867000,2022-09-23 00:00:00,2022-09-23 08:40:27,0,John Browning,Kelikoso,2,0,John Browning,
+3370001,Viti,-16.2803000,179.5911000,2022-09-23 00:00:00,2022-09-23 08:39:39,0,John Browning,Nagaiya,2,0,John Browning,
+3369997,Viti,-16.2906000,179.5819000,2022-09-23 00:00:00,2022-09-23 08:36:37,0,John Browning,Lagalaga,2,0,John Browning,
+3369984,Viti,-16.3743000,179.4629000,2022-09-23 00:00:00,2022-09-23 08:16:23,0,John Browning,Coqeloa,2,0,John Browning,
+3369975,Viti,-16.3798000,179.4011000,2022-09-23 00:00:00,2022-09-23 08:03:47,0,John Browning,Vuo Tank,2,0,John Browning,
+3369973,Viti,-16.3609000,179.4096000,2022-09-23 00:00:00,2022-09-23 08:02:06,0,John Browning,Nagigi Loop,2,0,John Browning,
+3369971,Viti,-16.2852000,179.4500000,2022-09-23 00:00:00,2022-09-23 08:01:25,0,John Browning,Nasealevu,2,0,John Browning,
+3369965,Viti,-16.3330000,179.5523000,2022-09-23 00:00:00,2022-09-23 07:53:57,0,John Browning,Daku Triangle,2,0,John Browning,
+3369964,Viti,-16.2819300,179.5985400,2022-09-23 00:00:00,2022-09-23 07:53:29,0,John Browning,Nubu,2,0,John Browning,
+3369963,Viti,-16.3162667,179.5511913,2022-09-23 00:00:00,2022-09-23 07:52:33,0,John Browning,"FSC Sector Office, Wainikoro",2,0,John Browning,
+3298225,Viti,-17.6281000,177.4996000,2022-08-04 00:00:00,2022-08-07 06:25:26,0,ksakamoto@gec,▼,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+3155240,Viti,-16.5728100,179.7613700,2022-04-28 00:00:00,2022-04-28 04:28:24,0,Maivunijale,"JKSDHFKEJ;LDFM,",7,1,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2516148,Viti,-17.5666200,178.4409400,2021-01-28 00:00:00,2022-01-23 07:48:13,0,Unknown,Burewai District School,2,0,wohnung058,added
+1641608,Viti,-16.7922007,-179.9984667,2019-01-06 00:00:00,2022-01-23 07:26:50,0,wohnung058,Restaurant Travelli,2,0,wohnung058,
+1641607,Viti,-16.7916896,-179.9978351,2019-01-06 00:00:00,2022-01-23 07:26:27,0,wohnung058,Garden Island Resort,2,0,wohnung058,
+2374045,Viti,-18.0938600,178.4724400,2020-10-04 00:00:00,2022-01-22 10:08:15,0,Luisa Tui,Warm Delights Fiji,2,0,wohnung058,added
+2369735,Viti,-18.1166680,178.4160778,2020-10-01 00:00:00,2022-01-22 09:43:37,0,Unknown,SHIN HO CHON 102,3,0,wohnung058,closed wrong position
+3004541,Viti,-18.1376613,178.4318685,2022-01-10 00:00:00,2022-01-22 09:40:09,0,Unknown,"Can you please label this as a Omnicare PTE Ltd   Its a new medical centre setup at 98 Amy Street, Suva, to help the locals find the clinic.  Thanks",2,0,wohnung058,already added
+2963655,Viti,-18.1420567,178.4229009,2021-12-08 00:00:00,2022-01-22 09:36:48,0,Unknown,onosm.org submitted note from a business: name: Vineyard Palace  phone: 3315111 website: http://www.vineyardpalace.com twitter:  facebook: https://www.facebook.com/vineyardpalace email: bookings@vineyardpalace.com hours: Monday-Friday 11.30am to 10.00pm category: Chinese Restaurants address: Vineyard Palace Restaurant,2,0,wohnung058,added datails
+2985953,Viti,-17.7303370,177.0684400,2021-12-28 00:00:00,2021-12-28 13:01:46,0,Unknown,1,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+337074,Viti,-16.7943523,-179.9998283,2015-03-25 00:00:00,2021-11-16 08:15:40,0,gpspilot1,"There's a software bug that prevents OpenStreetMap from calculating directions between Matei, Fiji and Wairiki, Fiji.  Namely, the crux of the problem is that the route would cross the 180-degree meridian.  OpenStreepMap sees this as a mathematical singularity, and becomes quite helpless.  Believe it or not, this problem also affects two roads in Siberia.  It really bugs me...  please fix it, OpenStreetMap developers!",4,0,Allison P,Not related to the map itself.
+856982,Viti,-16.4352002,179.3609905,2017-01-20 00:00:00,2021-10-22 01:47:45,0,Unknown,Nasekula Bridge,4,0,Raj510,
+2878548,Viti,-18.2273000,178.1678500,2021-10-03 00:00:00,2021-10-03 00:10:44,0,Inia bola,FIRE HYDRANT,4,1,Inia bola,FIRE HYDRANT
+2844097,Viti,-18.0309877,179.3509606,2021-09-09 00:00:00,2021-09-09 21:47:32,0,Mack Tabua,Naovuaka Settlement,2,0,Mack Tabua,
+2215416,Viti,-18.4272000,178.0516000,2020-06-02 00:00:00,2021-09-06 03:56:36,0,Unknown,Beqa Lagoon,3,1,Mack Tabua,
+2723273,Viti,-18.0563919,178.5064986,2021-06-22 00:00:00,2021-06-22 06:05:20,0,Unknown,I am currently in Suva yet my location is being shown in Labasa,2,0,kartonage,This is not related to OpenStreetMap. Contact your third party app provider (or the service that led you here). OpenStreetMap has no control over your location data nor is there any meaningful data to add to the map in this note.
+2714372,Viti,-18.1020600,178.5613200,2021-06-15 00:00:00,2021-06-15 11:28:41,0,Jiutasa,Nasali Landing,2,0,Jiutasa,
+2660186,Viti,-18.1935183,178.1898584,2021-05-08 00:00:00,2021-05-08 08:42:22,0,pqiqi,Namelimeli Village,2,0,pqiqi,
+2660183,Viti,-18.1738721,178.2427055,2021-05-08 00:00:00,2021-05-08 08:40:32,0,pqiqi,Qilai Village,2,0,pqiqi,
+2660173,Viti,-18.1782389,178.2279427,2021-05-08 00:00:00,2021-05-08 08:38:33,0,pqiqi,"Wairoro waterfall,Mau Vilage",4,1,pqiqi,
+2660154,Viti,-18.1638260,178.2211375,2021-05-08 00:00:00,2021-05-08 08:26:35,0,pqiqi,"Vatulevu,Mau Village",4,1,pqiqi,
+2660163,Viti,-17.6047514,177.4384567,2021-05-08 00:00:00,2021-05-08 08:25:49,0,pqiqi,"Queens Wharf,Lautoka, Fiji",2,0,pqiqi,
+2081314,Viti,-18.1357400,178.4504200,2020-02-06 00:00:00,2021-03-20 15:08:11,0,OsNaganilau,Fire Hydrant,2,0,wohnung058,already mapped
+2081317,Viti,-18.1401595,178.4223584,2020-02-06 00:00:00,2021-03-20 15:07:07,0,jay Tabua,'pillar fire hydrant' POI has no name POI types: emergency-fire_hydrant OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,wohnung058,already mapped
+2081318,Viti,-18.1396393,178.4223424,2020-02-06 00:00:00,2021-03-20 15:06:50,0,jay Tabua,'pillar fire hydrant' POI has no name POI types: emergency-fire_hydrant OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,wohnung058,already mapped
+2081319,Viti,-18.1407365,178.4231650,2020-02-06 00:00:00,2021-03-20 15:06:29,0,jay Tabua,'pillar fire hydrant' POI has no name POI types: emergency-fire_hydrant OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,wohnung058,already mapped
+2081320,Viti,-18.1457548,178.4472917,2020-02-06 00:00:00,2021-03-20 15:05:48,0,jay Tabua,'pillar fire hydrant' POI has no name POI types: emergency-fire_hydrant OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,wohnung058,alreadyapped
+2081346,Viti,-18.1475662,178.4551459,2020-02-07 00:00:00,2021-03-20 15:04:57,0,LebaGaunavinaka,'#UndergroundHydrant' POI has no name POI types: emergency-fire_hydrant OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,wohnung058,already mapped
+2119421,Viti,-18.0907651,178.4983468,2020-03-12 00:00:00,2021-03-20 14:59:15,0,LebaGaunavinaka,'Underground' POI has no name POI types: emergency-fire_hydrant OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,wohnung058,already mapped
+2515146,Viti,-18.1609683,178.4368735,2021-01-28 00:00:00,2021-01-28 05:18:12,0,Unknown,2nd Home x,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2465597,Viti,-16.4113863,178.9446255,2020-12-17 00:00:00,2021-01-27 20:20:13,0,dmgroom_ct,untagged reefs,2,0,dmgroom_ct,these have now been traced
+2399645,Viti,-18.1155074,178.4140808,2020-10-25 00:00:00,2020-12-06 07:15:40,0,OsNaganilau,'UFH' POI has no name POI types: emergency-fire_hydrant OSM data version: 2020-08-22T02:23:14Z  #mapsme,2,0,wohnung058,already addded
+2115166,Viti,-18.0653200,178.5134200,2020-03-09 00:00:00,2020-12-06 07:06:38,0,Unknown,Nakasi Post Office,2,0,wohnung058,added
+2000292,Viti,-18.0969173,178.4892264,2019-11-18 00:00:00,2020-12-06 07:03:12,0,Unknown,Lot 22 Nawanawa Rd Suva,2,0,wohnung058,added
+2275387,Viti,-18.0603414,178.5022545,2020-07-23 00:00:00,2020-12-06 06:48:21,0,rapha_731,Drekeiwaila Methodist Church,4,1,wohnung058,added
+2305463,Viti,-17.7796578,177.4526820,2020-08-13 00:00:00,2020-12-05 20:25:02,0,Zoyha,Currently Mobil service station,2,0,wohnung058,changed
+1858984,Viti,-18.1417700,178.4263600,2019-07-27 00:00:00,2020-12-05 19:58:20,0,Unknown,Fiji Club,2,0,wohnung058,added
+1858980,Viti,-18.1460900,178.4326200,2019-07-27 00:00:00,2020-12-05 19:58:19,0,Unknown,Fiji Sevashram Sangha,2,0,wohnung058,added
+1858974,Viti,-18.1456900,178.4333100,2019-07-27 00:00:00,2020-12-05 19:13:09,0,Unknown,"Suva Apartments, Fiji Olympic House",2,0,wohnung058,added
+1858977,Viti,-18.1453200,178.4335900,2019-07-27 00:00:00,2020-12-05 19:13:09,0,Unknown,Bau Apartments,2,0,wohnung058,added
+1028492,Viti,-18.1361589,178.4392789,2017-06-13 00:00:00,2020-12-05 15:21:38,0,VUIYANUCA,"'place to be deleted' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Fiji National Council of DIsabled Persons Complex POI types: office-government OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,wohnung058,Deleted VUIYANUCA you added it and left for 3 years?
+2411553,Viti,-18.1790444,178.4262943,2020-11-05 00:00:00,2020-12-05 15:19:45,0,Ernest Thomasy,Suva Notch Coral Reef,4,1,wohnung058,added
+1909746,Viti,-18.1358615,178.4275637,2019-09-02 00:00:00,2020-12-05 15:19:45,0,MikelPC,'The other locations are wrong' POI name: City Private Hotel POI types: tourism-hotel OSM data version: 2019-07-27T07:02:33Z  #mapsme,2,0,wohnung058,changed
+2367688,Viti,-18.1491100,178.4470000,2020-09-29 00:00:00,2020-12-05 15:19:45,0,Unknown,USP FITNESS CENTRE,2,0,wohnung058,added
+1880210,Viti,-18.1457600,178.4426200,2019-08-12 00:00:00,2020-12-05 15:09:18,0,Unknown,MQ 47 Lodge upper campus,2,0,wohnung058,added
+1861304,Viti,-18.1092611,178.4412959,2019-07-28 00:00:00,2020-12-05 15:09:18,0,Nitesh Mistry,'Correct location added on map. Remove this location.' POI name: MH Superfresh POI types: shop-supermarket OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,wohnung058,nothing there
+1858967,Viti,-18.1491500,178.4336800,2019-07-27 00:00:00,2020-12-05 15:06:37,0,Unknown,Le Hunte Street,2,0,wohnung058,already named
+1858966,Viti,-18.1466300,178.4336500,2019-07-27 00:00:00,2020-12-05 15:06:37,0,Unknown,Le Hunte Street,2,0,wohnung058,already named
+1858981,Viti,-18.1446300,178.4321200,2019-07-27 00:00:00,2020-12-05 15:06:37,0,Unknown,Pacific Flame restaurant/bar,2,0,wohnung058,added
+1846036,Viti,-18.1505200,178.4267000,2019-07-16 00:00:00,2020-12-05 14:38:58,0,LebaGaunavinaka,"Control Section, Ministry of Lands & Mineral Resources",2,0,wohnung058,already added
+1846033,Viti,-18.1503040,178.4264246,2019-07-16 00:00:00,2020-12-05 14:38:28,0,LebaGaunavinaka,"Valuation Division, Ministry of Lands & Mineral Resources",2,0,wohnung058,already added
+1054136,Viti,-18.1445410,178.4470163,2017-07-05 00:00:00,2020-12-05 13:52:27,0,yurasi,Is the name of the road 'Varani Street' instead of 'Reki Street'? Can someone please confirm the same and update the map accordingly if yes?,3,0,wohnung058,changed
+1028565,Viti,-18.1156010,178.4760440,2017-06-13 00:00:00,2020-12-05 13:50:18,0,Mark Veikoso,"'add new Category Polling Venue' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Central Division Warehouse POI types: office-government OSM data version: 2017-05-11T13:22:09Z  #mapsme",5,1,wohnung058,closed
+2125157,Viti,-18.1423931,178.4245133,2020-03-19 00:00:00,2020-12-02 15:08:58,0,wittli,'The church is called Holy Trinity Anglican Cathedral' POI has no name POI types: building amenity-place_of_worship-christian OSM data version: 2020-02-09T04:19:23Z  #mapsme,2,0,wohnung058,added and redrawn
+1858985,Viti,-18.1424500,178.4245000,2019-07-27 00:00:00,2020-12-02 15:08:58,0,Unknown,Anglican Church,2,0,wohnung058,added
+2433073,Viti,-17.7793411,177.4323320,2020-11-20 00:00:00,2020-11-20 01:41:14,0,PERIPERI (CHICKEN YOU GRAVE),Periperi - Jetpoint Branch Contact Details: 8769780,2,0,PERIPERI (CHICKEN YOU GRAVE),
+2433054,Viti,-17.6051585,177.4552274,2020-11-20 00:00:00,2020-11-20 01:25:08,0,PERIPERI (CHICKEN YOU GRAVE),Periperi - Lautoka Branch Contact Detail: 8918572,2,0,PERIPERI (CHICKEN YOU GRAVE),
+2433051,Viti,-18.1276778,178.4572899,2020-11-20 00:00:00,2020-11-20 01:18:22,0,PERIPERI (CHICKEN YOU GRAVE),Periperi - Karsanji Branch  Opening Soon,2,0,PERIPERI (CHICKEN YOU GRAVE),
+2433050,Viti,-18.1459894,178.4478781,2020-11-20 00:00:00,2020-11-20 01:09:28,0,PERIPERI (CHICKEN YOU GRAVE),Periperi - Damodar City Branch Location: Food Court Contact Detail: 8994155,2,0,PERIPERI (CHICKEN YOU GRAVE),
+2433046,Viti,-16.4291313,179.3750775,2020-11-20 00:00:00,2020-11-20 01:07:51,0,PERIPERI (CHICKEN YOU GRAVE),Periperi - Labasa Branch Contact Details: 9924997,4,1,PERIPERI (CHICKEN YOU GRAVE),
+2433048,Viti,-18.1459206,178.4478807,2020-11-20 00:00:00,2020-11-20 01:05:08,0,PERIPERI (CHICKEN YOU GRAVE),Periperi - Damodar City Branch Contact Details: 8994155,4,1,PERIPERI (CHICKEN YOU GRAVE),added
+2115553,Viti,-17.8051000,177.4160000,2020-03-09 00:00:00,2020-11-07 09:58:53,0,Unknown,Nadi Post Office,2,0,wohnung058,added
+2115491,Viti,-18.1383500,178.4241000,2020-03-09 00:00:00,2020-11-07 09:35:40,0,Unknown,Suva GPO,2,0,wohnung058,already maped
+2115499,Viti,-18.1383000,178.4239000,2020-03-09 00:00:00,2020-11-07 09:35:40,0,Unknown,Suva GPO,2,0,wohnung058,already maped
+2115421,Viti,-18.1133400,178.4062900,2020-03-09 00:00:00,2020-11-07 09:34:50,0,Unknown,Lami Post Office,2,0,wohnung058,already maped
+2115483,Viti,-18.1267000,178.4401800,2020-03-09 00:00:00,2020-11-07 09:34:50,0,Unknown,Samabula Post Office,2,0,wohnung058,already maped
+1829447,Viti,-17.7616275,177.4493614,2019-06-29 00:00:00,2020-11-07 09:33:39,0,Unknown,Kana Time Grill Restaurant Shop 26 Prime Complex Concave Road Namaka Nadi,2,0,wohnung058,
+1829435,Viti,-17.7616811,177.4500453,2019-06-29 00:00:00,2020-11-07 09:33:11,0,Unknown,Kana Time Grill,2,0,wohnung058,added
+1829437,Viti,-17.7616600,177.4500500,2019-06-29 00:00:00,2020-11-07 09:33:11,0,Unknown,Kana Time Grill Shop 26 Prime Complex,2,0,wohnung058,
+1821288,Viti,-18.1143200,178.4750600,2019-06-22 00:00:00,2020-11-07 09:31:08,0,Unknown,"Map does not show properly here, houses etc",2,0,wohnung058,corrected
+724670,Viti,-17.6193393,177.4374390,2016-09-24 00:00:00,2020-11-07 09:09:31,0,Unknown,Komisch,4,0,wohnung058,
+2330780,Viti,-17.7921699,179.1475296,2020-08-31 00:00:00,2020-11-07 09:04:58,0,Pailla,"The village of Mua is not tagged in this map. There are only 4 villages in Batiki Island, Yavu, Mua, Naigani and Manuku village.",2,0,wohnung058,added
+2354261,Viti,-17.6278315,177.4344889,2020-09-19 00:00:00,2020-09-19 14:45:32,0,Unknown,AUTO PROFESSIONALS MECHANICAL | LUBE | PARTS | TYRE CTR,2,0,kartonage,duplicate
+2354260,Viti,-17.6278315,177.4344889,2020-09-19 00:00:00,2020-09-19 14:45:28,0,Unknown,AUTO PROFESSIONALS MECHANICAL | LUBE | PARTS | TYRE CTR,2,0,kartonage,duplicate
+2354259,Viti,-17.6279490,177.4339843,2020-09-19 00:00:00,2020-09-19 14:45:21,0,Unknown,AUTO PROFESSIONALS PTE LTD MECHANICAL | LUBE | PARTS | TYRE CTR,2,0,kartonage,duplicate
+2081310,Viti,-18.1357401,178.4504014,2020-02-06 00:00:00,2020-09-16 05:12:01,0,OsNaganilau,'Underground Fire Hydrant' POI has no name POI types: emergency-fire_hydrant OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,nagi0113,
+1984865,Viti,-16.4291100,179.3775700,2019-11-04 00:00:00,2020-09-11 10:31:56,0,Unknown,Radah Harvest,3,1,PERIPERI (CHICKEN YOU GRAVE),
+2238878,Viti,-18.0844630,178.5049045,2020-06-22 00:00:00,2020-06-22 21:30:56,0,Skar1986,Lagilagi Methodist Church,4,1,Skar1986,
+2187255,Viti,-18.0488710,178.4822622,2020-05-10 00:00:00,2020-05-10 02:57:08,0,Maika123,Wainibuku Farm House,4,1,Maika123,Trying to correct the label
+2024831,Viti,-17.7905354,177.9228973,2019-12-13 00:00:00,2020-03-30 23:49:08,0,Unknown,Fidji,2,0,Dwein,Fiji is not spelt 'Fidji' but rather FIJI
+2141861,Viti,-17.6169299,177.4669111,2020-03-30 00:00:00,2020-03-30 12:50:17,0,Unknown,Not me,2,0,kartonage,Facebook/Instagram problem which OSM has nothing to do with.
+2124443,Viti,-18.1472249,178.4227645,2020-03-19 00:00:00,2020-03-19 05:43:10,0,wittli,'The Grand Pacific Hotel is currently marked about 300m north of this point which is incorrect.' POI name: Grand Pacific Hotel POI types: tourism-hotel internet_access-wlan OSM data version: 2020-02-09T04:19:23Z  #mapsme,2,0,kartonage,Bad booking.com data. OSM data seems correct.
+1126338,Viti,-17.6110360,177.4564075,2017-09-04 00:00:00,2020-01-20 04:41:55,0,Unknown,Churchill Park,2,0,꽈앙이,
+278540,Viti,-16.7664125,177.5260162,2014-11-30 00:00:00,2019-12-09 01:46:14,0,Unknown,Yasawa,4,0,freebeer,on the map
+1964352,Viti,-18.1483190,178.4456760,2019-10-17 00:00:00,2019-10-17 04:32:51,0,Avinesh Kumar,AusAID Performance Space,2,0,Avinesh Kumar,
+1964351,Viti,-18.1482018,178.4457859,2019-10-17 00:00:00,2019-10-17 04:31:54,0,Avinesh Kumar,Australia Pacific Lecture Theatre,2,0,Avinesh Kumar,
+1964349,Viti,-18.1479800,178.4431466,2019-10-17 00:00:00,2019-10-17 04:30:50,0,Unknown,Japan-ICT Conference Room,4,1,Avinesh Kumar,
+1776920,Viti,-16.9122612,177.3878732,2019-05-13 00:00:00,2019-10-13 20:22:52,0,romanwespi,'Wrong location from booking.com' POI name: Oarsman's Bay Resort POI types: tourism-hotel OSM data version: 2019-03-14T00:11:02Z  #mapsme,2,0,freebeer,"on the map, this is not booking.com and nothing may be copied from there"
+1901710,Viti,-18.1505041,178.4524736,2019-08-26 00:00:00,2019-10-13 20:15:05,0,Adityo,'Add amenity toilet' POI has no name POI types: amenity-toilets OSM data version: 2019-07-27T07:02:33Z  #mapsme,2,0,freebeer,on the map
+1926551,Viti,-18.0803367,177.5369279,2019-09-15 00:00:00,2019-10-13 20:14:04,0,Morswinowa,'wonderful local homestay' POI name: Happy Valley Eco Forest Homestay POI types: tourism-hostel OSM data version: 2019-07-27T07:02:33Z  #mapsme,2,0,freebeer,on the map
+918589,Viti,-17.8034002,177.4173213,2017-03-08 00:00:00,2019-09-20 17:15:42,0,honzag,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'wrong location ' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",4,0,honzag,
+1915720,Viti,-17.7615421,177.4524512,2019-09-07 00:00:00,2019-09-07 01:23:44,0,Sean's tattoo,Sean's tattoo fj  At namaka lane nadi fiji  Inside angel pawn shop,2,0,Sean's tattoo,
+1915719,Viti,-17.7612069,177.4532605,2019-09-07 00:00:00,2019-09-07 01:22:38,0,Sean's tattoo,Sean's tattoo fj  At namaka lane nadi fiji  Inside angel pawn shop,3,1,Sean's tattoo,
+1602127,Viti,-18.1475150,178.4431837,2018-11-27 00:00:00,2019-08-12 03:24:18,0,jonahsullivan,Unable to answer 'What is the house number of this building?' for https://osm.org/way/457090639 via StreetComplete 8.4:  not a house,2,0,Komal_D,
+1846031,Viti,-18.1501577,178.4270427,2019-07-16 00:00:00,2019-07-16 11:29:07,0,LebaGaunavinaka,"Land Use Unit (Land Bank), Min. of Lands & Minerals",2,0,LebaGaunavinaka,
+1810658,Viti,-18.1539390,178.4239528,2019-06-13 00:00:00,2019-07-16 11:23:06,0,Unknown,Ministry of Lands & Mineral Resources (HQ),2,0,LebaGaunavinaka,Ministry of Lands & Mineral Resources HQ 1 & 2 Floors Min of Foreign Affairs 3rd Floor
+1821285,Viti,-18.1145800,178.4747600,2019-06-22 00:00:00,2019-06-23 04:17:29,0,Unknown,test,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1821286,Viti,-18.1149800,178.4749200,2019-06-22 00:00:00,2019-06-23 04:17:22,0,Unknown,test,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1821284,Viti,-18.1154700,178.4746800,2019-06-22 00:00:00,2019-06-23 04:17:14,0,Unknown,test,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1821287,Viti,-18.1155000,178.4751300,2019-06-22 00:00:00,2019-06-23 04:17:07,0,Unknown,test,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+726264,Viti,-18.0909351,178.4816968,2016-09-25 00:00:00,2019-05-06 18:30:02,0,Randy Batista Rodriguez,There is Wifi (OSM data version: 2016-08-22T09:03:02Z) #mapsme,4,0,freebeer,you will find it almost anywhere by now
+1700023,Viti,-17.6797200,178.8329900,2019-03-05 00:00:00,2019-03-05 03:59:02,0,David G Gibson,Warbrooks Residence,2,0,David G Gibson,
+1667199,Viti,-17.8053400,177.4170700,2019-01-31 00:00:00,2019-01-31 23:27:40,0,vpn_krsn,"Office of the District Officer Nadi/ Rural Health Authority, Director of Public Prosecution, Police Prosecution  Office, Cooperative Office, Ministry of Information Office and Justice of Peace Office",2,0,vpn_krsn,
+1410084,Viti,-19.8001000,-179.9999000,2018-05-30 00:00:00,2018-12-16 17:00:39,0,Unknown,• http://www.lastampa.it/2018/05/29/societa/nel-sar-varata-nel-pacifico-la-prima-isola-indipendente-da-ogni-governo-zSV27yUiuPWXI4ICsfloQP/pagina.html •,3,0,freebeer,spam
+1003409,Viti,-17.7630630,177.4643415,2017-05-22 00:00:00,2018-11-19 09:24:05,0,Unknown,Tanoa Drive,2,0,Nordpfeil,added
+1377588,Viti,-17.7408594,177.1490318,2018-04-29 00:00:00,2018-11-19 09:22:40,0,Unknown,Likuliku Lagoon Resort,2,0,Nordpfeil,added
+316704,Viti,-17.1282412,177.2254801,2015-02-15 00:00:00,2018-11-19 09:19:51,0,Unknown,Ratu Apenisa Memorial School (primary school),4,0,Nordpfeil,added
+334531,Viti,-18.1116127,178.4715807,2015-03-20 00:00:00,2018-11-19 09:19:51,0,Frankv47,Name of the Road is 'Kishore Bhindi Drive',4,0,Nordpfeil,updated
+1526192,Viti,-18.1398008,178.4305054,2018-09-14 00:00:00,2018-09-14 03:37:30,0,VUIYANUCA,sbnshsbebbe nnshjs,5,1,VUIYANUCA,
+1022917,Viti,-18.1375195,178.4493925,2017-06-07 00:00:00,2018-08-12 19:31:56,0,Mark Veikoso,"'add place' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Grantham Road POI types: psurface-paved_good highway-secondary OSM data version: 2017-05-11T13:22:09Z  #mapsme",4,1,Mark Veikoso,it`s already there
+1473370,Viti,-17.6275275,178.4943308,2018-07-31 00:00:00,2018-08-12 14:57:23,0,Vozoto,"This is Waivula settlement in Viti levu Fiji. Its just a small settlement which consist of 15 houses, farm land and surrounding green forest.",2,0,wohnung058,done
+1098090,Viti,-18.1448119,178.4480309,2017-08-10 00:00:00,2018-08-12 14:34:33,0,Unknown,start Here,3,0,wohnung058,
+1028494,Viti,-18.1456206,178.4320799,2017-06-13 00:00:00,2018-08-12 14:31:43,0,VUIYANUCA,"'place to be deleted' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Holy Trinity Anglican School POI types: office-government OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,wohnung058,nothing there to be deleted
+1028490,Viti,-18.1407270,178.4224910,2017-06-13 00:00:00,2018-08-12 14:27:34,0,VUIYANUCA,"'place to be deleted' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Suva Civic Center POI types: office-government OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,wohnung058,done
+921225,Viti,-18.1495005,178.4257230,2017-03-10 00:00:00,2018-08-12 14:23:53,0,honzag,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'duplicity' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",4,0,wohnung058,done
+867619,Viti,-18.1488378,178.4551907,2017-01-26 00:00:00,2018-08-12 14:20:59,0,Unknown,apted park,4,0,wohnung058,
+852828,Viti,-18.1483585,178.4241191,2017-01-15 00:00:00,2018-08-12 14:19:21,0,ftupou,Bowling Club,3,0,wohnung058,it`s already there
+1028495,Viti,-18.1564144,178.4327076,2017-06-13 00:00:00,2018-08-12 14:10:18,0,VUIYANUCA,"'place to be deleted' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Draiba Primary School POI types: office-government OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,wohnung058,done
+1028504,Viti,-18.1414950,178.4341928,2017-06-13 00:00:00,2018-08-12 14:09:28,0,VUIYANUCA,"'place to be deleted' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Suva Methodist Primary School POI types: office-government OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,wohnung058,done
+1028505,Viti,-18.1454551,178.4409955,2017-06-13 00:00:00,2018-08-12 14:08:43,0,VUIYANUCA,"'place to be deleted' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Vatuwaqa Primary School POI types: office-government OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,wohnung058,done
+1028493,Viti,-18.1310066,178.4364763,2017-06-13 00:00:00,2018-08-12 12:44:26,0,VUIYANUCA,"'place to be deleted' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: St Joseph Secondary School POI types: office-government OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,wohnung058,done
+1317711,Viti,-18.1597200,178.2353514,2018-03-05 00:00:00,2018-08-12 12:33:05,0,agnesontheroad,'Abzweigung' POI has no name POI types: amenity-waste_basket OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,wohnung058,done
+1111684,Viti,-17.7646409,177.4461631,2017-08-21 00:00:00,2018-08-12 11:50:46,0,Atish Kumar,'Environment and Weather Systems' POI name: EWS Asia Pacific  (Fiji) Ltd POI types: office-company OSM data version: 2017-07-03T17:28:05Z  #mapsme,2,0,wohnung058,It's there ;-)
+1239338,Viti,-17.3602164,178.1539098,2017-12-15 00:00:00,2018-08-12 11:48:53,0,GFournier,'le vrai emplacement !' POI name: Tanoa rakiraki hôtel POI types: tourism-hotel internet_access-wlan OSM data version: 2017-11-17T20:18:02Z  #mapsme,2,0,wohnung058,Ok
+1048674,Viti,-18.1176441,178.4519267,2017-07-01 00:00:00,2018-08-11 14:33:04,0,Randy Batista Rodriguez,'This is a private house not to rent' POI name: Mpearl Sloane POI types: tourism-guest_house internet_access-wlan OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,wohnung058,changed
+1028386,Viti,-18.0339000,178.5257000,2017-06-12 00:00:00,2018-08-11 14:31:41,0,josuakoto,'Polling Venue' POI name: Dilkusha Boys School POI types: amenity-school OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,wohnung058,already there
+1028382,Viti,-18.0384190,178.5298900,2017-06-12 00:00:00,2018-08-11 14:31:41,0,josuakoto,'Polling Venues' POI name: Central Christian Centre POI types: amenity-community_centre OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,wohnung058,already there
+1028489,Viti,-18.1304984,178.4261494,2017-06-13 00:00:00,2018-08-11 14:31:40,0,VUIYANUCA,"'place to be deleted' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Stanley Brown Naval Office POI types: office-government OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,wohnung058,deleted
+1028487,Viti,-18.1304822,178.4261325,2017-06-13 00:00:00,2018-08-11 14:31:40,0,VUIYANUCA,"'place to be deleted' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Stanley Brown Naval Base POI types: office-government OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,wohnung058,deleted
+1007891,Viti,-18.1573313,178.4357786,2017-05-25 00:00:00,2018-08-11 14:31:39,0,Unknown,1 Turnets,4,0,wohnung058,closed
+1348223,Viti,-18.1268978,178.4425592,2018-04-04 00:00:00,2018-08-11 14:31:39,0,Unknown,which direction is north,2,0,wohnung058,closed
+1068727,Viti,-18.0583999,178.4724345,2017-07-17 00:00:00,2018-08-11 14:31:38,0,Luitpold,'Long Table Picknick Area close to a big natural Pool' POI has no name POI types: tourism-picnic_site OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,wohnung058,already there
+1028488,Viti,-18.1304609,178.4261385,2017-06-13 00:00:00,2018-08-11 14:31:38,0,VUIYANUCA,"'place to be deleted' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Stanley Brown Naval Base Walu Bay POI types: office-government OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,wohnung058,deleted
+1131597,Viti,-17.6865062,177.5440136,2017-09-08 00:00:00,2018-06-21 12:36:14,0,Roman Martinec,'Cabin is located directly on the summit of Mt. Batyamu' POI name: Mt. Batylamu cabin POI types: tourism-alpine_hut internet_access-wlan OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,freebeer,on the map
+1384162,Viti,-17.5101000,177.6950000,2018-05-06 00:00:00,2018-06-21 12:35:23,0,Unknown,• D,3,0,freebeer,no mapping info
+1384150,Viti,-17.5101000,177.6850000,2018-05-06 00:00:00,2018-06-21 12:35:08,0,Unknown,• A,8,0,freebeer,no mapping nifo
+1384157,Viti,-17.5001000,177.6850000,2018-05-06 00:00:00,2018-06-21 12:34:29,0,Unknown,• B,5,0,freebeer,no mapping info
+1384158,Viti,-17.5001000,177.6950000,2018-05-06 00:00:00,2018-06-21 12:33:59,0,Unknown,• C,6,0,freebeer,no mapping info
+1365752,Viti,-17.5319762,177.6844490,2018-04-19 00:00:00,2018-06-21 12:32:48,0,Unknown,xxxx http://www.lastampa.it/2018/04/18/scienza/inventato-per-caso-lenzima-che-divora-la-plastica-4WPqBSzXAOPCCdUejlQPQP/premium.html xxxx • Enzima ( mangia plastica ) https://it.m.wikipedia.org/wiki/Ideonella_sakaiensis • xxxx Kegg : http://www.genome.jp/kegg/ xxxx 1 ) enzima 3.1.1.101 • ( ISF6 4831 ) http://www.genome.ad.jp/dbget-bin/www_bget?ec:3.1.1.101  • Gene ISF6 4831 _ Proteina http://www.uniprot.org/uniprot/A0A0K8P6T7  • 2 ) enzima 3.1.1.102 • ( ISF6 0224 ) http://www.genome.ad.jp/dbget-bin/www_bget?ec:3.1.1.102 • Gene ISF6 0224 _ Proteina  http://www.uniprot.org/uniprot/A0A0K8P8E7 • xxxx,6,0,freebeer,no mapping info
+846781,Viti,-17.8003116,177.4134291,2017-01-09 00:00:00,2018-06-21 12:26:15,0,samely,Can someone confirm and add if over here is Nadi airport Fiji islands?,4,0,freebeer,i expect it to be mapped several km to the northeast
+1187727,Viti,-17.7546500,177.4530900,2017-10-28 00:00:00,2018-06-21 12:25:00,0,Unknown,Nadi Airport Post Office,2,0,freebeer,on the map
+1067444,Viti,-17.7709000,177.4246000,2017-07-17 00:00:00,2018-06-21 12:23:13,0,Unknown,work site,2,0,freebeer,personal bookmqark
+1432292,Viti,-17.7646100,177.4284000,2018-06-21 00:00:00,2018-06-21 12:22:42,0,Unknown,Bamboo is here,2,0,freebeer,mapped nearby
+856985,Viti,-16.4343975,179.4028330,2017-01-20 00:00:00,2017-11-23 21:51:11,0,Unknown,Vaturekuka,4,0,ApolosiW,
+1215596,Viti,-16.4207900,179.3960300,2017-11-23 00:00:00,2017-11-23 21:50:45,0,ApolosiW,Dengue case,6,1,ApolosiW,
+1019958,Viti,-16.9505748,177.4316025,2017-06-05 00:00:00,2017-06-06 16:09:20,0,Unknown,а,3,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1019957,Viti,-16.3852851,179.6044922,2017-06-05 00:00:00,2017-06-06 16:09:14,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1019935,Viti,-18.0086515,178.3418369,2017-06-05 00:00:00,2017-06-06 16:09:10,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+992288,Viti,-17.6940264,177.4262702,2017-05-11 00:00:00,2017-05-11 05:57:00,0,MamazFiji,Lomolomo Park,2,0,MamazFiji,
+992291,Viti,-18.1424000,178.4441100,2017-05-11 00:00:00,2017-05-11 05:56:29,0,MamazFiji,Tamasua Recreation Park,2,0,MamazFiji,
+855955,Viti,-16.7700285,-179.7636223,2017-01-19 00:00:00,2017-01-19 01:38:10,0,Pegasus FJ,Qamea Island Trip,6,1,Pegasus FJ,Qamea Island
+316698,Viti,-17.1206948,177.2562504,2015-02-15 00:00:00,2016-06-19 09:23:14,0,Unknown,Marou (village),2,0,morray,
+316699,Viti,-17.1255138,177.2482896,2015-02-15 00:00:00,2016-06-19 09:23:14,0,Unknown,Malevu (village),2,0,morray,
+316700,Viti,-17.0930085,177.2477102,2015-02-15 00:00:00,2016-06-19 09:23:13,0,Unknown,Nasoqo (village),2,0,morray,
+316701,Viti,-17.1152194,177.2613573,2015-02-15 00:00:00,2016-06-19 09:23:13,0,Unknown,Yasawa High School,2,0,morray,
+316703,Viti,-17.0902807,177.2427535,2015-02-15 00:00:00,2016-06-19 09:23:12,0,Unknown,Gaunavou Primary School,2,0,morray,
+316702,Viti,-17.1159167,177.2603059,2015-02-15 00:00:00,2016-06-19 09:23:12,0,Unknown,Naviti Primary School,2,0,morray,
+188101,Viti,-18.4417516,-178.4787369,2014-06-22 00:00:00,2015-11-27 16:11:35,0,sevu,Oneata,2,0,Constable,name looks already on the map.
+334530,Viti,-18.1117657,178.4703577,2015-03-20 00:00:00,2015-07-06 19:32:05,0,Frankv47,Name of the road is Vashantilal Road,2,0,Geography Canada,Added.
+173366,Viti,-17.8300967,177.3567581,2014-05-24 00:00:00,2014-12-07 15:52:25,0,KooRo87,This is where Sonaisali Beach Resort and Spa is located. You have to take a ferry from the mainland to get here. It's pretty cool!,3,1,azizaqa,FİCİ
+196407,Viti,-18.1349221,178.4402204,2014-07-09 00:00:00,2014-07-09 00:00:49,0,Poasa,now known as Jai Narain College,2,0,Poasa,
+61559,Viti,-18.1376176,178.4293641,2013-10-22 00:00:00,2014-04-14 03:50:08,0,sdehaerne,Not sure what the proper way of doing a building with a close courtyard.,4,1,WIFI123,
+66679,Viti,-18.1456734,178.4227914,2013-10-31 00:00:00,2014-04-14 03:49:06,0,MAKAVA,D4ACC : 18 - 28TH,2,0,WIFI123,
+128593,Viti,-18.3570305,178.3778214,2014-03-03 00:00:00,2014-04-07 17:01:58,0,_Martin2014_,The territorial sea around Fiji is incorrectly drawn relative to the coast. Fiji has an archapelagic baseline system which the 12 nm territorial sea extends out from.   http://www.state.gov/documents/organization/58567.pdf (coordinates with map on pg 38)  http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/STATEFILES/FJI.htm  http://www.marineplan.es/ES/en/google-earth (archapelagic waters kml),2,0,_Martin2014_,
+21118,Viti,-18.1447558,178.4245992,2013-08-05 00:00:00,2013-10-31 22:41:24,0,shelmahn,Mai Life Magazine,6,1,MAKAVA,

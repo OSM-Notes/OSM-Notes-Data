@@ -1,0 +1,48 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4907338,Cayman Islands,19.2822288,-81.3735518,2025-08-13 00:00:00,2025-12-30 20:28:31,0,Кіра,..,4,1,Denis_Cayman,
+3797528,Cayman Islands,19.2915779,-81.3053134,2023-07-25 00:00:00,2025-09-16 14:45:28,0,Unknown,Large pond area,2,0,Hoodiecrow,Added
+4930152,Cayman Islands,19.2829710,-81.3455510,2025-08-25 00:00:00,2025-09-04 17:37:46,0,Denis_Cayman,The Blackpearl park is now closed and has been sold to another entity for development,2,0,Denis_Cayman,
+1059717,Cayman Islands,19.3014154,-81.3791810,2017-07-10 00:00:00,2025-06-15 12:58:18,0,Ran Dy,'bato' POI has no name POI types: building OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,JDJCHELP,
+1052782,Cayman Islands,19.2993455,-81.3688895,2017-07-04 00:00:00,2025-04-02 10:27:22,0,yurasi,Is the name of the place 'Canon Place' instead of 'MIcro centrel'? Can someone please confirm the same and update the map accordingly if yes?,3,0,dannmer,appears to be fixed
+2169709,Cayman Islands,19.3290994,-81.3753891,2020-04-23 00:00:00,2024-08-14 12:31:36,0,BenjaminCayman,142,3,1,Pascal Patry,
+2832757,Cayman Islands,19.3209491,-81.3812739,2021-09-02 00:00:00,2023-12-09 22:36:20,0,Unknown,"onosm.org submitted note from a business: name: Cuba Libre  phone: 3457262822 website: https://www.cubalibrecayman.com/ twitter:  facebook: https://www.facebook.com/cubalibrecayman/ email: info@cubalibrenow.com hours: Wednesday-Friday 11am to 1am , Saturday 11am to 12am, Sunday 4pm to 1am category: Cuban Restaurants address: West Bay Road, Cayman Islands",2,0,Martin Nolan,Spam
+4008157,Cayman Islands,19.2951473,-81.3816682,2023-11-29 00:00:00,2023-12-09 22:34:15,0,Unknown,JD Wetherspoons,2,0,Martin Nolan,tOBACCONISTS
+4008177,Cayman Islands,19.2942638,-81.3804772,2023-11-29 00:00:00,2023-12-09 22:29:26,0,Unknown,Anna Rex  Clothing,2,0,Martin Nolan,Place in GTA
+3719364,Cayman Islands,19.3475293,-81.1655545,2023-06-04 00:00:00,2023-10-23 18:59:14,0,Unknown,Northern Lights is a small private condominium and it should not be displayed so prominently on the map.,2,0,confusedbuffalo,Can't see anything with that name mapped near here any moe
+3381880,Cayman Islands,19.2821700,-81.3298200,2022-10-02 00:00:00,2022-10-02 06:49:39,0,Taewoo555,156,2,0,Taewoo555,
+3204434,Cayman Islands,19.3244347,-81.3228607,2022-05-31 00:00:00,2022-05-31 18:36:13,0,Unknown,Ocean,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+216892,Cayman Islands,19.3276567,-81.3684261,2014-08-12 00:00:00,2022-05-18 17:31:07,0,Unknown,Turtle Cove Condos,2,0,erickdeoliveiraleal,
+174570,Cayman Islands,19.2943625,-81.3800508,2014-05-26 00:00:00,2022-05-18 17:31:03,0,Cali B,Burke Maud Plaza,4,1,erickdeoliveiraleal,
+100240,Cayman Islands,19.3577936,-81.2823486,2014-01-12 00:00:00,2022-05-18 17:31:01,0,ChathuraJ,Rum Point,2,0,erickdeoliveiraleal,
+3029752,Cayman Islands,19.7043748,-79.8477745,2022-01-29 00:00:00,2022-01-29 15:55:14,0,user_14964760,Can someone please explain why this city name is rock?,2,0,kartonage,There is no error here.
+2973470,Cayman Islands,19.2995142,-81.3691476,2021-12-17 00:00:00,2021-12-17 06:42:55,0,Dotbooker,"Meet Dotbooker, Most Flexible Reservation System Ever.",4,1,Dotbooker,Dotbooker
+842109,Cayman Islands,19.2924866,-81.3752496,2017-01-05 00:00:00,2021-01-20 21:15:36,0,Unknown,Private Road,3,1,d_kawaii,
+2096654,Cayman Islands,19.3866801,-81.3958490,2020-02-20 00:00:00,2020-12-04 18:39:54,0,Unknown,Alhambra complex,2,0,Bill24,
+1591636,Cayman Islands,19.2808900,-81.3441400,2018-11-16 00:00:00,2020-02-13 14:46:32,0,Unknown,"Businesses missing:  Burger King, Rubis Gas Station, Peanuts convenience store",2,0,freebeer,they are mapped now
+1719097,Cayman Islands,19.2965624,-81.3758558,2019-03-22 00:00:00,2020-02-13 14:43:49,0,FatherCay,Name change in mid 2010s to Flow,4,1,freebeer,mapped that way now
+1590902,Cayman Islands,19.3233216,-81.3814998,2018-11-15 00:00:00,2019-05-06 07:58:28,0,Unknown,"onosm.org submitted note from a business: name: Burger King phone: (345) 949 7784 website: www.facebook.com/burgerkingcaymanislands twitter: undefined hours: Monday - Sunday 6:30 - 23:00 category: ,Fast Food Restaurants address: West Bay Road, Grand Cayman",2,0,freebeer,on the map
+1234857,Cayman Islands,19.3214005,-81.3788678,2017-12-10 00:00:00,2019-05-06 07:50:59,0,JojoDE,'consultants pwc' POI name: Price Waterhouse Coopers POI types: office-company OSM data version: 2017-10-20T12:20:02Z  #mapsme,2,0,freebeer,on the map
+485961,Cayman Islands,19.3374776,-81.3776363,2015-12-20 00:00:00,2018-06-11 00:31:37,0,azlen,safehaven does not cross highway,2,0,freebeer,not showing that now
+159465,Cayman Islands,19.3864979,-81.4030105,2014-04-29 00:00:00,2018-06-11 00:29:02,0,Unknown,Petunia Close,3,0,freebeer,"note before road existed, plus housenumber next  door"
+824929,Cayman Islands,19.2953880,-81.1519360,2016-12-22 00:00:00,2018-06-11 00:14:34,0,Pdf cayman,Crescent Beach,2,0,freebeer,on the map
+1234856,Cayman Islands,19.3764694,-81.3160493,2017-12-10 00:00:00,2018-06-11 00:13:30,0,JojoDE,"'8 -10ft deep. some fish, some corralls' POI name: Snorkeling Spot POI types: tourism-attraction OSM data version: 2017-10-20T12:20:02Z  #mapsme",2,0,freebeer,personal maps.me bookmark
+824926,Cayman Islands,19.2953880,-81.1519360,2016-12-22 00:00:00,2018-06-11 00:12:46,0,Pdf cayman,Crescent Beach,2,0,freebeer,on the map
+1356367,Cayman Islands,19.6871117,-79.8761796,2018-04-12 00:00:00,2018-04-21 19:56:24,0,m3h4,Unable to answer 'What is the name of this road?' for https://www.openstreetmap.org/way/65739683 via StreetComplete 4.1:  no Street There,2,0,m3h4,
+1355171,Cayman Islands,19.6870679,-79.8761679,2018-04-10 00:00:00,2018-04-21 19:56:15,0,m3h4,no road across landing strip,2,0,m3h4,
+580185,Cayman Islands,19.7033647,-79.8534822,2016-06-02 00:00:00,2018-04-21 19:32:54,0,manoharuss,Informed that there is no place called Banksville in this area. It would be nice if one of the locals verify this and correct it.,3,0,m3h4,
+1357197,Cayman Islands,19.7404993,-79.7732284,2018-04-12 00:00:00,2018-04-21 19:31:58,0,m3h4,"connecting, compact, informal",2,0,m3h4,
+1357195,Cayman Islands,19.7391501,-79.7739876,2018-04-12 00:00:00,2018-04-21 19:31:50,0,m3h4,"driveway, asphalt",2,0,m3h4,
+1357194,Cayman Islands,19.7393619,-79.7743265,2018-04-12 00:00:00,2018-04-21 19:31:44,0,m3h4,"short driveway, lit, asphalt + compact dirt",2,0,m3h4,
+1357196,Cayman Islands,19.7399213,-79.7743644,2018-04-12 00:00:00,2018-04-21 19:31:40,0,m3h4,road same width,2,0,m3h4,
+1357193,Cayman Islands,19.7380305,-79.7754244,2018-04-12 00:00:00,2018-04-21 19:31:05,0,m3h4,Charlotte s Drive,2,0,m3h4,
+823720,Cayman Islands,19.2948837,-81.3719641,2016-12-21 00:00:00,2017-12-05 23:39:56,0,Jenayj,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-06-20T05:57:02Z) #mapsme",2,0,freebeer,nothing at marker
+960674,Cayman Islands,19.2963498,-81.3834411,2017-04-11 00:00:00,2017-12-05 23:39:02,0,Unknown,meeting point,2,0,freebeer,no useful mapping info
+957470,Cayman Islands,19.3771463,-81.3777065,2017-04-09 00:00:00,2017-12-05 23:35:04,0,Unknown,1,2,0,freebeer,no useful mapping info
+597607,Cayman Islands,19.3130299,-81.3845001,2016-06-17 00:00:00,2017-09-27 22:41:35,0,Gareth The Good,The way to dive Grand Cayman (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,freebeer,on the map
+898422,Cayman Islands,19.2952950,-81.3822200,2017-02-19 00:00:00,2017-09-27 22:40:20,0,Unknown,Other:  This error is submitted from Navmii GPS.,2,0,freebeer,empty report
+370912,Cayman Islands,19.3403013,-81.2129974,2015-05-27 00:00:00,2017-09-27 22:39:32,0,maurotw,"aqui en las islas turisticas de que puedes visitar cuanlquier momento del año , segun el articulo de [viajes](http://www.meetinglands.com/) ,este es uno de los mejores lugares turisticos del mundo para viajar.",2,0,freebeer,no useful mapping info
+981606,Cayman Islands,19.3030560,-81.3593564,2017-05-01 00:00:00,2017-05-27 19:27:54,0,James Macatangay,Near Home 1 (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,TheDutchMan13,
+558999,Cayman Islands,19.3221693,-81.3804799,2016-05-03 00:00:00,2017-01-09 14:55:01,0,Unknown,App User reported the Camana Way is being replaced with a north south bypass road. Need ground survey to verify. Thanks,2,0,Guille Ferrer,
+845324,Cayman Islands,19.3267557,-81.3743618,2017-01-08 00:00:00,2017-01-08 05:23:01,0,Guille Ferrer,Boldeau enterprise,4,1,Guille Ferrer,
+103504,Cayman Islands,19.2688753,-81.3810754,2014-01-17 00:00:00,2014-02-12 07:08:46,0,Unknown,"bounds: (19.429,-81.6827 - 19.1373,-81.1622) http://www.openstreetmap.org/?box=yes&notes=yes&bbox=-81.6827%2C19.1373%2C-81.1622%2C19.429 When I complete pin pointing the destination, which is George Town, Grand Cayman and it uploads to my posting all that shows is the pin in the middle of the ocean instead of on the island itself.",2,0,ToeBee,Craigslist geocoding problem

@@ -1,0 +1,50 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4994896,Dronning Maud Land,-84.0888776,29.7075006,2025-10-07 00:00:00,2025-10-07 16:01:45,0,Unknown,This is too hot,3,0,pitscheplatsch,
+4979084,Dronning Maud Land,-74.7179445,21.8443243,2025-09-25 00:00:00,2025-09-25 18:48:54,0,Unknown,merhaba gine ben,3,0,pitscheplatsch,#nonsense
+4916124,Dronning Maud Land,-84.8408068,14.9551821,2025-08-18 00:00:00,2025-08-19 06:52:27,0,Unknown,Я не знаю Вау вкаууууу Я книга щоууууууууууууууууууууууууіі щ була на К,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4906005,Dronning Maud Land,-68.0426519,-16.9841307,2025-08-12 00:00:00,2025-08-17 14:38:15,0,Geovelo_Notes,Bornes de recharge VAE (This note has been created from Geovelo: https://amenagements-cyclables.fr/fr/contributions/101123),2,0,atchisson,
+4872319,Dronning Maud Land,-84.0307925,-2.8085518,2025-07-24 00:00:00,2025-07-24 12:25:33,0,Whatsapp Tokopedia,Tokopedia Care Anda bisa menghubungi Nomor Wa.62817_223_323. untuk bantuan 24/7jam terkait transaksi atau penggunaan Tokopedia?,8,1,pitscheplatsch,#spam
+4667446,Dronning Maud Land,-81.7171600,35.9796700,2025-03-16 00:00:00,2025-03-17 03:27:39,0,Waterfallaholic,Eliza Slot Canyon falls,3,0,Waterfallaholic,
+3070470,Dronning Maud Land,-66.5132604,35.4068589,2022-03-02 00:00:00,2024-04-28 15:26:27,0,אורי גולדמן,מדרגות,4,0,sheikchilli,misplaced
+4215667,Dronning Maud Land,-69.5651238,-0.2369276,2024-04-26 00:00:00,2024-04-26 17:02:56,0,Unknown,i fell off the map need to get revived,3,0,pitscheplatsch,nonsense
+4166889,Dronning Maud Land,-70.7796309,11.6019595,2024-03-25 00:00:00,2024-03-25 14:07:23,0,DIEGNER,je ne pensait pas que trouverai le paix intérieur dans cette endroit perdu au milieu de nul part,5,1,pitscheplatsch,Not Helpful  #PersonalNote #NeisNoteAI
+3810924,Dronning Maud Land,-80.2752920,22.3416310,2023-08-01 00:00:00,2023-11-05 19:24:23,0,Unknown,PCF 1,2,0,confusedbuffalo,Not enough information to map anything
+3901974,Dronning Maud Land,-83.4302383,-16.9623891,2023-09-22 00:00:00,2023-11-05 19:24:15,0,Unknown,ONEPICE,2,0,confusedbuffalo,Not enough information to map anything
+3903470,Dronning Maud Land,-65.3834552,-8.5360114,2023-09-23 00:00:00,2023-09-24 10:38:56,0,Unknown,Home,2,0,mavl,Wrong position.
+3530165,Dronning Maud Land,-71.2420000,-9.6647000,2023-01-24 00:00:00,2023-04-04 16:15:49,0,Neumayer,An dieser Position befindet sich kein Container.,2,0,ftrebien,
+3089504,Dronning Maud Land,-71.7152870,7.8769730,2022-03-15 00:00:00,2022-03-16 01:51:56,0,Unknown,Torre 32 Linea Uribante -Buena Vista,2,0,GeoMechain,Not here
+1967533,Dronning Maud Land,-74.0034800,26.9984700,2019-10-19 00:00:00,2022-02-07 20:18:09,0,Unknown,тирол,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2970299,Dronning Maud Land,-66.5166216,34.8332825,2021-12-14 00:00:00,2022-02-07 20:17:24,0,Mika Ohayon,ספסל,2,0,kartonage,not here.
+2074982,Dronning Maud Land,-75.9983101,42.0150617,2020-01-31 00:00:00,2021-12-15 09:30:03,0,Bitch832,Eric pineda,2,0,GeoMechain,
+2776640,Dronning Maud Land,-73.7057410,29.5619559,2021-07-29 00:00:00,2021-08-06 09:12:19,0,Unknown,Klinik Bidan Nursiah,2,0,kartonage,Not here.
+2776638,Dronning Maud Land,-73.7087871,29.5389318,2021-07-29 00:00:00,2021-08-06 09:12:16,0,Unknown,Klinik Bidan Nursiah,2,0,kartonage,Not here.
+1597450,Dronning Maud Land,-76.0006000,6.3921000,2018-11-22 00:00:00,2021-05-12 19:53:33,0,Unknown,Existe una dirección llamada 'Llamame Shushú' es incorrecta ese lugar lleva mi nombre.Me parece incorrecto,2,0,Syl,Nothing here
+2392781,Dronning Maud Land,-64.5706330,10.1849260,2020-10-20 00:00:00,2020-10-20 10:36:19,0,FrankJPG,P4 Fundo Jhon,2,0,FrankJPG,
+2219013,Dronning Maud Land,-84.5505053,8.1012889,2020-06-05 00:00:00,2020-06-09 16:12:04,0,Unknown,Antarctica,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+2126736,Dronning Maud Land,-85.0476920,0.0401688,2020-03-22 00:00:00,2020-03-22 12:20:08,0,Unknown,nhjgujhuhuuhuhunugugugugubuv ugubug,2,0,kartonage,Gibberish.
+2126737,Dronning Maud Land,-85.0476920,0.0401688,2020-03-22 00:00:00,2020-03-22 12:20:04,0,Unknown,btv6 b6b6gjknh jhj,2,0,kartonage,Gibberish.
+2126735,Dronning Maud Land,-85.0476920,0.0401688,2020-03-22 00:00:00,2020-03-22 12:20:00,0,Unknown,hjhibihibkhigbig,2,0,kartonage,Gibberish.
+2122775,Dronning Maud Land,-82.4275917,27.3911905,2020-03-16 00:00:00,2020-03-17 05:05:40,0,Unknown,Hvfghj,2,0,kartonage,Gibberish.
+2107568,Dronning Maud Land,-72.1426023,27.6064110,2020-03-02 00:00:00,2020-03-02 11:10:25,0,Unknown,das nichts,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+1918800,Dronning Maud Land,-70.6661219,-8.2797861,2019-09-09 00:00:00,2020-01-12 11:31:10,0,Unknown,NM3,2,0,freebeer,on the map
+1887190,Dronning Maud Land,-82.1088940,41.0888785,2019-08-16 00:00:00,2019-08-21 18:11:27,0,VeniSancteIesuAmen,"'אבינו שבשמים יתקדש שמך תבוא מלכותך, יעשה רצונך כבשמים כן בארץ. את לחם חקנו תן לנו הים, וסלח לנו על חטאינו כפי שסולחימ גם אנחנו לחוטאים לנו. ואל תביאנו לידי נסיון, כי אם חלצנו מן הרע.' POI has no name POI types: amenity-place_of_worship OSM data version: 2019-06-21T10:47:15Z  #mapsme",2,0,freebeer,
+1319175,Dronning Maud Land,-78.1571000,15.8454000,2018-03-06 00:00:00,2018-03-09 21:27:54,0,Unknown,Bigalo common Enfield Connecticut,2,0,py_berrard,
+1188936,Dronning Maud Land,-79.4063103,0.3149343,2017-10-29 00:00:00,2017-11-11 11:09:55,0,Edgar Pe Ru Lds,'peru' POI name: Antarctica POI types: place-continent OSM data version: 2017-10-06T18:13:02Z  #mapsme,2,0,py_berrard,no
+951324,Dronning Maud Land,-69.6544007,17.7315903,2017-04-03 00:00:00,2017-04-09 11:21:10,0,Unknown,Welcome to Antarctica,2,0,py_berrard,
+835172,Dronning Maud Land,-84.9503379,33.1282640,2016-12-30 00:00:00,2016-12-31 15:22:30,0,Unknown,hii,2,0,py_berrard,
+825247,Dronning Maud Land,-79.4063103,0.3149343,2016-12-22 00:00:00,2016-12-26 21:55:30,0,عقيل جاسم,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'جمهورية العراق ' (OSM data version: 2016-11-23T15:14:03Z) #mapsme",2,0,py_berrard,
+805300,Dronning Maud Land,-80.4919463,44.9411201,2016-12-04 00:00:00,2016-12-05 16:13:05,0,Unknown,";,ngbfdbbh",2,0,mavl,The note does not contain a useful information for OpenStreetMap.
+768650,Dronning Maud Land,-78.5683488,-0.0394538,2016-11-01 00:00:00,2016-11-02 11:45:16,0,Мар Учва,енй (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Зелёный Кошак,хщч фтнг
+765519,Dronning Maud Land,-79.4063103,0.3149343,2016-10-29 00:00:00,2016-10-31 17:46:34,0,Fethi Tine,algérien (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,py_berrard,
+765518,Dronning Maud Land,-79.4063103,0.3149343,2016-10-29 00:00:00,2016-10-31 17:46:28,0,Fethi Tine,algérien (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,py_berrard,
+765517,Dronning Maud Land,-79.4063103,0.3149343,2016-10-29 00:00:00,2016-10-31 17:46:19,0,Fethi Tine,Algérie (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,py_berrard,
+763037,Dronning Maud Land,-79.4063103,0.3149343,2016-10-27 00:00:00,2016-10-29 08:16:29,0,KbzaDeBelvedere,"The place has gone or never existed.  This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-06-01T10:03:02Z) #mapsme",2,0,py_berrard,
+627053,Dronning Maud Land,-79.4063103,0.3149343,2016-07-13 00:00:00,2016-07-23 09:54:55,0,Versache Yani,Perú (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,py_berrard,
+522400,Dronning Maud Land,-70.6705650,-8.2781714,2016-03-03 00:00:00,2016-03-18 15:23:09,0,Lutalica_1974,Neumayer III,2,0,py_berrard,http://www.openstreetmap.org/way/387929860
+522226,Dronning Maud Land,-61.4069488,29.6960664,2016-03-03 00:00:00,2016-03-18 15:22:17,0,Unknown,raudel,2,0,py_berrard,
+82781,Dronning Maud Land,-70.6420443,-1.4046326,2013-12-04 00:00:00,2015-12-29 07:23:23,0,Unknown,eftfg,2,0,mavl,Заметка не содержит полезных сведений. Закрыта без внесения изменений в данные OpenStreetMap.      The note not contains a useful information. The note was closed without the changing OpenStreetMap data.
+484529,Dronning Maud Land,-85.0428238,-15.7927999,2015-12-17 00:00:00,2015-12-28 10:57:39,0,Unknown,میانه,2,0,py_berrard,
+407194,Dronning Maud Land,-80.6527019,26.2739076,2015-08-01 00:00:00,2015-08-14 19:58:35,0,Unknown,ب,2,0,py_berrard,
+377457,Dronning Maud Land,-81.1253379,18.3245355,2015-06-10 00:00:00,2015-06-13 10:50:15,0,Unknown,Nigeria,3,0,py_berrard,
+355577,Dronning Maud Land,-79.6010591,23.7616628,2015-04-30 00:00:00,2015-06-10 20:31:52,0,Unknown,"il fait plutôt froid, il est fortement recommandé d'emmener un veste polaire avec une triple doudoune sur votre tête. Cordialement.",2,0,py_berrard,

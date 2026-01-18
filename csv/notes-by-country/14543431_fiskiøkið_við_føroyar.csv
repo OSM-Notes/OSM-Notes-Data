@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1221113,Fiskiøkið við Føroyar,64.2982130,-5.5483690,2017-11-29 00:00:00,2017-12-01 14:01:27,0,Unknown,Missing station:  This error is submitted from Navmii GPS.,2,0,py_berrard,
+748138,Fiskiøkið við Føroyar,61.6969947,-5.0283051,2016-10-14 00:00:00,2016-10-15 08:21:10,0,Unknown,"Can some experienced OMSer add my uploaded GPS track ( Hirtshals_to_Torshavn2.gpx) to the map? This track shows the correct routing for the ferry Denmark-Faroe Islands. The old, incorrect route, was already removed by me a few days ago. The ferry passes Shetland north of it, not south! Thanks!",2,0,py_berrard,not the good place to ask this question try https://help.openstreetmap.org/
