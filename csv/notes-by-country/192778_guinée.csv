@@ -1,5 +1,6 @@
 note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
 CREATE FUNCTION
+5133875,Guinée,10.6522470,-14.6070210,2026-01-18 00:00:00,2026-01-18 13:50:04,0,Unknown,PCC,2,0,Unknown,
 1617881,Guinée,11.7382512,-12.9018425,2018-12-15 00:00:00,2026-01-04 15:48:06,2577,stephengmatthews,"'There is now a bridge for vehicles and pedestrians.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-ferry_terminal OSM data version: 2018-10-30T22:25:02Z  #mapsme",2,0,tbo47,bridge added
 1617880,Guinée,11.7380674,-12.9025855,2018-12-15 00:00:00,2026-01-04 15:48:05,2577,stephengmatthews,"'There is now a bridge for vehicles and pedestrians.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-ferry_terminal OSM data version: 2018-10-30T22:25:02Z  #mapsme",2,0,tbo47,bridge added
 2319338,Guinée,12.3953107,-13.3675205,2020-08-23 00:00:00,2026-01-04 15:43:14,1960,Yayakante,Sinthian Baradi,2,0,tbo47,there is nothing on the satellite view
@@ -72,8 +73,8 @@ CREATE FUNCTION
 3529108,Guinée,9.6366168,-13.6112764,2023-01-23 00:00:00,2023-10-24 14:14:31,0,Unknown,lambanyi,2,0,confusedbuffalo,Not enough information to map anything
 3529115,Guinée,9.5953295,-13.6255222,2023-01-23 00:00:00,2023-10-24 14:14:30,0,Unknown,kolo,2,0,confusedbuffalo,Not enough information to map anything
 3529117,Guinée,9.5784813,-13.6615839,2023-01-23 00:00:00,2023-10-24 14:14:29,0,Unknown,toyah,2,0,confusedbuffalo,Not enough information to map anything
-3529119,Guinée,9.7082111,-13.3888149,2023-01-23 00:00:00,2023-10-24 14:14:28,0,Unknown,coyah,2,0,confusedbuffalo,Not enough information to map anything
 3529839,Guinée,9.7875579,-13.5145569,2023-01-24 00:00:00,2023-10-24 14:14:28,0,Unknown,dubreka,2,0,confusedbuffalo,Not enough information to map anything
+3529119,Guinée,9.7082111,-13.3888149,2023-01-23 00:00:00,2023-10-24 14:14:28,0,Unknown,coyah,2,0,confusedbuffalo,Not enough information to map anything
 3529921,Guinée,11.7534284,-13.1998158,2023-01-24 00:00:00,2023-10-24 14:14:27,0,Unknown,gaoual,2,0,confusedbuffalo,Not enough information to map anything
 3529924,Guinée,8.5616513,-10.1328278,2023-01-24 00:00:00,2023-10-24 14:14:26,0,Unknown,gueckeou,2,0,confusedbuffalo,Not enough information to map anything
 3529928,Guinée,8.5523341,-10.1354027,2023-01-24 00:00:00,2023-10-24 14:14:25,0,Unknown,gueckedou centre,2,0,confusedbuffalo,Not enough information to map anything
@@ -119,18 +120,18 @@ CREATE FUNCTION
 3758584,Guinée,11.1083029,-12.2983360,2023-06-30 00:00:00,2023-10-24 14:09:50,0,Unknown,Bantignel Centre,2,0,confusedbuffalo,Not enough information to map anything
 3758610,Guinée,7.7350056,-8.8291508,2023-06-30 00:00:00,2023-10-24 14:09:49,0,Unknown,Yomou Centre,2,0,confusedbuffalo,Not enough information to map anything
 3758614,Guinée,9.4817837,-13.8274527,2023-06-30 00:00:00,2023-10-24 14:09:48,0,Unknown,Iles Tamara,2,0,confusedbuffalo,Not enough information to map anything
-3761901,Guinée,8.5542682,-8.8895867,2023-07-02 00:00:00,2023-10-24 14:09:47,0,Unknown,rio tinto,2,0,confusedbuffalo,Not enough information to map anything
 3758634,Guinée,9.3663410,-12.7618486,2023-06-30 00:00:00,2023-10-24 14:09:47,0,Unknown,Tassen,2,0,confusedbuffalo,Not enough information to map anything
+3761901,Guinée,8.5542682,-8.8895867,2023-07-02 00:00:00,2023-10-24 14:09:47,0,Unknown,rio tinto,2,0,confusedbuffalo,Not enough information to map anything
 3761936,Guinée,9.6225305,-13.5820627,2023-07-02 00:00:00,2023-10-24 14:09:46,0,Unknown,Kiaye Centre,2,0,confusedbuffalo,Not enough information to map anything
 3761958,Guinée,11.2510120,-13.9443058,2023-07-02 00:00:00,2023-10-24 14:09:45,0,Unknown,Aye_koye,2,0,confusedbuffalo,Not enough information to map anything
 3761962,Guinée,11.3128174,-12.2862432,2023-07-02 00:00:00,2023-10-24 14:09:44,0,Unknown,kouroula,2,0,confusedbuffalo,Not enough information to map anything
+3762973,Guinée,10.2919736,-9.3634093,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Makonon,2,0,confusedbuffalo,Not enough information to map anything
+3762925,Guinée,10.5715801,-9.5155081,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Tenkelen,2,0,confusedbuffalo,Not enough information to map anything
+3763035,Guinée,11.9013489,-10.6271884,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Fandanda,2,0,confusedbuffalo,Not enough information to map anything
 3763261,Guinée,10.2824913,-13.4228897,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Bady,2,0,confusedbuffalo,Not enough information to map anything
 3763301,Guinée,10.2726736,-8.1382059,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Bougoula,2,0,confusedbuffalo,Not enough information to map anything
-3762925,Guinée,10.5715801,-9.5155081,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Tenkelen,2,0,confusedbuffalo,Not enough information to map anything
-3765978,Guinée,10.0502474,-12.8442192,2023-07-05 00:00:00,2023-10-24 14:09:43,0,Unknown,Daressalam,2,0,confusedbuffalo,Not enough information to map anything
 3763354,Guinée,9.9485484,-12.8821483,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Kilissi,2,0,confusedbuffalo,Not enough information to map anything
-3762973,Guinée,10.2919736,-9.3634093,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Makonon,2,0,confusedbuffalo,Not enough information to map anything
-3763035,Guinée,11.9013489,-10.6271884,2023-07-03 00:00:00,2023-10-24 14:09:43,0,Unknown,Fandanda,2,0,confusedbuffalo,Not enough information to map anything
+3765978,Guinée,10.0502474,-12.8442192,2023-07-05 00:00:00,2023-10-24 14:09:43,0,Unknown,Daressalam,2,0,confusedbuffalo,Not enough information to map anything
 3765987,Guinée,9.5844797,-13.6402050,2023-07-05 00:00:00,2023-10-24 14:08:30,0,Unknown,Djounkoun,2,0,confusedbuffalo,Not enough information to map anything
 3758683,Guinée,11.5985546,-10.2651800,2023-06-30 00:00:00,2023-07-28 00:36:46,0,Unknown,bouka,2,0,Berete Baba,
 3733469,Guinée,8.4936801,-8.8158417,2023-06-13 00:00:00,2023-06-14 15:01:10,0,Unknown,"YOU HAVE STOLEN MY ONLINE ACCOUNTS, MY NAME, PHONE NUMBER, ALL OF MY CONTACTS, USING ALL OF MY DATA, DISABLED ME FROM USE OF MY PERSONAL INFORMATION, PHONE, INTERNET ACCOUNTS, ETC ETC ETC 👿👹 YOUR HACKER'S PLAIN AND SIMPLE!!!",2,0,mavl,This note does not contain a useful information for OpenStreetMap.
