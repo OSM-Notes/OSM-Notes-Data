@@ -116,7 +116,6 @@ The following countries are available (sorted alphabetically by English name):
 - [French Polynesia (EEZ) (Zone Economique Exclusive de la Polynésie Française)](./9965686_zone_economique_exclusive_de_la_polynésie_française.csv) (ID: 9965686)
 - [Gabon](./192793_gabon.csv) (ID: 192793)
 - [Georgia (საქართველო)](./28699_.csv) (ID: 28699)
-- [Germany (Deutschland)](./51477_deutschland.csv) (ID: 51477)
 - [Ghana](./192781_ghana.csv) (ID: 192781)
 - [Gibraltar](./1278736_gibraltar.csv) (ID: 1278736)
 - [Greece (Ελλάς)](./192307_.csv) (ID: 192307)
@@ -312,4 +311,4 @@ Each CSV file contains the following columns:
 
 ## Last Updated
 
-Generated: 2026-01-18T20:59:32Z
+Generated: 2026-01-18T20:37:25Z
