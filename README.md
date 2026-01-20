@@ -80,21 +80,29 @@ Files are named by country ID: `{country_id}_{country_name}.csv`
 #### Other Files
 
 - **`noteLocation.csv.zip`**: Compressed CSV with note locations (lat/lon coordinates)
-- **`schemas/`**: JSON Schema files for data validation (copied from OSM-Notes-Analytics)
+- **`schemas/`**: JSON Schema files for data validation (synced from OSM-Notes-Common)
+  - Available via GitHub Pages at: `https://osm-notes.github.io/OSM-Notes-Data/schemas/`
+  - Use `./sync-schemas.sh` to sync schemas from `OSM-Notes-Common`
 
 ## 🌐 Access via GitHub Pages
 
-This repository is configured for GitHub Pages. Data files are accessible via:
+This repository is configured for GitHub Pages. Data files and schemas are accessible via:
 
+**Data files:**
 ```
-https://{username}.github.io/OSM-Notes-Data/data/{path}
+https://osm-notes.github.io/OSM-Notes-Data/data/{path}
+```
+
+**JSON Schemas:**
+```
+https://osm-notes.github.io/OSM-Notes-Data/schemas/{schema-name}.schema.json
 ```
 
 See `index.html` for a complete list of available endpoints.
 
 ## 📊 Data Source
 
-All data is exported from the OSM Notes Analytics data warehouse (`notes_dwh` database) using automated ETL processes. The export scripts are located in the [OSM-Notes-Analytics](https://github.com/{username}/OSM-Notes-Analytics) repository.
+All data is exported from the OSM Notes Analytics data warehouse (`notes_dwh` database) using automated ETL processes. The export scripts are located in the [OSM-Notes-Analytics](https://github.com/OSM-Notes/OSM-Notes-Analytics) repository.
 
 ## 🔄 Update Process
 
@@ -114,8 +122,9 @@ Data is automatically updated via scheduled exports that:
 
 ## 🔗 Related Projects
 
-- **OSM-Notes-Analytics**: Data warehouse and ETL processes
-- **OSM-Notes-Viewer**: Web viewer that consumes this data
+- **[OSM-Notes-Analytics](https://github.com/OSM-Notes/OSM-Notes-Analytics)**: Data warehouse and ETL processes
+- **[OSM-Notes-Viewer](https://github.com/OSM-Notes/OSM-Notes-Viewer)**: Web viewer that consumes this data
+- **[OSM-Notes-Common](https://github.com/OSM-Notes/OSM-Notes-Common)**: Shared schemas and common utilities
 
 ## 📄 License
 
