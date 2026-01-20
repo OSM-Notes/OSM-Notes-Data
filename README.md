@@ -82,7 +82,6 @@ Files are named by country ID: `{country_id}_{country_name}.csv`
 - **`noteLocation.csv.zip`**: Compressed CSV with note locations (lat/lon coordinates)
 - **`schemas/`**: JSON Schema files for data validation (synced from OSM-Notes-Common)
   - Available via GitHub Pages at: `https://osm-notes.github.io/OSM-Notes-Data/schemas/`
-  - Use `./sync-schemas.sh` to sync schemas from `OSM-Notes-Common`
 
 ## 🌐 Access via GitHub Pages
 
