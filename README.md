@@ -459,6 +459,17 @@ For complete information about the OSM-Notes ecosystem and all 8 projects, see t
 - [OSM-Notes-WMS](https://github.com/OSM-Notes/OSM-Notes-WMS) - WMS service (doesn't use Data)
 - [OSM-Notes-Monitoring](https://github.com/OSM-Notes/OSM-Notes-Monitoring) - Monitors Data freshness
 
+## GDPR Compliance
+
+**Important:** This repository contains data files that may include personal information from OpenStreetMap, including usernames and geographic locations. We are committed to GDPR compliance.
+
+GDPR compliance mechanisms are implemented in the base project **OSM-Notes-Ingestion**. For detailed information about GDPR compliance, data processing, retention, and data subject rights, please refer to:
+
+- **GDPR Privacy Policy:** [OSM-Notes-Ingestion/docs/GDPR_Privacy_Policy.md](https://github.com/OSM-Notes/OSM-Notes-Ingestion/blob/main/docs/GDPR_Privacy_Policy.md)
+- **GDPR Procedures:** [OSM-Notes-Ingestion/docs/GDPR_Procedures.md](https://github.com/OSM-Notes/OSM-Notes-Ingestion/blob/main/docs/GDPR_Procedures.md) - Procedures for handling data subject requests
+
+This Data repository contains exported data that originates from OSM-Notes-Ingestion (via OSM-Notes-Analytics) and is subject to the same GDPR compliance measures.
+
 ## 📄 License
 
 See [LICENSE](LICENSE) file for details.
