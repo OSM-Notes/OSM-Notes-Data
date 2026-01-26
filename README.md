@@ -1,3 +1,20 @@
+---
+title: "OSM-Notes-Data"
+description: "JSON data files for OSM Notes Viewer and AI-assisted note resolution"
+version: "latest"
+last_updated: "2026-01-25"
+author: "AngocA"
+tags:
+  - "data"
+  - "json"
+  - "github-pages"
+audience:
+  - "developers"
+  - "data-consumers"
+project: "OSM-Notes-Data"
+status: "active"
+---
+
 # OSM-Notes-Data
 
 JSON data files for OSM Notes Viewer and AI-assisted note resolution.
@@ -103,6 +120,18 @@ See `index.html` for a complete list of available endpoints.
 
 All data is exported from the OSM Notes Analytics data warehouse (`notes_dwh` database) using automated ETL processes. The export scripts are located in the [OSM-Notes-Analytics](https://github.com/OSM-Notes/OSM-Notes-Analytics) repository.
 
+## 📚 Ecosystem Documentation
+
+For shared documentation of the complete ecosystem, see:
+
+- **[OSM Notes Ecosystem](https://github.com/OSM-Notes/OSM-Notes)** - Ecosystem landing page
+- **[Global Glossary](https://github.com/OSM-Notes/OSM-Notes-Common/blob/main/docs/GLOSSARY.md)** - Terms and definitions
+- **[Complete Installation Guide](https://github.com/OSM-Notes/OSM-Notes-Common/blob/main/docs/INSTALLATION.md)** - Step-by-step installation of all projects
+- **[End-to-End Data Flow](https://github.com/OSM-Notes/OSM-Notes-Common/blob/main/docs/DATA_FLOW.md)** - Complete data flow
+- **[Decision Guide](https://github.com/OSM-Notes/OSM-Notes-Common/blob/main/docs/DECISION_GUIDE.md)** - Which project do I need?
+
+---
+
 ## 🌐 OSM-Notes Ecosystem
 
 This Data repository is part of the **OSM-Notes ecosystem**, consisting of 8 interconnected projects.
@@ -160,28 +189,69 @@ served via GitHub Pages.
 
 ### Project Relationships
 
-```
-OSM Planet/API
-    ↓
-[OSM-Notes-Ingestion] ← Base project
-    ├─→ [OSM-Notes-Analytics] → ETL → Data Warehouse
-    │       └─→ [OSM-Notes-Data] → JSON files (this repo, GitHub Pages)
-    │               ├─→ [OSM-Notes-Viewer] → Primary consumer
-    │               └─→ [OSM-Notes-API] → Optional consumer
-    └─→ [OSM-Notes-WMS] → WMS layers
+```mermaid
+graph TB
+    subgraph External["External Sources"]
+        OSM[OSM Planet/API]
+    end
     
-[OSM-Notes-Monitoring] → Monitors Data freshness and sync status
-[OSM-Notes-Common] → Provides schemas (synced to Data/schemas/)
+    subgraph Base["Base Project"]
+        INGESTION[OSM-Notes-Ingestion<br/>Base project]
+    end
+    
+    subgraph Processing["Processing Layer"]
+        ANALYTICS[OSM-Notes-Analytics<br/>ETL → Data Warehouse]
+        WMS[OSM-Notes-WMS<br/>WMS layers]
+    end
+    
+    subgraph Delivery["Delivery Layer"]
+        DATA[OSM-Notes-Data<br/>JSON files<br/>this repo, GitHub Pages]
+        VIEWER[OSM-Notes-Viewer<br/>Primary consumer]
+        API[OSM-Notes-API<br/>Optional consumer]
+    end
+    
+    subgraph Support["Support Layer"]
+        MONITORING[OSM-Notes-Monitoring<br/>Monitors Data freshness<br/>and sync status]
+        COMMON[OSM-Notes-Common<br/>Provides schemas<br/>synced to Data/schemas/]
+    end
+    
+    OSM -->|Downloads| INGESTION
+    INGESTION -->|Base Tables| ANALYTICS
+    INGESTION -->|Same Database| WMS
+    ANALYTICS -->|JSON Export| DATA
+    DATA -->|JSON Files| VIEWER
+    DATA -->|JSON Files| API
+    MONITORING -.->|Monitors| DATA
+    COMMON -.->|Schemas| DATA
+    
+    style OSM fill:#ADD8E6
+    style INGESTION fill:#90EE90
+    style ANALYTICS fill:#FFFFE0
+    style WMS fill:#FFE4B5
+    style DATA fill:#E0F6FF
+    style VIEWER fill:#DDA0DD
+    style API fill:#FFB6C1
+    style MONITORING fill:#F0E68C
+    style COMMON fill:#D3D3D3
 ```
 
 ### Data Flow
 
-```
-[OSM-Notes-Analytics] → exportAndPushJSONToGitHub.sh
-    ↓
-[OSM-Notes-Data] → GitHub Pages (this repository)
-    ├─→ [OSM-Notes-Viewer] → Consumes JSON (primary consumer)
-    └─→ [OSM-Notes-API] → Can consume JSON (optional)
+```mermaid
+flowchart TD
+    ANALYTICS[OSM-Notes-Analytics<br/>exportAndPushJSONToGitHub.sh]
+    DATA[OSM-Notes-Data<br/>GitHub Pages<br/>this repository]
+    VIEWER[OSM-Notes-Viewer<br/>Consumes JSON<br/>primary consumer]
+    API[OSM-Notes-API<br/>Can consume JSON<br/>optional]
+    
+    ANALYTICS -->|Exports| DATA
+    DATA -->|Serves| VIEWER
+    DATA -->|Serves| API
+    
+    style ANALYTICS fill:#FFFFE0
+    style DATA fill:#E0F6FF
+    style VIEWER fill:#DDA0DD
+    style API fill:#FFB6C1
 ```
 
 ### Installation Order
