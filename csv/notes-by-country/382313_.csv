@@ -1,0 +1,80 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+147420,日本,36.5703898,136.6550142,2014-04-08 00:00:00,2026-04-24 07:21:20,4399,masazo,三井住友銀行 金沢支店,4,1,bijsgohsdacu,追加した
+81918,日本,35.1829942,134.9897057,2013-12-02 00:00:00,2026-04-24 07:03:28,4526,yasunari,記念碑の東側に揚水設備？があったので、記念碑はもう少し西でしょう,2,0,bijsgohsdacu,
+81920,日本,35.1844126,134.9889493,2013-12-02 00:00:00,2026-04-24 07:02:05,4526,yasunari,man_made=water_tower は誤りです。 円形に barrier=fence 中心にノードを置いて man_made=water_well でしょうか。。。,6,1,bijsgohsdacu,ここは給水塔ではなく池です
+81921,日本,35.1842569,134.9888206,2013-12-02 00:00:00,2026-04-24 07:02:00,4526,yasunari,historic=archaeological_site もわからないでもないですが、 amenity=grave_yard の方が適切かと思います,2,0,bijsgohsdacu,
+81926,日本,35.1825031,134.9872005,2013-12-02 00:00:00,2026-04-24 06:57:48,4526,yasunari,name だけではレンダリングされません。 古墳は historic=archaeological_site でしょうか。,4,0,bijsgohsdacu,直しました
+113811,日本,34.8491002,134.6627820,2014-02-06 00:00:00,2026-04-24 06:42:12,4460,Unknown,高岳神社,2,0,bijsgohsdacu,追加しました
+1557187,日本,34.8379925,134.6895863,2018-10-11 00:00:00,2026-04-24 06:36:11,2752,Nattmoroz,300Y (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,bijsgohsdacu,
+105536,日本,34.2150583,135.1782221,2014-01-21 00:00:00,2026-04-24 06:33:55,4476,upa2p,新堀橋,3,0,bijsgohsdacu,added bridge name
+95036,日本,34.2192438,135.6051608,2014-01-03 00:00:00,2026-04-24 06:28:11,4494,nyampire,奥の院の墓地が広すぎる？,4,1,bijsgohsdacu,小さくしました
+139164,日本,34.4931080,136.7047638,2014-03-24 00:00:00,2026-04-24 06:03:22,4414,Unknown,須原「大社」です,2,0,bijsgohsdacu,直しました
+139157,日本,34.4906387,136.7087656,2014-03-24 00:00:00,2026-04-24 06:01:05,4414,Unknown,伊勢神泉,2,0,bijsgohsdacu,
+139537,日本,34.3287607,136.8303341,2014-03-25 00:00:00,2026-04-24 04:36:04,4413,Unknown,三重県志摩庁舎,2,0,bijsgohsdacu,
+128756,日本,35.1576746,136.9238922,2014-03-04 00:00:00,2026-04-24 04:24:33,4434,Unknown,There is a new building here called Nitride Semiconductor multi-Business creation center (NSMB).,2,0,bijsgohsdacu,OK
+83697,日本,34.6951110,139.3823140,2013-12-07 00:00:00,2026-04-24 03:00:43,4521,Unknown,"Moved from OSB ID705058:  リソースによっては約700m西隣の浜を指している。要現地確認。 [higa4, 2013-01-04 15:42:26 CET]",4,0,bijsgohsdacu,数年前から正しく編集している為、クローズします
+83699,日本,34.7456670,139.3579930,2013-12-07 00:00:00,2026-04-24 02:52:57,4521,Unknown,"Moved from OSB ID707218:  東電の発電施設とのことなので、現地で情報確認必要 [nyampire, 2013-01-12 23:21:36 JST]",4,0,bijsgohsdacu,Mapillaryを使用して追加しました。
+58686,日本,35.1549590,138.8062013,2013-10-17 00:00:00,2026-04-24 02:41:15,4572,hayashi,ミニストップから外と繋がっています,5,1,bijsgohsdacu,出入口を追加した
+58685,日本,35.1547749,138.8060788,2013-10-17 00:00:00,2026-04-24 02:37:56,4572,hayashi,建物の輪郭の修正が必要です,5,1,bijsgohsdacu,国土地理院の地図を使用して編集した。
+83685,日本,35.4512860,138.9311220,2013-12-07 00:00:00,2026-04-24 02:33:40,4521,Unknown,"Moved from OSB ID645012:  ここに旧道への隧道の跡があるよ [hayashi, 2012-04-17 19:55:50 JST]",3,0,bijsgohsdacu,地図に関係ないからクローズします。
+187153,日本,35.2722690,139.0106347,2014-06-21 00:00:00,2026-04-24 02:30:26,4325,yamahiko,JAバンク,4,1,bijsgohsdacu,もう存在しません
+187151,日本,35.2721704,139.0105033,2014-06-21 00:00:00,2026-04-24 02:27:02,4325,yamahiko,A-Coop仙石原店,4,0,bijsgohsdacu,追加した
+187149,日本,35.2704164,139.0127349,2014-06-21 00:00:00,2026-04-24 02:16:10,4325,yamahiko,ラーメン菊壱,4,0,bijsgohsdacu,追加しています
+129024,日本,35.6720360,139.4010812,2014-03-04 00:00:00,2026-04-24 01:05:51,4434,Unknown,【学習塾】Free Space,2,0,bijsgohsdacu,added
+183701,日本,35.7144095,139.8423958,2014-06-14 00:00:00,2026-04-23 11:40:03,4331,Unknown,この位置に平井西店ヤマザキデイリーストアーがあります。,2,0,bijsgohsdacu,追加しました
+128474,日本,35.7652227,139.6887776,2014-03-03 00:00:00,2026-04-23 11:23:55,4434,Unknown,東京都板橋区前野町2－20－11 有限会社　吉徳屋,2,0,bijsgohsdacu,追加しました
+128477,日本,35.7669769,139.6904352,2014-03-03 00:00:00,2026-04-23 11:16:21,4434,Unknown,東京都板橋区前野町2－43－15 前野地域センター前野ホール,2,0,bijsgohsdacu,追加しました
+128482,日本,35.7707637,139.6912801,2014-03-03 00:00:00,2026-04-23 11:04:13,4434,Unknown,東京都板橋区前野町4－20－8 常楽院,2,0,bijsgohsdacu,追加しました。
+179910,日本,35.8924138,139.6323037,2014-06-06 00:00:00,2026-04-23 10:55:08,4339,hatochan,highway=pedestrianでライン2本を平行して記述しているが、本来はarea=yesでエリアで記述すべきところ。briddge=yesにするとラインのみになるので、屋根のある歩道にそってライン2本で対応。,4,1,bijsgohsdacu,ラインで大丈夫ですからクローズします。
+179786,日本,35.9058695,139.6228489,2014-06-06 00:00:00,2026-04-23 10:46:38,4339,hatochan,highway=serviceとhighway=tertiaryが混在しているが、駅構内はhighway=serviceと統一すべきか要検討。,4,1,bijsgohsdacu,highway_serviceに変更しました。
+147428,日本,35.7988975,139.4510883,2014-04-09 00:00:00,2026-04-23 06:21:21,4397,Unknown,オートショップイシバ 所沢市けやき台1-24-7 0429 25 4704,4,1,bijsgohsdacu,コメントを元に編集いたしました。
+5258057,日本,35.2806931,139.6755258,2026-04-20 00:00:00,2026-04-23 04:53:20,3,Fritzmann2002,Pedestrian walkways from both nearby streets converge here  via StreetComplete 63.0,2,0,Fritzmann2002,
+5258040,日本,35.2807783,139.6753709,2026-04-20 00:00:00,2026-04-23 04:50:52,3,Fritzmann2002,This is not a building here  via StreetComplete 63.0,2,0,Fritzmann2002,
+5258043,日本,35.2810294,139.6755778,2026-04-20 00:00:00,2026-04-23 04:50:51,3,Fritzmann2002,Access road here  via StreetComplete 63.0,2,0,Fritzmann2002,
+5258054,日本,35.2808004,139.6753675,2026-04-20 00:00:00,2026-04-23 04:50:50,3,Fritzmann2002,In context of overlay 'Buildings' – Roof – https://osm.org/way/441418165 via StreetComplete 63.0:  No building here,2,0,Fritzmann2002,
+5260691,日本,35.2811617,139.6754860,2026-04-22 00:00:00,2026-04-23 04:50:49,1,Fritzmann2002,Utility building here  via StreetComplete 63.0,2,0,Fritzmann2002,
+5260689,日本,35.2810940,139.6755059,2026-04-22 00:00:00,2026-04-23 04:50:49,1,Fritzmann2002,Access road here  via StreetComplete 63.0,2,0,Fritzmann2002,
+5260519,日本,35.2891646,139.6652548,2026-04-22 00:00:00,2026-04-23 03:19:36,1,Fritzmann2002,One way access road here  via StreetComplete 63.0,2,0,Fritzmann2002,
+5261794,日本,35.2883702,139.6715569,2026-04-22 00:00:00,2026-04-23 03:19:35,1,Fritzmann2002,Building entrance here  via StreetComplete 63.0,2,0,Fritzmann2002,
+5256525,日本,36.3316486,138.7362523,2026-04-19 00:00:00,2026-04-23 01:09:26,4,Unknown,jr横川駅,2,0,無限の刃,https://www.openstreetmap.org/node/3824450761
+5261813,日本,35.2883972,139.6714885,2026-04-22 00:00:00,2026-04-22 23:24:51,0,Fritzmann2002,Crosswalk here  via StreetComplete 63.0,2,0,Fritzmann2002,
+5260821,日本,35.7671882,139.5134173,2026-04-22 00:00:00,2026-04-22 17:41:55,0,gc27,都営松山三丁目アパート  #EveryDoor,2,0,gc27,
+5260817,日本,35.7678378,139.5152236,2026-04-22 00:00:00,2026-04-22 17:41:29,0,gc27,松山三丁目第2アパート  #EveryDoor,2,0,gc27,
+5260818,日本,35.7686545,139.5160685,2026-04-22 00:00:00,2026-04-22 17:40:27,0,gc27,未舗装小道  #EveryDoor,2,0,gc27,
+5260452,日本,35.0128536,135.7560511,2026-04-22 00:00:00,2026-04-22 03:34:28,0,dressed-pleasekin,Unable to answer 'What kind of parking is this?' – Parking Lot – https://osm.org/way/548813176 via StreetComplete 63.0:  三階建てのアパートビルになってる,2,0,dressed-pleasekin,
+5259070,日本,35.7660725,139.5161598,2026-04-21 00:00:00,2026-04-21 08:54:15,0,gc27,ここから北は30km/h制限  #EveryDoor,2,0,gc27,
+5258986,日本,35.7678322,139.5185765,2026-04-21 00:00:00,2026-04-21 08:53:43,0,gc27,未舗装小道が東側から続いてる  #EveryDoor,2,0,gc27,
+5259053,日本,35.7645121,139.5187083,2026-04-21 00:00:00,2026-04-21 08:50:45,0,gc27,ここから南の道まで舗装小道  #EveryDoor,2,0,gc27,
+5259052,日本,35.7639394,139.5200636,2026-04-21 00:00:00,2026-04-21 08:50:07,0,gc27,ここから西へ一方通行 小金井街道まで  #EveryDoor,2,0,gc27,
+5259064,日本,35.7631995,139.5201900,2026-04-21 00:00:00,2026-04-21 08:49:56,0,gc27,一方通行出口  #EveryDoor,2,0,gc27,
+5259063,日本,35.7632886,139.5166600,2026-04-21 00:00:00,2026-04-21 08:48:59,0,gc27,ここから東へ一方通行  #EveryDoor,2,0,gc27,
+5259062,日本,35.7640145,139.5165903,2026-04-21 00:00:00,2026-04-21 08:47:25,0,gc27,一方通行出口  #EveryDoor,2,0,gc27,
+5258985,日本,35.7674130,139.5192814,2026-04-21 00:00:00,2026-04-21 08:43:32,0,gc27,北からここまで未舗装小道あり  #EveryDoor,2,0,gc27,
+5258987,日本,35.7680383,139.5184806,2026-04-21 00:00:00,2026-04-21 08:41:48,0,gc27,信号あり横断歩道  #EveryDoor,2,0,gc27,
+5258978,日本,35.7703154,139.5159408,2026-04-21 00:00:00,2026-04-21 08:37:41,0,gc27,道あり  #EveryDoor,2,0,gc27,
+5257864,日本,35.7767244,139.4891460,2026-04-20 00:00:00,2026-04-21 01:01:18,1,gc27,秋津町4丁目第1仲よし広場  #EveryDoor,2,0,gc27,
+5257869,日本,35.7751555,139.4859019,2026-04-20 00:00:00,2026-04-21 01:00:32,1,gc27,信号機あり  #EveryDoor,2,0,gc27,
+5257878,日本,35.7740815,139.4863921,2026-04-20 00:00:00,2026-04-21 01:00:15,1,gc27,小道（未舗装）  #EveryDoor,2,0,gc27,
+5257877,日本,35.7731243,139.4864001,2026-04-20 00:00:00,2026-04-21 00:59:11,1,gc27,南向きは一時停止  #EveryDoor,2,0,gc27,
+5257882,日本,35.7723736,139.4858890,2026-04-20 00:00:00,2026-04-21 00:56:18,1,gc27,五十嵐駐車場（秋津町二丁目3-59）  #EveryDoor,2,0,gc27,
+5257881,日本,35.7721956,139.4853107,2026-04-20 00:00:00,2026-04-21 00:54:16,1,gc27,2階建て一軒家複数  #EveryDoor,2,0,gc27,
+4171124,日本,35.3408512,139.3445791,2024-03-28 00:00:00,2026-04-20 23:18:51,753,tlarhices,Parking  via StreetComplete 57.1,2,0,hayashi,駐車場を編集しました
+5255170,日本,34.8035839,135.3672316,2026-04-18 00:00:00,2026-04-19 18:24:56,1,kaz49,"This place does not exist: 'Probably a duplicate of the highway bus stop that is also shown on the map. No normal bus stop afaik' A CoMaps user reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2026-03-21T17:13:14Z POI name: 宝塚インター POI types: highway-bus_stop  #CoMaps android 2026.04.07-8-FDroid",2,0,map per,"Thanks, removed the duplication"
+5254635,日本,35.6442531,139.6695995,2026-04-18 00:00:00,2026-04-19 11:38:13,1,tokyomaps,"This place does not exist: 'there is no bar here' A CoMaps user reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2026-03-21T17:13:14Z POI has no name POI types: amenity-bar  #CoMaps android 2026.04.07-8",2,0,map per,"Thanks, deleted the bar"
+5256480,日本,35.2859976,136.2495252,2026-04-19 00:00:00,2026-04-19 08:10:29,0,ApoplecticPlatypus,"This was removed and rebuilt bigger, also a house.  via StreetComplete 63.0",2,0,ApoplecticPlatypus,
+5256485,日本,35.2852276,136.2484324,2026-04-19 00:00:00,2026-04-19 08:10:15,0,ApoplecticPlatypus,Connected.  via StreetComplete 63.0,2,0,ApoplecticPlatypus,
+5256483,日本,35.2852815,136.2487315,2026-04-19 00:00:00,2026-04-19 08:09:45,0,ApoplecticPlatypus,"Removed, replaced by two flats.  via StreetComplete 63.0",2,0,ApoplecticPlatypus,
+5256474,日本,35.2853783,136.2490729,2026-04-19 00:00:00,2026-04-19 08:09:32,0,ApoplecticPlatypus,Now gravel.  via StreetComplete 63.0,2,0,ApoplecticPlatypus,
+5256475,日本,35.2852894,136.2496056,2026-04-19 00:00:00,2026-04-19 08:09:18,0,ApoplecticPlatypus,Private.  via StreetComplete 63.0,2,0,ApoplecticPlatypus,
+5256513,日本,35.2850282,136.2508543,2026-04-19 00:00:00,2026-04-19 08:09:05,0,ApoplecticPlatypus,Removed  via StreetComplete 63.0,2,0,ApoplecticPlatypus,
+5256477,日本,35.2849170,136.2501067,2026-04-19 00:00:00,2026-04-19 08:08:53,0,ApoplecticPlatypus,Path through  via StreetComplete 63.0  Attached photo(s): https://streetcomplete.app/p/339375.jpg,2,0,ApoplecticPlatypus,
+5256505,日本,35.2838428,136.2500408,2026-04-19 00:00:00,2026-04-19 08:08:09,0,ApoplecticPlatypus,Unable to answer 'Does this crosswalk have tactile paving on both ends?' – Crossing – https://osm.org/node/12878767236 via StreetComplete 63.0:  Incorrect.,2,0,ApoplecticPlatypus,
+5256458,日本,35.2837315,136.2492298,2026-04-19 00:00:00,2026-04-19 08:07:49,0,ApoplecticPlatypus,In context of overlay 'Buildings' – Building – https://osm.org/way/1391333509 via StreetComplete 63.0:  Fully removed,2,0,ApoplecticPlatypus,
+5256502,日本,35.2839718,136.2487357,2026-04-19 00:00:00,2026-04-19 08:07:38,0,ApoplecticPlatypus,Removed  via StreetComplete 63.0,2,0,ApoplecticPlatypus,
+5256501,日本,35.2844569,136.2481278,2026-04-19 00:00:00,2026-04-19 08:07:14,0,ApoplecticPlatypus,Replaced with much smaller building.  via StreetComplete 63.0,2,0,ApoplecticPlatypus,
+5256497,日本,35.2847805,136.2485146,2026-04-19 00:00:00,2026-04-19 08:07:07,0,ApoplecticPlatypus,"Removed, garden left intact.  via StreetComplete 63.0",2,0,ApoplecticPlatypus,
+5256489,日本,35.2846827,136.2490727,2026-04-19 00:00:00,2026-04-19 08:04:48,0,ApoplecticPlatypus,House side.  via StreetComplete 63.0,2,0,ApoplecticPlatypus,
+5256494,日本,35.2844821,136.2490285,2026-04-19 00:00:00,2026-04-19 08:03:59,0,ApoplecticPlatypus,Gate  via StreetComplete 63.0,2,0,ApoplecticPlatypus,
+5256495,日本,35.2844332,136.2490024,2026-04-19 00:00:00,2026-04-19 08:03:33,0,ApoplecticPlatypus,Bell  via StreetComplete 63.0,2,0,ApoplecticPlatypus,
+5256462,日本,35.2845077,136.2502996,2026-04-19 00:00:00,2026-04-19 08:03:11,0,ApoplecticPlatypus,Gravel path through going east  via StreetComplete 63.0  Attached photo(s): https://streetcomplete.app/p/339374.jpg,2,0,ApoplecticPlatypus,

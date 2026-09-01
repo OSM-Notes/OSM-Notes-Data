@@ -1,0 +1,10 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5102232,México,22.5000235,-105.3604275,2025-12-23 00:00:00,2026-04-24 04:34:34,122,OMNIBUS,Revisar 3 nodos con nombres,2,0,Unknown,José vasconcelos dejo este lugar y se mudo a la siguiente manzana donde estaba el rastro viejo
+5263226,México,21.5040700,-104.9191730,2026-04-23 00:00:00,2026-04-23 22:30:01,0,Unknown,Casa,2,0,Unknown,
+5263225,México,21.5040480,-104.9191870,2026-04-23 00:00:00,2026-04-23 22:28:49,0,Unknown,casa,2,0,Unknown,
+5263058,México,19.4294690,-99.1535050,2026-04-23 00:00:00,2026-04-23 19:36:43,0,Unknown,CURSALIA,2,0,Unknown,
+5260232,México,22.8784144,-109.9099448,2026-04-21 00:00:00,2026-04-21 19:30:51,0,4b3eff,pedestrian area should link waterfront to main road  #OsmAnd,2,0,bxl-forever_repair,"Thàt seems to make sense. Imagery suggests there are blocks or bollards to close the former road to vehicles.  Updated, thanks. https://www.openstreetmap.org/relation/13751692#map=19/22.878580/-109.909942"
+5259221,México,18.4915192,-97.3854853,2026-04-21 00:00:00,2026-04-21 09:37:33,0,Unknown,Motel,5,1,Unknown,
+5109828,México,19.7159092,-99.0782690,2025-12-29 00:00:00,2026-04-20 03:12:29,112,GBM2025,T-MEX Park,2,0,Unknown,
+5239349,México,20.9799908,-100.7724541,2026-04-07 00:00:00,2026-04-19 16:48:56,12,GBAB,landuse=residential  #OsmAnd,2,0,GBAB,

@@ -1,0 +1,43 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4975231,Kiribati,-4.7022692,-174.5270705,2025-09-22 00:00:00,2025-09-29 15:47:19,0,Unknown,Камчатка,3,0,pitscheplatsch,#misplaced
+4959282,Kiribati,-3.6335217,-171.5213871,2025-09-13 00:00:00,2025-09-13 07:31:59,0,Unknown,https://osm.org/go/FWxUlDHMt-,3,0,pitscheplatsch,No actionable information was provided for editing OpenStreetMap data. Please feel free to reopen this note with more details. #noeditinfo
+3957424,Kiribati,1.9817679,-157.4704099,2023-10-25 00:00:00,2025-06-24 22:22:32,0,Unknown,"Paris(?),Kiribati.",2,0,kiritimati_c7g,does not exist
+4345158,Kiribati,1.3563871,172.9281741,2024-07-22 00:00:00,2025-05-22 03:52:51,0,Ewen Hill,"Hi, is this the Kava Haus area?  Perhaps add a point and make it a bar and if it has a building add that. If the footpath is not there, please amend or delete this.",2,0,QuigleyJones,
+3422399,Kiribati,1.3623262,172.9327360,2022-10-31 00:00:00,2025-05-22 03:52:21,0,Awira,Recycling Facility  via StreetComplete 48.0,2,0,QuigleyJones,
+1949216,Kiribati,1.3359221,173.0152568,2019-10-05 00:00:00,2025-05-22 03:51:55,0,nashnush,"'no longer exists' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Daotin's Chinese Restaurant POI types: building shop-hardware OSM data version: 2019-08-30T18:41:13Z  #mapsme",2,0,QuigleyJones,
+3125308,Kiribati,-1.8091819,175.5541420,2022-04-09 00:00:00,2025-05-22 03:50:48,0,Unknown,Uroegriiegdi,2,0,QuigleyJones,
+4596216,Kiribati,-4.4488053,-171.2485635,2025-01-21 00:00:00,2025-01-21 15:10:12,0,Unknown,semari jirauha 212106,3,0,pitscheplatsch,#misplaced
+4592423,Kiribati,1.3640156,173.1140332,2025-01-18 00:00:00,2025-01-18 02:37:03,0,Rapnick14,Rap resident,4,1,Rapnick14,
+4339459,Kiribati,1.3536400,172.9412700,2024-07-19 00:00:00,2024-07-19 00:23:27,0,Matarena,Karebwa's well station,4,1,Matarena,
+3260766,Kiribati,1.3610609,172.9338062,2022-07-10 00:00:00,2023-10-23 18:47:16,0,RabitonScratch,Buildings in the water,2,0,confusedbuffalo,Looks like it has since been fixed
+3803181,Kiribati,1.3569985,172.9345170,2023-07-28 00:00:00,2023-07-28 03:04:07,0,Kinta Eram,KUC Namonikeang Preschool,2,0,Kinta Eram,
+3316610,Kiribati,1.3696352,173.0544090,2022-08-16 00:00:00,2022-08-17 15:05:14,0,Unknown,888,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2317814,Kiribati,1.3291300,172.9844500,2020-08-22 00:00:00,2022-05-17 21:44:48,0,coroalis,embassy of the people's republic of china in kiribati,2,0,Britzz,maybe the other building west : https://www.openstreetmap.org/way/223654472 ?
+2813063,Kiribati,-4.4530284,-171.2614059,2021-08-20 00:00:00,2021-08-25 11:00:43,0,Igbinobas,germany,8,1,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2311707,Kiribati,1.3569207,172.9258239,2020-08-18 00:00:00,2021-08-17 20:35:12,0,Unknown,Temanoku Primary School,2,0,Note Control,already added
+2779508,Kiribati,2.0192393,-157.4466414,2021-07-31 00:00:00,2021-07-31 15:34:40,0,Temwarua,Primary housing,3,1,Temwarua,
+2580796,Kiribati,1.3575653,173.0645521,2021-03-16 00:00:00,2021-03-16 04:00:30,0,Aateta Ira,William Goward Memorial College Kiribati Uniting Church Secondary School,7,1,Aateta Ira,
+2540465,Kiribati,1.3595000,173.0748000,2021-02-16 00:00:00,2021-02-16 04:29:58,0,Unknown,The Place I live at,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2311729,Kiribati,1.3568992,172.9296863,2020-08-18 00:00:00,2020-11-27 03:37:55,0,Tei Meang,Marakei Maneaba,4,1,IKiribati,
+2311723,Kiribati,1.3562611,172.9325080,2020-08-18 00:00:00,2020-11-27 03:37:41,0,Unknown,JSS Maneaba,2,0,IKiribati,
+2311708,Kiribati,1.3578538,172.9266286,2020-08-18 00:00:00,2020-11-27 03:37:13,0,Unknown,Betio Hospital Compound,4,1,IKiribati,
+2311720,Kiribati,1.3557516,172.9330283,2020-08-18 00:00:00,2020-11-27 03:35:09,0,Unknown,Betio Junior Secondary School (BTC JSS),3,0,IKiribati,
+2311554,Kiribati,1.3589400,172.9300900,2020-08-17 00:00:00,2020-11-27 03:32:17,0,Unknown,Kiribati Copra Mill,4,1,IKiribati,
+2311705,Kiribati,1.3589961,172.9297400,2020-08-18 00:00:00,2020-11-27 03:31:19,0,Unknown,Competent Authority  (CA)Office,2,0,IKiribati,
+1898434,Kiribati,1.3611512,173.1512749,2019-08-24 00:00:00,2020-02-26 09:10:47,0,DMBT195,'Airport Hotel with Free Airport Shuttle.' POI name: Eniita Lodge POI types: tourism-hotel OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,kartonage,"Mapped, by you."
+1983800,Kiribati,1.3301288,172.9784890,2019-11-03 00:00:00,2020-01-16 11:10:10,0,jiro43,"'It moved' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: The ANZ Bank POI types: building amenity-atm amenity-bank OSM data version: 2019-09-09T23:32:17Z  #mapsme",2,0,Syl,Fixed
+1767576,Kiribati,1.8116000,-157.3649000,2019-05-05 00:00:00,2019-12-08 19:55:03,0,Unknown,PIN:07,3,0,freebeer,no info
+1988155,Kiribati,-0.7242207,174.4518959,2019-11-07 00:00:00,2019-11-08 15:30:12,0,Unknown,18+ Октября 2027,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1846611,Kiribati,1.3642670,173.1217757,2019-07-17 00:00:00,2019-07-17 01:59:08,0,Teenari Tekeraoi,Ms. Atintas' House,2,0,Teenari Tekeraoi,
+1338729,Kiribati,1.3592361,172.9307940,2018-03-25 00:00:00,2019-03-05 18:43:53,0,Lucas Wall,"'why is the country name here?' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Kiribati POI types: tourism-attraction OSM data version: 2018-02-09T21:26:02Z  #mapsme",2,0,Syl,Removed
+556487,Kiribati,0.2494232,173.4531784,2016-04-28 00:00:00,2019-03-05 18:40:54,0,Unknown,i dumped a dank ass corpse right here ;p,4,0,Syl,
+1693763,Kiribati,-1.1848784,174.6449686,2019-02-27 00:00:00,2019-02-28 16:23:12,0,Unknown,note,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+936498,Kiribati,-1.8771675,175.5245519,2017-03-22 00:00:00,2018-08-18 00:22:39,0,ChrissW-R1,"What is meant with the tag shoal=coral_reef? On bing aerial images it looks like a shoal. If it is coral reef, please use natural=reef and reef=coral.  Please recheck these relations: https://www.openstreetmap.org/relation/7094833 https://www.openstreetmap.org/relation/7094834 https://www.openstreetmap.org/relation/7094832 https://www.openstreetmap.org/relation/7094831 https://www.openstreetmap.org/relation/7094830",5,0,edvac,Done.
+1022430,Kiribati,-1.8320013,175.5440140,2017-06-07 00:00:00,2017-06-09 14:26:35,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1022429,Kiribati,0.2602378,173.5654449,2017-06-07 00:00:00,2017-06-09 14:26:00,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+494830,Kiribati,-10.0404437,-152.3297310,2016-01-08 00:00:00,2016-10-31 17:59:10,0,Unknown,"Vostok Island is MISSING from this map, and it belongs somewhere near this marker. It is missing on Google Maps too.",2,0,py_berrard,https://www.openstreetmap.org/node/1508704205
+527950,Kiribati,1.4270451,172.9761314,2016-03-15 00:00:00,2016-03-15 05:01:47,0,Kate Kaluzny,"November 20-23, 1943: Battle of Tarawa - the U.S.'s first offensive campaign in the central Pacific; fighting was concentrated on the island of Betio, Tarawa's largest island; nearly 6400 casualties on both sides of the conflict",4,1,Kate Kaluzny,See accession numbers
+332750,Kiribati,1.3588165,172.9308102,2015-03-17 00:00:00,2015-03-20 07:17:35,0,bgirardot,test,2,0,hsc666,
+332721,Kiribati,1.3582936,172.9319689,2015-03-17 00:00:00,2015-03-17 03:30:32,0,Unknown,This is the Kiribati School of Dentistry. bgirardot@gmail.com,2,0,bgirardot,Sorry mistyped this
+315871,Kiribati,1.3556121,172.9313493,2015-02-13 00:00:00,2015-03-16 23:41:33,0,Holysder,The George Hotel Kiribati,2,0,bgirardot,Mapped in buildings and added name to building this note was located on.

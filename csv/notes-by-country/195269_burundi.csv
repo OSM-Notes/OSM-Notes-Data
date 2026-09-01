@@ -1,0 +1,71 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1381108,Burundi,-2.7409012,30.1028824,2018-05-03 00:00:00,2025-10-18 07:58:58,0,Unknown,proposed site for a well,2,0,Corsa5,useless note
+4859318,Burundi,-2.9345817,29.6137841,2025-07-16 00:00:00,2025-07-21 08:16:14,0,serniga55,POI has no name POI types: shop-pet OSM data version: 2025-06-06T15:20:16Z  #mapsme,2,0,NeisBot,"Hi serniga55, Thank you for your contribution!   I've reviewed OSM and noticed that the following element with a name already exists:  'CENTRE NAISSEUR PRIMAIRE CUNICOLE DE MUYANGE KAYANZA' (shop=pet) https://osm.org/node/12944066301  Due to this, I'm closing this note now.   If you have further details to share or if you'd like to reopen the note in the future, feel free to do so.  #AlreadyMapped #Closing"
+4809749,Burundi,-3.0251660,29.2547790,2025-06-17 00:00:00,2025-06-17 08:27:18,0,olimao,Église Pentecote de Ndava,3,1,olimao,
+4694473,Burundi,-3.2342268,29.5034838,2025-04-03 00:00:00,2025-04-03 16:46:32,0,pvdworldmusic,Inanga Instrument Makers,2,0,pvdworldmusic,
+2017314,Burundi,-3.3905699,29.3613293,2019-12-05 00:00:00,2025-03-13 18:04:37,0,GEOINFO-BURUNDI,BRB en construction  via StreetComplete 15.0,5,1,NeisReview,
+4566617,Burundi,-4.0060415,30.0774877,2024-12-28 00:00:00,2024-12-28 13:35:02,0,Divin shikaneza,Fomi Bukemba,2,0,Divin shikaneza,
+4566624,Burundi,-4.0084632,30.0766826,2024-12-28 00:00:00,2024-12-28 13:31:23,0,Divin shikaneza,Moso cement company,2,0,Divin shikaneza,
+1302056,Burundi,-3.3923714,29.3816194,2018-02-16 00:00:00,2024-07-12 15:24:32,0,bassjer80,House number is #34,2,0,NIBAYEMERE,
+4318957,Burundi,-2.8519000,29.5506000,2024-07-04 00:00:00,2024-07-04 14:11:02,0,uwaaline,UCP,3,1,uwaaline,
+434409,Burundi,-3.3806456,29.3742549,2015-09-14 00:00:00,2024-01-03 20:23:20,0,Unknown,BETHEL,2,0,Rhodez,unhelpful note
+3015570,Burundi,-3.3605612,29.3666133,2022-01-18 00:00:00,2023-10-22 19:57:25,0,Unknown,Iteka FM,2,0,zluuzki,duplicate
+1363556,Burundi,-3.3529000,29.3733300,2018-04-17 00:00:00,2023-10-22 19:57:05,0,Unknown,Dragons Arena,2,0,zluuzki,duplicate
+1363558,Burundi,-3.3529000,29.3733100,2018-04-17 00:00:00,2023-10-22 19:57:01,0,Unknown,Dragon Arena,2,0,zluuzki,duplicate
+3639232,Burundi,-3.4023333,29.3684783,2023-04-12 00:00:00,2023-10-02 05:13:55,0,The Emir,'Tanganyika Care Polyclinic' POI name: Tanganyika Care Polyclinic POI types: amenity-hospital OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/3639199
+3639228,Burundi,-3.4023333,29.3684783,2023-04-12 00:00:00,2023-10-02 05:13:49,0,The Emir,'Tanganyika Care Polyclinic' POI name: Tanganyika Care Polyclinic POI types: amenity-hospital OSM data version: 2023-02-09T14:02:34Z  #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/3639199
+266796,Burundi,-3.3718847,29.3674850,2014-11-06 00:00:00,2023-08-21 07:21:25,0,Unknown,AOAV Office,9,1,Lewis Anthony Gisabo,
+1614464,Burundi,-2.7167086,29.3465825,2018-12-11 00:00:00,2023-03-01 08:06:18,0,Secouss,What is that ??,2,0,confusedbuffalo,Not clear what this refers to
+1723563,Burundi,-3.3903557,29.3518842,2019-03-25 00:00:00,2023-01-05 10:21:37,0,wittli,'This is the correct location of Safari Gate Hotel. the other location shown and linked to booking.com is incorrect.' POI name: Safari Gate Hotel POI types: tourism-hotel internet_access-wlan OSM data version: 2019-03-14T00:11:02Z  #mapsme,2,0,Syl,Already fixed
+1939126,Burundi,-3.3812240,29.3586525,2019-09-25 00:00:00,2022-03-31 10:28:45,0,Unknown,Peace Corner,5,1,Lewis Anthony Gisabo,
+3010596,Burundi,-3.3392700,29.3859100,2022-01-14 00:00:00,2022-01-14 16:17:56,0,NIBITANGA,Clinique Médico -Chirurgicale Vyaruheke,6,1,NIBITANGA,
+2808691,Burundi,-3.3555728,29.3707788,2021-08-18 00:00:00,2021-08-18 08:21:15,0,rad technology,this is the realy Allee Gatete,4,1,rad technology,Gatete
+2803677,Burundi,-3.9130000,29.8395800,2021-08-14 00:00:00,2021-08-15 04:46:06,0,Unknown,southernmost source of the rive Nile,2,0,kartonage,Ok.
+451994,Burundi,-3.3514037,29.3722862,2015-10-15 00:00:00,2021-08-06 11:24:54,0,Unknown,KH,2,0,confusedbuffalo,
+595057,Burundi,-3.3537186,29.3936167,2016-06-15 00:00:00,2021-08-06 11:24:20,0,Ingenzi,"The place has gone or never existed.  This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground.  User comments: Double listing. Already on map beside actual location.   (OSM data version: 2016-06-01T10:03:02Z) #mapsme",4,0,confusedbuffalo,Merged node and way
+1188322,Burundi,-3.3669004,29.3857578,2017-10-29 00:00:00,2021-08-06 11:23:26,0,JuneBee,'Monday-Friday 8am to 8pm Saturday 11am to 8 pm Sunday Close' POI name: Mutoyi POI types: shop-supermarket OSM data version: 2017-09-17T07:13:02Z  #mapsme,2,0,confusedbuffalo,Already mapped
+1521177,Burundi,-3.3815814,29.3499101,2018-09-10 00:00:00,2021-08-06 11:22:13,0,JuneBee,"'Moved to another location' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Ambassade de l'Afrique du Sud POI types: amenity-embassy OSM data version: 2018-08-04T14:22:01Z  #mapsme",2,0,confusedbuffalo,Removed
+1701080,Burundi,-3.3903557,29.3518842,2019-03-05 00:00:00,2021-08-06 11:20:44,0,wittli,"'This is the correct location of the Safari Gate Hotel. It is also marked, and linked to booking.com, at a nearby location (in the middle of the road) that is incorrect. Please change that.' POI name: Safari Gate Hotel POI types: tourism-hotel OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,confusedbuffalo,Removed
+1706644,Burundi,-3.8708205,29.3791703,2019-03-11 00:00:00,2021-08-06 11:18:45,0,wittli,"'The other location marked is correct.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: TANGANYIKA BLUE BAY RESORT POI types: tourism-hotel OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,confusedbuffalo,Removed
+2476157,Burundi,-3.3294504,29.3909685,2020-12-28 00:00:00,2020-12-28 18:26:48,0,Unknown,my hoe,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2222508,Burundi,-3.3804850,29.3666804,2020-06-08 00:00:00,2020-06-08 22:35:15,0,Unknown,"onosm.org submitted note from a business: name: Le Cristal  phone: +25779122555 website:  twitter: undefined hours: Thursday—Sunday 6pm-5am category: ,Lounges,Nightclubs address: Boulevard de l’uprona",3,0,Kiki_s,
+1319749,Burundi,-3.3649564,29.3930598,2018-03-07 00:00:00,2020-01-25 19:06:13,0,Unknown,Allée du Rassemblement,2,0,freebeer,on the map
+1319787,Burundi,-3.3649683,29.3930600,2018-03-07 00:00:00,2020-01-25 19:05:49,0,Vicky Franck,Allée du Rassemblement,4,1,freebeer,on the map
+1390243,Burundi,-3.3902633,29.3750596,2018-05-11 00:00:00,2020-01-25 19:03:21,0,bassjer80,This hotel is shown at the wrong location... the actual location is at 6G8FJ969+QX,2,0,freebeer,nothing here
+1696057,Burundi,-4.3484987,29.5966411,2019-03-01 00:00:00,2020-01-25 19:00:00,0,Derek Duval,"'Correct location is already marked on the map' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: EAST AFRICA HOTEL POI types: tourism-hotel OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,freebeer,nothing at marker
+1831455,Burundi,-3.4854500,30.3474295,2019-07-01 00:00:00,2020-01-16 14:44:54,0,ntmp675,This area is clear of any and all buildings and thus will be marked completed.,2,0,mbolin,
+2033104,Burundi,-3.3905913,29.3514468,2019-12-21 00:00:00,2019-12-21 12:31:25,0,Quartzy,ici il manque une piscine,2,0,Quartzy,
+1319653,Burundi,-3.3837300,29.3684500,2018-03-07 00:00:00,2019-12-13 07:38:04,0,klmmpd,AFRA AIRWAYS,6,1,GEOINFO-BURUNDI,
+1694992,Burundi,-3.3848721,29.3657459,2019-02-28 00:00:00,2019-12-13 07:37:15,0,Derek Duval,"'Closed' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Encien Marche centrale de Bujumbura POI types: building amenity-marketplace OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,GEOINFO-BURUNDI,
+2017831,Burundi,-3.3906129,29.3614418,2019-12-06 00:00:00,2019-12-06 06:19:17,0,GEOINFO-BURUNDI,maison en construction  via StreetComplete 15.0,4,1,GEOINFO-BURUNDI,
+2017028,Burundi,-3.3596035,29.3690872,2019-12-05 00:00:00,2019-12-05 09:07:23,0,GEOINFO-BURUNDI,CNDD-FDD,4,1,GEOINFO-BURUNDI,
+756487,Burundi,-3.3769011,29.3497545,2016-10-22 00:00:00,2019-10-13 20:41:58,0,Diego Perona,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'incorrect location' (OSM data version: 2016-09-19T14:38:03Z) #mapsme",2,0,freebeer,nothing at marker
+590695,Burundi,-3.3815761,29.3749887,2016-06-11 00:00:00,2019-10-13 20:39:57,0,KBurundi,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Closed' (OSM data version: 2016-03-14T15:50:02Z) #mapsme",2,0,freebeer,nothing at marker
+1768969,Burundi,-2.9163611,29.9696880,2019-05-06 00:00:00,2019-10-13 20:38:31,0,Unknown,"onosm.org submitted note from a business: name: خشکبار نگین phone: +982188264193 website:  twitter: undefined hours:  category: ,Shops & Services address: gisha",2,0,freebeer,town node
+1406325,Burundi,-3.3822920,29.3616672,2018-05-26 00:00:00,2019-04-09 12:54:48,0,bassjer80,"I made an error recently in selecting the correct road name here... It should be 'Place de L'Independence', not 'Chausee du Peuple Murundi'.  via StreetComplete 5.2",2,0,KarangwaInnocent,
+1396343,Burundi,-3.5201728,29.7060013,2018-05-17 00:00:00,2018-12-31 00:16:07,0,Unknown,"„CDS Tabaruka“ is mapped twice; pleace remove one of them, probably the right (eastern) one is wrong. And no need to use UPPERCASE letters, please use spelling „CDS Tabaruka“, not „CDS TABARUKA“",2,0,confusedbuffalo,Fixed
+1593924,Burundi,-2.8504622,30.2192688,2018-11-19 00:00:00,2018-11-19 06:55:48,0,Eddy-Juste Bitagoye,Gasorwe refugee camp,6,1,Eddy-Juste Bitagoye,
+1593929,Burundi,-2.8724075,30.0750732,2018-11-19 00:00:00,2018-11-19 06:54:14,0,Eddy-Juste Bitagoye,Musasa refugee camp,2,0,Eddy-Juste Bitagoye,
+1593927,Burundi,-3.4037579,30.1354980,2018-11-19 00:00:00,2018-11-19 06:50:50,0,Eddy-Juste Bitagoye,Bwagiriza Refugee camp,2,0,Eddy-Juste Bitagoye,
+1593925,Burundi,-3.2447242,30.5007935,2018-11-19 00:00:00,2018-11-19 06:46:51,0,Eddy-Juste Bitagoye,Kavumu Refugee camp,2,0,Eddy-Juste Bitagoye,
+913935,Burundi,-3.4082467,29.3540112,2017-03-04 00:00:00,2018-10-26 11:35:46,0,JuneBee,Simon's friend Shil (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,freebeer,personal maps.me bookmark
+1185650,Burundi,-3.3914200,29.3606800,2017-10-26 00:00:00,2018-10-26 11:35:12,0,Iso_mediabox,MEDIABOX Burundi,2,0,freebeer,on the map
+1212946,Burundi,-3.3954200,29.3744900,2017-11-21 00:00:00,2018-10-26 11:34:21,0,Christa MUPFASONI,AMAHORO CAFE,2,0,freebeer,on the map
+1457762,Burundi,-3.4324060,29.3692687,2018-07-17 00:00:00,2018-10-26 11:31:47,0,Unknown,Vhbb,2,0,freebeer,no mapping info
+1460410,Burundi,-3.3923449,29.3817543,2018-07-19 00:00:00,2018-10-26 11:31:25,0,Unknown,Vvvvvvvv bucks,2,0,freebeer,no mapping info
+1460416,Burundi,-3.4630233,29.5491202,2018-07-19 00:00:00,2018-08-04 08:39:09,0,Unknown,Hhbb,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1314355,Burundi,-3.6759001,29.8778987,2018-03-01 00:00:00,2018-07-06 16:43:15,0,sim's,It's a school,2,0,sim's,
+1325393,Burundi,-3.3837087,29.3684292,2018-03-12 00:00:00,2018-06-22 11:09:27,0,Unknown,Yes Boss Taxi,2,0,30303020,Duplicate
+1308535,Burundi,-3.4209525,29.3677184,2018-02-23 00:00:00,2018-02-23 14:03:04,0,OSM -BURUNDI,Ecole st Michel archange,3,1,OSM -BURUNDI,
+1213826,Burundi,-3.3980400,29.3548000,2017-11-22 00:00:00,2017-11-22 10:50:20,0,osm-team@mediabox,AFRA_RESIDENCE,2,0,osm-team@mediabox,AFRA_RESIDENCE
+1052481,Burundi,-3.3591929,29.3688422,2017-07-04 00:00:00,2017-07-04 11:32:44,0,Lebon Mudumba,International University of Equator(IUE),2,0,Lebon Mudumba,
+905078,Burundi,-3.3768636,29.3740071,2017-02-25 00:00:00,2017-02-26 04:13:52,0,Muhizi FC,Home (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,mavl,"Hello. You used maps.me program for addition of a note on a map recently. Your note was added to OpenStreetMap project. Thank you for the note, but a building is already marked on OpenStreetMap."
+686927,Burundi,-3.3630058,29.3611845,2016-08-25 00:00:00,2016-08-26 15:26:54,0,Unknown,ffghgh jkkkll,2,0,mavl,The note does not contain a useful information for OpenStreetMap. The note was closed without the changing data.
+194395,Burundi,-3.7330509,29.4316864,2014-07-05 00:00:00,2015-08-25 09:03:54,0,Unknown,KanyEmpire,3,0,Jiří Komárek,
+279090,Burundi,-3.3658869,29.3819046,2014-12-01 00:00:00,2015-05-03 02:56:04,0,Unknown,Kigobe,5,1,Grillo,tagged
+333708,Burundi,-3.6599040,29.5916748,2015-03-19 00:00:00,2015-05-03 02:55:43,0,Unknown,Ville de Mugamba,2,0,Grillo,tagged
+284592,Burundi,-3.4409420,29.9316502,2014-12-10 00:00:00,2015-05-03 02:55:32,0,Unknown,Mushasha,2,0,Grillo,tagged
+284595,Burundi,-3.4266340,29.9306202,2014-12-10 00:00:00,2015-02-03 14:41:08,0,Unknown,Alliance Franco-burundaise,2,0,SeverinGeo,ajouté/added
+90854,Burundi,-3.3967750,29.3739706,2013-12-25 00:00:00,2014-01-04 01:06:20,0,Unknown,Alex and Carla,2,0,PierZen,no personal notes please
+6323,Burundi,-3.3737911,29.3624881,2013-06-06 00:00:00,2013-11-24 19:52:33,0,Unknown,Situation géographique de l'hôpital prince régent Charles.,2,0,imiko,

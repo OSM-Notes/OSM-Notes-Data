@@ -1,0 +1,5 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5261909,ປະເທດລາວ,18.8463500,103.9866300,2026-04-23 00:00:00,2026-04-23 03:08:02,0,Unknown,NT3A Dam Site,4,1,Supaplex,"It seems not verified by locals, will simple close it"
+1098201,ປະເທດລາວ,20.2793079,100.4122168,2017-08-10 00:00:00,2026-04-22 09:48:44,3177,、暮雪飞烟。,会晒 (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Kovirii,added
+1599895,ປະເທດລາວ,20.2724302,100.4130740,2018-11-25 00:00:00,2026-04-22 09:47:55,2705,Unknown,Massage,2,0,Kovirii,

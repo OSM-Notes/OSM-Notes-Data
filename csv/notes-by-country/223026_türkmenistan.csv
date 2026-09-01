@@ -1,0 +1,5 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5258815,Türkmenistan,42.6018800,58.4742200,2026-04-20 00:00:00,2026-04-22 22:38:24,2,gölgeningölgesi,Aýböwür obasy,2,0,Saamat,
+5258820,Türkmenistan,42.5750330,58.5489110,2026-04-20 00:00:00,2026-04-22 22:36:50,2,gölgeningölgesi,Sarygaldaw obasy,2,0,Saamat,
+5260822,Türkmenistan,39.5178470,54.3390880,2026-04-22 00:00:00,2026-04-22 09:16:25,0,Unknown,7,2,0,Unknown,7 nji ýaşaýyş jayy

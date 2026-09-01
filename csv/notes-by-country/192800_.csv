@@ -1,0 +1,6 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+2734363,ኢትዮጵያ,8.9529166,38.8346851,2021-06-29 00:00:00,2026-04-23 16:05:56,1759,Unknown,car assembly abrissh site,2,0,Unknown,
+5262683,ኢትዮጵያ,9.6055500,41.8802300,2026-04-23 00:00:00,2026-04-23 14:01:42,0,Nasir S,Safaricom Site 151004,2,0,Nasir S,
+5262677,ኢትዮጵያ,9.3236060,42.0945160,2026-04-23 00:00:00,2026-04-23 13:56:32,0,Nasir S,HARAR III SS,2,0,Nasir S,
+5262667,ኢትዮጵያ,9.2267290,42.3351070,2026-04-23 00:00:00,2026-04-23 13:48:25,0,Nasir S,Safaricom site 410040,2,0,Nasir S,

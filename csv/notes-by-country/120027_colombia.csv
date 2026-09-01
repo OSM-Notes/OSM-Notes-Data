@@ -1,0 +1,13 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5262915,Colombia,6.2530186,-73.2966614,2026-04-23 00:00:00,2026-04-23 17:18:56,0,Unknown,Ganadería Genbehia,4,1,Unknown,Ganadeía Genbehia
+4988768,Colombia,11.0040720,-74.8147836,2025-10-02 00:00:00,2026-04-21 23:51:30,201,Unknown,Ya no se encuentra el banco Bogota,2,0,Unknown,
+5181467,Colombia,10.1150276,-75.1639088,2026-02-25 00:00:00,2026-04-20 20:49:08,54,Nancy Devine,Add restaurant Paraje rí Kumina  via StreetComplete 62.2,2,0,Nancy Devine,Added.
+5257689,Colombia,4.6983294,-74.1005516,2026-04-19 00:00:00,2026-04-20 15:46:22,1,Unknown,dhhjasdbajdhdj,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+4463577,Colombia,2.5672805,-76.5571976,2024-10-03 00:00:00,2026-04-20 13:41:47,564,Unknown,Cabildo Indígena Nasa de Cofradía,2,0,kaxtillo,si es la ubicación correcta
+5258303,Colombia,2.4469240,-76.5990160,2026-04-20 00:00:00,2026-04-20 13:06:59,0,Unknown,1,2,0,Unknown,
+5257751,Colombia,5.9720447,-75.3692447,2026-04-20 00:00:00,2026-04-20 10:15:05,0,sangonzag,Placa huella  #OsmAnd,2,0,sangonzag,
+5257752,Colombia,5.9736786,-75.3733496,2026-04-20 00:00:00,2026-04-20 10:15:00,0,sangonzag,Placa huella  #OsmAnd,2,0,sangonzag,
+5257746,Colombia,5.9726751,-75.3679668,2026-04-20 00:00:00,2026-04-20 10:14:21,0,sangonzag,placa huella  #OsmAnd,2,0,sangonzag,
+5257747,Colombia,5.9732023,-75.3674721,2026-04-20 00:00:00,2026-04-20 10:14:19,0,sangonzag,placa huella  #OsmAnd,2,0,sangonzag,
+5257750,Colombia,5.9731181,-75.3642259,2026-04-20 00:00:00,2026-04-20 10:14:10,0,sangonzag,Destapado  #OsmAnd,2,0,sangonzag,

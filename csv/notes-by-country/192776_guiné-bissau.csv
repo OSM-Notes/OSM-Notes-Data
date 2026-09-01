@@ -1,0 +1,183 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1927176,Guiné-Bissau,11.8578784,-15.5794717,2019-09-15 00:00:00,2026-01-05 06:46:45,2304,edvac,Consulmar (oficina venda billetes barco pasaxeiros),2,0,tbo47,
+779445,Guiné-Bissau,11.8548103,-15.5880400,2016-11-11 00:00:00,2026-01-05 06:46:24,3342,Carlos Pimpão,Dr. Bidonga (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,tbo47,https://www.openstreetmap.org/node/4144862790
+775861,Guiné-Bissau,11.8600655,-15.5882063,2016-11-07 00:00:00,2026-01-05 06:45:39,3346,Carlos Pimpão,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'o local em questão é no edifício ao lado' (OSM data version: 2016-10-10T15:13:03Z) #mapsme",2,0,tbo47,
+775860,Guiné-Bissau,11.8618899,-15.5873587,2016-11-07 00:00:00,2026-01-05 06:44:16,3346,Carlos Pimpão,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'o local existe mas é do lado oposto' (OSM data version: 2016-10-10T15:13:03Z) #mapsme",4,1,tbo47,
+779444,Guiné-Bissau,11.8610563,-15.5896759,2016-11-11 00:00:00,2026-01-05 06:42:45,3342,Carlos Pimpão,Frangos (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,tbo47,what does it mean?
+775862,Guiné-Bissau,11.8597112,-15.5886757,2016-11-07 00:00:00,2026-01-05 06:42:16,3346,Carlos Pimpão,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'este local já não existe' (OSM data version: 2016-10-10T15:13:03Z) #mapsme",2,0,tbo47,
+775850,Guiné-Bissau,11.8789645,-15.6378004,2016-11-07 00:00:00,2026-01-05 06:39:38,3346,Carlos Pimpão,Gás Garrafa (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,tbo47,https://www.openstreetmap.org/node/3798226341
+3605839,Guiné-Bissau,12.0043141,-15.4774189,2023-03-20 00:00:00,2026-01-05 06:38:52,1022,Unknown,morança Anhinane,2,0,tbo47,
+2867153,Guiné-Bissau,12.0062031,-15.4748815,2021-09-24 00:00:00,2026-01-05 06:38:30,1564,Salvatore Merola,Scuola primaria,4,1,tbo47,https://www.openstreetmap.org/way/802172006
+2438231,Guiné-Bissau,11.9903000,-15.4495000,2020-11-23 00:00:00,2026-01-05 06:37:54,1869,Unknown,Bivio per N'Tchangue,2,0,tbo47,
+2438233,Guiné-Bissau,11.9787000,-15.4677000,2020-11-23 00:00:00,2026-01-05 06:37:42,1869,Unknown,Bivio per N'Tchangue,2,0,tbo47,
+2438237,Guiné-Bissau,11.9870000,-15.4685000,2020-11-23 00:00:00,2026-01-05 06:37:10,1869,Unknown,Guado per N'Tchangue,2,0,tbo47,
+1921532,Guiné-Bissau,11.8653551,-15.5966515,2019-09-11 00:00:00,2026-01-05 04:26:54,2308,Unknown,MARVEMECK,2,0,tbo47,
+779475,Guiné-Bissau,11.8588581,-15.5936968,2016-11-11 00:00:00,2026-01-05 04:26:42,3342,Carlos Pimpão,Materiais Construção & Electrónica (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,tbo47,https://www.openstreetmap.org/way/129996680
+1554766,Guiné-Bissau,11.8572318,-15.5861610,2018-10-09 00:00:00,2026-01-05 04:26:14,2645,Unknown,Cabinet médical du Docteur Ali,2,0,tbo47,
+779474,Guiné-Bissau,11.8577554,-15.5912177,2016-11-11 00:00:00,2026-01-05 04:25:57,3342,Carlos Pimpão,Refrigerantes (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,tbo47,https://www.openstreetmap.org/node/4494402591
+779473,Guiné-Bissau,11.8584092,-15.5907772,2016-11-11 00:00:00,2026-01-05 04:25:38,3342,Carlos Pimpão,Assembleia (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,tbo47,https://www.openstreetmap.org/way/129957117
+1927548,Guiné-Bissau,11.8617687,-15.5822904,2019-09-15 00:00:00,2026-01-05 04:24:43,2304,edvac,Falta esta rua,2,0,tbo47,
+1927175,Guiné-Bissau,11.8585627,-15.5811989,2019-09-15 00:00:00,2026-01-05 04:24:23,2304,edvac,Ministerio das Finanzas,2,0,tbo47,https://www.openstreetmap.org/node/4494349991
+1927523,Guiné-Bissau,11.8573888,-15.5843651,2019-09-15 00:00:00,2026-01-05 04:23:30,2304,edvac,Restaurante cuisine Indian outdoor_seating=yes name=Handi,2,0,tbo47,https://www.openstreetmap.org/way/129969489
+1408188,Guiné-Bissau,11.8465296,-15.5740857,2018-05-28 00:00:00,2026-01-05 04:22:59,2779,boldtrn,it would be great to have a machine readable duration,4,1,tbo47,https://wiki.openstreetmap.org/wiki/Key:duration
+801605,Guiné-Bissau,11.7914050,-15.9216464,2016-12-01 00:00:00,2026-01-05 04:22:31,3322,Carlos Pimpão,Embarque Ilhas (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,tbo47,is it this? https://www.openstreetmap.org/node/4524886990
+1385071,Guiné-Bissau,11.7678884,-16.0874916,2018-05-06 00:00:00,2026-01-05 04:22:30,2801,Daaclaire,'Plage de sable fin' POI has no name POI types: highway-rest_area OSM data version: 2018-03-16T17:06:02Z  #mapsme,2,0,tbo47,
+1385070,Guiné-Bissau,11.7614771,-16.0535935,2018-05-06 00:00:00,2026-01-05 04:22:29,2801,Daaclaire,'Plage de sable fin' POI has no name POI types: highway-rest_area OSM data version: 2018-03-16T17:06:02Z  #mapsme,2,0,tbo47,
+2881192,Guiné-Bissau,12.5440000,-14.1677000,2021-10-04 00:00:00,2026-01-04 15:34:23,1553,Ussumane Embalo,Sintchã Botché,2,0,tbo47,Lien OSM: https://www.openstreetmap.org/node/3054801612
+2866758,Guiné-Bissau,12.5421000,-14.1680900,2021-09-24 00:00:00,2026-01-04 15:34:06,1563,Unknown,Nome desta comunidade é St. Botché,2,0,tbo47,https://www.openstreetmap.org/node/3054801612
+2866754,Guiné-Bissau,12.5596400,-14.1764900,2021-09-24 00:00:00,2026-01-04 15:31:29,1563,Unknown,Nome da Comunidade é St. Ussumane,3,0,tbo47,
+2881189,Guiné-Bissau,12.5598300,-14.1765600,2021-10-04 00:00:00,2026-01-04 15:31:21,1553,Ussumane Embalo,Sintchã Ussumane,3,0,tbo47,
+1687096,Guiné-Bissau,11.8593900,-15.5903700,2019-02-20 00:00:00,2025-06-25 23:40:17,0,Unknown,Hotel CEIBA,2,0,arthur-d42,
+4632499,Guiné-Bissau,11.2984492,-15.8287117,2025-02-18 00:00:00,2025-02-28 16:41:20,0,Madjian110,'Butik Dallas Chez Zidane ' POI name: Butik Dallas Chez Zidane POI types: shop-convenience internet_access-wlan OSM data version: 2025-01-17T15:34:13Z  #mapsme,3,0,pitscheplatsch,The element mentioned in this note has already been #mapped.
+4632493,Guiné-Bissau,11.2984492,-15.8287117,2025-02-18 00:00:00,2025-02-28 16:41:14,0,Madjian110,'Supérette' POI name: Supérette POI types: shop-convenience internet_access-wlan OSM data version: 2025-01-17T15:34:13Z  #mapsme,3,0,pitscheplatsch,The element mentioned in this note has already been #mapped.
+4079896,Guiné-Bissau,11.8853754,-15.6467012,2024-01-21 00:00:00,2025-02-24 14:25:40,0,paulus dorlas,internationaal ontmoeting plaats casa de telha ao lado de casa de BUBU,2,0,Fandeckz,
+4632494,Guiné-Bissau,11.2984492,-15.8287117,2025-02-18 00:00:00,2025-02-18 17:06:10,0,Madjian110,'Supérette' POI name: Supérette POI types: shop-convenience internet_access-wlan OSM data version: 2025-01-17T15:34:13Z  #mapsme,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/4632493  Therefore, it will be closed.  #DuplicateNote"
+780046,Guiné-Bissau,11.8588581,-15.5936968,2016-11-12 00:00:00,2023-10-02 05:30:30,0,Carlos Pimpão,Materiais Construção (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/779475
+1932889,Guiné-Bissau,11.8794000,-15.6385000,2019-09-20 00:00:00,2023-04-05 00:30:58,0,Badje Charlo,Nouveau Siege Orange,2,0,Artur nelson0025,
+3058312,Guiné-Bissau,11.2992800,-15.8281300,2022-02-20 00:00:00,2023-01-19 01:26:07,0,Unknown,Bar alegria,2,0,snoozingnewt,
+2109260,Guiné-Bissau,11.2753867,-15.8529282,2020-03-03 00:00:00,2023-01-19 01:25:56,0,fede villagrasa,pozo 1,2,0,snoozingnewt,
+3318522,Guiné-Bissau,11.2626761,-15.8612967,2022-08-17 00:00:00,2023-01-19 01:25:52,0,Unknown,Etimbatu,2,0,snoozingnewt,
+3318524,Guiné-Bissau,11.2349593,-15.8730125,2022-08-17 00:00:00,2023-01-19 01:25:48,0,Unknown,Bruce,2,0,snoozingnewt,
+1554762,Guiné-Bissau,11.8572300,-15.5861600,2018-10-09 00:00:00,2022-11-12 10:35:42,0,Unknown,Docteur Ali,2,0,Syl,Duplicated note
+1313523,Guiné-Bissau,11.8737989,-15.6155756,2018-02-28 00:00:00,2022-11-12 10:33:32,0,Nick El Hombre,'the name of the neighborhood is not Barrio Military but Bairro Militar' POI name: Barrio Militar POI types: place-neighbourhood OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,Syl,Already fixed
+775830,Guiné-Bissau,11.8789645,-15.6378004,2016-11-07 00:00:00,2022-11-12 10:31:11,0,Carlos Pimpão,Gás (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Syl,Duplicated note
+2883235,Guiné-Bissau,12.3351428,-16.7112930,2021-10-06 00:00:00,2022-11-11 14:50:08,0,Unknown,Le cap est situé à la pointe sud à 2.5 km de Kabrousse,2,0,Syl,Rien à modifier
+2867172,Guiné-Bissau,12.0053216,-15.4755306,2021-09-24 00:00:00,2021-09-24 15:14:16,0,Salvatore Merola,Orti comune,2,0,Salvatore Merola,
+2867166,Guiné-Bissau,11.9595473,-15.5372161,2021-09-24 00:00:00,2021-09-24 15:13:11,0,Salvatore Merola,Complesso scolastico,4,1,Salvatore Merola,
+2867165,Guiné-Bissau,11.9792948,-15.5217075,2021-09-24 00:00:00,2021-09-24 15:07:43,0,Salvatore Merola,Guado,2,0,Salvatore Merola,
+2867163,Guiné-Bissau,11.9587234,-15.5222225,2021-09-24 00:00:00,2021-09-24 15:06:46,0,Salvatore Merola,Ingresso per Jugudu Com - Fatim - N'Tchangue,2,0,Salvatore Merola,
+2867155,Guiné-Bissau,12.0059329,-15.4752624,2021-09-24 00:00:00,2021-09-24 15:00:53,0,Salvatore Merola,Pozzo costruito dall'associazione Abala  lite Onlus -Italia,2,0,Salvatore Merola,
+2867150,Guiné-Bissau,12.0059900,-15.4750300,2021-09-24 00:00:00,2021-09-24 14:56:41,0,Salvatore Merola,Scuola primaria,2,0,Salvatore Merola,
+2758983,Guiné-Bissau,12.2911560,-16.5284157,2021-07-17 00:00:00,2021-07-17 22:39:12,0,Unknown,pow! pah! you've been here before,2,0,kartonage,...
+2757956,Guiné-Bissau,12.2911560,-16.5284157,2021-07-16 00:00:00,2021-07-17 11:41:40,0,Unknown,"Feeeeeeeeel free to close this note, otherwise you don't add anything of value to the map. Notes are publicly closable, but not just meant to indicate improvements and error corrections. Thanks.  By closing this note you may become part of an publicly visible art project.",2,0,kartonage,...
+2634196,Guiné-Bissau,11.9315584,-15.5584216,2021-04-22 00:00:00,2021-05-12 12:43:53,0,Salvatore Merola,Morança  ABONA,4,1,FT_22,
+2634199,Guiné-Bissau,11.9309496,-15.5594730,2021-04-22 00:00:00,2021-05-12 08:52:35,0,Salvatore Merola,Morança AGUIBELA,4,1,AndreiCerbu,
+2634170,Guiné-Bissau,11.9330910,-15.5577672,2021-04-22 00:00:00,2021-04-29 16:14:49,0,Salvatore Merola,Morança AGUITLANGUE,6,1,sassssss,
+2634181,Guiné-Bissau,11.9330910,-15.5555248,2021-04-22 00:00:00,2021-04-29 16:11:15,0,Salvatore Merola,Morança ABIDINGA,6,1,sassssss,
+2634164,Guiné-Bissau,11.9326501,-15.5575418,2021-04-22 00:00:00,2021-04-29 16:11:10,0,Salvatore Merola,Mrança ABODE FIDAIBA,2,0,sassssss,
+2634179,Guiné-Bissau,11.9323772,-15.5596501,2021-04-22 00:00:00,2021-04-29 13:03:17,0,Salvatore Merola,Morança  ADOBE,4,1,xDavox21,
+2634177,Guiné-Bissau,11.9325556,-15.5596983,2021-04-22 00:00:00,2021-04-29 13:02:45,0,Salvatore Merola,Pozzo,4,1,xDavox21,
+2634156,Guiné-Bissau,11.9359934,-15.5528641,2021-04-22 00:00:00,2021-04-29 12:58:12,0,Salvatore Merola,Morança AGUIDANDE,2,0,xDavox21,
+2634215,Guiné-Bissau,11.9345605,-15.5612326,2021-04-22 00:00:00,2021-04-29 12:57:39,0,Salvatore Merola,Pozzo,4,1,xDavox21,
+2634208,Guiné-Bissau,11.9324402,-15.5568606,2021-04-22 00:00:00,2021-04-29 12:55:22,0,Salvatore Merola,Morança AGHANGHA,4,1,xDavox21,
+2634211,Guiné-Bissau,11.9321357,-15.5567157,2021-04-22 00:00:00,2021-04-29 12:54:45,0,Salvatore Merola,Morança AIUNGHA,4,1,xDavox21,
+2634212,Guiné-Bissau,11.9316214,-15.5564904,2021-04-22 00:00:00,2021-04-29 12:54:17,0,Salvatore Merola,Morança AUASSI,4,1,xDavox21,
+2190070,Guiné-Bissau,12.0129612,-15.4834485,2020-05-12 00:00:00,2021-04-28 15:12:27,0,Unknown,Pozzo 15 mt di profondità 'bocca aperta',2,0,John_Crispinoh,
+2190042,Guiné-Bissau,12.0078297,-15.4791087,2020-05-12 00:00:00,2021-04-28 15:09:49,0,Unknown,Pozzo mt 40 di profondità con pompa manuale,2,0,John_Crispinoh,
+2210630,Guiné-Bissau,12.0082914,-15.4685891,2020-05-29 00:00:00,2021-04-28 14:52:52,0,Unknown,Morança Atache,2,0,Kackashbily,
+2190031,Guiné-Bissau,12.0054265,-15.4770058,2020-05-12 00:00:00,2021-04-28 14:49:11,0,Unknown,"Chiesa Evangelica , Casa Mbali Cubuh",2,0,Kackashbily,
+2209997,Guiné-Bissau,12.0044200,-15.4773300,2020-05-28 00:00:00,2021-04-28 14:46:58,0,Unknown,Moranças Antuma,2,0,Kackashbily,
+2438229,Guiné-Bissau,11.9929000,-15.4468000,2020-11-23 00:00:00,2021-04-28 14:42:56,0,Unknown,Dugal,2,0,Matteo Iraci,
+2190077,Guiné-Bissau,11.9912170,-15.4801011,2020-05-12 00:00:00,2021-04-28 14:35:48,0,Unknown,Risaie,2,0,Matteo Iraci,
+2594463,Guiné-Bissau,11.9864263,-15.4828794,2021-03-25 00:00:00,2021-04-28 14:32:20,0,Unknown,Guado stada percorribbibe in auto,2,0,Matteo Iraci,
+2634157,Guiné-Bissau,11.9358779,-15.5527622,2021-04-22 00:00:00,2021-04-22 16:46:37,0,Salvatore Merola,Morança ABOJA,2,0,Salvatore Merola,
+2438221,Guiné-Bissau,11.9021231,-15.5324793,2020-11-23 00:00:00,2021-04-08 15:47:23,0,Unknown,Chiesa Cattolica Missione Francescana di Nhoma,2,0,P_Federico,
+2438223,Guiné-Bissau,11.9055000,-15.5358000,2020-11-23 00:00:00,2021-04-08 15:32:04,0,Unknown,Accademia militare,2,0,P_Federico,
+2577474,Guiné-Bissau,11.9331435,-15.5592960,2021-03-13 00:00:00,2021-04-08 15:31:40,0,Salvatore Merola,"Presidio Sanitario, gestito dalle suore francescane messicane",2,0,P_Federico,
+2577471,Guiné-Bissau,11.9331400,-15.5591100,2021-03-13 00:00:00,2021-04-08 15:31:30,0,Salvatore Merola,"Succursale della scuola San Bernardino da Siena, della missione francescana di Nhoma. dalla materna al 8° classe",2,0,P_Federico,
+2438225,Guiné-Bissau,11.9583000,-15.5390000,2020-11-23 00:00:00,2021-04-08 14:00:21,0,Unknown,Bivio per Quidè. Cumere.,2,0,mbranco2,
+2190065,Guiné-Bissau,12.0038944,-15.4716468,2020-05-12 00:00:00,2021-03-31 16:19:02,0,Unknown,Pozzo 40 mt. di profondità con pompa manuale,2,0,CostaM331,
+2190051,Guiné-Bissau,12.0093565,-15.4716361,2020-05-12 00:00:00,2021-03-31 16:07:05,0,Unknown,Scuola Coranica,2,0,AndreiCerbu,
+2190049,Guiné-Bissau,12.0094720,-15.4718506,2020-05-12 00:00:00,2021-03-31 16:07:01,0,Unknown,Moschea,2,0,AndreiCerbu,
+2190060,Guiné-Bissau,12.0108939,-15.4724300,2020-05-12 00:00:00,2021-03-31 15:55:23,0,Unknown,Pozzo 40 mt. di profondità con pompa manuale,2,0,AndreiCerbu,
+2438220,Guiné-Bissau,11.9332000,-15.5576000,2020-11-23 00:00:00,2021-03-31 15:30:29,0,Unknown,Quidè,2,0,elvis_44,
+2577478,Guiné-Bissau,11.9346000,-15.5544000,2021-03-13 00:00:00,2021-03-31 15:30:06,0,Salvatore Merola,Strada percorribile in auto,4,1,elvis_44,
+2577477,Guiné-Bissau,11.9356000,-15.5525000,2021-03-13 00:00:00,2021-03-31 15:29:39,0,Salvatore Merola,Ingresso per il villaggio di Quidé,2,0,elvis_44,
+2577460,Guiné-Bissau,11.9813938,-15.5203342,2021-03-13 00:00:00,2021-03-25 18:40:33,0,Unknown,Guado strada percorribile in auto,2,0,Salvatore Merola,
+2190073,Guiné-Bissau,12.0060352,-15.4744363,2020-05-12 00:00:00,2021-03-11 17:00:53,0,Unknown,Pozzo 40 mt di profondità con pompa manuale,2,0,mbranco2,
+657525,Guiné-Bissau,11.8613255,-15.5830569,2016-08-04 00:00:00,2020-08-08 22:29:20,0,Jarosław Kowalski,Pyszne ryby (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,erickdeoliveiraleal,
+775833,Guiné-Bissau,11.8621077,-15.5829841,2016-11-07 00:00:00,2020-08-08 22:29:19,0,Carlos Pimpão,kaipirinha (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,erickdeoliveiraleal,
+1385068,Guiné-Bissau,11.7890613,-16.0560788,2018-05-06 00:00:00,2020-08-08 22:29:15,0,Daaclaire,'Nangan' POI has no name POI types: highway-track-grade2 OSM data version: 2018-03-16T17:06:02Z  #mapsme,2,0,erickdeoliveiraleal,
+790549,Guiné-Bissau,11.2991583,-15.8265183,2016-11-21 00:00:00,2020-08-08 22:29:12,0,jiro43,1500CGA (OSM data version: 2016-10-10T15:13:03Z) #mapsme,4,0,erickdeoliveiraleal,
+780045,Guiné-Bissau,11.8348977,-15.5939462,2016-11-12 00:00:00,2020-08-08 22:29:10,0,Carlos Pimpão,Fernando Flamengo (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,erickdeoliveiraleal,
+1990708,Guiné-Bissau,11.2506783,-16.1674574,2019-11-10 00:00:00,2020-08-08 22:29:08,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 3' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990592,Guiné-Bissau,11.2506783,-16.1674574,2019-11-10 00:00:00,2020-08-08 22:29:07,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 3' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990591,Guiné-Bissau,11.2507599,-16.1673733,2019-11-10 00:00:00,2020-08-08 22:29:06,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 2' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990590,Guiné-Bissau,11.2508547,-16.1673449,2019-11-10 00:00:00,2020-08-08 22:29:06,0,Merlin Leunda Martiarena,'arroz teppeni pt ref1' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990583,Guiné-Bissau,11.2509002,-16.1671957,2019-11-10 00:00:00,2020-08-08 22:29:05,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 8' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990582,Guiné-Bissau,11.2509136,-16.1669827,2019-11-10 00:00:00,2020-08-08 22:29:04,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 7' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990579,Guiné-Bissau,11.2511558,-16.1668066,2019-11-10 00:00:00,2020-08-08 22:29:03,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 3' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990580,Guiné-Bissau,11.2510617,-16.1668028,2019-11-10 00:00:00,2020-08-08 22:29:03,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 6' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990578,Guiné-Bissau,11.2512176,-16.1668412,2019-11-10 00:00:00,2020-08-08 22:29:02,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 3' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990577,Guiné-Bissau,11.2506837,-16.1678885,2019-11-10 00:00:00,2020-08-08 22:29:02,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 2' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990576,Guiné-Bissau,11.2507572,-16.1678869,2019-11-10 00:00:00,2020-08-08 22:29:01,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 1' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990575,Guiné-Bissau,11.2499149,-16.1678279,2019-11-10 00:00:00,2020-08-08 22:29:00,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 8' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990574,Guiné-Bissau,11.2501751,-16.1675209,2019-11-10 00:00:00,2020-08-08 22:28:59,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 8' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990573,Guiné-Bissau,11.2501044,-16.1674126,2019-11-10 00:00:00,2020-08-08 22:28:59,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 7' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990572,Guiné-Bissau,11.2500075,-16.1674141,2019-11-10 00:00:00,2020-08-08 22:28:58,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 6' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990571,Guiné-Bissau,11.2499948,-16.1674383,2019-11-10 00:00:00,2020-08-08 22:28:57,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 5' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990570,Guiné-Bissau,11.2498389,-16.1676708,2019-11-10 00:00:00,2020-08-08 22:28:55,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 3' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990569,Guiné-Bissau,11.2498554,-16.1677445,2019-11-10 00:00:00,2020-08-08 22:28:54,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 4' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990495,Guiné-Bissau,11.2284302,-16.2145139,2019-11-10 00:00:00,2020-08-08 22:28:53,0,Merlin Leunda Martiarena,'bolanha angodigo pt ref 6' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990568,Guiné-Bissau,11.2498986,-16.1676546,2019-11-10 00:00:00,2020-08-08 22:28:52,0,Merlin Leunda Martiarena,'arroz teppeni pt r 2' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990567,Guiné-Bissau,11.2499728,-16.1675469,2019-11-10 00:00:00,2020-08-08 22:28:52,0,Merlin Leunda Martiarena,'arroz teppeni pt ref 1' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990541,Guiné-Bissau,11.2494648,-16.1671724,2019-11-10 00:00:00,2020-08-08 22:28:51,0,Merlin Leunda Martiarena,'horta teppeni (angonho)' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990499,Guiné-Bissau,11.2287547,-16.2149427,2019-11-10 00:00:00,2020-08-08 22:28:50,0,Merlin Leunda Martiarena,'bolanha angodigo pt ref 8' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990510,Guiné-Bissau,11.2338943,-16.1964814,2019-11-10 00:00:00,2020-08-08 22:28:50,0,Merlin Leunda Martiarena,'horta de nantowoni (angodigo)' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990496,Guiné-Bissau,11.2285160,-16.2149534,2019-11-10 00:00:00,2020-08-08 22:28:49,0,Merlin Leunda Martiarena,'bolanha angodigo pt ref 7' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990494,Guiné-Bissau,11.2287140,-16.2144267,2019-11-10 00:00:00,2020-08-08 22:28:48,0,Merlin Leunda Martiarena,'bolanha angodigo pt ref 5' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990490,Guiné-Bissau,11.2289354,-16.2145033,2019-11-10 00:00:00,2020-08-08 22:28:48,0,Merlin Leunda Martiarena,'bolanha angodigo pr ref 3' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990493,Guiné-Bissau,11.2287343,-16.2142474,2019-11-10 00:00:00,2020-08-08 22:28:47,0,Merlin Leunda Martiarena,'bolanha angodigo pt ref 3' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990491,Guiné-Bissau,11.2289413,-16.2145037,2019-11-10 00:00:00,2020-08-08 22:28:46,0,Merlin Leunda Martiarena,'bolanha angodigo pt ref3' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990492,Guiné-Bissau,11.2289288,-16.2143026,2019-11-10 00:00:00,2020-08-08 22:28:46,0,Merlin Leunda Martiarena,'bolanha angodigo pt ref 4' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990489,Guiné-Bissau,11.2289382,-16.2145078,2019-11-10 00:00:00,2020-08-08 22:28:45,0,Merlin Leunda Martiarena,'bolanha angodigo pt ref 2' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990462,Guiné-Bissau,11.2466229,-16.2312912,2019-11-10 00:00:00,2020-08-08 22:28:44,0,Merlin Leunda Martiarena,'bolanha kabuno pt ref 7' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990488,Guiné-Bissau,11.2289573,-16.2147443,2019-11-10 00:00:00,2020-08-08 22:28:44,0,Merlin Leunda Martiarena,'bolanha angodigo pt ref 1' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990456,Guiné-Bissau,11.2471746,-16.2312643,2019-11-10 00:00:00,2020-08-08 22:28:43,0,Merlin Leunda Martiarena,'bolanha kabuno pt ref 6' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990455,Guiné-Bissau,11.2471965,-16.2315319,2019-11-10 00:00:00,2020-08-08 22:28:43,0,Merlin Leunda Martiarena,'bolanha kabuno pt ref 5' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990451,Guiné-Bissau,11.2470917,-16.2316597,2019-11-10 00:00:00,2020-08-08 22:28:42,0,Merlin Leunda Martiarena,'bolanha kabuno pt ref 4' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990449,Guiné-Bissau,11.2470406,-16.2318501,2019-11-10 00:00:00,2020-08-08 22:28:41,0,Merlin Leunda Martiarena,'bolanha kabuno pt ref 3' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990443,Guiné-Bissau,11.2467119,-16.2318622,2019-11-10 00:00:00,2020-08-08 22:28:40,0,Merlin Leunda Martiarena,'bolanha kabuno pt ref 2' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990442,Guiné-Bissau,11.2466670,-16.2317461,2019-11-10 00:00:00,2020-08-08 22:28:39,0,Merlin Leunda Martiarena,'bolanha kabuno pt ref 2' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990438,Guiné-Bissau,11.2466485,-16.2317302,2019-11-10 00:00:00,2020-08-08 22:28:37,0,Merlin Leunda Martiarena,'bolanha kabuno pt ref1' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1990419,Guiné-Bissau,11.2402332,-16.2268100,2019-11-10 00:00:00,2020-08-08 22:28:20,0,Merlin Leunda Martiarena,'medio horta kabuno - Tenam Yakanto' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1982448,Guiné-Bissau,11.2936253,-15.8421031,2019-11-02 00:00:00,2020-08-08 22:28:17,0,Merlin Leunda Martiarena,'point ref no djunta mao' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1982446,Guiné-Bissau,11.2929702,-15.8412055,2019-11-02 00:00:00,2020-08-08 22:28:16,0,Merlin Leunda Martiarena,'point ref no djunta mao' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1982416,Guiné-Bissau,11.2959287,-15.8419078,2019-11-02 00:00:00,2020-08-08 22:28:15,0,Merlin Leunda Martiarena,'point ref atingo yakanto' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1982417,Guiné-Bissau,11.2965823,-15.8422588,2019-11-02 00:00:00,2020-08-08 22:28:14,0,Merlin Leunda Martiarena,'Point ref atingo yakanto' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1982412,Guiné-Bissau,11.2953004,-15.8428956,2019-11-02 00:00:00,2020-08-08 22:28:13,0,Merlin Leunda Martiarena,'point ref atingo yakanto' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1982406,Guiné-Bissau,11.2961111,-15.8433698,2019-11-02 00:00:00,2020-08-08 22:28:11,0,Merlin Leunda Martiarena,'point ref angle no djunta mao' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1982401,Guiné-Bissau,11.2862964,-15.8424235,2019-11-02 00:00:00,2020-08-08 22:28:08,0,Merlin Leunda Martiarena,'antingo yakanto punto 1' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+1982388,Guiné-Bissau,11.2982224,-15.8386157,2019-11-02 00:00:00,2020-08-08 22:28:06,0,Merlin Leunda Martiarena,'entrée périmètres horticoles' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,erickdeoliveiraleal,
+2276351,Guiné-Bissau,11.8538443,-15.5987379,2020-07-23 00:00:00,2020-07-23 19:11:36,0,Dima0001,Igreja Evangelica de Belém,4,1,Dima0001,
+2190080,Guiné-Bissau,12.0078192,-15.4932117,2020-05-12 00:00:00,2020-05-12 09:53:57,0,Unknown,Risaie,4,1,Salvatore Merola,
+2131709,Guiné-Bissau,12.0085538,-15.4971814,2020-03-26 00:00:00,2020-05-11 09:48:17,0,Unknown,Questa è un'altra parte di N'Tchangue,3,0,Hùbert,
+2134373,Guiné-Bissau,11.9937253,-15.4474425,2020-03-27 00:00:00,2020-05-11 09:45:26,0,Unknown,Dugal,2,0,Hùbert,
+2155849,Guiné-Bissau,12.0050382,-15.4760349,2020-04-11 00:00:00,2020-05-11 09:39:23,0,Unknown,Busna M'Pul,2,0,Hùbert,
+2155843,Guiné-Bissau,12.0056154,-15.4764211,2020-04-11 00:00:00,2020-05-11 09:37:20,0,Unknown,Viriato BIague,2,0,Hùbert,
+2155841,Guiné-Bissau,12.0055105,-15.4761958,2020-04-11 00:00:00,2020-05-11 09:19:38,0,Unknown,Casa  Armindo Fassu,2,0,melitoo,
+2129409,Guiné-Bissau,11.9613264,-15.5440477,2020-03-25 00:00:00,2020-05-11 09:16:04,0,mbranco2,centrale con i generatori,2,0,melitoo,
+2129407,Guiné-Bissau,11.9611532,-15.5441093,2020-03-25 00:00:00,2020-05-11 09:14:34,0,mbranco2,antenna - ripetitore radio/tv,3,0,melitoo,
+2134379,Guiné-Bissau,11.9952680,-15.4581928,2020-03-27 00:00:00,2020-05-11 09:08:08,0,Unknown,Qui c'è una casa,2,0,melitoo,
+2155851,Guiné-Bissau,12.0051327,-15.4759061,2020-04-11 00:00:00,2020-05-11 09:00:34,0,Unknown,Casa Glode M'Pul,2,0,melitoo,
+2155827,Guiné-Bissau,12.0058778,-15.4752517,2020-04-11 00:00:00,2020-05-11 08:50:58,0,Unknown,"Pozzo Acqua profondità 50 mt circa, impianto idrico eroga acqua alla scuola oltr 500 allievi, al centro sanitario, alle vasche per l'orticoltura e frutticoltura e per alimentazione umana con sei punti di erogazione nel villaggio.",4,1,melitoo,
+2129426,Guiné-Bissau,11.9623550,-15.5425858,2020-03-25 00:00:00,2020-05-10 13:49:56,0,mbranco2,"i due centri abitati formano un unico paese,  con nome Nhacra (collocarlo più o meno qui, in mezzo alle due zone abitate)",3,0,Fabrizio Lizzi,
+2166371,Guiné-Bissau,11.9586814,-15.5335818,2020-04-20 00:00:00,2020-05-10 13:40:59,0,Unknown,stazione di servizio,3,0,Fabrizio Lizzi,
+2155801,Guiné-Bissau,12.0061401,-15.4751337,2020-04-11 00:00:00,2020-05-10 13:26:31,0,Unknown,Scuola primo ciclo,2,0,Fabrizio Lizzi,
+2155808,Guiné-Bissau,12.0053111,-15.4761529,2020-04-11 00:00:00,2020-05-10 13:17:21,0,Unknown,Moranca ANDAME,2,0,Fabrizio Lizzi,
+2131704,Guiné-Bissau,12.0077000,-15.4745000,2020-03-26 00:00:00,2020-04-26 16:10:53,0,Unknown,Questa è N'Tchangue,2,0,UNGSC-mbranco2,
+2129412,Guiné-Bissau,11.9594948,-15.5373287,2020-03-25 00:00:00,2020-04-21 08:54:52,0,mbranco2,scuole elementari - medie inferiori e superiore (statale),3,0,Fabrizio Lizzi,
+2129417,Guiné-Bissau,11.9586709,-15.5379993,2020-03-25 00:00:00,2020-04-21 08:48:45,0,mbranco2,centro sanitario,3,0,Fabrizio Lizzi,
+2129413,Guiné-Bissau,11.9589333,-15.5390748,2020-03-25 00:00:00,2020-04-21 08:44:44,0,mbranco2,bar,3,0,Fabrizio Lizzi,
+2129415,Guiné-Bissau,11.9592429,-15.5389005,2020-03-25 00:00:00,2020-04-21 08:42:29,0,mbranco2,polizia,3,0,Fabrizio Lizzi,
+2129411,Guiné-Bissau,11.9591327,-15.5385759,2020-03-25 00:00:00,2020-04-21 08:30:41,0,mbranco2,edificio civico (amministrazione),3,0,Fabrizio Lizzi,
+2129418,Guiné-Bissau,11.9593794,-15.5385545,2020-03-25 00:00:00,2020-04-21 08:28:35,0,mbranco2,mercato coperto,3,0,Fabrizio Lizzi,
+2129410,Guiné-Bissau,11.9593007,-15.5381227,2020-03-25 00:00:00,2020-04-21 08:27:14,0,mbranco2,piazza del mercato,3,0,Fabrizio Lizzi,
+2131713,Guiné-Bissau,12.0002423,-15.4891348,2020-03-26 00:00:00,2020-04-21 08:22:30,0,Unknown,Questo è il villaggio Fatim,2,0,Fabrizio Lizzi,
+2149698,Guiné-Bissau,11.9585844,-15.5335710,2020-04-06 00:00:00,2020-04-20 20:18:52,0,UNGSC-mbranco2,stazione di servizio,3,0,mbranco2,
+2131718,Guiné-Bissau,12.0035585,-15.5147982,2020-03-26 00:00:00,2020-03-28 17:55:52,0,Unknown,Questa non è N'Tchangue ma Jugud Com,2,0,kartonage,Already mapped and this note doesn't provide any meaningful information to add.
+2109023,Guiné-Bissau,12.1018424,-14.6789156,2020-03-03 00:00:00,2020-03-03 14:36:39,0,prae-gb,Bijine,4,1,prae-gb,Bijine
+780044,Guiné-Bissau,11.8584437,-15.5865178,2016-11-12 00:00:00,2019-12-09 01:16:48,0,Carlos Pimpão,Bebidas & Materiais (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,freebeer,on the map
+1994442,Guiné-Bissau,12.0120000,-15.4887000,2019-11-13 00:00:00,2019-11-13 16:00:03,0,Unknown,Ntchangue,2,0,alfcar62,Villaggio Ntcangue
+1968875,Guiné-Bissau,11.2959804,-15.8309967,2019-10-20 00:00:00,2019-10-21 14:45:09,0,Merlin Leunda Martiarena,'test2' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,mavl,Hello. You used maps.me programme for addition of a note on a map recently. Your note was added to OpenStreetMap project. This note does not contain a useful information for OpenStreetMap.
+1968871,Guiné-Bissau,11.2964943,-15.8309659,2019-10-20 00:00:00,2019-10-21 14:45:05,0,Merlin Leunda Martiarena,'test2' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,mavl,Hello. You used maps.me programme for addition of a note on a map recently. Your note was added to OpenStreetMap project. This note does not contain a useful information for OpenStreetMap.
+1968870,Guiné-Bissau,11.2963646,-15.8305296,2019-10-20 00:00:00,2019-10-21 14:45:01,0,Merlin Leunda Martiarena,'test1' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,mavl,Hello. You used maps.me programme for addition of a note on a map recently. Your note was added to OpenStreetMap project. This note does not contain a useful information for OpenStreetMap.
+1968869,Guiné-Bissau,11.2963675,-15.8305339,2019-10-20 00:00:00,2019-10-21 14:44:56,0,Merlin Leunda Martiarena,'test1' POI has no name POI types: amenity-bench OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,mavl,Hello. You used maps.me programme for addition of a note on a map recently. Your note was added to OpenStreetMap project. This note does not contain a useful information for OpenStreetMap.
+1581378,Guiné-Bissau,11.3116988,-14.9938724,2018-11-04 00:00:00,2019-10-16 23:50:34,0,robert7c,Here's a bridge,2,0,Syl,Already fixed
+1857353,Guiné-Bissau,12.4622200,-15.5872200,2019-07-26 00:00:00,2019-08-30 10:39:55,0,JSaulsy,test,4,0,Tigerfell,
+1835488,Guiné-Bissau,11.8398400,-15.5977964,2019-07-05 00:00:00,2019-07-06 14:46:05,0,Unknown,C'est ici...,2,0,mavl,Il n'y a pas information utile pour OpenStreetMap.
+1238316,Guiné-Bissau,11.2049872,-15.2734103,2017-12-14 00:00:00,2019-05-06 04:25:29,0,Mateusz Konieczny,https://www.openstreetmap.org/way/382223102  seasonal=yers? What is the meaning of this tagging?,3,0,Mateusz Konieczny,"changed, I just wanted to run a sanity check whatever I missed some possible alternative meaning"
+1714350,Guiné-Bissau,12.0822958,-16.0249329,2019-03-17 00:00:00,2019-03-25 22:01:02,0,Unknown,2 hr travel,2,0,Prince Kassad,not a useful bug
+775797,Guiné-Bissau,11.8624779,-15.5842232,2016-11-07 00:00:00,2018-09-26 18:06:06,0,Carlos Pimpão,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'No seu lugar surgiu o hotel império' (OSM data version: 2016-08-22T09:03:02Z) #mapsme",2,0,Syl,Fixed
+61605,Guiné-Bissau,12.2602201,-16.4059663,2013-10-22 00:00:00,2016-05-03 18:58:33,0,werner2101,"Coastline broken, the area with the flooded forest should be inside the coastline",2,0,Prince Kassad,this has long since been fixed

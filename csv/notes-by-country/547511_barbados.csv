@@ -1,0 +1,194 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3766967,Barbados,13.0679665,-59.5678552,2023-07-05 00:00:00,2025-12-29 13:05:16,0,Dailah,'More of a field than playground' OSM snapshot date: 2023-06-02T17:16:21Z POI has no name POI types: leisure-playground  #organicmaps,2,0,Educated_Kruff,
+4960056,Barbados,13.1764320,-59.5401451,2025-09-13 00:00:00,2025-12-25 02:14:06,0,Charles Herbert,GH1,2,0,Educated_Kruff,
+4960057,Barbados,13.1744367,-59.5405662,2025-09-13 00:00:00,2025-12-25 02:08:35,0,Charles Herbert,GH2,2,0,Educated_Kruff,
+4960058,Barbados,13.1739170,-59.5406467,2025-09-13 00:00:00,2025-12-25 02:08:32,0,Charles Herbert,GH3,2,0,Educated_Kruff,
+5080048,Barbados,13.0811007,-59.5316774,2025-12-05 00:00:00,2025-12-24 17:53:34,0,Yorkshire Mapper,"are the egg seller and coconut seller here real physical things that should be mapped? Either way, the tourism tag feels wrong here",2,0,Educated_Kruff,"Yes, they are real. I see them when I usually take this road. They are temporary stalls or being sold from the trunk of their car."
+4973181,Barbados,13.1256825,-59.5444685,2025-09-21 00:00:00,2025-12-24 17:51:15,0,Unknown,Good day with Barbados,2,0,Educated_Kruff,
+993279,Barbados,13.0979644,-59.6199348,2017-05-12 00:00:00,2025-11-29 11:32:18,0,waveslasher,"Open every day, best = Fri & Sat",3,0,berndw,"found a little sign, opening_hours added"
+5057693,Barbados,13.0964500,-59.6174470,2025-11-17 00:00:00,2025-11-29 11:28:45,0,berndw,Carlisle House,2,0,berndw,seen on site
+3569475,Barbados,13.0960771,-59.6172738,2023-02-21 00:00:00,2025-11-29 11:28:35,0,PotatoBoi,"'Hasn't existed there for years.' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2022-12-16T15:17:23Z POI name: Cable & Wireless (Barbados) Limited - LIME Retail Store POI types: shop-mobile_phone  #organicmaps",3,0,berndw,changed after visit
+4960060,Barbados,13.1744576,-59.5410892,2025-09-13 00:00:00,2025-09-14 11:55:23,0,Charles Herbert,GH4,2,0,Charles Herbert,
+4960063,Barbados,13.1722194,-59.5406091,2025-09-13 00:00:00,2025-09-14 11:44:40,0,Charles Herbert,Tods Bottom,4,1,Charles Herbert,
+4960065,Barbados,13.1749460,-59.5337534,2025-09-13 00:00:00,2025-09-14 11:43:33,0,Charles Herbert,Middle Pond,2,0,Charles Herbert,
+4960062,Barbados,13.1761212,-59.5401692,2025-09-13 00:00:00,2025-09-14 08:01:33,0,Charles Herbert,N,2,0,pitscheplatsch,No actionable information was provided for editing OpenStreetMap data. Please feel free to reopen this note with more details. #noeditinfo
+4595285,Barbados,13.0843324,-59.5020385,2025-01-20 00:00:00,2025-07-20 22:44:16,0,POI Mapper,New building here with Zena & co hairdresser  via StreetComplete_ee 60.0  Attached photo(s): https://streetcomplete.app/p/257978.jpg,2,0,Educated_Kruff,
+4597662,Barbados,13.0848015,-59.5024493,2025-01-22 00:00:00,2025-07-20 22:43:21,0,POI Mapper,"No road anymore, parking lot  via StreetComplete_ee 60.0  Attached photo(s): https://streetcomplete.app/p/258135.jpg",2,0,Educated_Kruff,
+4596754,Barbados,13.0857772,-59.5021256,2025-01-21 00:00:00,2025-07-20 22:37:53,0,POI Mapper,Pond here  via StreetComplete_ee 60.0  Attached photo(s): https://streetcomplete.app/p/258091.jpg,2,0,Educated_Kruff,
+4596753,Barbados,13.0863659,-59.5019733,2025-01-21 00:00:00,2025-07-20 22:36:19,0,POI Mapper,The building is the bus stop with the shelter  via StreetComplete_ee 60.0,2,0,Educated_Kruff,
+4596752,Barbados,13.0849186,-59.4998164,2025-01-21 00:00:00,2025-07-20 22:31:47,0,POI Mapper,Unable to answer 'What’s the name of this street?' – Residential Road – https://osm.org/way/440039487 via StreetComplete_ee 60.0:  No road here anymore  Attached photo(s): https://streetcomplete.app/p/258090.jpg,2,0,Educated_Kruff,
+4491339,Barbados,13.2001624,-59.6370506,2024-10-23 00:00:00,2025-07-15 21:45:38,0,Unknown,Porters Gate,2,0,Educated_Kruff,
+3569478,Barbados,13.0731283,-59.5815387,2023-02-21 00:00:00,2025-07-14 02:05:08,0,PotatoBoi,'Is now a Bakery called La Baguette' OSM snapshot date: 2022-12-16T15:17:23Z POI name: Mark Anthony International Inc. POI types: office-company  #organicmaps,2,0,Educated_Kruff,
+4802613,Barbados,13.1163475,-59.6180579,2025-06-12 00:00:00,2025-06-28 01:23:39,0,Unknown,Eagle Hall Primary School,2,0,Educated_Kruff,
+4698562,Barbados,13.0987900,-59.5354271,2025-04-06 00:00:00,2025-06-28 01:00:55,0,Unknown,Ridge Meadows,2,0,Educated_Kruff,
+4637344,Barbados,13.1685322,-59.6379166,2025-02-22 00:00:00,2025-03-07 19:34:54,0,AlStum,Public access but beach mostly washed away  #OsmAnd,2,0,AlStum,Resolved with map edit
+4637342,Barbados,13.1787448,-59.6387015,2025-02-22 00:00:00,2025-03-07 19:21:43,0,AlStum,"Private, no beach access  #OsmAnd",2,0,AlStum,Resolved
+4637347,Barbados,13.1828115,-59.6392009,2025-02-22 00:00:00,2025-03-07 19:21:11,0,AlStum,Public beach access  #OsmAnd,2,0,AlStum,Resolved in edit
+4640322,Barbados,13.2012505,-59.5493905,2025-02-24 00:00:00,2025-03-07 19:12:35,0,AlStum,"Radome, either weather or VOR.  #OsmAnd",4,0,AlStum,
+4603657,Barbados,13.1625118,-59.4364455,2025-01-27 00:00:00,2025-02-28 03:04:47,0,Pan Perníček,"Forwarding anonymous report from #Mapycz user, please verify: Opening hours:  We 9:00-17:00, Th-Sa 9:00-19:00, Su 12:30-16:00  https://www.openstreetmap.org/node/4487861505",2,0,alejira,
+4640326,Barbados,13.1928296,-59.5520395,2025-02-24 00:00:00,2025-02-25 01:08:51,0,AlStum,"Huge storage tank, possibly fuel oil, concrete, surrounded by razor wire.  #OsmAnd",2,0,Educated_Kruff,
+4568484,Barbados,13.2155920,-59.6342420,2024-12-29 00:00:00,2024-12-29 21:08:27,0,Graham Cresswell,"Entrance Landfall, Crick Hill",3,1,Graham Cresswell,
+4568482,Barbados,13.2164100,-59.6341650,2024-12-29 00:00:00,2024-12-29 21:05:50,0,Graham Cresswell,"Landfall, Crick Hill",4,1,Graham Cresswell,
+4568481,Barbados,13.2163600,-59.6341670,2024-12-29 00:00:00,2024-12-29 21:04:26,0,Graham Cresswell,Landfall,2,0,Graham Cresswell,
+3627402,Barbados,13.0819800,-59.5613400,2023-04-04 00:00:00,2023-04-09 17:27:36,0,Educated_Kruff,This school was renamed 'Shirley Chisholm Primary School' today (04.04.2023) in a renaming cermony.,2,0,Educated_Kruff,
+3082685,Barbados,13.2111433,-59.5821816,2022-03-10 00:00:00,2023-03-10 22:19:01,0,Pranske,'Exact coordinates of the highest point' POI has no name POI types: tourism-viewpoint OSM data version: 2021-05-24T07:43:34Z  #mapsme,6,1,Educated_Kruff,
+3553433,Barbados,13.0656753,-59.5661062,2023-02-11 00:00:00,2023-02-11 00:32:17,0,Unknown,This place is now called Socialites Restaurant Bar,2,0,Cra!g,
+3448673,Barbados,13.0967485,-59.6145380,2022-11-20 00:00:00,2023-01-24 15:46:04,0,PotatoBoi,"'This has been removed ' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2022-09-12T16:04:10Z POI name: Nelson's Column POI types: historic-memorial  #organicmaps",2,0,Educated_Kruff,
+3525900,Barbados,13.0967511,-59.6144441,2023-01-20 00:00:00,2023-01-24 15:46:03,0,PotatoBoi,"'It has been removed from that area.' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2022-12-16T15:17:23Z POI name: Nelson's Column POI types: historic-memorial  #organicmaps",2,0,Educated_Kruff,
+3525901,Barbados,13.0970594,-59.6150771,2023-01-20 00:00:00,2023-01-24 15:44:57,0,PotatoBoi,"'No longer a Converse store there.' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2022-12-16T15:17:23Z POI name: Converse POI types: shop-shoes  #organicmaps",2,0,Educated_Kruff,
+3494448,Barbados,13.3161308,-59.6316969,2022-12-27 00:00:00,2022-12-27 22:30:26,0,bbeckles,Vegetable and Fruit Stall,2,0,bbeckles,
+3476833,Barbados,13.0744990,-59.5916408,2022-12-13 00:00:00,2022-12-20 19:55:49,0,traveler582,"Ackee Tree Roti no longer here, I just went there, they closed in 2020, I was told they are further up the road in Worthing Food Square.",2,0,Educated_Kruff,
+1030548,Barbados,13.0945787,-59.5888164,2017-06-15 00:00:00,2022-12-04 18:28:47,0,Fa7C0N,Caribbean Label Crafts Ltd is located here  Can anyone please confirm this and fix it please  Thank you.,2,0,Educated_Kruff,
+1204130,Barbados,13.0969079,-59.6130654,2017-11-12 00:00:00,2022-12-04 18:21:02,0,Nazhib Gibson,"'it has been moved to the little Switzerland mall' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Digicel POI types: shop-mobile_phone OSM data version: 2017-10-06T18:13:02Z  #mapsme",2,0,Educated_Kruff,
+3448674,Barbados,13.0976132,-59.6143448,2022-11-20 00:00:00,2022-12-04 18:20:24,0,PotatoBoi,"'There is no cinema in this area' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2022-09-12T16:04:10Z POI has no name POI types: amenity-cinema  #organicmaps",2,0,Educated_Kruff,
+3392165,Barbados,13.1436237,-59.4910290,2022-10-09 00:00:00,2022-11-13 01:37:37,0,Unknown,Wrong location  Not in Maxwell. In st john,2,0,Educated_Kruff,
+3370608,Barbados,13.0834770,-59.5668563,2022-09-23 00:00:00,2022-10-08 02:57:40,0,PotatoBoi,"'Wrong location ' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2022-09-12T16:04:10Z POI name: Flow Olympus VIP Theatres POI types: amenity-cinema  #organicmaps",2,0,Educated_Kruff,
+3370578,Barbados,13.0819421,-59.5787948,2022-09-23 00:00:00,2022-10-08 02:57:09,0,PotatoBoi,"'Place doesn't exist anymore, it is now a business called 'SFM Distributors Inc.'' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2022-09-12T16:04:10Z POI name: H2O & Cooling Solutions Inc. POI types: building  #organicmaps",2,0,Educated_Kruff,
+3375376,Barbados,13.0976301,-59.6035069,2022-09-27 00:00:00,2022-10-08 02:55:29,0,Trident Care Barbados,Trying to add my business on world map and on google. Additionally trying to show the map on a website I have created.,2,0,Educated_Kruff,
+2641133,Barbados,13.0991173,-59.6196420,2021-04-28 00:00:00,2022-10-02 04:53:00,0,Unknown,onosm.org submitted note from a business: name: Adam's Car Rental  phone: +12464360543 website:  twitter:  facebook:  email: adam-carrental@hotmail.com hours: Monday-Saturday 7:30am to 5 pm category: Car Rental address:,2,0,Educated_Kruff,
+1750195,Barbados,13.0987169,-59.6166766,2019-04-19 00:00:00,2022-10-02 04:50:06,0,Unknown,Career Development Institute,2,0,Educated_Kruff,
+2266136,Barbados,13.0982049,-59.6158236,2020-07-15 00:00:00,2022-10-02 04:49:17,0,Unknown,"onosm.org submitted note from a business: name: 3NiTY OUTFiTTERS phone: 2468434448 website: https://instagram.com/3nityoutfitters.246 twitter: undefined hours: Monday-Friday 10am-4:30pm category: ,Clothing Stores address: #41 Swan Street, Bridgetown Barbados",2,0,Educated_Kruff,
+3381846,Barbados,13.0966900,-59.6128000,2022-10-02 00:00:00,2022-10-02 04:46:12,0,Educated_Kruff,Bridge Street Mall,2,0,Educated_Kruff,
+1104447,Barbados,13.0971223,-59.6156542,2017-08-15 00:00:00,2022-10-02 04:45:50,0,Maximsailor,'Дьюти фри' POI name: Broad Street POI types: psurface-paved_good hwtag-oneway highway-primary OSM data version: 2017-07-03T17:28:05Z  #mapsme,2,0,Educated_Kruff,
+3348727,Barbados,13.2038495,-59.5647812,2022-09-06 00:00:00,2022-09-07 05:58:50,0,rahems,Barbados,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+181861,Barbados,13.0832404,-59.5957661,2014-06-10 00:00:00,2022-09-01 19:46:43,0,Steve@firstprovider,"L'Horizon, Gunsite Road",2,0,Educated_Kruff,
+3278026,Barbados,13.0730136,-59.5819477,2022-07-22 00:00:00,2022-07-28 22:33:05,0,waveslasher,this is the Worthing Post Office building,2,0,Educated_Kruff,
+3278023,Barbados,13.0811331,-59.5882982,2022-07-22 00:00:00,2022-07-28 22:32:27,0,waveslasher,"here is another crossroad, small/short, cul-de-sac to both sides",2,0,Educated_Kruff,
+2410379,Barbados,13.0912557,-59.5781386,2020-11-05 00:00:00,2022-07-04 04:56:17,0,Unknown,wildey comms tower,2,0,Educated_Kruff,
+1971910,Barbados,13.0656678,-59.5663458,2019-10-23 00:00:00,2022-07-04 04:55:41,0,Unknown,Brightwood,2,0,Educated_Kruff,
+2882048,Barbados,13.0778767,-59.5831516,2021-10-05 00:00:00,2022-06-23 22:08:45,0,Unknown,"onosm.org submitted note from a business: name: Panenka Bar & Grill phone: 2464270060 website: https://facebook.com/pg/panenkabarandgrill/menu/ twitter:  facebook: https://facebook.com/pg/panenkabarandgrill/menu/ email: Panenkabarandgrill@gmail.com hours: Monday-Sunday 9AM-8PM category: Beer Bar, Caribbean Restaurants address:",2,0,Educated_Kruff,
+1782807,Barbados,13.0773462,-59.5866616,2019-05-18 00:00:00,2022-06-23 21:57:41,0,Unknown,Lot #34,2,0,Educated_Kruff,
+2658651,Barbados,13.1333761,-59.5782137,2021-05-07 00:00:00,2022-06-23 21:55:02,0,MOCOCONTAINERS,"Moco Containers - Lower Estate, St. George. BARBADOS",2,0,Educated_Kruff,
+1289362,Barbados,13.1269085,-59.5850480,2018-02-04 00:00:00,2022-06-23 21:39:53,0,Amandajc,Mango tree and papaya tree along the roadside.,2,0,Educated_Kruff,
+2195920,Barbados,13.3200764,-59.6233177,2020-05-17 00:00:00,2022-06-23 21:37:19,0,Unknown,Kirche ist doppelt eingetragen. Korrekt ist der Eintrag etwas südlich direkt an der Straße,2,0,Educated_Kruff,
+2195994,Barbados,13.3118920,-59.6201634,2020-05-17 00:00:00,2022-06-23 21:33:53,0,Unknown,Korrekt: Mount Poyer,2,0,Educated_Kruff,
+3235500,Barbados,13.1928348,-59.5507854,2022-06-21 00:00:00,2022-06-23 21:32:58,0,waveslasher,http://www.huntesgardens-barbados.com  Website with a dash,2,0,Educated_Kruff,
+2992693,Barbados,13.0663966,-59.4935540,2022-01-02 00:00:00,2022-06-01 01:38:24,0,Unknown,Sea Coast,2,0,Educated_Kruff,
+2992692,Barbados,13.0707253,-59.4949879,2022-01-02 00:00:00,2022-06-01 01:38:06,0,Unknown,Seawell House - Paragon Road,2,0,Educated_Kruff,
+1232238,Barbados,13.1255751,-59.6320286,2017-12-07 00:00:00,2022-06-01 01:37:36,0,Al Sadler,'Propane fill' POI name: Sol Gas POI types: landuse-industrial OSM data version: 2017-11-17T20:18:02Z  #mapsme,2,0,Educated_Kruff,
+2410336,Barbados,13.1055091,-59.6298516,2020-11-04 00:00:00,2022-06-01 01:37:09,0,Unknown,port crane,2,0,Educated_Kruff,
+2410346,Barbados,13.0974316,-59.6105236,2020-11-04 00:00:00,2022-06-01 01:35:47,0,Unknown,financial centre,2,0,Educated_Kruff,
+2410347,Barbados,13.0969822,-59.6112961,2020-11-04 00:00:00,2022-06-01 01:35:40,0,Unknown,financial bldg,2,0,Educated_Kruff,
+2410337,Barbados,13.1013607,-59.6265578,2020-11-04 00:00:00,2022-06-01 01:33:40,0,Unknown,sugar terminal,2,0,Educated_Kruff,
+978618,Barbados,13.0982256,-59.6205482,2017-04-27 00:00:00,2022-06-01 01:32:20,0,waveslasher,http://barbadospostal.com,2,0,Educated_Kruff,
+1301006,Barbados,13.1315000,-59.4394000,2018-02-15 00:00:00,2022-06-01 01:25:39,0,Unknown,End proposed pipeline,2,0,Educated_Kruff,
+1301007,Barbados,13.1289600,-59.4471700,2018-02-15 00:00:00,2022-06-01 01:25:32,0,Unknown,Start Propose 10' Pipeline,2,0,Educated_Kruff,
+1301005,Barbados,13.1234000,-59.4510000,2018-02-15 00:00:00,2022-06-01 01:25:25,0,Unknown,Start proposed 10' Pipeline,2,0,Educated_Kruff,
+2992672,Barbados,13.1357107,-59.4693125,2022-01-02 00:00:00,2022-06-01 01:25:17,0,Unknown,Bushy Park - Harrow Road,2,0,Educated_Kruff,
+2992678,Barbados,13.1418146,-59.4931899,2022-01-02 00:00:00,2022-06-01 01:25:13,0,Unknown,Cox Hill - Hillview,2,0,Educated_Kruff,
+2992674,Barbados,13.1275313,-59.4824851,2022-01-02 00:00:00,2022-06-01 01:25:07,0,Unknown,Marchfield = St Philip Church Road,2,0,Educated_Kruff,
+2992684,Barbados,13.1325146,-59.5064558,2022-01-02 00:00:00,2022-06-01 01:25:05,0,Unknown,Unclassified Road leading to Edgecumbe,2,0,Educated_Kruff,
+2992685,Barbados,13.1281386,-59.5055236,2022-01-02 00:00:00,2022-06-01 01:25:02,0,Unknown,Edgecumbe - Ebenezer Road,2,0,Educated_Kruff,
+2992686,Barbados,13.1207628,-59.5099937,2022-01-02 00:00:00,2022-06-01 01:25:00,0,Unknown,Highway 5 junction,2,0,Educated_Kruff,
+2727608,Barbados,13.0686400,-59.5506900,2021-06-25 00:00:00,2022-06-01 01:23:04,0,Unknown,39 Ridge Road,2,0,Educated_Kruff,
+3158842,Barbados,13.0746600,-59.5739800,2022-04-29 00:00:00,2022-05-28 16:17:02,0,Simpson Brown,South Coast Sewerage Treatment Plant,2,0,Educated_Kruff,
+2671887,Barbados,13.1258200,-59.5792600,2021-05-17 00:00:00,2022-05-11 19:53:42,0,Unknown,A & E Discount Warehouse,2,0,Educated_Kruff,
+2410361,Barbados,13.1681034,-59.6366537,2020-11-04 00:00:00,2022-05-01 23:56:58,0,Unknown,comms mast,2,0,Educated_Kruff,
+2411290,Barbados,13.1602526,-59.6375066,2020-11-05 00:00:00,2022-05-01 23:55:36,0,Unknown,beach access,2,0,Educated_Kruff,
+2992689,Barbados,13.0992967,-59.5283157,2022-01-02 00:00:00,2022-04-15 15:13:08,0,Unknown,Pilgrim Ridge Road,4,1,Educated_Kruff,
+2992690,Barbados,13.1105352,-59.5335266,2022-01-02 00:00:00,2022-04-15 15:12:35,0,Unknown,Lower Greys - Boarded Hall,2,0,Educated_Kruff,
+1182620,Barbados,13.0456000,-59.5263000,2017-10-23 00:00:00,2022-03-28 23:01:01,0,Unknown,"This is the correct location for Seamist ,lot 2 d, seaside drive , Atlantic shores , Christchurch , Barbados",2,0,Educated_Kruff,
+2992688,Barbados,13.0806945,-59.5149705,2022-01-02 00:00:00,2022-03-28 17:01:52,0,Unknown,ABC Highway,2,0,Educated_Kruff,
+2992691,Barbados,13.0699450,-59.5078254,2022-01-02 00:00:00,2022-03-28 17:00:51,0,Unknown,Fairy Valley Road,2,0,Educated_Kruff,
+2069584,Barbados,13.0557100,-59.5061300,2020-01-26 00:00:00,2022-03-28 16:59:55,0,Unknown,This section of road is called Plover Court. Dowitcher is the short stretch to the beach from the T-junction to the South-East.,2,0,Educated_Kruff,
+2411277,Barbados,13.1589728,-59.6371472,2020-11-05 00:00:00,2022-03-28 16:57:10,0,Unknown,cubana monument,2,0,Educated_Kruff,
+2226515,Barbados,13.1321484,-59.5860270,2020-06-12 00:00:00,2022-03-28 16:54:17,0,MikhailBrowne,"Blueprint Property Maintenance Inc.  4JB Lower Estate  St. Michael, BB19187 Bridgetown, Barbados",2,0,Educated_Kruff,
+3088197,Barbados,13.0981000,-59.6011000,2022-03-14 00:00:00,2022-03-22 23:52:03,0,Unknown,"Hi, this road is called Pine Road in other map apps, what is correct? Thx",2,0,Educated_Kruff,
+2298004,Barbados,13.1142237,-59.6054649,2020-08-07 00:00:00,2022-03-14 01:07:23,0,Unknown,"onosm.org submitted note from a business: name: SN Sales phone: +1246 2545145 website:  twitter: undefined hours: Everyday 8 am - 10 pm category: ,Wholesale Stores address: 2nd Ave Park Road Bush Hall",2,0,Educated_Kruff,
+2252345,Barbados,13.1019841,-59.6224925,2020-07-04 00:00:00,2022-03-14 00:57:28,0,Unknown,"onosm.org submitted note from a business: name: Jama Masjif phone:  website:  twitter: undefined hours:  category: ,Religious Organizations address: Jumma Masjid Barbados",2,0,Educated_Kruff,
+2719052,Barbados,13.0895700,-59.5927500,2021-06-19 00:00:00,2022-03-14 00:54:16,0,BTBaje,"This is Beal's Gap, not Rollick CT.",2,0,Educated_Kruff,
+2992682,Barbados,13.1399386,-59.4985562,2022-01-02 00:00:00,2022-03-14 00:42:22,0,Unknown,Woodland Gully,2,0,Educated_Kruff,
+2992681,Barbados,13.1371591,-59.5047088,2022-01-02 00:00:00,2022-03-14 00:42:15,0,Unknown,Woodland Gully,2,0,Educated_Kruff,
+2992670,Barbados,13.1208182,-59.4554694,2022-01-02 00:00:00,2022-03-14 00:28:44,0,Unknown,Beulah Corner,2,0,Educated_Kruff,
+2992669,Barbados,13.1174228,-59.4766701,2022-01-02 00:00:00,2022-03-14 00:28:33,0,Unknown,Six Cross Roads,2,0,Educated_Kruff,
+2992667,Barbados,13.1106065,-59.4721153,2022-01-02 00:00:00,2022-03-14 00:28:27,0,Unknown,Six Roads Four Roads Kirtons Road,2,0,Educated_Kruff,
+2992665,Barbados,13.1044000,-59.4657000,2022-01-02 00:00:00,2022-03-14 00:28:22,0,Unknown,Six Roads -Kirtond Road,2,0,Educated_Kruff,
+2992666,Barbados,13.1047569,-59.4681178,2022-01-02 00:00:00,2022-03-14 00:28:15,0,Unknown,Kirton's - Mangrove Road,2,0,Educated_Kruff,
+2992668,Barbados,13.1036795,-59.4730705,2022-01-02 00:00:00,2022-03-14 00:28:00,0,Unknown,Oldbury - Mangrove Road,2,0,Educated_Kruff,
+2992677,Barbados,13.1372900,-59.4896726,2022-01-02 00:00:00,2022-03-14 00:26:56,0,Unknown,Cox Hill,2,0,Educated_Kruff,
+2992676,Barbados,13.1376702,-59.4888020,2022-01-02 00:00:00,2022-03-14 00:26:53,0,Unknown,Church Vikkage - Thicketts Road,2,0,Educated_Kruff,
+2410292,Barbados,13.2881069,-59.6474683,2020-11-04 00:00:00,2022-02-20 03:02:10,0,Unknown,chimney,2,0,Jeremy Devonish,
+2830108,Barbados,13.2588269,-59.6137047,2021-09-01 00:00:00,2022-02-20 03:01:56,0,Public Transit Barbados,"Errors in Transit Routes.  Thanks for your contributions but I would like to draw to your attention the followings  Route 1A (as well as 1, 1A1, 1B, 1C, 1C1, 1F, 1SA) travels to Speightstown via Highway 1 (and not Queen St)  Route 56 does not terminate at the BGI (Airport), the route continues to Merricks via Gemswick, St. Martins, Rices, Crane, Belair, Long Bay, Wellhouse.  Additionally Route 56 does not travel to St. Stephens Hill or Black Rock Main Road. That is to say at the intersection of Gordon Cummins Highway, Mighty Grynner Highway and Highway 1 the Route travels directly to Holetown via Prospect, Fitts, Paynes Bay.",2,0,Jeremy Devonish,
+1847291,Barbados,13.2134537,-59.5827627,2019-07-17 00:00:00,2022-02-20 03:01:31,0,FarSide,Road closed due to landslip July 2019,4,1,Jeremy Devonish,
+1449647,Barbados,13.1863010,-59.5067596,2018-07-09 00:00:00,2022-02-20 03:00:24,0,Dima Zilyuk,Villa Baranga,4,1,Jeremy Devonish,
+2410329,Barbados,13.1431418,-59.5560535,2020-11-04 00:00:00,2022-01-20 04:50:48,0,Unknown,gun hill,2,0,graymurphy,
+1153703,Barbados,13.2524619,-59.6057761,2017-09-26 00:00:00,2021-10-26 15:33:22,0,Unknown,SSA Landfill?,2,0,Educated_Kruff,
+1153701,Barbados,13.1761300,-59.6031200,2017-09-26 00:00:00,2021-10-26 15:31:56,0,Unknown,SSA Landfill - Cannot be mapped.,2,0,Educated_Kruff,
+1163418,Barbados,13.1444100,-59.6194700,2017-10-05 00:00:00,2021-10-26 02:42:03,0,Unknown,"Clerview Heights, Stage 1, Clermont, St. Michael",2,0,Educated_Kruff,
+1178420,Barbados,13.1571028,-59.5575687,2017-10-18 00:00:00,2021-10-07 00:10:52,0,Rasterfarian89,Is the address for this house '#13 Groves'?,2,0,Educated_Kruff,
+2410294,Barbados,13.3083001,-59.6483588,2020-11-04 00:00:00,2021-10-07 00:05:40,0,Unknown,lighthouse,2,0,Educated_Kruff,
+2686681,Barbados,13.1824100,-59.6370400,2021-05-27 00:00:00,2021-10-07 00:04:34,0,Unknown,Casa de leo 52 Poinsettia Avenue,2,0,Educated_Kruff,
+1359578,Barbados,13.1296135,-59.4556962,2018-04-14 00:00:00,2021-10-07 00:00:28,0,PRTravller,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: building OSM data version: 2018-03-16T17:06:02Z  #mapsme",2,0,Educated_Kruff,
+2008183,Barbados,13.0956600,-59.6114200,2019-11-25 00:00:00,2021-10-06 23:46:06,0,Unknown,BWU Co-operative Credit Union Limited HQ,2,0,Educated_Kruff,
+1725095,Barbados,13.0924679,-59.4563448,2019-03-27 00:00:00,2021-10-06 23:34:21,0,Unknown,Third Avenue,2,0,Educated_Kruff,
+1725098,Barbados,13.0929695,-59.4565594,2019-03-27 00:00:00,2021-10-06 23:34:16,0,Unknown,2nd Avenue,2,0,Educated_Kruff,
+1725097,Barbados,13.0928911,-59.4544780,2019-03-27 00:00:00,2021-10-06 23:34:11,0,Unknown,Ocean City East,2,0,Educated_Kruff,
+1725099,Barbados,13.0919245,-59.4564629,2019-03-27 00:00:00,2021-10-06 23:34:05,0,Unknown,4th Avenue,2,0,Educated_Kruff,
+433457,Barbados,13.1338149,-59.4674492,2015-09-12 00:00:00,2021-10-06 23:09:50,0,Unknown,ST. PHILIP,3,0,Educated_Kruff,
+1449692,Barbados,13.1238458,-59.4318268,2018-07-09 00:00:00,2021-10-06 23:06:09,0,Dima Zilyuk,Villa Baranga,2,0,Educated_Kruff,
+2507873,Barbados,13.1210400,-59.4335600,2021-01-22 00:00:00,2021-10-06 23:05:26,0,Unknown,Seacliff Drive,2,0,Educated_Kruff,
+2507874,Barbados,13.1205400,-59.4333600,2021-01-22 00:00:00,2021-10-06 23:05:21,0,Unknown,Seacliff Drive,2,0,Educated_Kruff,
+2572465,Barbados,13.1156200,-59.4751700,2021-03-09 00:00:00,2021-10-06 22:59:16,0,Unknown,J.B. Simpson Complex,2,0,Educated_Kruff,
+1847692,Barbados,13.0810511,-59.4851786,2019-07-17 00:00:00,2021-10-06 22:52:50,0,FarSide,Concorde Experience closed until further notice,4,1,Educated_Kruff,
+2572463,Barbados,13.1082700,-59.4692700,2021-03-09 00:00:00,2021-10-06 22:49:51,0,Unknown,This road is a Cul-de-sac and it ends here,4,1,Educated_Kruff,
+1686152,Barbados,13.0845650,-59.5022213,2019-02-19 00:00:00,2021-10-06 22:47:26,0,Brianlion,This is now Massy Supermarket,6,1,Educated_Kruff,
+2706779,Barbados,13.0687715,-59.5665997,2021-06-09 00:00:00,2021-06-10 06:18:51,0,Unknown,Here.,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2641134,Barbados,13.0991173,-59.6196420,2021-04-28 00:00:00,2021-04-28 07:37:19,0,Unknown,onosm.org submitted note from a business: name: Adam's Car Rental  phone: +12464360543 website:  twitter:  facebook:  email: adam-carrental@hotmail.com hours: Monday-Saturday 7:30am to 5 pm category: Car Rental address:,2,0,kartonage,onosm.org duplicate note.
+2252346,Barbados,13.1019841,-59.6224925,2020-07-04 00:00:00,2020-07-04 04:21:25,0,Unknown,"onosm.org submitted note from a business: name: Jama Masjif phone:  website:  twitter: undefined hours:  category: ,Religious Organizations address: Jumma Masjid Barbados",2,0,HeyItsAdam,duplicate note
+2139824,Barbados,13.0927301,-59.6072717,2020-03-29 00:00:00,2020-03-29 02:47:29,0,ILW,Winston Scott Polyclinic,4,1,ILW,
+887748,Barbados,13.2147750,-59.5513165,2017-02-10 00:00:00,2020-03-08 13:42:34,0,Bajangamer,Hiking trail,3,0,JGunn,
+1570814,Barbados,13.1233169,-59.6187048,2018-10-25 00:00:00,2020-02-13 20:16:19,0,robinyearwood,"'Store has shut down' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Grazette's Variety POI types: building shop-variety_store OSM data version: 2018-09-11T19:10:03Z  #mapsme",2,0,freebeer,nothing at marker
+2086527,Barbados,13.1793584,-59.4967952,2020-02-11 00:00:00,2020-02-11 19:14:25,0,d70-t,van Hagrn Road B,2,0,d70-t,
+2086526,Barbados,13.1803227,-59.4965219,2020-02-11 00:00:00,2020-02-11 19:14:23,0,d70-t,Poldi SW,2,0,d70-t,
+2086525,Barbados,13.1803636,-59.4963509,2020-02-11 00:00:00,2020-02-11 19:14:21,0,d70-t,Poldi SE,2,0,d70-t,
+2086522,Barbados,13.1805166,-59.4965809,2020-02-11 00:00:00,2020-02-11 19:14:19,0,d70-t,Poldi NW,2,0,d70-t,
+2086524,Barbados,13.1805439,-59.4963983,2020-02-11 00:00:00,2020-02-11 19:14:17,0,d70-t,Poldi NE,2,0,d70-t,
+2086528,Barbados,13.1812766,-59.4972488,2020-02-11 00:00:00,2020-02-11 19:14:15,0,d70-t,van Hagen Road A,2,0,d70-t,
+94907,Barbados,13.0946980,-59.6134886,2014-01-03 00:00:00,2019-11-03 15:14:32,0,waveslasher,last leg of Bethel Street is 1way (to north),3,0,freebeer,on the map
+1594630,Barbados,13.0918226,-59.5822719,2018-11-19 00:00:00,2019-11-03 15:12:24,0,Unknown,Barbados National Trust,2,0,freebeer,on the map
+1153903,Barbados,13.0706118,-59.5789499,2017-09-26 00:00:00,2019-11-03 15:09:46,0,Maximsailor,'Гостиница' POI name: Worthing Main Road POI types: psurface-paved_good highway-primary OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,freebeer,"this is the centre of the road between two larger junctions.  it could be anywhere along here, useless maps.me auto-note"
+1977981,Barbados,13.2126442,-59.6307049,2019-10-28 00:00:00,2019-11-03 15:05:31,0,Unknown,Subject,2,0,freebeer,no info
+1898263,Barbados,13.1223000,-59.4427000,2019-08-23 00:00:00,2019-08-24 15:17:50,0,Unknown,Home,2,0,mavl,"Thank you for the note, but this building is already marked on OpenStreetMap."
+1582632,Barbados,13.1951891,-59.6409899,2018-11-05 00:00:00,2019-08-24 12:33:52,0,Taste Wolves,"'There is no house number: it's too big and posh. I have put in a number to satisfy this daft interface. This private residence is owned by the owner of JCB, and is next to Colony Club Beach Resort. Fascinating building we walked past today. More info - https://tdclassicist.blogspot.com/2014/06/heron-bay-barbados.html?m=1' POI has no name POI types: building OSM data version: 2018-09-11T19:10:03Z  #mapsme",2,0,skorasaurus,fixed in https://www.openstreetmap.org/changeset/73695285
+550935,Barbados,13.1477785,-59.6309137,2016-04-20 00:00:00,2019-08-24 12:29:07,0,Unknown,"App User reported the name of this street is actually Oxnards Crescent, not Violet Circle. Need ground survey to verify. Thanks",3,0,skorasaurus,closed since other user contracted note.
+1297481,Barbados,13.2068700,-59.6320221,2018-02-12 00:00:00,2019-08-24 12:27:42,0,Sean Clarke,'Typo. Should be Sugar Hill' POI name: Suagr Hill POI types: highway-residential OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,skorasaurus,fixed in https://www.openstreetmap.org/changeset/73695285
+1582634,Barbados,13.1951891,-59.6409899,2018-11-05 00:00:00,2019-08-24 12:25:48,0,Taste Wolves,'please remove number. Herons Bay is the building name.' POI has no name POI types: building OSM data version: 2018-09-11T19:10:03Z  #mapsme,2,0,skorasaurus,removed the number.
+1297491,Barbados,13.2068700,-59.6320221,2018-02-12 00:00:00,2018-11-01 10:46:25,0,Sean Clarke,'Typo. Should be Sugar Hill' POI name: Suagr Hill POI types: highway-residential OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,Syl,Duplicate note
+1153910,Barbados,13.0706118,-59.5789499,2017-09-26 00:00:00,2018-11-01 10:45:17,0,Maximsailor,'Гостиница' POI name: Worthing Main Road POI types: psurface-paved_good highway-primary OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,Syl,Duplicate note
+1563955,Barbados,13.0985628,-59.6136001,2018-10-17 00:00:00,2018-10-26 11:19:25,0,Unknown,Subject Property,2,0,freebeer,no mapping info
+1309211,Barbados,13.1887140,-59.5056546,2018-02-24 00:00:00,2018-04-14 18:43:11,0,Unknown,dutse,2,0,fredveenema,This is just a fork in the main road (Highway 3E) going downhill from St John's Church. There is nothing there. Neither fork leads to the coastal highway. For that one should have turned north on Clifton Road previously.
+1157105,Barbados,13.1707517,-59.4794440,2017-09-29 00:00:00,2018-04-14 18:38:03,0,karitotp,Can someone confirm  and add if this is called Society Hill St John? Thanks,2,0,fredveenema,"Yes I rode there April 4, 2018"
+1182616,Barbados,13.0526190,-59.5157290,2017-10-23 00:00:00,2017-12-25 10:43:36,0,Unknown,Move pin to the the seaside drive just past oyster crescent,3,0,Tiamate,?
+1220409,Barbados,13.0904380,-59.4607839,2017-11-29 00:00:00,2017-12-13 19:33:13,0,Rasterfarian89,Lahley Road should be called Lashley Road instead.,2,0,Rasterfarian89,I am making this edit and closing the note.
+1220406,Barbados,13.0920238,-59.4664139,2017-11-29 00:00:00,2017-12-13 19:33:08,0,Rasterfarian89,Lahley Road should be called Lashley Road instead.,2,0,Rasterfarian89,I am making this edit and closing the note.
+1180237,Barbados,13.0919977,-59.5888138,2017-10-20 00:00:00,2017-11-03 15:04:36,0,Rasterfarian89,This road is called 'Wildey Main Road'.,2,0,Rasterfarian89,I am making this edit and closing the note.
+903090,Barbados,13.0764751,-59.5830367,2017-02-23 00:00:00,2017-10-02 23:52:02,0,Jose Legarra,Julie's apartment  (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,freebeer,no useful mapping info
+475903,Barbados,13.1378414,-59.5892597,2015-11-29 00:00:00,2017-09-20 13:27:57,0,Unknown,skeete's road jackmans not jackson,3,0,freebeer,already corrected
+460223,Barbados,13.0969666,-59.6152335,2015-10-30 00:00:00,2017-09-20 13:25:35,0,Unknown,CIBC FirstCaribbean International Bank,2,0,freebeer,on the map
+1067465,Barbados,13.0922675,-59.6107593,2017-07-17 00:00:00,2017-09-20 13:24:39,0,Nazhib Gibson,'great local rum shop that keeps it sinple' POI name: Doris's Bar POI types: amenity-bar internet_access-wlan OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,freebeer,on the map
+826013,Barbados,13.0981422,-59.5792222,2016-12-23 00:00:00,2017-09-20 13:23:58,0,CBC Barbados,The Caribbean Broadcasting Corporation,2,0,freebeer,on the map
+102111,Barbados,13.0730929,-59.5825803,2014-01-15 00:00:00,2017-09-20 13:23:07,0,Unknown,Sea Foam Haciendas,2,0,freebeer,"on the map, southwest"
+102112,Barbados,13.0715932,-59.5830444,2014-01-15 00:00:00,2017-09-20 13:22:43,0,Unknown,Sea Foam Haciendas,2,0,freebeer,"on the map, west"
+376600,Barbados,13.1170763,-59.6276307,2015-06-08 00:00:00,2017-09-14 21:49:04,0,BDS-GISUser,Wisers Beach Bar,2,0,HubMiner,Already there slightly to the south: http://www.openstreetmap.org/node/2698568342  Feel free to request additional corrections.
+972351,Barbados,13.1628591,-59.4285893,2017-04-22 00:00:00,2017-09-14 21:39:47,0,Unknown,Deebles Point,2,0,HubMiner,added
+84119,Barbados,13.1367821,-59.4259286,2013-12-08 00:00:00,2017-09-14 21:34:45,0,Unknown,Bottom Bay beach parking,2,0,HubMiner,added
+664558,Barbados,13.1353338,-59.6064761,2016-08-09 00:00:00,2017-09-14 21:31:42,0,Unknown,Home 2nd Avenue Green Hill,2,0,HubMiner,"Does not make sense: streets have adjacent numbers, closing since anonymous won't respond."
+7974,Barbados,13.1764293,-59.6365249,2013-06-16 00:00:00,2017-09-14 21:27:56,0,Unknown,The Falls,2,0,HubMiner,added
+330111,Barbados,13.1928871,-59.6400118,2015-03-12 00:00:00,2017-09-14 21:25:42,0,Unknown,McGill Bellairs Research Institute missing,2,0,HubMiner,added
+466225,Barbados,13.2277339,-59.6336603,2015-11-10 00:00:00,2017-09-14 21:22:08,0,Unknown,Hi. Please can you add New Moon Villa to the shown locatation. Thanks.,2,0,HubMiner,added
+323083,Barbados,13.2856470,-59.6279949,2015-02-25 00:00:00,2017-09-14 21:20:04,0,Unknown,here is a gas station,2,0,HubMiner,Already there.
+919651,Barbados,13.2933473,-59.5939279,2017-03-08 00:00:00,2017-09-14 21:19:53,0,Baara,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'this is not the location of Farley hill' (OSM data version: 2016-08-22T09:03:02Z) #mapsme",2,0,HubMiner,Deleted; correct place is to the south.
+323082,Barbados,13.2431685,-59.5618598,2015-02-25 00:00:00,2017-09-14 21:12:23,0,Unknown,here is a gas station,2,0,HubMiner,Already there.
+1021625,Barbados,13.0548524,-59.5059315,2017-06-06 00:00:00,2017-09-14 21:12:01,0,KoOlyS,"'31, Plover Court Apartments Inch Marlowe Christ Church' POI name: Dowitcher POI types: highway-residential OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,HubMiner,"Added, please verify, please confirm the long name.  http://www.openstreetmap.org/way/524767651#map=19/13.05480/-59.50622&layers=N"
+297838,Barbados,13.0692654,-59.5641233,2015-01-07 00:00:00,2017-09-14 14:34:08,0,Unknown,"yellow street is connected to transverse main road, missing link needs to be added",2,0,HubMiner,No such streets near this note; OSM does not know about such roads in Barbados.
+972895,Barbados,13.1783750,-59.5492592,2017-04-22 00:00:00,2017-09-14 14:29:59,0,Unknown,Church,2,0,HubMiner,Added.
+924770,Barbados,13.2121508,-59.5185833,2017-03-12 00:00:00,2017-09-14 14:26:49,0,Patrick L O Brown,Dina's Restaurant (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,HubMiner,Already there.
+985985,Barbados,13.1087797,-59.4470215,2017-05-04 00:00:00,2017-09-08 06:31:33,0,waveslasher,www.cutters.bb is more of a fast-food Restaurant than a deli,6,1,waveslasher,Yes confirmed Cheers
+702165,Barbados,13.0883401,-59.4675028,2016-09-05 00:00:00,2017-09-08 04:17:28,0,Unknown,H.O.M.E.,2,0,HubMiner,ok.
+1020724,Barbados,13.0852500,-59.5919300,2017-06-06 00:00:00,2017-06-06 18:37:07,0,Unknown,Yvette's Home,2,0,hsc666,
+567449,Barbados,13.1151520,-59.5848800,2016-05-17 00:00:00,2016-05-17 17:07:22,0,Unknown,This error is submitted from Navmii GPS. Other: Wasn't turn left it was straight over,2,0,SomeoneElse,
+377734,Barbados,13.1720941,-59.4247055,2015-06-10 00:00:00,2015-06-10 15:20:34,0,RvoRvo,Fish market where sea turtles live under the bridge.,2,0,RvoRvo,
+318907,Barbados,13.1001407,-59.6152818,2015-02-18 00:00:00,2015-02-18 20:49:50,0,Unknown,vfgffff,2,0,hsc666,
+235844,Barbados,13.2234936,-59.6388826,2014-09-03 00:00:00,2014-09-03 23:29:02,0,jerkpork,De Outback Bar & Grill,2,0,jerkpork,
+146612,Barbados,13.0897614,-59.6265793,2014-04-07 00:00:00,2014-08-03 09:18:15,0,Hanno1980,Test,2,0,ScubbX,

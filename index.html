@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OSM Notes Data - GitHub Pages</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .description {
+            color: #666;
+            margin-bottom: 30px;
+        }
+        .endpoint {
+            background: #f8f9fa;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 4px;
+            border-left: 3px solid #007acc;
+        }
+        .endpoint code {
+            color: #d63384;
+            font-size: 14px;
+        }
+        .note {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🗺️ OSM Notes Data</h1>
+        <p class="description">JSON data files for OSM Notes Viewer</p>
+        
+        <h2>Available Endpoints</h2>
+        
+        <div class="endpoint">
+            <strong>Metadata:</strong>
+            <br><code>https://osm-notes.github.io/OSM-Notes-Data/data/metadata.json</code>
+        </div>
+        
+        <div class="endpoint">
+            <strong>Users Index:</strong>
+            <br><code>https://osm-notes.github.io/OSM-Notes-Data/data/indexes/users.json</code>
+        </div>
+        
+        <div class="endpoint">
+            <strong>Countries Index:</strong>
+            <br><code>https://osm-notes.github.io/OSM-Notes-Data/data/indexes/countries.json</code>
+        </div>
+        
+        <div class="endpoint">
+            <strong>User Profile:</strong>
+            <br><code>https://osm-notes.github.io/OSM-Notes-Data/data/users/{hex1}/{hex2}/{hex3}/{user_id}.json</code>
+            <br><small>Note: Users are organized in hexadecimal subdirectories (3 levels) for optimal performance. Use the users index to find the correct path for a specific user_id.</small>
+        </div>
+        
+        <div class="endpoint">
+            <strong>Country Profile:</strong>
+            <br><code>https://osm-notes.github.io/OSM-Notes-Data/data/countries/{country_id}.json</code>
+        </div>
+        
+        <h2>JSON Schemas</h2>
+        <p class="description">JSON Schema files for data validation. These schemas can be used to validate the data files or referenced in your applications.</p>
+        
+        <div class="endpoint">
+            <strong>Available Schemas:</strong>
+            <br><code>https://osm-notes.github.io/OSM-Notes-Data/schemas/metadata.schema.json</code>
+            <br><code>https://osm-notes.github.io/OSM-Notes-Data/schemas/user-index.schema.json</code>
+            <br><code>https://osm-notes.github.io/OSM-Notes-Data/schemas/user-profile.schema.json</code>
+            <br><code>https://osm-notes.github.io/OSM-Notes-Data/schemas/country-index.schema.json</code>
+            <br><code>https://osm-notes.github.io/OSM-Notes-Data/schemas/country-profile.schema.json</code>
+            <br><code>https://osm-notes.github.io/OSM-Notes-Data/schemas/global-stats.schema.json</code>
+        </div>
+        
+        <div class="note">
+            <strong>📝 Note:</strong> Este repositorio contiene solo archivos JSON. 
+            Para acceder a la interfaz web completa, visita el 
+            <a href="https://notes.osm.lat/">OSM Notes Viewer</a>.
+        </div>
+    </div>
+</body>
+</html>
+

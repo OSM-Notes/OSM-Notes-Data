@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5261921,Cuba,20.2974701,-76.2472538,2026-04-23 00:00:00,2026-04-23 03:26:02,0,Unknown,'Información' POI name: Información POI types: tourism-information OSM data version: 2026-04-03T20:32:17Z  #mapsme,4,1,Unknown,Extia
+1507276,Cuba,20.2432200,-74.1469825,2018-08-29 00:00:00,2026-04-21 11:36:13,2792,Arlis Cantillo Fonseca,"'el aeropuerto ya no existe hace varios años ahora es una escuela ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Aeródromo de Punta de Maisi POI types: aeroway-aerodrome OSM data version: 2018-08-04T14:22:01Z  #mapsme",4,1,cuzi,"no reply, closing note"

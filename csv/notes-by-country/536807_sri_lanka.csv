@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3468567,Sri Lanka,6.8673173,79.8844781,2022-12-06 00:00:00,2026-04-24 06:45:08,1235,mbethke,"flyover construction, will be 2 separate lanes here  via StreetComplete 49.2",5,1,Unknown,Wrong location pls delete it
+5263407,Sri Lanka,6.8695920,79.8822730,2026-04-24 00:00:00,2026-04-24 06:43:49,0,Unknown,145/4 Secret Garden,4,1,Unknown,

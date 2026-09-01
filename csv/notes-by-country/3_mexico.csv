@@ -1,0 +1,2 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+6,Mexico,19.4326,-99.1332,2024-02-05 00:00:00,2024-02-06 10:00:00,0,Unknown,Missing amenity: pharmacy,81,0,Unknown,Resolved

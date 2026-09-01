@@ -1,0 +1,15 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5258342,България,42.5440184,25.5748938,2026-04-20 00:00:00,2026-04-24 02:29:38,4,DareDJ,Our users indicate this street name is: 'Изворнa'. We cannot find any available sources to verify this information. Can any local mapper confirm this? #msftopenmaps,4,0,Unknown,
+5261461,България,42.4523060,27.4238170,2026-04-22 00:00:00,2026-04-23 07:46:09,1,Unknown,D1,2,0,Dimitar155,It is not clear what needs to be done here.
+5261462,България,42.4590900,27.4156500,2026-04-22 00:00:00,2026-04-23 07:45:51,1,Unknown,1,2,0,Dimitar155,It is not clear what needs to be done here.
+5261890,България,42.1962708,26.7063367,2026-04-23 00:00:00,2026-04-23 07:45:32,0,Unknown,gfjfy,2,0,Dimitar155,
+5255102,България,42.0291249,23.1118597,2026-04-18 00:00:00,2026-04-22 11:25:10,4,Fraxi,"Това въобще не прилича на пешеходна алея, ами си е път.  w38588901",6,0,Fraxi,
+5259000,България,42.6745710,23.7786380,2026-04-21 00:00:00,2026-04-22 10:02:27,1,Unknown,"Road is private, it's closed, there is a fence here",2,0,Dimitar155,done
+5260474,България,42.7149778,23.2627574,2026-04-22 00:00:00,2026-04-22 07:22:47,0,karpuzov,"'Wrong place. The right one exist few meters around (eastern)' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2026-04-04T03:36:32Z POI name: Vogue bar and dinner POI types: amenity-restaurant  #organicmaps android 2026.04.07-8-FDroid",2,0,Dimitar155,updated accordingly
+5108783,България,42.2007460,25.3220760,2025-12-28 00:00:00,2026-04-21 09:51:20,114,Dimitar155,Това читалище или училище е?,6,1,jimmyizg,
+2118806,България,42.1997263,25.3256670,2020-03-12 00:00:00,2026-04-21 09:51:17,2231,TourismCH,Изложбена зала „Георги Данчов- Зографина”,7,1,jimmyizg,
+5248735,България,42.1481367,24.7517530,2026-04-13 00:00:00,2026-04-19 16:06:33,6,mechka,Народно читалище „Възраждане-1983” is supposed to be at this address according to https://www.visitplovdiv.com/bg/node/2803. Is it? It was incorrectly put in the next building to the north on Saborna in earlier versions of the map.,2,0,mechka,"Yes, confirmed through survey and added to the map."
+5218388,България,42.6679335,23.2925905,2026-03-24 00:00:00,2026-04-19 09:17:53,26,Fraxi,"За този път(w426551286) с промяна 113992537 е отбелязано, че 'No road connection here (road disconnected)'. За което в момента не съм сигурен и не обърнах внимание. Но може би не е черен път.",3,0,Dimitar155,оправих го
+5256369,България,42.6677016,23.2923222,2026-04-19 00:00:00,2026-04-19 09:17:42,0,Dimitar155,"липсва път, входа към пистата е само един  #EveryDoor",2,0,Dimitar155,
+4974672,България,42.6929597,23.3214102,2025-09-22 00:00:00,2026-04-19 06:41:42,209,Dimitar155,Мисля че на Христо Белчев N19 има голям графит. Или N15... Със сигурност е на нечетен номер.  #EveryDoor,5,1,Dimitar155,

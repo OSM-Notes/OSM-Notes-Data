@@ -1,0 +1,9 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5261252,Côte d’Ivoire,7.6134150,-5.0369070,2026-04-22 00:00:00,2026-04-22 16:28:59,0,Unknown,F,4,1,Unknown,
+5261247,Côte d’Ivoire,7.6144920,-5.0373040,2026-04-22 00:00:00,2026-04-22 16:24:14,0,Unknown,V,2,0,Unknown,
+5261250,Côte d’Ivoire,7.6142470,-5.0366820,2026-04-22 00:00:00,2026-04-22 16:23:43,0,Unknown,VV,2,0,Unknown,
+5261245,Côte d’Ivoire,7.6151700,-5.0375300,2026-04-22 00:00:00,2026-04-22 14:37:56,0,Unknown,G,2,0,Unknown,
+1616993,Côte d’Ivoire,5.3214016,-4.0168342,2018-12-14 00:00:00,2026-04-20 14:01:20,2684,Jean-Philippe Koffi,panneaux de signalisation,2,0,cleryyagbo,
+5222282,Côte d’Ivoire,5.3470315,-4.0607391,2026-03-27 00:00:00,2026-04-19 21:35:49,23,Lectra,'Ce chemin est impraticable en véhicule parce qu’il y’a des escaliers à ce noeud précis.' OSM snapshot date: 2026-03-21T17:13:14Z POI has no name POI types: highway-residential  #CoMaps ios 2026.03.23-6-ios,2,0,map per,"Merci, j'ai ajouté les escaliers"
+5222281,Côte d’Ivoire,5.3470577,-4.0607537,2026-03-27 00:00:00,2026-04-19 21:35:44,23,Lectra,'Cette zone que j’ai pointé est impraticable par les véhicules pour sortir de la cité parce qu’il y a des escaliers à ce endroit précis.' OSM snapshot date: 2026-03-21T17:13:14Z POI has no name POI types: highway-residential  #CoMaps ios 2026.03.23-6-ios,2,0,map per,"Merci, j'ai ajouté les escaliers"

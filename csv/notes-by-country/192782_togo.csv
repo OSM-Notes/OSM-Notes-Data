@@ -1,0 +1,1167 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+2832741,Togo,9.5734395,1.1926128,2021-09-02 00:00:00,2026-01-16 08:08:26,1597,hermann106,vulgarisateur,2,0,hermann106,c'est fait
+2832742,Togo,9.5720026,1.1930205,2021-09-02 00:00:00,2026-01-16 08:08:25,1597,hermann106,soudeur,2,0,hermann106,c'est fait
+5079727,Togo,9.5567563,1.1972350,2025-12-05 00:00:00,2026-01-16 07:32:53,42,BanyokemKASS,Pont Prince  #OsmAnd,2,0,hermann106,c'est fait
+2389636,Togo,6.1264698,1.2090151,2020-10-17 00:00:00,2026-01-13 22:00:44,1914,Kophelynx,'Le Champion Supermarché' POI name: Restaurant - bar Le Triskell POI types: amenity-food_court OSM data version: 2020-08-22T02:23:14Z  #mapsme,2,0,hermann106,c'est noté
+3992043,Togo,6.1256417,1.2092847,2023-11-18 00:00:00,2026-01-13 22:00:30,787,Lauriane1995,le point n'existe plus,2,0,hermann106,D'accord
+3650496,Togo,9.4855702,0.8981518,2023-04-19 00:00:00,2025-12-28 08:50:41,0,hermann106,tombes,2,0,hermann106,c'est fait
+5105133,Togo,9.5663988,1.2202044,2025-12-26 00:00:00,2025-12-27 11:36:18,0,hermann106,mosquée   #OsmAnd,2,0,hermann106,c'est fait
+3270215,Togo,9.5255094,1.2183785,2022-07-16 00:00:00,2025-12-17 18:28:15,0,BANG YENH,Pont de la CEB,2,0,hermann106,c'est fait
+533883,Togo,6.3691747,1.4889143,2016-03-27 00:00:00,2025-12-16 16:32:13,0,AKE Amazan,Sagadakope,2,0,Justc,
+3992361,Togo,6.1309825,1.2119873,2023-11-18 00:00:00,2025-12-10 01:48:54,0,AGBEVE,Tailleur,2,0,Pafadnam,
+510660,Togo,6.1796809,1.1838213,2016-02-09 00:00:00,2025-12-09 02:42:15,0,AKE Amazan,Rue 212,2,0,hermann106,c'est fait
+720950,Togo,6.1830224,1.1850392,2016-09-21 00:00:00,2025-12-09 01:30:56,0,AKE Amazan,une route ouverte,2,0,hermann106,ok
+488206,Togo,6.1828329,1.1819633,2015-12-25 00:00:00,2025-12-09 01:30:35,0,AKE Amazan,Haute Couture Wisdom,2,0,hermann106,c'est fait
+2801098,Togo,6.1831740,1.1787240,2021-08-13 00:00:00,2025-12-09 01:29:19,0,hermann106,moulin,2,0,hermann106,c'est fait
+2801099,Togo,6.1832331,1.1787891,2021-08-13 00:00:00,2025-12-09 01:23:16,0,hermann106,sodabi,2,0,hermann106,c'est fermé
+5075038,Togo,7.8715400,1.0150300,2025-12-01 00:00:00,2025-12-01 12:03:09,0,ZEDZ,CEG PALLAKOKO Collège d'Enseignement Général (25/05/1977,4,1,ZEDZ,
+5075030,Togo,7.8675980,1.0149050,2025-12-01 00:00:00,2025-12-01 11:57:15,0,ZEDZ,CEG PALLAKOKO,3,1,ZEDZ,
+3491760,Togo,6.2751802,1.1315964,2022-12-26 00:00:00,2025-11-26 10:40:59,0,SOMBORO,Apessito,2,0,hermann106,C'est noté
+3527325,Togo,6.2856269,1.1228044,2023-01-22 00:00:00,2025-11-25 21:38:53,0,hermann106,Fabrication de Africa tennis,2,0,hermann106,c'est fait
+3572713,Togo,6.1686500,1.2161100,2023-02-24 00:00:00,2025-11-24 13:08:42,0,ti-lo,A 'campus' should be an area (not a node) https://www.openstreetmap.org/node/8929122644  https://wiki.openstreetmap.org/wiki/FR:Key:campus,2,0,hermann106,c'est fzis
+5047775,Togo,6.2695700,1.7372100,2025-11-11 00:00:00,2025-11-11 16:05:34,0,Claudio595,D5,2,0,Claudio595,
+5042179,Togo,6.2052910,1.1629950,2025-11-07 00:00:00,2025-11-09 09:26:37,0,Unknown,"6.204953 N, 1.162983 E",2,0,NeisReview,The content of this note is #nonsense.
+3940059,Togo,6.1985919,1.2399566,2023-10-14 00:00:00,2025-10-28 13:08:00,0,mayena,Passage piéton,2,0,NeisBot,Same as note https://osm.org/note/3940017 only ~1 m apart. Closing as duplicate.  #DuplicateNote #Nearby
+2392710,Togo,8.1885000,0.8142000,2020-10-20 00:00:00,2025-10-01 15:09:03,0,Unknown,Lalamina,2,0,francesco:98,
+3673235,Togo,6.1843753,1.1805024,2023-05-04 00:00:00,2025-09-02 15:40:49,0,hermann106,rue Agoti,2,0,hermann106,c'est fait
+2705678,Togo,6.1864566,1.1781412,2021-06-09 00:00:00,2025-09-02 15:40:30,0,hermann106,car repair,2,0,hermann106,c'est fait
+2911244,Togo,6.1855315,1.1789060,2021-10-26 00:00:00,2025-09-02 15:36:14,0,hermann106,cet endroit n'existe pas,2,0,hermann106,c'est fait
+2911242,Togo,6.1853448,1.1784768,2021-10-26 00:00:00,2025-09-02 15:35:34,0,hermann106,"cet endroit est fermé,mais le kiosque est toujours là",2,0,hermann106,le lieu n'existe plus
+2911243,Togo,6.1852755,1.1784661,2021-10-26 00:00:00,2025-09-02 15:35:33,0,hermann106,boutique d'alimentation générale et de produits de beautés,2,0,hermann106,c'esst fait
+3924902,Togo,6.1846461,1.1783159,2023-10-05 00:00:00,2025-09-02 15:31:53,0,bernard98,Presence d'un doublon,2,0,hermann106,c'est fait
+2911241,Togo,6.1846076,1.1779060,2021-10-26 00:00:00,2025-09-02 15:31:20,0,hermann106,lieu de vente de viande cuite et de pinon,2,0,hermann106,C'est fait
+4827036,Togo,9.1192057,1.3250406,2025-06-26 00:00:00,2025-08-26 19:53:49,0,Unknown,'Commune de Tchaoudjo 4 (AGOULOUDE)' POI name: Commune de Tchaoudjo 4 (AGOULOUDE) POI types: office-government OSM data version: 2025-04-18T20:24:02Z  #mapsme,2,0,Lumikeiju,Closing - duplicate of https://www.openstreetmap.org/note/4819190
+2913047,Togo,10.3490498,0.5539313,2021-10-28 00:00:00,2025-01-16 07:22:31,0,zoubinnaba,piste rurale,2,0,Aleksandar Matejevic,Road added
+2409245,Togo,6.1972057,1.1876822,2020-11-03 00:00:00,2025-01-15 01:25:53,0,Yannick GBEDEVI,Clinique Lumière Divine,3,0,Syl,
+1574963,Togo,6.1873000,1.1943000,2018-10-29 00:00:00,2025-01-15 01:25:19,0,Unknown,ANADEB,3,0,Syl,
+2808000,Togo,6.1926195,1.1813012,2021-08-17 00:00:00,2025-01-15 01:24:55,0,hermann106,soudure,3,0,Syl,
+4039889,Togo,6.2630243,1.2252045,2023-12-25 00:00:00,2025-01-15 01:07:26,0,@Samarou,'École Primaire Publique de FIDOKPUI (EPP FIDOKPUI)' POI name: École Primaire Publique de FIDOKPUI (EPP FIDOKPUI) POI types: amenity-school OSM data version: 2023-11-20T18:06:08Z  #mapsme,2,0,Syl,A déjà été ajouté
+4039891,Togo,6.2629575,1.2245290,2023-12-25 00:00:00,2025-01-15 01:07:14,0,@Samarou,'Terrain de jeu' POI name: Terrain de jeu POI types: leisure-playground OSM data version: 2023-11-20T18:06:08Z  #mapsme,2,0,Syl,A déjà été ajouté
+4039890,Togo,6.2622922,1.2245771,2023-12-25 00:00:00,2025-01-15 01:07:03,0,@Samarou,'Collège d'Enseignement  Général de FIDOKPUI (CEG FIDOKPUI)' POI name: Collège d'Enseignement  Général de FIDOKPUI (CEG FIDOKPUI) POI types: amenity-college OSM data version: 2023-11-20T18:06:08Z  #mapsme,2,0,Syl,A déjà été ajouté
+4035897,Togo,6.8908417,0.6412667,2023-12-21 00:00:00,2025-01-15 01:06:33,0,@Samarou,'Mécanicien à 2 roues (Voguinèza)' POI name: Mécanicien à 2 roues (Voguinèza) POI types: shop-car_repair OSM data version: 2023-11-20T18:06:08Z  #mapsme,2,0,Syl,A déjà été ajouté
+4021240,Togo,6.1937690,1.1239120,2023-12-09 00:00:00,2025-01-15 01:06:13,0,@Samarou,'Israël Restaurant (Ségbé-Logoté)' POI name: Israël Restaurant (Ségbé-Logoté) POI types: cuisine-arab cuisine-asian cuisine-bavarian cuisine-beef_bowl cuisine-burger cuisine-chicken cuisine-chinese amenity-restaurant OSM data version: 2023-11-20T18:06:08Z  #mapsme,2,0,Syl,A déjà été ajouté
+4013279,Togo,6.2255204,1.1942751,2023-12-03 00:00:00,2025-01-15 01:05:48,0,@Samarou,'Consulat Général Honoraire d'Italie au Togo (Agoè Assiyéyé)' POI name: Consulat Général Honoraire d'Italie au Togo (Agoè Assiyéyé) POI types: amenity-embassy OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,A déjà été ajouté
+3998899,Togo,6.2589987,1.1620334,2023-11-23 00:00:00,2025-01-15 01:05:16,0,hermann106,clinique sainte Fatima,2,0,Syl,A été ajoutée depuis
+3975977,Togo,10.2438111,0.6433620,2023-11-06 00:00:00,2025-01-15 01:02:58,0,hermann106,carrefour Gando,2,0,Syl,A été ajouté depuis
+3945571,Togo,7.5278368,1.1313407,2023-10-17 00:00:00,2025-01-15 01:02:06,0,@Samarou,'Direction Régionale des Travaux Publiques (TP) - Atakpamé' POI name: Direction Régionale des Travaux Publiques (TP) - Atakpamé POI types: office-government OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,A déja été ajouté
+3945569,Togo,7.5277274,1.1313397,2023-10-17 00:00:00,2025-01-15 01:01:45,0,@Samarou,'Direction des Transports Routiers et Ferroviaires (DTRF) d'Atakpamé' POI name: Direction des Transports Routiers et Ferroviaires (DTRF) d'Atakpamé POI types: office-government OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,A déja été ajouté
+3945567,Togo,6.9625690,1.1717855,2023-10-17 00:00:00,2025-01-15 01:01:25,0,@Samarou,'Oando Notsè' POI name: Oando Notsè POI types: amenity-fuel OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,A déja été ajouté
+3945564,Togo,8.9922272,1.1602147,2023-10-17 00:00:00,2025-01-15 01:01:06,0,@Samarou,'Terrain de jeu' POI name: Terrain de jeu POI types: leisure-playground OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,A déja été ajouté
+3945563,Togo,9.0076270,1.1377685,2023-10-17 00:00:00,2025-01-15 01:00:00,0,@Samarou,'Terrain de jeu' POI name: Terrain de jeu POI types: leisure-playground OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,A déja été ajouté
+3945561,Togo,8.9935071,1.1601373,2023-10-17 00:00:00,2025-01-15 00:59:50,0,@Samarou,'Terrain de jeu' POI name: Terrain de jeu POI types: leisure-playground OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,A déja été ajouté
+3945562,Togo,8.9871116,1.1520635,2023-10-17 00:00:00,2025-01-15 00:59:39,0,@Samarou,'Terrain de jeu' POI name: Terrain de jeu POI types: leisure-playground OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,A déja été ajouté
+3945560,Togo,6.9512376,1.1681111,2023-10-17 00:00:00,2025-01-15 00:59:29,0,@Samarou,'CMS Amis du Bien Être (ABE)' POI name: CMS Amis du Bien Être (ABE) POI types: amenity-hospital OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,A déja été ajouté
+3945559,Togo,8.9830059,1.1457868,2023-10-17 00:00:00,2025-01-15 00:58:53,0,@Samarou,'Grande Mosquée de Sokodé' POI name: Grande Mosquée de Sokodé POI types: amenity-place_of_worship OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,Déjà présente
+3945566,Togo,6.9635360,1.1719251,2023-10-17 00:00:00,2025-01-15 00:51:58,0,@Samarou,'AgroNoLimit' POI name: AgroNoLimit POI types: shop-copyshop OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,A déjà été ajouté
+3898017,Togo,6.9635283,1.1719583,2023-09-20 00:00:00,2025-01-15 00:51:58,0,@Samarou,'Lalle Global Trading (LGT)' POI name: Lalle Global Trading (LGT) POI types: shop-variety_store OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,Syl,A déjà été ajouté
+3895932,Togo,6.1625663,1.2307048,2023-09-18 00:00:00,2025-01-15 00:50:59,0,Justin Tchessa,"A supprimer, car enregistrer deux fois.",2,0,Syl,Je viens de le supprimer
+3814906,Togo,8.9920745,1.1520624,2023-08-03 00:00:00,2025-01-15 00:49:25,0,Daniel Wangel,"This is Aérodome de Sokodé in Togo where many people fly to see the sights of Sokodé, visit family, leisure activities around Sokodé, tourism and many other reasons",2,0,Syl,Already in the database
+3758387,Togo,6.1708271,1.2222719,2023-06-30 00:00:00,2025-01-15 00:47:34,0,Unknown,la légende est incomplète,2,0,Syl,"Bonjour, les notes sont faites pour proposer des modifications dans la base de données OpenStreetMap. Ce n'est pas le bon endroit pour demander une fonctionnalité pour un site ou une application en particulier."
+3744290,Togo,6.1608377,1.3134206,2023-06-21 00:00:00,2025-01-15 00:46:04,0,AKE Amazan,Feux tricolores,2,0,Syl,A été ajouté depuis
+3764190,Togo,6.2661815,1.1471559,2023-07-04 00:00:00,2025-01-15 00:45:37,0,Dieudonne Komlan NOFODJI,'ASMERADE Togo' POI name: ASMERADE Togo POI types: office-ngo OSM data version: 2023-03-14T07:42:53Z  #mapsme,2,0,Syl,A déjà été ajouté
+3739918,Togo,7.5090332,0.6019448,2023-06-18 00:00:00,2025-01-15 00:45:14,0,Dieudonne Komlan NOFODJI,'AsmeradeTogo' POI name: AsmeradeTogo POI types: office-ngo OSM data version: 2023-03-14T07:42:53Z  #mapsme,2,0,Syl,A déjà été ajouté
+3715196,Togo,6.1881287,1.1953135,2023-06-01 00:00:00,2025-01-15 00:44:22,0,hermann106,pharmacie,2,0,Syl,Je viens de la déplacer
+3621172,Togo,9.0178002,1.4198146,2023-03-31 00:00:00,2025-01-15 00:40:30,0,HECTORMath,'MAIRIE DE TCHAMBA 1' POI name: MAIRIE DE TCHAMBA 1 POI types: office-government OSM data version: 2023-03-14T07:42:53Z  #mapsme,2,0,Syl,A déjà été ajouté
+3563843,Togo,6.1892193,1.2376840,2023-02-18 00:00:00,2025-01-15 00:37:59,0,zaola,'SAGEMCOM TOGO' POI name: SAGEMCOM TOGO POI types: office-company OSM data version: 2022-10-30T11:31:10Z  #mapsme,2,0,Syl,A déjà été ajouté
+3562656,Togo,6.2799571,1.1429721,2023-02-17 00:00:00,2025-01-15 00:37:05,0,Arnold NGUECHOUNG,"'il n'existe pas' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: ITC Innovation SARL POI types: shop-computer OSM data version: 2022-10-30T11:31:10Z  #mapsme",2,0,Syl,Je viens de le supprimer
+3550344,Togo,6.1727543,1.2384135,2023-02-08 00:00:00,2025-01-15 00:35:39,0,Dzifa 2023,"Cet endroit est le bureau du cabinet de recrutement Jobrelais Sarl .  Le cabinet Jobrelais Sarl est un spécialiste reconnu dans les domaines du recrutement, de la rédaction de plan d'affaires, de la comptabilité et des conseils en entreprise, ainsi que dans les domaines du marketing et de la communication. Nous sommes situés à Lomé au Togo et offrons des services de qualité supérieure pour les entreprises locales et régionales. Nous aidons les entreprises à atteindre leur plein potentiel en leur fournissant des talents qualifiés, des plans d'affaires efficaces, une gestion comptable et fiscale efficace et une stratégie de marketing et de communication performante.",2,0,Syl,Note en double
+3828709,Togo,6.4243085,1.2244970,2023-08-11 00:00:00,2025-01-15 00:27:36,0,jackliss14,'Maison d'hôtes' POI name: Maison d'hôtes POI types: tourism-guest_house OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,Syl,A déjà été ajoutée
+3583205,Togo,6.3115816,1.6297862,2023-03-03 00:00:00,2025-01-15 00:27:18,0,jackliss14,'École' POI name: École POI types: amenity-school OSM data version: 2023-01-09T12:53:18Z  #mapsme,2,0,Syl,A déjà été ajoutée
+3191856,Togo,7.5709422,0.6790227,2022-05-23 00:00:00,2025-01-15 00:25:54,0,jackliss14,ZOGBEGAN,2,0,Syl,A été ajouté depuis
+2898685,Togo,6.1790431,1.2181272,2021-10-17 00:00:00,2025-01-15 00:21:35,0,hermann106,Ambassade de l'Inde au Togo,2,0,Syl,A été ajouté depuis
+2866509,Togo,11.0305998,0.1261067,2021-09-24 00:00:00,2025-01-15 00:20:16,0,zoubinnaba,l'école se trouve de l'autre côté de la route national,2,0,Syl,A été modifié depuis
+2777813,Togo,6.1209482,1.2104662,2021-07-30 00:00:00,2025-01-15 00:16:04,0,Unknown,Restaurant Bejing,2,0,Syl,A été ajouté depuis
+2758924,Togo,6.1546320,1.2129361,2021-07-17 00:00:00,2025-01-15 00:14:41,0,Batiani,"Rue AHLON, 157.DGV",2,0,Syl,Note en double
+2752493,Togo,9.0123425,1.1349443,2021-07-12 00:00:00,2025-01-15 00:13:23,0,hermann106,inam,2,0,Syl,Déjà présent
+2750577,Togo,6.2176920,1.1805019,2021-07-11 00:00:00,2025-01-15 00:12:35,0,hermann106,ce nom est à enlever,2,0,Syl,Il n'y a plus rien à l'emplacement de la note
+2428078,Togo,8.9629700,0.9406900,2020-11-16 00:00:00,2025-01-15 00:03:14,0,Unknown,Fazao-Malfakassa National Park,2,0,Syl,Déjà présent
+2302977,Togo,6.1755100,1.1979100,2020-08-11 00:00:00,2025-01-14 19:30:17,0,Unknown,Nouvel emplacement de la pharmacie Jan,2,0,Syl,Je viens de la déplacer
+2302978,Togo,6.1755000,1.1979700,2020-08-11 00:00:00,2025-01-14 19:27:44,0,hermann106,qsddsqdsq,2,0,Syl,Note sans information
+2260016,Togo,7.5254006,1.1485090,2020-07-09 00:00:00,2025-01-14 19:26:36,0,hermann106,hôpital,2,0,Syl,Déjà présent
+2056466,Togo,6.1785076,1.2758517,2020-01-13 00:00:00,2025-01-14 19:22:40,0,AKOUETE,le service a été déplacé,2,0,Syl,Il n'y a plus rien dans les données à l'emplacement de la note.
+2032914,Togo,10.3501747,0.4698515,2019-12-21 00:00:00,2025-01-14 19:20:56,0,hermann106,route,2,0,Syl,Déjà présente
+2043110,Togo,6.9181341,0.6223865,2020-01-01 00:00:00,2025-01-14 19:19:35,0,Leonhard B,"'Es gibt nicht die 'Afrikanische Küche', sondern eine Küche die regional sehr unterschiedlich ist.Es wäre schön wenn es dort noch weiter Auswahl Möglichkeiten gäbe. Vielen Dank schon mal im voraus. Mit freundlichen Grüßen Leonhard' POI name: Au Fermier POI types: amenity-restaurant OSM data version: 2019-07-27T07:02:33Z  #mapsme",2,0,Syl,Already in the database
+2043111,Togo,8.9820505,1.1395262,2020-01-01 00:00:00,2025-01-14 19:19:09,0,Leonhard B,'Sehr leckeres Streetfood. Es gibt alles was man für den Hunger kleinen und großen Hunger braucht.' POI name: Streetfood Sokodé POI types: amenity-restaurant OSM data version: 2019-07-27T07:02:33Z  #mapsme,2,0,Syl,Already in the database
+2025610,Togo,6.9202014,0.6288413,2019-12-13 00:00:00,2025-01-14 19:16:07,0,hermann106,l'atelier est ce côté,2,0,Syl,A été modifié depuis
+1964423,Togo,6.1824650,1.1775433,2019-10-17 00:00:00,2025-01-14 19:14:22,0,hermann106,bâtiment,2,0,Syl,A été ajouté depuis
+1901711,Togo,7.2466000,1.6262000,2019-08-26 00:00:00,2025-01-14 19:12:11,0,Unknown,DOLOUME,2,0,Syl,A été ajouté depuis
+1746133,Togo,6.1733917,1.1857765,2019-04-14 00:00:00,2025-01-14 19:10:33,0,J_Chaumard,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Diamond Bank POI types: amenity-bank OSM data version: 2019-03-28T14:13:02Z  #mapsme",2,0,Syl,Il n'y a plus rien à l'emplacement de la note
+1740083,Togo,6.1684600,1.2301400,2019-04-09 00:00:00,2025-01-14 19:08:53,0,Unknown,Café Yorba,2,0,Syl,A été modifié depuis
+1672677,Togo,9.0141312,1.1385533,2019-02-05 00:00:00,2025-01-14 19:04:36,0,Koko de Gaulle,"'Mauvais endroit' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: La Main de Dieu POI types: amenity-bar OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,Syl,Je viens de le supprimer
+1672678,Togo,9.0139289,1.1385776,2019-02-05 00:00:00,2025-01-14 19:04:34,0,Koko de Gaulle,"'Mauvais endroit' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: CMS Hankell POI types: building OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,Syl,Note en double
+1368590,Togo,8.0947507,1.1367542,2018-04-22 00:00:00,2025-01-14 18:55:29,0,AKE Amazan,pont,3,0,Syl,Le pont a été ajouté depuis
+1368586,Togo,8.1745372,1.1392910,2018-04-22 00:00:00,2025-01-14 18:52:22,0,AKE Amazan,pont,2,0,Syl,A été ajouté depuis
+1368583,Togo,8.1905009,1.1392771,2018-04-22 00:00:00,2025-01-14 18:50:55,0,AKE Amazan,pont,2,0,Syl,A été ajouté depuis
+1330843,Togo,6.1326563,1.2166268,2018-03-17 00:00:00,2025-01-14 18:47:02,0,hermann106,la station service est fermée,2,0,Syl,A toujours l'air ouverte sur les photos Mapillary de 2023.
+1260461,Togo,6.1825197,1.1947674,2018-01-07 00:00:00,2025-01-14 18:43:59,0,Enock4seth,les dos d'âne n'existe plus,2,0,Syl,Je viens de les enlever
+1211203,Togo,9.6112000,1.0732200,2017-11-19 00:00:00,2025-01-14 18:29:44,0,nleube,"This is the plane crash site of the ancient Togo President Eyadema, how can I add more Information to this map??? If you type Sarakawa (this is the name of the village nearby), it wont find this place. Even one of the biggest hotels of Togo in Lomé is named after this village, because of the plane crash. Every togolese knows that at Sarakawa, the plane crashed. So please add the name or tell me how to change informations in your map, I already registered but I cant add more information. Sad! https://en.wikipedia.org/wiki/1974_Togo_presidential_C-47_crash",2,0,Syl,Already in the map
+1134954,Togo,6.1879360,1.2561110,2017-09-11 00:00:00,2025-01-14 18:22:54,0,hermann106,Tata Park,2,0,Syl,Je viens de corriger
+727387,Togo,6.1307202,1.2368354,2016-09-26 00:00:00,2025-01-14 17:57:38,0,Mahesh Ailani,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'it is a shop' (OSM data version: 2016-08-22T09:03:02Z) #mapsme",2,0,Syl,Je viens de corriger
+718470,Togo,6.1307202,1.2368354,2016-09-19 00:00:00,2025-01-14 17:57:37,0,Mahesh Ailani,0022891981015 (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Syl,Je viens de corriger
+712270,Togo,6.8631757,1.1836365,2016-09-14 00:00:00,2025-01-14 17:46:38,0,saliousoft,Lycée KPELE,2,0,Syl,A été ajouté depuis
+695288,Togo,6.2554076,1.4605808,2016-08-31 00:00:00,2025-01-14 17:44:07,0,168888,主干道标记错误，村庄，建筑物没标记。,2,0,Syl,A été complété depuis
+643025,Togo,6.1314716,1.2147617,2016-07-25 00:00:00,2025-01-14 17:40:33,0,Edem Roland ZOUNON,Pharmacie de la Mairie (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,Syl,A été ajoutée depuis
+575598,Togo,7.6948706,1.1983428,2016-05-27 00:00:00,2025-01-14 17:39:58,0,AKE Amazan,pont,2,0,Syl,A été ajouté depuis
+575597,Togo,7.6891635,1.1981221,2016-05-27 00:00:00,2025-01-14 17:39:29,0,AKE Amazan,pont,2,0,Syl,A été ajouté depuis
+481370,Togo,6.1343064,1.2165633,2015-12-11 00:00:00,2025-01-14 17:33:03,0,AKE Amazan,Ogar Assurance,2,0,Syl,A été ajouté depuis
+481350,Togo,6.1642500,1.3270079,2015-12-11 00:00:00,2025-01-14 17:30:14,0,AKE Amazan,Ecobank Baguida,2,0,Syl,A été ajouté depuis
+481348,Togo,6.1671850,1.3343747,2015-12-11 00:00:00,2025-01-14 17:13:10,0,AKE Amazan,Pharmacie Verseau,2,0,Syl,A été ajoutée depuis
+481341,Togo,6.1762565,1.3659605,2015-12-11 00:00:00,2025-01-14 16:42:28,0,AKE Amazan,Pharmacie Palme d'amour,2,0,Syl,A été ajoutée depuis
+4026524,Togo,6.1720357,1.1892056,2023-12-13 00:00:00,2025-01-09 21:19:53,0,Unknown,"Ici l'arrêt de bus est mal placé, la route a été élargie mais les arrêts de bus n'ont pas été mis à jour",2,0,hermann106,"Merci bien, l'erreur a été corrigé"
+2116736,Togo,6.1712499,1.1898913,2020-03-10 00:00:00,2025-01-09 21:16:20,0,hermann106,optique Lumière Vison 90317147 optiquelumierevision@gmail.com,2,0,hermann106,c'est fait
+2496017,Togo,6.1703565,1.1879402,2021-01-12 00:00:00,2025-01-09 21:11:18,0,hermann106,route,2,0,hermann106,c'est fait
+2496018,Togo,6.1700224,1.1889490,2021-01-12 00:00:00,2025-01-09 21:11:17,0,hermann106,vide au milieu,2,0,hermann106,c'est fait
+4006710,Togo,6.1705408,1.1866728,2023-11-28 00:00:00,2025-01-09 21:11:16,0,hermann106,moulin,2,0,hermann106,c'est fait
+2496016,Togo,6.1700890,1.1878419,2021-01-12 00:00:00,2025-01-09 21:11:15,0,hermann106,route,2,0,hermann106,c'est fait
+2966742,Togo,6.2367702,1.0964602,2021-12-10 00:00:00,2025-01-09 20:11:57,0,AKE Amazan,Péage déplacé,2,0,hermann106,d'accord
+3332313,Togo,6.1700000,1.1609900,2022-08-26 00:00:00,2025-01-06 14:57:43,0,SAKITI Kodjo,Maison SAKITI & DOSSOU,2,0,hermann106,c'est une information à caractère privé donc on ne peut pas mette cette information sur OSM
+3687444,Togo,6.1950060,1.1832296,2023-05-13 00:00:00,2024-10-28 23:09:33,0,paulinespirou,"'Dr. Daniel B. LAWSON, Chirurgien-Dentiste' OSM snapshot date: 2022-09-12T16:04:10Z POI name: Teranga POI types: amenity-dentist  #organicmaps",2,0,hermann106,information trop personnelle exposée.
+3052587,Togo,6.1908721,1.1915711,2022-02-15 00:00:00,2024-10-28 22:55:52,0,hermann106,plus,2,0,hermann106,c'est fait
+2764215,Togo,9.5577246,1.2105370,2021-07-21 00:00:00,2024-10-16 20:04:05,0,hermann106,soudeur,2,0,hermann106,c'est fait
+3527323,Togo,6.2047335,1.1796347,2023-01-22 00:00:00,2024-10-10 14:34:45,0,hermann106,restaurant africain,2,0,hermann106,c'est fait
+4013278,Togo,6.2255204,1.1942751,2023-12-03 00:00:00,2024-10-06 19:06:51,0,@Samarou,'Consulat Général Honoraire d'Italie au Togo' POI name: Consulat Général Honoraire d'Italie au Togo POI types: amenity-embassy OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,hermann106,c'est fait
+3945568,Togo,6.2056122,1.2068279,2023-10-17 00:00:00,2024-10-06 19:04:46,0,@Samarou,'IDS Technologie' POI name: IDS Technologie POI types: office-company OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,hermann106,c'est fait
+2954132,Togo,6.2104555,1.1882937,2021-11-30 00:00:00,2024-10-06 19:03:58,0,kkpatrick222,l'ecole RM,2,0,hermann106,c'est fait
+2954145,Togo,6.2127793,1.1884248,2021-11-30 00:00:00,2024-10-06 19:03:28,0,Unknown,"onosm.org submitted note from a business: name: Bar la fierté phone: +228 96 26 91 91 website: https://barlafierteagoe.wixsite.com/barlafiert/ twitter:  facebook: https://www.facebook.com/lafierteagoe email:  hours: Lundi-Dimanche 9h-23h category: Beer Bar, Cocktail Bars address: 6.2117216,1.1882526",2,0,hermann106,c'est fait
+2750575,Togo,6.2183096,1.1801194,2021-07-11 00:00:00,2024-10-06 19:02:27,0,hermann106,ce nom est à enlever,2,0,hermann106,c'est fait
+2802480,Togo,6.2237999,1.1675983,2021-08-14 00:00:00,2024-10-06 18:59:40,0,hermann106,carrefour,2,0,hermann106,c'est fait
+2620311,Togo,6.2283379,1.1664498,2021-04-13 00:00:00,2024-10-06 18:55:10,0,Stéphane Ali,Camp de prière MJSM,4,1,hermann106,c'est fait
+3823258,Togo,6.2342265,1.2167063,2023-08-08 00:00:00,2024-10-06 18:44:15,0,Unknown,ETHIC-TOGO,2,0,hermann106,c'est fait
+3424728,Togo,6.2636500,1.2088500,2022-11-02 00:00:00,2024-10-06 18:38:50,0,Unknown,SA INTERNATIONAL SARL,2,0,hermann106,c'est fait
+3013493,Togo,6.2435914,1.1933930,2022-01-16 00:00:00,2024-10-06 18:36:41,0,hermann106,boutique de vente de pagnes,2,0,hermann106,c'est fait
+3250549,Togo,6.2398080,1.1957679,2022-07-03 00:00:00,2024-10-06 18:34:58,0,hermann106,route manque à ce niveau,2,0,hermann106,c'est fait
+3208857,Togo,6.2285513,1.2076619,2022-06-04 00:00:00,2024-10-06 18:29:58,0,hermann106,bonne position du var la Capitale,2,0,hermann106,c'est fait
+712641,Togo,6.2331274,1.2056324,2016-09-15 00:00:00,2024-10-06 18:27:34,0,hermann106,wassa group et clin,2,0,hermann106,c'est fait
+2952723,Togo,6.2307924,1.1989645,2021-11-28 00:00:00,2024-10-06 18:25:27,0,hermann106,poste,2,0,hermann106,c'est fait
+2952713,Togo,6.2310544,1.1986555,2021-11-28 00:00:00,2024-10-06 18:25:03,0,hermann106,fucec,2,0,hermann106,c'est fait
+2802479,Togo,6.2203905,1.1699811,2021-08-14 00:00:00,2024-09-29 11:36:53,0,hermann106,pharmacie des roses,2,0,hermann106,c'est corrigé
+4435856,Togo,7.3593711,0.7999892,2024-09-15 00:00:00,2024-09-15 01:29:38,0,Noel_Tchallagassou,Gggh,2,0,Noel_Tchallagassou,
+823105,Togo,7.3418795,0.8465184,2016-12-20 00:00:00,2024-09-05 13:04:22,0,AKE Amazan,pont / bridge,4,1,noeltchallagassou,Djatowui
+2374880,Togo,7.4633687,0.7117510,2020-10-05 00:00:00,2024-09-05 12:45:17,0,Unknown,"The City/Village of Gbadi-N'kougna is missing here. The City of the WAWA 2 Communal residence, to which Agbo Kope belong to. Kindly make the modifications. Thanks",2,0,noeltchallagassou,Good
+866448,Togo,9.1746353,1.1604309,2017-01-26 00:00:00,2024-06-29 17:35:45,0,Unknown,Enriched,4,1,tchedre,
+3983899,Togo,6.1615422,1.2189245,2023-11-12 00:00:00,2024-06-19 04:42:59,0,Unknown,Chambre d'étudiant,2,0,KEVX,
+2776886,Togo,8.8365836,1.0783124,2021-07-29 00:00:00,2024-05-15 19:05:22,0,Unknown,PUITS N°,2,0,sheikchilli,unclear
+2442607,Togo,9.4755925,0.7896548,2020-11-26 00:00:00,2024-05-03 15:49:33,0,hermann106,ligne du projet,2,0,sheikchilli,personal note
+3754854,Togo,6.1913513,1.1947297,2023-06-28 00:00:00,2024-05-01 03:13:36,0,Unknown,속보HelloWORLD.,2,0,sheikchilli,hi
+3749851,Togo,6.1875901,1.1957932,2023-06-24 00:00:00,2024-05-01 03:13:29,0,Unknown,Yahoo Web Search Yahoo Settings Sign In Search query Yahoo Web Search Yahoo Settings Sign In Search query ताज़ा खबर 1 Microsoft W 1 Microsoft W World 143+305*70 Helloo rl Hella.o ニュース 速報 Go to www.bing.com 143+305*70 AllImagesVideosNews More We did not find results for: ताज़ा खबर 1 Microsoft W 1 Microsoft W World 143+305*70 Helloo rl Hella.o ニュース 速報 Go to www.bing.com 143+305*70. Try the suggestions below or type a new query above. Suggestions: Check your spelling. Try more general words. Try different words that mean the same thing. Trending Now 1 Wagner Group 2 Titan Submersible 3 Eve Wembanyama 4 Donald Trump 5 NCAA Baseball College World Series 6 Adam Rich 7 Frederic Forrest 8 PGA Championship Leaderboard 9 Chicago Cubs 10 Kourtney Kardashian SettingsHelpSuggestionsPrivacyTermsPrivacy DashboardAdvertiseAbout adsAbout this pageHella.o World top websites in the world HelloWORLD.  AllImagesVideosNews MoreAnytime People also ask  What is Yahoo Search set?   Is Yahoo Search Powered by Bing?   Where can I find Yahoo?   How do I Manage my website in Yahoo Search?  SettingsHelpSuggestionsPrivacyTermsPrivacy DashboardAdvertiseAbout adsAbout this pagePowered by Bing™,2,0,sheikchilli,spam
+488179,Togo,6.4328236,0.9267220,2015-12-25 00:00:00,2023-12-21 00:55:59,0,AKE Amazan,Gendarmerie Nationale,2,0,RicoElectrico,Added later by the user: https://www.openstreetmap.org/node/3935743485
+2332529,Togo,6.1731015,1.1773956,2020-09-02 00:00:00,2023-12-20 19:41:20,0,Jose95,Réparation électroménager,2,0,hermann106,c'est fait
+3292155,Togo,9.5571149,1.1934331,2022-07-31 00:00:00,2023-11-30 16:48:19,0,BANG YENH,Église des Assemblées de Dieu Chaminade,2,0,hermann106,c'est fait
+2035861,Togo,6.2087378,1.1591329,2019-12-24 00:00:00,2023-11-26 16:05:27,0,AKOUETE,Nunyalab,3,0,hermann106,c'est fait
+3998898,Togo,6.2548707,1.1566532,2023-11-23 00:00:00,2023-11-23 12:35:52,0,hermann106,carrefour Napoléon Kové,2,0,hermann106,c'est fait
+268767,Togo,6.2173163,1.2121224,2014-11-11 00:00:00,2023-11-18 09:09:09,0,Amen ABBEY MATHEY,Amen,4,1,hermann106,Pas d'informations personnelles
+3986889,Togo,6.2061200,1.1711700,2023-11-14 00:00:00,2023-11-14 11:49:38,0,LAFABRIK,La Villa des Ecritures,3,1,LAFABRIK,"Siège du festival La Fabrique de fictions, la villa des écritures accueille des résidences d'écritures, des sorties de résidences, ainsi que des lectures spectacles. C'est un cadre unique mis à la disposition d'acteurs du théâtre dans leur processus de création de fictions théâtrales. Son espace de coworking est ouvert à tous.tes."
+3945565,Togo,6.9654418,1.1719734,2023-10-17 00:00:00,2023-11-14 11:05:55,0,@Samarou,POI has no name POI types: shop-copyshop OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,confusedbuffalo,Note adds no information
+3973590,Togo,9.5896560,1.3080449,2023-11-05 00:00:00,2023-11-05 08:51:54,0,hermann106,marché,2,0,hermann106,C'est fait
+3565752,Togo,6.1606900,1.2126800,2023-02-19 00:00:00,2023-11-02 19:44:00,0,Unknown,SITE  DU PROJET,2,0,confusedbuffalo,"'Site' note, which is not appearing to indicate any issue with OSM data"
+3837969,Togo,6.1470304,1.2486135,2023-08-17 00:00:00,2023-10-27 16:06:39,0,Mateusz Konieczny,https://www.openstreetmap.org/node/4059871273  shop=vente de planche ? What is the meaning of that shop value? What kind of services or products are sold here? Is anything from https://wiki.openstreetmap.org/wiki/Key:shop fitting? Maybe new value needs to be invented? Maybe this data is wrong and there is no shop here? Maybe it is not a shop but something else?,3,1,ABOUBAKAR15,
+3945570,Togo,7.5278368,1.1313407,2023-10-17 00:00:00,2023-10-18 13:00:10,0,@Samarou,'Direction des Travaux Publiques (TP) - Atakpamé ' POI name: Direction des Travaux Publiques (TP) - Atakpamé POI types: office-government OSM data version: 2023-08-19T03:34:12Z  #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/3945571
+3945312,Togo,6.1978373,1.2453916,2023-10-17 00:00:00,2023-10-17 17:57:19,0,AKE Amazan,route à tracer,2,0,m_p_13,
+1746132,Togo,9.9558598,1.0436194,2019-04-14 00:00:00,2023-10-02 07:17:20,0,J_Chaumard,'La ville ne s’appelle pas Kandé mais Kanté. Remplacer le D par un T. ' POI name: Kandé POI types: place-town OSM data version: 2019-03-14T00:11:02Z  #mapsme,2,0,kmpoppe,Resolved with changeset https://www.openstreetmap.org/changeset/142024461 by noteSolver_plugin/0.5.0
+1716285,Togo,9.9558598,1.0436194,2019-03-19 00:00:00,2023-10-02 07:17:20,0,Senachenou,'Kantè et non Kandé' POI name: Kandé POI types: place-town OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,kmpoppe,Resolved with changeset https://www.openstreetmap.org/changeset/142024461 by noteSolver_plugin/0.5.0
+1651509,Togo,8.9943622,1.1528483,2019-01-16 00:00:00,2023-10-02 07:12:03,0,Kono Gan,'Aérodrome de Sokodé (absence d'activités)' POI name: Aérodrum de Sokodé POI types: aeroway-aerodrome OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,kmpoppe,Resolved with changeset https://www.openstreetmap.org/changeset/142024269 by noteSolver_plugin/0.5.0
+1437209,Togo,8.9943622,1.1528483,2018-06-26 00:00:00,2023-10-02 07:12:03,0,brooksdonald,'L’orthographie correcte est « Aérodrome ».  ' POI name: Aérodrum de Sokodé POI types: aeroway-aerodrome OSM data version: 2018-05-26T22:39:02Z  #mapsme,2,0,kmpoppe,Resolved with changeset https://www.openstreetmap.org/changeset/142024269 by noteSolver_plugin/0.5.0
+2563271,Togo,6.1987190,1.1425714,2021-03-02 00:00:00,2023-10-02 07:10:33,0,Tchagod,"'Déplacé' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Poste portique CEET HTA-BT Gendarmerie Sagbado POI types: tourism-artwork OSM data version: 2021-02-01T11:34:17Z  #mapsme",2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/2556333
+3906753,Togo,6.1497235,1.2253489,2023-09-24 00:00:00,2023-09-24 20:18:48,0,BenjaminMichaelis,'There is a gate here that I can’t pass through.' OSM snapshot date: 2023-08-14T02:00:17Z POI has no name POI types: amenity-atm  #organicmaps ios,2,0,BenjaminMichaelis,"Added the gate, gate is guarded by military. Saw people go through but not sure what their access was."
+3898982,Togo,6.1574675,1.2423697,2023-09-20 00:00:00,2023-09-20 13:04:09,0,Guy kessie,Control Parks Togo,2,0,Guy kessie,
+2277409,Togo,6.1404800,1.2014600,2020-07-24 00:00:00,2023-09-01 11:16:32,0,jc-net informatique,"Dépannage et intervention sur site. serveur mail, firewall, chat en réseau local, plateforme de travail collaboratif DMZ, vidéo surveillance, installation Domotique et le marketing relationnel. vente et communication ordinateurs, tablettes et smartphone.  conceptions et impressions sur tout support.",2,0,Sammyhawkrad,Il n'y a aucun équipement existant à ce stade et les informations fournies ne fournissent pas de détails pouvant être ajoutés à la carte.
+1904159,Togo,6.1160605,1.2006771,2019-08-28 00:00:00,2023-08-28 11:13:22,0,Ayouba Maiga,'chez Croyance' POI has no name POI types: highway-rest_area OSM data version: 2018-08-04T14:22:01Z  #mapsme,2,0,Sammyhawkrad,nom ajouté à l'équipement
+2825290,Togo,6.1160592,1.2013426,2021-08-28 00:00:00,2023-08-25 13:27:18,0,MJ BAD,'TEMPLE DE KODJOVIAKOPE' POI name: EGLISE DE PENTECÔTE DU TOGO POI types: amenity-place_of_worship OSM data version: 2021-02-01T11:34:17Z  #mapsme,2,0,Sammyhawkrad,Updated
+2421935,Togo,6.1489998,1.2014985,2020-11-13 00:00:00,2023-08-14 13:40:22,0,hermann106,agence Casablanca,3,0,Sammyhawkrad,No response in close to 3 years
+3519604,Togo,10.9430000,0.8502400,2023-01-15 00:00:00,2023-07-19 07:13:13,0,Christian COURBOIS,Village de Tiwoli,2,0,Christian COURBOIS,
+3567109,Togo,6.1657200,1.3021200,2023-02-20 00:00:00,2023-06-11 22:29:57,0,zaola,Hôtel espéra,2,0,Syl,Déjà présent
+3578719,Togo,7.7546915,1.3959342,2023-02-28 00:00:00,2023-06-11 22:29:24,0,Unknown,VILLAGE DE WANOU-COPE,2,0,Syl,Note en double
+3667185,Togo,6.4863966,0.8120855,2023-04-30 00:00:00,2023-05-01 11:01:25,0,Kehz,POI has no name POI types: amenity-school OSM data version: 2023-03-14T07:42:53Z  #mapsme,2,0,Syl,Note without information
+3061157,Togo,6.9659380,1.1683457,2022-02-22 00:00:00,2023-02-26 18:55:39,0,Lewi Media,Terrain AMEDZEAPE  via StreetComplete 39.1,2,0,AKOUETE,
+3059439,Togo,6.9659081,1.1683483,2022-02-21 00:00:00,2023-02-26 18:54:54,0,Lewi Media,"Positionnement de la maison AMEDZEAPE, NOTSÉ  via StreetComplete 39.1",2,0,AKOUETE,
+3572770,Togo,9.5303600,1.2064900,2023-02-24 00:00:00,2023-02-24 12:55:10,0,ti-lo,public restaurant or student canteen ? https://wiki.openstreetmap.org/wiki/FR:Key:campus,2,0,ti-lo,found it https://www.openstreetmap.org/way/113982123
+3070262,Togo,9.5298570,1.2081061,2022-03-02 00:00:00,2023-02-24 12:26:46,0,hermann106,Faculté de la FLESH,2,0,ti-lo,added https://www.openstreetmap.org/relation/5472379
+3250546,Togo,6.1911280,1.2515894,2022-07-03 00:00:00,2023-02-24 12:11:48,0,hermann106,Energy Generation new place,2,0,ti-lo,Is already there https://www.openstreetmap.org/node/9845917289
+3491762,Togo,6.2749034,1.1310316,2022-12-26 00:00:00,2022-12-28 13:13:26,0,SOMBORO,soudeur,2,0,SOMBORO,
+3491776,Togo,6.2773370,1.1374804,2022-12-26 00:00:00,2022-12-28 13:13:25,0,SOMBORO,École,2,0,SOMBORO,
+3491771,Togo,6.2744060,1.1331846,2022-12-26 00:00:00,2022-12-28 13:13:24,0,SOMBORO,AD Temple Sinaï Kogni Ville,2,0,SOMBORO,
+3491766,Togo,6.2686835,1.1251419,2022-12-26 00:00:00,2022-12-28 13:13:23,0,SOMBORO,Boutique,2,0,SOMBORO,
+3491780,Togo,6.2846898,1.1378626,2022-12-26 00:00:00,2022-12-28 13:13:22,0,SOMBORO,Bar,2,0,SOMBORO,
+3491761,Togo,6.2752996,1.1312333,2022-12-26 00:00:00,2022-12-28 13:13:21,0,SOMBORO,resto bimo,2,0,SOMBORO,
+3491775,Togo,6.2772018,1.1372500,2022-12-26 00:00:00,2022-12-28 13:13:20,0,SOMBORO,Boutique,2,0,SOMBORO,
+3491770,Togo,6.2731985,1.1302374,2022-12-26 00:00:00,2022-12-28 13:13:19,0,SOMBORO,Mosquée,2,0,SOMBORO,
+3491765,Togo,6.2681973,1.1249732,2022-12-26 00:00:00,2022-12-28 13:13:18,0,SOMBORO,Église Temple de la libération,2,0,SOMBORO,
+3491779,Togo,6.2870229,1.1371733,2022-12-26 00:00:00,2022-12-28 13:13:17,0,SOMBORO,Quincaillerie,2,0,SOMBORO,
+3491764,Togo,6.2730440,1.1275893,2022-12-26 00:00:00,2022-12-28 13:13:16,0,SOMBORO,Bar Lonlon,2,0,SOMBORO,
+3491769,Togo,6.2742303,1.1238663,2022-12-26 00:00:00,2022-12-28 13:13:16,0,SOMBORO,Boutique,2,0,SOMBORO,
+3491778,Togo,6.2777196,1.1377616,2022-12-26 00:00:00,2022-12-28 13:13:15,0,SOMBORO,Bar Restaurant,2,0,SOMBORO,
+3491773,Togo,6.2771002,1.1351616,2022-12-26 00:00:00,2022-12-28 13:13:14,0,SOMBORO,Boutique,2,0,SOMBORO,
+3491768,Togo,6.2750024,1.1236658,2022-12-26 00:00:00,2022-12-28 13:13:13,0,SOMBORO,Salon de coiffure,2,0,SOMBORO,
+3491763,Togo,6.2744121,1.1300486,2022-12-26 00:00:00,2022-12-28 13:13:12,0,SOMBORO,Moulin,2,0,SOMBORO,
+3491772,Togo,6.2768331,1.1347090,2022-12-26 00:00:00,2022-12-28 13:13:11,0,SOMBORO,Église cité de la vie,2,0,SOMBORO,
+3491767,Togo,6.2722321,1.1252653,2022-12-26 00:00:00,2022-12-28 13:13:10,0,SOMBORO,Église Catholique Sainte Thérèse D'Avila de Kognito,2,0,SOMBORO,
+3491790,Togo,6.2829964,1.1411418,2022-12-26 00:00:00,2022-12-28 12:46:33,0,SOMBORO,École,2,0,SOMBORO,
+3491804,Togo,6.2816608,1.1332426,2022-12-26 00:00:00,2022-12-28 12:46:32,0,SOMBORO,Boutique,2,0,SOMBORO,
+3491785,Togo,6.2818735,1.1373526,2022-12-26 00:00:00,2022-12-28 12:46:31,0,SOMBORO,Salon de coiffure,2,0,SOMBORO,
+3491799,Togo,6.2792362,1.1361837,2022-12-26 00:00:00,2022-12-28 12:46:30,0,SOMBORO,Antenne TogoCom,2,0,SOMBORO,
+3491794,Togo,6.2802076,1.1380794,2022-12-26 00:00:00,2022-12-28 12:46:29,0,SOMBORO,Mosquée,2,0,SOMBORO,
+3491789,Togo,6.2854494,1.1417131,2022-12-26 00:00:00,2022-12-28 12:46:27,0,SOMBORO,Boutique,2,0,SOMBORO,
+3491803,Togo,6.2806765,1.1323735,2022-12-26 00:00:00,2022-12-28 12:46:26,0,SOMBORO,Boutique,2,0,SOMBORO,
+3491784,Togo,6.2811508,1.1382755,2022-12-26 00:00:00,2022-12-28 12:46:25,0,SOMBORO,Cabinet médical SEMANOU,2,0,SOMBORO,
+3491798,Togo,6.2793440,1.1363525,2022-12-26 00:00:00,2022-12-28 12:46:24,0,SOMBORO,Motel Happy Global Palace,2,0,SOMBORO,
+3491793,Togo,6.2803310,1.1388649,2022-12-26 00:00:00,2022-12-28 12:46:23,0,SOMBORO,Quincaillerie,2,0,SOMBORO,
+3491788,Togo,6.2855041,1.1416890,2022-12-26 00:00:00,2022-12-28 12:46:22,0,SOMBORO,Pharmacie BAKOE,2,0,SOMBORO,
+3491802,Togo,6.2807976,1.1309972,2022-12-26 00:00:00,2022-12-28 12:46:21,0,SOMBORO,Complexe scolaire Clé du Savoir,2,0,SOMBORO,
+3491783,Togo,6.2828067,1.1381305,2022-12-26 00:00:00,2022-12-28 12:46:19,0,SOMBORO,Happy Shop,2,0,SOMBORO,
+3491797,Togo,6.2801408,1.1363708,2022-12-26 00:00:00,2022-12-28 12:46:18,0,SOMBORO,Shalom couture,2,0,SOMBORO,
+3491787,Togo,6.2851490,1.1414207,2022-12-26 00:00:00,2022-12-28 12:46:17,0,SOMBORO,Atelier soudure,2,0,SOMBORO,
+3491801,Togo,6.2799876,1.1317959,2022-12-26 00:00:00,2022-12-28 12:46:16,0,SOMBORO,Mosquée,2,0,SOMBORO,
+3491796,Togo,6.2824564,1.1361939,2022-12-26 00:00:00,2022-12-28 12:46:15,0,SOMBORO,Bar,2,0,SOMBORO,
+3491791,Togo,6.2823296,1.1401423,2022-12-26 00:00:00,2022-12-28 12:46:14,0,SOMBORO,Antenne TOGOCOM,2,0,SOMBORO,
+3491786,Togo,6.2828043,1.1367414,2022-12-26 00:00:00,2022-12-28 12:46:13,0,SOMBORO,Boutique,2,0,SOMBORO,
+3491800,Togo,6.2799147,1.1331870,2022-12-26 00:00:00,2022-12-28 12:46:12,0,SOMBORO,Salon coiffure,2,0,SOMBORO,
+3491781,Togo,6.2840692,1.1391927,2022-12-26 00:00:00,2022-12-28 12:46:11,0,SOMBORO,Boutique,2,0,SOMBORO,
+3491795,Togo,6.2808874,1.1365000,2022-12-26 00:00:00,2022-12-28 12:46:09,0,SOMBORO,Boutique,2,0,SOMBORO,
+3491813,Togo,6.2848733,1.1421767,2022-12-26 00:00:00,2022-12-28 12:15:25,0,SOMBORO,Bar Resto mon espoir,2,0,SOMBORO,
+3491808,Togo,6.2865344,1.1238073,2022-12-26 00:00:00,2022-12-28 12:15:23,0,SOMBORO,Mosquée,2,0,SOMBORO,
+3491812,Togo,6.2876154,1.1349373,2022-12-26 00:00:00,2022-12-28 12:15:22,0,SOMBORO,Poissonnerie,2,0,SOMBORO,
+3491807,Togo,6.2857637,1.1247322,2022-12-26 00:00:00,2022-12-28 12:15:21,0,SOMBORO,Quincaillerie,2,0,SOMBORO,
+3491811,Togo,6.2878531,1.1339473,2022-12-26 00:00:00,2022-12-28 12:15:20,0,SOMBORO,Église,2,0,SOMBORO,
+3491806,Togo,6.2856002,1.1239536,2022-12-26 00:00:00,2022-12-28 12:15:19,0,SOMBORO,CMS le Magnificat,2,0,SOMBORO,
+3491810,Togo,6.2878508,1.1308680,2022-12-26 00:00:00,2022-12-28 12:15:18,0,SOMBORO,CMS Virginia,2,0,SOMBORO,
+3491805,Togo,6.2818264,1.1340595,2022-12-26 00:00:00,2022-12-28 12:15:17,0,SOMBORO,École Enfants bénis,2,0,SOMBORO,
+3491809,Togo,6.2879602,1.1247490,2022-12-26 00:00:00,2022-12-28 12:15:16,0,SOMBORO,Bar,2,0,SOMBORO,
+3491792,Togo,6.2799837,1.1401655,2022-12-26 00:00:00,2022-12-26 14:56:55,0,SOMBORO,École privée,2,0,SOMBORO,Cartographié
+3354418,Togo,6.9240936,0.6314351,2022-09-10 00:00:00,2022-11-13 23:04:41,0,hermann106,auberge,2,0,Syl,A été ajoutée depuis
+3293754,Togo,11.1173000,-0.1035000,2022-08-01 00:00:00,2022-11-13 23:03:59,0,Unknown,"Dans la nuit du 15 Juin 2022, l'armée togolaise a repoussé une nouvelle attaque dans la localité",2,0,Syl,Rien à modifier dans OSM
+3222764,Togo,6.1687075,1.2170700,2022-06-13 00:00:00,2022-11-13 23:00:28,0,AMETOVENA,Unable to answer 'What’s the house number of this building?' for https://osm.org/way/193240989 via StreetComplete 42.0:  Pas de numéro,2,0,Syl,Rien à modifier
+3192735,Togo,6.3762911,1.4769090,2022-05-24 00:00:00,2022-11-13 22:59:30,0,AGBENONSI Séna Prosper,"Bonjour, s'il vous plaît, l'a y une rectification au niveau du nom de cet village. C'est 'Adankpo-kondji' et non 'Adagbokondi'",4,1,Syl,A été modifié depuis
+3165807,Togo,6.1770310,1.1768485,2022-05-05 00:00:00,2022-11-13 22:58:00,0,hermann106,bassin de rétention,2,0,Syl,Déjà présent
+3028538,Togo,9.2582201,0.7819970,2022-01-28 00:00:00,2022-11-13 22:53:42,0,zoubinnaba,Unable to answer 'What is the name of this road?' for https://osm.org/way/403509928 via StreetComplete 39.1:  Adressage pas encore fait,2,0,Syl,Rien à modifier
+2991711,Togo,6.2070625,1.1830272,2022-01-01 00:00:00,2022-11-13 22:51:49,0,hermann106,boutique de vente des produits de beauté et sac de femmes,2,0,Syl,A été ajouté depuis
+2968090,Togo,6.2297573,1.1514603,2021-12-12 00:00:00,2022-11-13 22:51:03,0,hermann106,terrain de football,2,0,Syl,Déjà présent
+2911240,Togo,6.1849288,1.1785573,2021-10-26 00:00:00,2022-11-13 22:47:59,0,hermann106,cette boutique n'existe plus,2,0,Syl,Il n'y a plus rien ici dans OSM
+2807997,Togo,6.2076171,1.1748308,2021-08-17 00:00:00,2022-11-13 22:43:58,0,hermann106,Clinique,2,0,Syl,Déjà présente
+2764213,Togo,9.5524909,1.2037676,2021-07-21 00:00:00,2022-11-13 22:41:01,0,hermann106,route,2,0,Syl,A été ajoutée depuis
+2764212,Togo,9.5512647,1.2024129,2021-07-21 00:00:00,2022-11-13 22:40:11,0,hermann106,route,2,0,Syl,A été ajoutée depuis
+2764209,Togo,9.5500764,1.1959562,2021-07-21 00:00:00,2022-11-13 22:39:08,0,hermann106,pont,2,0,Syl,Déjà présent
+2764206,Togo,9.5507567,1.1949569,2021-07-21 00:00:00,2022-11-13 22:38:20,0,hermann106,pint,2,0,Syl,A été ajouté depuis
+2764208,Togo,9.5506953,1.1948748,2021-07-21 00:00:00,2022-11-13 22:38:19,0,hermann106,route,2,0,Syl,A été ajoutée depuis
+2764207,Togo,9.5508479,1.1955464,2021-07-21 00:00:00,2022-11-13 22:38:19,0,hermann106,route,2,0,Syl,A été ajoutée depuis
+2757007,Togo,9.5454376,1.1539551,2021-07-16 00:00:00,2022-11-13 22:35:30,0,hermann106,changer le sens,2,0,Syl,A été modifié depuis
+2700687,Togo,6.3143177,1.2462035,2021-06-05 00:00:00,2022-11-13 22:33:53,0,hermann106,route,2,0,Syl,A été ajoutée depuis
+2683938,Togo,6.2242683,1.2101638,2021-05-25 00:00:00,2022-11-13 22:32:13,0,hermann106,Agoè-nyivé,2,0,Syl,A été modifié depuis
+2680257,Togo,6.1535092,1.2312467,2021-05-22 00:00:00,2022-11-13 22:31:01,0,AKOUETE,Rue kokote 41. SJO,2,0,Syl,A été ajouté depuis
+2680253,Togo,6.1560988,1.2405102,2021-05-22 00:00:00,2022-11-13 22:29:17,0,ADJANGBA,rue aneboussou 230 . ktn,2,0,Syl,A été ajouté depuis
+2680251,Togo,6.1561392,1.2348335,2021-05-22 00:00:00,2022-11-13 22:28:19,0,saliousoft,rue 142,2,0,Syl,A été ajouté depuis
+2680246,Togo,6.1568287,1.2333951,2021-05-22 00:00:00,2022-11-13 22:27:19,0,hermann106,rue des loisirs 89.tkn,2,0,Syl,A été ajoutée depuis
+2680224,Togo,6.1563927,1.2343221,2021-05-22 00:00:00,2022-11-13 22:25:29,0,AKE Amazan,Rue 138.TKN,2,0,Syl,A été ajouté depuis
+2673412,Togo,6.1962648,1.1908744,2021-05-18 00:00:00,2022-11-13 22:23:08,0,aluwasio,'pour l'association ALUWASIO vois pouvez aussi visiter www.radio-aluwasio.dx.am' POI name: Association Aluwasio POI types: office-ngo OSM data version: 2021-02-01T11:34:17Z  #mapsme,2,0,Syl,Le lien est déjà présent
+2586727,Togo,6.1883603,1.1756311,2021-03-20 00:00:00,2022-11-13 22:21:13,0,hermann106,grande voie,2,0,Syl,A été modifiée depuis
+2512490,Togo,6.1301390,1.2138138,2021-01-25 00:00:00,2022-11-13 22:13:25,0,hermann106,4 niveaus,2,0,Syl,A été ajouté depuis
+2474026,Togo,6.1327794,1.2354070,2020-12-26 00:00:00,2022-11-13 22:11:13,0,hermann106,akif,2,0,Syl,Déjà présent
+2460240,Togo,10.3549509,0.4412841,2020-12-12 00:00:00,2022-11-13 22:09:26,0,hermann106,route,2,0,Syl,A été ajoutée depuis
+2344868,Togo,6.2188016,1.1919413,2020-09-12 00:00:00,2022-11-13 22:06:25,0,hermann106,route,2,0,Syl,A été ajoutée depuis
+2305927,Togo,6.1784971,1.2022326,2020-08-13 00:00:00,2022-11-13 22:05:07,0,hermann106,mosquée,2,0,Syl,A été ajoutée depuis
+2245572,Togo,6.1830653,1.1770066,2020-06-28 00:00:00,2022-11-13 18:24:19,0,hermann106,boutique,2,0,Syl,Déjà présente
+2092301,Togo,6.1537519,1.2547113,2020-02-16 00:00:00,2022-11-13 18:20:40,0,Pierre Sicard,"'Super bar en bord de lagune, patron très sympa !' POI name: Bar chez POI types: amenity-bar OSM data version: 2019-11-24T01:08:45Z  #mapsme",8,1,Syl,"Le bonjour de nous remy et pierre et le gin, qui avons mis son bar sur google maps, on a  pas retrouvé son contact..  😜"
+2091235,Togo,6.1988589,1.1425406,2020-02-15 00:00:00,2022-11-13 18:19:23,0,Delacosta,Petite erreur d'emplacement,6,1,Syl,Il n'y a rien ici dans OSM
+2047292,Togo,6.1871059,1.1781113,2020-01-05 00:00:00,2022-11-13 18:16:46,0,hermann106,coller la route,2,0,Syl,A été corrigé depuis
+2038651,Togo,6.2348390,1.1369792,2019-12-28 00:00:00,2022-11-13 18:14:33,0,hermann106,cette voie est grand axe,2,0,Syl,A été modifié depuis
+2035862,Togo,6.2087378,1.1591329,2019-12-24 00:00:00,2022-11-13 18:12:30,0,AKOUETE,Nunyalab,2,0,Syl,Note en double
+2030684,Togo,10.3612986,0.4770667,2019-12-18 00:00:00,2022-11-13 18:11:00,0,AKOUETE,Mosquée,2,0,Syl,A été ajoutée depuis
+2025633,Togo,6.9241016,0.6341339,2019-12-13 00:00:00,2022-11-13 18:08:52,0,hermann106,mercerie,2,0,Syl,A été ajouté depuis
+2025632,Togo,6.9235094,0.6343969,2019-12-13 00:00:00,2022-11-13 18:08:16,0,hermann106,tapissier,2,0,Syl,A été ajouté depuis
+2025631,Togo,6.9232969,0.6343856,2019-12-13 00:00:00,2022-11-13 18:07:27,0,hermann106,vente de chaussures,2,0,Syl,A été ajouté depuis
+2025628,Togo,6.9209167,0.6344796,2019-12-13 00:00:00,2022-11-13 18:06:37,0,hermann106,vente de ciment,2,0,Syl,A été ajouté depuis
+2025630,Togo,6.9226293,0.6344172,2019-12-13 00:00:00,2022-11-13 18:06:06,0,hermann106,New Version mutilmédia,2,0,Syl,A été ajouté depuis
+1999127,Togo,9.2880476,0.9022012,2019-11-17 00:00:00,2022-11-13 18:04:27,0,houtari,duplicate ways,2,0,Syl,A été corrigé depuis
+1930842,Togo,6.2226865,1.1965227,2019-09-18 00:00:00,2022-11-13 18:01:52,0,Unknown,Enlever le  nom de la maison,2,0,Syl,A été corrigé depuis
+1799699,Togo,6.1769890,1.1707030,2019-06-02 00:00:00,2022-11-13 18:00:06,0,hermann106,les Frères cinéma n'y sont plus,3,0,Syl,Il n'y a plus rien ici dans OSM
+1753578,Togo,9.0141302,1.1385535,2019-04-22 00:00:00,2022-11-13 17:58:47,0,Koko de Gaulle,"'Mauvais placement ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: La Main de Dieu POI types: amenity-bar OSM data version: 2019-03-14T00:11:02Z  #mapsme",2,0,Syl,Note en double
+1720439,Togo,6.1936700,1.1909700,2019-03-23 00:00:00,2022-11-13 17:54:19,0,Unknown,"Ici se se trouve ISM Adonaï ( https://www.google.com/maps/dir//ISM+Adona%C3%AF,+Totsi,+Lom%C3%A9/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x102158f57bff4ae5:0xe3e257fea214f1af?sa=X&ved=2ahUKEwj3tPXBvJjhAhVzTBUIHS4oC-4Q48ADMAB6BAgJECU )",2,0,Syl,A été ajouté depuis
+1601188,Togo,6.2060737,1.1914028,2018-11-26 00:00:00,2022-11-13 17:51:06,0,integras,"Ker Yvonne, chambres d'hôtes",2,0,Syl,A été ajouté depuis
+1503178,Togo,10.7943461,0.4458912,2018-08-26 00:00:00,2022-11-13 17:46:31,0,Lmburgess43,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-biergarten OSM data version: 2018-07-05T18:22:02Z  #mapsme",2,0,Syl,Il n'y a plus rien ici dans OSM
+1503179,Togo,10.7943461,0.4458912,2018-08-26 00:00:00,2022-11-13 17:46:30,0,Lmburgess43,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: EPP-Bondjoaré POI types: amenity-school OSM data version: 2018-07-05T18:22:02Z  #mapsme",2,0,Syl,Il n'y a plus rien ici dans OSM
+1124445,Togo,6.1718290,1.2352920,2017-09-02 00:00:00,2022-11-13 17:42:06,0,Enock4seth,connecté,2,0,Syl,A été corrigé depuis
+1260813,Togo,6.1834440,1.2031443,2018-01-07 00:00:00,2022-11-13 17:40:56,0,Enock4seth,connecté,2,0,Syl,A été corrigé depuis
+1240257,Togo,6.9153649,0.6275927,2017-12-16 00:00:00,2022-11-13 17:36:58,0,Bernard Matagne,"'Le restaurant à déménagé ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Le Bon Vivant POI types: amenity-restaurant OSM data version: 2017-11-17T20:18:02Z  #mapsme",2,0,Syl,Il n'y a plus rien ici dans OSM
+1120695,Togo,6.1819750,1.1950217,2017-08-29 00:00:00,2022-11-13 17:34:47,0,Enock4seth,surface pavements,2,0,Syl,A été modifié depuis
+1124449,Togo,6.1700668,1.1916972,2017-09-02 00:00:00,2022-11-13 17:32:44,0,Enock4seth,il y a un antenne,2,0,Syl,A été ajoutée depuis
+844549,Togo,6.9107717,0.6319995,2017-01-07 00:00:00,2022-11-13 17:25:39,0,Jonathan Voborsky,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-11-23T15:14:03Z) #mapsme",2,0,Syl,Il n'y a plus rien ici dans OSM
+800016,Togo,6.1697503,1.2970948,2016-11-29 00:00:00,2022-11-13 17:17:55,0,Unknown,Stade Omnisport Sylvanus Olympio de Kanyi-Kopé,2,0,Syl,Note en double
+794023,Togo,6.1787063,1.2401985,2016-11-24 00:00:00,2022-11-13 17:16:53,0,SANTONYODEGUIDI2,JANNONCE (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,Syl,Note en double
+729388,Togo,6.1596913,1.2357200,2016-09-28 00:00:00,2022-11-13 17:15:37,0,hermann106,nukafu microfinance,2,0,Syl,A été ajouté depuis
+706618,Togo,6.2212449,1.2047442,2016-09-09 00:00:00,2022-11-13 17:11:46,0,hermann106,qoncordia,2,0,Syl,Déjà présent
+575596,Togo,7.6648836,1.1894953,2016-05-27 00:00:00,2022-11-13 17:08:27,0,AKE Amazan,pont,2,0,Syl,A été ajouté depuis
+533892,Togo,6.1812864,1.2177151,2016-03-27 00:00:00,2022-11-13 17:06:48,0,AKE Amazan,Rue 148,2,0,Syl,A été ajoutée depuis
+481359,Togo,6.1519780,1.2873786,2015-12-11 00:00:00,2022-11-13 17:04:14,0,AKE Amazan,CIMTOGO,2,0,Syl,Déjà présent
+475653,Togo,6.1311380,1.2250031,2015-11-28 00:00:00,2022-11-13 16:59:50,0,AKE Amazan,Rue de L'EGLISE,2,0,Syl,A été ajouté depuis
+474474,Togo,6.1559492,1.2319535,2015-11-26 00:00:00,2022-11-13 16:58:42,0,AKE Amazan,name: Rue Saint Joseph,2,0,Syl,A été ajouté depuis
+3412235,Togo,6.1735009,1.2370307,2022-10-24 00:00:00,2022-11-13 13:56:47,0,paulinespirou,'Maternelle-elementaire-college' OSM snapshot date: 2022-09-12T16:04:10Z POI name: La Fondation 2 POI types: amenity-school  #organicmaps,2,0,Syl,Note en double
+3437394,Togo,7.5032734,0.9833277,2022-11-11 00:00:00,2022-11-11 12:57:44,0,Bblack92,Poste de Police de Dedome,2,0,Bblack92,
+2562669,Togo,6.1979942,1.1433577,2021-03-02 00:00:00,2022-11-11 10:30:03,0,Tchagod,"'Mauvais emplacement' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: psurface-unpaved_good highway-residential OSM data version: 2021-02-01T11:34:17Z  #mapsme",2,0,Syl,Il n'y a rien ici dans OSM
+2562670,Togo,6.1902248,1.1368286,2021-03-02 00:00:00,2022-11-11 10:29:19,0,Tchagod,"'Mauvais emplacement' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: psurface-unpaved_good highway-unclassified OSM data version: 2021-02-01T11:34:17Z  #mapsme",2,0,Syl,Il n'y a rien ici dans OSM
+2563266,Togo,6.1902248,1.1368286,2021-03-02 00:00:00,2022-11-11 10:28:57,0,Tchagod,"'Déménagement' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: psurface-unpaved_good highway-unclassified OSM data version: 2021-02-01T11:34:17Z  #mapsme",2,0,Syl,Il n'y a rien ici dans OSM
+3366503,Togo,6.2188000,1.2375000,2022-09-20 00:00:00,2022-11-04 22:10:03,0,Wezam,TOTAL KELEGOUGAN,3,1,Noél,TOTAL KEL
+2752495,Togo,9.0121745,1.1356263,2021-07-12 00:00:00,2022-08-21 14:10:04,0,hermann106,gendarmerie,2,0,Syl,Déjà présente
+588047,Togo,8.9433448,1.1282893,2016-06-08 00:00:00,2022-08-02 04:35:26,0,bufferclip,What is this? Is this building destroyed?,4,1,shwgu_cyient,
+3294966,Togo,8.9434294,1.1262986,2022-08-02 00:00:00,2022-08-02 04:21:02,0,shwgu_cyient,note,2,0,shwgu_cyient,
+3293835,Togo,6.2295800,1.1303000,2022-08-01 00:00:00,2022-08-01 11:37:24,0,société de livraison de gaz à domicile (GADDS),société de livraison de gaz à domicile denou services (GADDS),4,1,société de livraison de gaz à domicile (GADDS),
+2876170,Togo,10.8994250,0.1603633,2021-10-01 00:00:00,2022-07-20 12:43:33,0,AKE Amazan,village de kossongou,2,0,BANG YENH,c'est fait
+2876168,Togo,10.9103666,0.0121469,2021-10-01 00:00:00,2022-07-20 12:43:32,0,AKE Amazan,village de Kanloun,2,0,BANG YENH,c'est fait
+2876169,Togo,10.9072498,0.0098291,2021-10-01 00:00:00,2022-07-20 12:43:31,0,AKE Amazan,Village de Tanlongue,2,0,BANG YENH,C'est fait
+2876166,Togo,10.8913854,0.0328030,2021-10-01 00:00:00,2022-07-20 12:23:06,0,AKE Amazan,village de naboigbane,2,0,BANG YENH,c'est fait
+2823946,Togo,10.8737840,0.2026859,2021-08-27 00:00:00,2022-07-16 11:20:55,0,zoubinnaba,présence d'une rue à numeriser,2,0,hermann106,c'est fait
+3268605,Togo,9.5585967,1.1907259,2022-07-15 00:00:00,2022-07-15 17:50:23,0,BANG YENH,Soudure,2,0,hermann106,c'est fait
+3268607,Togo,9.5576787,1.1906448,2022-07-15 00:00:00,2022-07-15 17:50:22,0,BANG YENH,vrai emplacement Ets Bel Dam,2,0,hermann106,c'est fait
+3268608,Togo,9.5580738,1.1874610,2022-07-15 00:00:00,2022-07-15 17:50:18,0,BANG YENH,Club des Amis,2,0,hermann106,c'est fait
+3268609,Togo,9.5581619,1.1859754,2022-07-15 00:00:00,2022-07-15 17:50:18,0,BANG YENH,Pont Catin,2,0,hermann106,c'est fait
+2460243,Togo,10.8812390,0.2020334,2020-12-12 00:00:00,2022-07-13 10:51:58,0,hermann106,bassin de rétention d'eau,2,0,BANG YENH,c'est fait
+2876172,Togo,10.8933144,0.1296360,2021-10-01 00:00:00,2022-07-13 10:49:57,0,AKE Amazan,Village de Seosambiani,2,0,BANG YENH,c'est fait
+2876171,Togo,10.8838123,0.1494453,2021-10-01 00:00:00,2022-07-13 10:47:23,0,AKE Amazan,village de Toutougou,2,0,BANG YENH,c'est fait
+3265261,Togo,10.8965360,0.1735336,2022-07-13 00:00:00,2022-07-13 10:43:57,0,BANG YENH,usine de nsct,2,0,BANG YENH,l'emplacement n'est pas bon
+1602234,Togo,9.6982279,0.5712891,2018-11-28 00:00:00,2022-06-28 23:06:19,0,Unknown,franace (This note have been created from Geovelo : http://amenagements-cyclables.fr/fr/contributions/5760),2,0,Syl,Note inutilisable
+704588,Togo,6.1307202,1.2368354,2016-09-07 00:00:00,2022-04-04 18:02:08,0,Mahesh Ailani,VENDE DE PS DETASHE ET MOTO TVS (OSM data version: 2016-08-22T09:03:02Z) #mapsme,4,1,Timhud9,
+3097015,Togo,6.3119160,1.1287027,2022-03-21 00:00:00,2022-03-21 20:46:15,0,hermann106,fuel,2,0,hermann106,c'est fait
+3083139,Togo,6.1939138,1.1190766,2022-03-10 00:00:00,2022-03-10 23:45:43,0,Lastking228,Poste segbe,2,0,Lastking228,
+488180,Togo,6.4357075,0.9246087,2015-12-25 00:00:00,2022-03-08 23:26:24,0,AKE Amazan,Agence de la Poste,2,0,Syl,A été ajoutée depuis
+488177,Togo,6.4317888,0.9275292,2015-12-25 00:00:00,2022-03-08 23:25:03,0,AKE Amazan,Station essence Cap,2,0,Syl,A été ajoutée depuis
+481351,Togo,6.1636634,1.3249563,2015-12-11 00:00:00,2022-03-08 23:23:06,0,AKE Amazan,Station essence Total,2,0,Syl,A été ajouté depuis
+2764214,Togo,9.5525364,1.2041436,2021-07-21 00:00:00,2022-02-23 18:33:46,0,hermann106,pharmacie santé plus,2,0,Syl,A été modifié depuis
+2490703,Togo,6.1597189,1.2261950,2021-01-08 00:00:00,2022-02-23 13:44:29,0,hermann106,la pharmacie forever se trouve plutôt là,2,0,Syl,Pharmacie en double supprimée
+2466613,Togo,6.1940845,1.1379381,2020-12-19 00:00:00,2022-02-23 13:39:24,0,hermann106,la pharmacie est plutôt là,2,0,Syl,Emplacement corrigé
+2174946,Togo,6.1527946,1.2295311,2020-04-28 00:00:00,2022-02-21 22:13:55,0,hermann106,bonne place de la pharmacie,2,0,Syl,A été modifié depuis
+2163952,Togo,6.1894353,1.2103951,2020-04-18 00:00:00,2022-02-16 17:22:37,0,hermann106,bâtiment,2,0,PIASamarou,
+2478046,Togo,6.1939599,1.1969866,2020-12-29 00:00:00,2022-02-14 19:16:45,0,hermann106,l'association à fermé,2,0,hermann106,pas sûr
+2478047,Togo,6.1939938,1.1971969,2020-12-29 00:00:00,2022-02-14 19:16:44,0,hermann106,l'association à fermé,2,0,hermann106,pas sûr
+3045836,Togo,7.5338300,1.1243400,2022-02-10 00:00:00,2022-02-10 19:02:58,0,JulesAgro,Revendeurs de Fonio,4,1,JulesAgro,Chez Maman Fonio
+3043614,Togo,6.1339549,1.2527729,2022-02-09 00:00:00,2022-02-09 15:50:03,0,amplome,Résidence ROUGE,2,0,amplome,
+2483567,Togo,7.7774659,1.1923148,2021-01-03 00:00:00,2022-01-20 23:39:21,0,Hseh,'Anié- Kpassakopé' POI name: Ets GLORIA POI types: shop-copyshop internet_access-wlan OSM data version: 2020-09-19T23:20:21Z  #mapsme,2,0,hermann106,c'est fait
+1886194,Togo,6.2157300,1.1722366,2019-08-15 00:00:00,2021-12-24 11:34:58,0,Antoinelaw,"'catégorie manquant, impossible d'ajouter  d'autres catégorie' POI has no name POI types: leisure-playground OSM data version: 2019-06-21T10:47:15Z  #mapsme",2,0,hermann106,c'est fait
+1915388,Togo,6.2157300,1.1722366,2019-09-06 00:00:00,2021-12-24 11:34:58,0,Antoinelaw,"'catégorie manquant, impossible d'ajouter  d'autres catégorie' POI has no name POI types: leisure-playground OSM data version: 2019-06-21T10:47:15Z  #mapsme",2,0,hermann106,c'est fait
+1872396,Togo,6.1367400,1.2129700,2019-08-07 00:00:00,2021-12-15 01:56:47,0,Unknown,Beauty Paradise,2,0,hermann106,c'est fait
+248584,Togo,6.1458585,1.2315264,2014-09-28 00:00:00,2021-12-15 01:53:55,0,Oberpfälzer,outer line of landuse=residential (id=37461727) was deleted - only one inner line remains,2,0,hermann106,c'est fait
+1013643,Togo,6.1394036,1.2214501,2017-05-30 00:00:00,2021-12-15 01:15:11,0,Koutcho,'Maison Koutcho' POI name: Adeticope POI types: shop-sports OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,hermann106,c'est une information à caractère personnelle
+821022,Togo,6.1425123,1.2282101,2016-12-18 00:00:00,2021-12-15 01:07:16,0,MJ BAD,imprimerie (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,hermann106,c'est fait
+1405089,Togo,6.1377483,1.2113350,2018-05-25 00:00:00,2021-12-15 01:07:15,0,aurelien kouame,gare STC,2,0,hermann106,c'est fait
+841851,Togo,6.1422843,1.2281245,2017-01-05 00:00:00,2021-12-15 01:07:14,0,MJ BAD,"SODABI , vin etc (OSM data version: 2016-11-05T13:55:03Z) #mapsme",2,0,hermann106,c'est fait
+575583,Togo,6.3449595,1.2134388,2016-05-27 00:00:00,2021-12-02 15:34:49,0,AKE Amazan,Installation Tde,4,0,hermann106,La note est si vieille qu'il faut penser à aller vérifier encore une fois
+2954130,Togo,6.2118794,1.1882749,2021-11-30 00:00:00,2021-11-30 09:59:35,0,kkpatrick222,Bar La fierté -BAR & RESTO,4,1,hermann106,c'est fait
+2945271,Togo,6.2119087,1.1883366,2021-11-22 00:00:00,2021-11-30 02:29:17,0,Unknown,"onosm.org submitted note from a business: name: Bar La Fierté - BAR&RESTO phone: +22896269191 website: https://barlafierteagoe.wixsite.com/barlafiert/ twitter: @BarFierte facebook: https://www.facebook.com/lafierteagoe email: barlafierteagoe@gmail.com hours: Lundi-Dimanche 09:00-23:00 category: African Restaurants, Bars address: 6.2117216,1.1882526",4,1,kevinoustoffa,
+2874516,Togo,6.2131688,1.1846449,2021-09-30 00:00:00,2021-11-30 01:50:14,0,hermann106,parking,2,0,kkpatrick222,
+2952722,Togo,8.2954489,1.0770503,2021-11-28 00:00:00,2021-11-28 17:30:17,0,hermann106,antenne togocom,2,0,hermann106,c'est fait
+2952711,Togo,6.2560572,1.1697680,2021-11-28 00:00:00,2021-11-28 17:30:15,0,hermann106,Cave à vin Mivaah,2,0,hermann106,c'est fait
+823140,Togo,7.0161552,0.6850558,2016-12-20 00:00:00,2021-11-22 20:18:23,0,AKE Amazan,pont / bridge,2,0,hermann106,identification ficile
+823145,Togo,6.9428297,0.6369094,2016-12-20 00:00:00,2021-11-22 20:03:43,0,AKE Amazan,pont / bridge,2,0,hermann106,Je n'arrive pas à identifier le pont
+1766922,Togo,6.9984000,0.6612000,2019-05-04 00:00:00,2021-11-22 20:03:43,0,Unknown,SEGBOR,4,0,hermann106,merci bien
+1766985,Togo,6.9984000,0.6612000,2019-05-04 00:00:00,2021-11-22 20:03:42,0,Unknown,segbor kokou Michel,2,0,hermann106,merci bien
+2206662,Togo,6.9520740,0.5978818,2020-05-26 00:00:00,2021-11-22 20:03:41,0,AKOUETE,'#map4tg rectification nom de l'entité' POI name: Cascade Kamalu POI types: waterway-waterfall OSM data version: 2020-04-02T17:07:40Z  #mapsme,2,0,hermann106,merci bien
+2356359,Togo,6.9552430,0.5573268,2020-09-20 00:00:00,2021-11-22 20:03:41,0,Georges Ahli,Terrain de football d'Agome Tomégbé,2,0,hermann106,c'est fait
+823144,Togo,6.9520567,0.6406244,2016-12-20 00:00:00,2021-11-22 19:59:14,0,AKE Amazan,pont / bridge,2,0,hermann106,c'est fait
+823141,Togo,7.0149949,0.6829493,2016-12-20 00:00:00,2021-11-22 19:59:13,0,AKE Amazan,terrain de football,2,0,hermann106,c'est fait
+823142,Togo,6.9982575,0.6623970,2016-12-20 00:00:00,2021-11-22 19:59:12,0,AKE Amazan,pont / bridge,4,0,hermann106,c'est fait
+823143,Togo,6.9698760,0.6453058,2016-12-20 00:00:00,2021-11-22 19:59:12,0,AKE Amazan,pont / bridge,2,0,hermann106,je n'arrive pas à repérer le pont
+1766968,Togo,6.9984000,0.6612000,2019-05-04 00:00:00,2021-11-22 19:59:11,0,Unknown,Michel Mason carroleur,3,0,hermann106,Merci bien
+2354254,Togo,6.9785495,0.5589298,2020-09-19 00:00:00,2021-11-22 18:49:40,0,Unknown,EEPT (Église Évangélique Presbytérienne du Togo) - Paroisse de Kouma Apoti-Apeyeme,2,0,hermann106,c'est fait
+2354255,Togo,6.9774000,0.5613700,2020-09-19 00:00:00,2021-11-22 18:49:39,0,Unknown,Terrain de football de Kouma apoti,2,0,hermann106,c'est fait
+2640812,Togo,6.9772000,0.5578100,2021-04-27 00:00:00,2021-11-22 18:42:40,0,Unknown,CEG Kouma Apeyeyeme,2,0,hermann106,ce n'est pas le bon endroit non plus
+2640816,Togo,6.9772600,0.5579500,2021-04-27 00:00:00,2021-11-22 18:42:40,0,Unknown,Terrain de football de Kouma Apeyeyeme,2,0,hermann106,ce n'est pas le bon endroit
+495350,Togo,6.2447648,1.0539957,2016-01-09 00:00:00,2021-11-12 13:48:45,0,AKE Amazan,École évangélique,2,0,hermann106,c'est fait
+488169,Togo,6.2416944,1.0598458,2015-12-25 00:00:00,2021-11-12 00:49:05,0,AKE Amazan,Centre médico-social d'Akepe,2,0,hermann106,c'est fait
+474470,Togo,6.1588887,1.2835109,2015-11-26 00:00:00,2021-11-12 00:49:05,0,AKE Amazan,agence CEET,2,0,hermann106,c'est fait
+474472,Togo,6.1589907,1.2852124,2015-11-26 00:00:00,2021-11-12 00:49:04,0,AKE Amazan,panneau passage piétons,2,0,hermann106,c'est fait
+2305925,Togo,6.1759653,1.1764589,2020-08-13 00:00:00,2021-11-11 21:20:09,0,hermann106,un bassin de rétention d'eau est en construction,2,0,hermann106,c'est fait
+2479362,Togo,6.1750155,1.1783259,2020-12-30 00:00:00,2021-11-11 21:20:09,0,hermann106,boutique de produits de beauté,2,0,hermann106,c'est fait
+1134953,Togo,6.2099196,1.1892271,2017-09-11 00:00:00,2021-11-10 19:10:09,0,hermann106,Edem park,2,0,hermann106,c'est corrigé
+1261266,Togo,6.2149215,1.1861944,2018-01-08 00:00:00,2021-11-10 19:10:08,0,hermann106,carrefour plateaux,2,0,hermann106,c'est fait
+1881750,Togo,6.2148936,1.1861194,2019-08-12 00:00:00,2021-11-10 19:10:07,0,hermann106,carrefour plateau,2,0,hermann106,c'est fait
+1304858,Togo,6.4467400,0.9117300,2018-02-19 00:00:00,2021-11-08 19:40:23,0,Unknown,MAISON GBETUDO,2,0,hermann106,On n'identifie pas les domaine privée
+575600,Togo,7.9254952,1.1955033,2016-05-27 00:00:00,2021-10-14 17:29:12,0,AKE Amazan,pont,2,0,hermann106,c'est fait
+575599,Togo,7.8944391,1.1878731,2016-05-27 00:00:00,2021-10-04 20:49:18,0,AKE Amazan,pont,2,0,hermann106,c'est fait
+2590140,Togo,6.2056883,1.1735790,2021-03-22 00:00:00,2021-08-15 01:45:42,0,hermann106,carrefour la Majesté,2,0,hermann106,c'est fait
+1974608,Togo,6.2333029,1.1502459,2019-10-26 00:00:00,2021-08-04 10:34:34,0,hermann106,État Civil,2,0,hermann106,c'est fait
+2750578,Togo,6.2334590,1.1512448,2021-07-11 00:00:00,2021-08-04 10:34:32,0,hermann106,penser à dessiner un carrefour,2,0,hermann106,c'est bon
+2776906,Togo,6.2303500,1.1729200,2021-07-29 00:00:00,2021-07-29 16:49:34,0,brice_klaus,Niped Sarl,5,1,brice_klaus,
+2767538,Togo,9.5472499,1.1891975,2021-07-23 00:00:00,2021-07-23 17:41:47,0,hermann106,provitech SARL,2,0,hermann106,ok
+2767539,Togo,9.5472057,1.1892115,2021-07-23 00:00:00,2021-07-23 17:41:46,0,hermann106,ets HCTCE,2,0,hermann106,c'est fait
+2764210,Togo,9.5491808,1.1973596,2021-07-21 00:00:00,2021-07-21 16:42:44,0,hermann106,la gare n'ai plus,2,0,hermann106,ok
+2764204,Togo,9.5517728,1.1944111,2021-07-21 00:00:00,2021-07-21 16:42:43,0,hermann106,hôtel la douceur,2,0,hermann106,c'est fait
+2764202,Togo,9.5625925,1.2067600,2021-07-21 00:00:00,2021-07-21 15:45:32,0,hermann106,ciment,2,0,hermann106,c'est fait
+2757005,Togo,9.5661241,1.1683006,2021-07-16 00:00:00,2021-07-17 11:22:41,0,hermann106,changer le style,2,0,hermann106,c'est fait
+2757009,Togo,9.5495194,1.1856973,2021-07-16 00:00:00,2021-07-17 11:22:41,0,hermann106,cet élément a été fermé,2,0,hermann106,c'est fait
+2757006,Togo,9.5533684,1.1584614,2021-07-16 00:00:00,2021-07-17 11:22:40,0,hermann106,changer le sens,2,0,hermann106,c'est fait
+2556751,Togo,9.5611722,1.2055065,2021-02-26 00:00:00,2021-07-17 11:16:32,0,hermann106,ce terrain est remplacé par un site de lancé de poids,2,0,hermann106,c'est fait
+2758338,Togo,9.5630243,1.2090495,2021-07-17 00:00:00,2021-07-17 11:16:31,0,hermann106,route,2,0,hermann106,c'est fait
+2754179,Togo,9.5573756,1.2106226,2021-07-14 00:00:00,2021-07-14 11:23:43,0,hermann106,bar  our's Candilia,2,0,hermann106,c'est fait
+1681296,Togo,6.3496563,1.2133414,2019-02-14 00:00:00,2021-07-09 05:08:33,0,hermann106,sanol,2,0,hermann106,c'est fait
+1952357,Togo,6.3731034,1.2057924,2019-10-07 00:00:00,2021-07-09 05:05:58,0,AKE Amazan,poste de péage de Davie,2,0,hermann106,c'est fait
+813909,Togo,6.1849496,1.1954371,2016-12-12 00:00:00,2021-06-29 00:43:29,0,SANTONYODEGUIDI2,FETAPH :Fédération Togolaise des Associations de Personnes Handicapées (OSM data version: 2016-11-23T15:14:03Z) #mapsme,4,1,hermann106,c'est fait
+1877529,Togo,6.1885621,1.1898360,2019-08-10 00:00:00,2021-06-29 00:43:28,0,Antoinelaw,'Terrain de Totsi' POI has no name POI types: leisure-playground OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,hermann106,c'est fait
+1056747,Togo,6.1895202,1.1990233,2017-07-08 00:00:00,2021-06-29 00:43:27,0,AKE Amazan,Continuité de la voie,2,0,hermann106,c'est fait
+762958,Togo,9.5630106,1.1917719,2016-10-27 00:00:00,2021-06-25 17:37:41,0,hermann106,Éole évangélique,4,1,Jesús Gómez,c'est fait
+2607828,Togo,9.5510006,1.1905441,2021-04-04 00:00:00,2021-06-25 17:37:19,0,Koffi Negloh,'This place is a stadium named STADE ASKO.' POI has no name POI types: leisure-pitch sport-soccer OSM data version: 2021-02-01T11:34:17Z  #mapsme,2,0,Jesús Gómez,Added name
+2680226,Togo,6.2305621,1.1953701,2021-05-22 00:00:00,2021-06-25 14:00:53,0,hermann106,féu tricolore,2,0,hermann106,c'est fait
+2602384,Togo,6.2313694,1.1931753,2021-03-31 00:00:00,2021-06-25 14:00:53,0,hermann106,"sérigraphie, imprimerie, infographie Simto Design +22891801216 / +22898151955",2,0,hermann106,c'est fait
+2497683,Togo,6.2333200,1.1895900,2021-01-14 00:00:00,2021-06-25 13:17:01,0,Karl-Erwin,Canal+ Bureau pour Internet et Cable,3,0,hermann106,c'est fait
+2497652,Togo,6.2338700,1.1902600,2021-01-14 00:00:00,2021-06-25 13:17:00,0,Karl-Erwin,La Poste,2,0,hermann106,c'est fait
+2497600,Togo,6.2340900,1.1901900,2021-01-14 00:00:00,2021-06-25 13:09:12,0,Karl-Erwin,La Poste,4,0,hermann106,c'est fait
+2187039,Togo,6.2399325,1.1853269,2020-05-09 00:00:00,2021-06-25 13:09:11,0,Emile Kounke,"'Centre de santé construit par l'Eglise des Assemblées de Dieu 'Temple du Calvaire.' USP de type II, opérationnel depuis Mai 2013.  Objectif : offrir des services de santé à moindre coût à la population.  Dispose d'un personnel qualifié et dynamique.' POI name: Centre Médico social Shalom POI types: amenity-hospital OSM data version: 2020-04-02T17:07:40Z  #mapsme",2,0,hermann106,cest fait
+1795648,Togo,6.1920830,1.3514056,2019-05-30 00:00:00,2021-06-22 02:16:42,0,hermann106,route,2,0,hermann106,c'est fait
+1795655,Togo,6.1916983,1.3516250,2019-05-30 00:00:00,2021-06-22 02:16:41,0,hermann106,bar miawoezon,2,0,hermann106,c'est fait
+1795650,Togo,6.1924967,1.3513450,2019-05-30 00:00:00,2021-06-22 02:16:40,0,hermann106,route,2,0,hermann106,c'est fait
+1795649,Togo,6.1922833,1.3513600,2019-05-30 00:00:00,2021-06-22 02:16:40,0,hermann106,route,2,0,hermann106,c'est fait
+1881862,Togo,6.2084649,1.3870720,2019-08-12 00:00:00,2021-06-22 02:16:39,0,Wilfreid,Repère,2,0,hermann106,cette note n'indique rien
+1795652,Togo,6.1933950,1.3513433,2019-05-30 00:00:00,2021-06-22 02:16:38,0,hermann106,route,2,0,hermann106,c'est fait
+1795651,Togo,6.1927533,1.3513600,2019-05-30 00:00:00,2021-06-22 02:16:38,0,hermann106,route,2,0,hermann106,c'est fait
+1795653,Togo,6.1950933,1.3503617,2019-05-30 00:00:00,2021-06-22 02:16:37,0,hermann106,route,2,0,hermann106,c'est fait
+1795654,Togo,6.1947883,1.3502915,2019-05-30 00:00:00,2021-06-22 02:16:36,0,hermann106,route,2,0,hermann106,c'est fait
+2723109,Togo,6.2179679,1.1886571,2021-06-21 00:00:00,2021-06-22 01:14:43,0,hermann106,Passage piéton,2,0,hermann106,c'est fait
+2708080,Togo,6.1849288,1.1785573,2021-06-10 00:00:00,2021-06-22 01:14:42,0,hermann106,la boutique n'y ai plus,2,0,hermann106,c'est fzit
+2723110,Togo,6.1855315,1.1789060,2021-06-21 00:00:00,2021-06-22 01:14:42,0,hermann106,ça n'existe pas,2,0,hermann106,c'est fait
+2491649,Togo,6.2233107,1.1924269,2021-01-09 00:00:00,2021-06-22 01:14:41,0,hermann106,fufu bar,2,0,hermann106,c'est fait
+2051161,Togo,6.2311933,1.1548017,2020-01-09 00:00:00,2021-06-22 01:14:40,0,hermann106,sainte Rita de Zossimé,2,0,hermann106,c'est fait
+2051162,Togo,6.2313500,1.1543967,2020-01-09 00:00:00,2021-06-22 01:14:40,0,hermann106,dèguèterie,2,0,hermann106,c'est fait
+533885,Togo,6.3673510,1.4157541,2016-03-27 00:00:00,2021-06-21 12:51:09,0,AKE Amazan,Ville : Hahotoe,2,0,user_566085,?
+2682271,Togo,6.1767685,1.2088480,2021-05-23 00:00:00,2021-06-14 14:42:55,0,hermann106,vente de la boisson Local,2,0,hermann106,c'est fait
+1473683,Togo,6.1693535,1.2065112,2018-07-31 00:00:00,2021-06-14 14:42:54,0,hermann106,Bar Colorado,2,0,hermann106,c'est fait
+961254,Togo,6.1647130,1.2083271,2017-04-12 00:00:00,2021-06-14 14:42:53,0,Unknown,"209, Rue klala, Quartier Abové, à coté du bar LAKAZA",2,0,hermann106,il a confusion
+2579848,Togo,6.1732463,1.2029868,2021-03-15 00:00:00,2021-06-14 14:42:53,0,DeSaint,"offrir la possibilité de faire un itinéraire entre plusieurs point, plus de 100 points si possible",4,1,hermann106,je n'ai pas compris
+2682269,Togo,6.1761964,1.2089801,2021-05-23 00:00:00,2021-06-14 11:37:55,0,hermann106,route,2,0,hermann106,c'est fait
+2682270,Togo,6.1761690,1.2082505,2021-05-23 00:00:00,2021-06-14 04:13:57,0,hermann106,route,2,0,hermann106,route c'est fait
+2682272,Togo,6.1806027,1.2086948,2021-05-23 00:00:00,2021-06-14 04:13:55,0,hermann106,route,2,0,hermann106,c'est fait
+2682268,Togo,6.1744699,1.2093796,2021-05-23 00:00:00,2021-06-14 04:13:54,0,hermann106,route,2,0,hermann106,c'est fait
+2710927,Togo,6.1950417,1.2026901,2021-06-12 00:00:00,2021-06-14 02:35:40,0,hermann106,pâtisserie +2287013794 Sisters Délices,2,0,hermann106,c'est fait
+2696357,Togo,6.1832319,1.1804797,2021-06-02 00:00:00,2021-06-11 19:28:09,0,hermann106,rue Ablomé,2,0,hermann106,c'est fait
+2709370,Togo,6.1811238,1.1798213,2021-06-11 00:00:00,2021-06-11 19:28:08,0,hermann106,rue Adja,2,0,hermann106,c'est fait
+2709371,Togo,6.1815923,1.1796603,2021-06-11 00:00:00,2021-06-11 19:28:05,0,hermann106,sera couture,2,0,hermann106,c'est fait
+2707336,Togo,10.3519300,0.4775300,2021-06-10 00:00:00,2021-06-10 10:36:04,0,Association Xylm,CT,2,0,Association Xylm,
+2705676,Togo,6.1854747,1.1783597,2021-06-09 00:00:00,2021-06-09 15:08:23,0,hermann106,vulganisateur,2,0,hermann106,c'est fait
+2705681,Togo,6.1855855,1.1771078,2021-06-09 00:00:00,2021-06-09 15:07:43,0,hermann106,salon de beauté,2,0,hermann106,c'est fait
+2670420,Togo,6.1848522,1.1782988,2021-05-15 00:00:00,2021-06-09 15:07:43,0,hermann106,rue Café Cacao 99 Tôt Quartier totsi ville de Lomé,2,0,hermann106,c'est fait
+2705682,Togo,6.1836321,1.1772502,2021-06-09 00:00:00,2021-06-09 15:07:42,0,hermann106,Kiosque transfert,2,0,hermann106,c'est fait
+1957227,Togo,6.1852338,1.1784385,2019-10-11 00:00:00,2021-06-09 15:07:41,0,bambaissifou,Atelier de Soudure 91956318/99653459,2,0,hermann106,c'est fait
+2705683,Togo,6.1836786,1.1772814,2021-06-09 00:00:00,2021-06-09 15:07:41,0,hermann106,mécanicien moto,2,0,hermann106,c'est fait
+2705677,Togo,6.1857917,1.1778093,2021-06-09 00:00:00,2021-06-09 15:07:40,0,hermann106,Couturière,2,0,hermann106,c'est fait
+1957228,Togo,6.1852701,1.1784554,2019-10-11 00:00:00,2021-06-09 15:07:39,0,bambaissifou,AMEN PRESTIGE Vente de Produits Cosmétiques et Alimentation Général en Gros et en Détail 228 98535654,2,0,hermann106,c'est fait
+2245573,Togo,6.1832253,1.1771386,2020-06-28 00:00:00,2021-06-09 15:07:39,0,hermann106,restaurant Afrique bar,2,0,hermann106,c'est fait
+2245574,Togo,6.1836863,1.1772888,2020-06-28 00:00:00,2021-06-09 15:07:38,0,hermann106,café bar resto super grâce de Dieu,2,0,hermann106,c'est fait
+2705679,Togo,6.1860689,1.1772973,2021-06-09 00:00:00,2021-06-09 15:07:38,0,hermann106,Didi Beauty Institut salon de beauté,2,0,hermann106,c'est fait
+2705680,Togo,6.1856626,1.1772111,2021-06-09 00:00:00,2021-06-09 15:07:37,0,hermann106,mécanicien moto,2,0,hermann106,c'est fait
+2457617,Togo,6.2630086,1.1788427,2020-12-09 00:00:00,2021-06-09 11:10:43,0,wara efalou,'Nouveau supermarché ouvert dans le quartier' POI name: Supermarché L'Etoile POI types: shop-supermarket OSM data version: 2020-09-19T23:20:21Z  #mapsme,2,0,hermann106,c'est fait
+2680236,Togo,6.1559593,1.2380496,2021-05-22 00:00:00,2021-05-25 10:34:34,0,hermann106,dépôt de vente de l'eau en sachet,2,0,hermann106,c'est fait
+2680230,Togo,6.1551392,1.2391202,2021-05-22 00:00:00,2021-05-25 10:34:33,0,hermann106,rue Blitta 79.Tkn,2,0,hermann106,c'est fait
+2680220,Togo,6.1573568,1.2374260,2021-05-22 00:00:00,2021-05-25 10:34:32,0,AKE Amazan,Rue Aoutchou 85.TKN,2,0,hermann106,c'est fait
+2680233,Togo,6.1545460,1.2379329,2021-05-22 00:00:00,2021-05-25 10:34:31,0,hermann106,villa Dope,2,0,hermann106,c'est fait
+2680219,Togo,6.1566171,1.2374159,2021-05-22 00:00:00,2021-05-25 10:34:31,0,AKE Amazan,mécanique 2 roues,2,0,hermann106,c'est fait
+2680242,Togo,6.1575044,1.2356313,2021-05-22 00:00:00,2021-05-25 09:43:27,0,hermann106,rue Mandiyen 95.tkn,2,0,hermann106,c'est fait
+2680209,Togo,6.1585898,1.2401616,2021-05-22 00:00:00,2021-05-25 09:43:26,0,martinmensah72,rue ATALOTÉ,2,0,hermann106,c'est fait
+2680218,Togo,6.1586144,1.2412843,2021-05-22 00:00:00,2021-05-25 09:43:25,0,martinmensah72,boutique,2,0,hermann106,c'est fait
+2680241,Togo,6.1584858,1.2358620,2021-05-22 00:00:00,2021-05-25 09:43:24,0,hermann106,rue sougbatou 170 tkn,2,0,hermann106,c'est fait
+2680208,Togo,6.1583880,1.2400430,2021-05-22 00:00:00,2021-05-25 09:43:23,0,martinmensah72,couture service,2,0,hermann106,c'est fait
+2680255,Togo,6.1589251,1.2407919,2021-05-22 00:00:00,2021-05-25 09:43:23,0,ADJANGBA,école,2,0,hermann106,c'est fait
+2680245,Togo,6.1580432,1.2348523,2021-05-22 00:00:00,2021-05-25 09:43:22,0,hermann106,99tkn,2,0,hermann106,c'est fait
+2680212,Togo,6.1573956,1.2375519,2021-05-22 00:00:00,2021-05-25 09:43:21,0,martinmensah72,rue AOUTCHOU,2,0,hermann106,c'est fait
+2680240,Togo,6.1587115,1.2364468,2021-05-22 00:00:00,2021-05-25 09:43:20,0,hermann106,rue yetou 178.tkn,2,0,hermann106,c'est fait
+2680207,Togo,6.1580487,1.2407245,2021-05-22 00:00:00,2021-05-25 09:43:20,0,martinmensah72,Kiosque,2,0,hermann106,c'est fait
+2680221,Togo,6.1583131,1.2413386,2021-05-22 00:00:00,2021-05-25 09:43:19,0,martinmensah72,attelier de couture,2,0,hermann106,c'est fait
+2680244,Togo,6.1582144,1.2351590,2021-05-22 00:00:00,2021-05-25 09:43:18,0,hermann106,asff atelier de soudure ferraillage 90368099,2,0,hermann106,c'est fait
+2680225,Togo,6.1576133,1.2412333,2021-05-22 00:00:00,2021-05-25 09:43:18,0,Justin Tchessa,coiffure,2,0,hermann106,c'est fait
+2680239,Togo,6.1588120,1.2371304,2021-05-22 00:00:00,2021-05-25 09:43:17,0,hermann106,rue edzenunye 188.tkn,2,0,hermann106,c'est fait
+2680215,Togo,6.1589707,1.2412964,2021-05-22 00:00:00,2021-05-25 09:43:16,0,AKE Amazan,Alimentation Générale,2,0,hermann106,c'est fait
+2680229,Togo,6.1575398,1.2388800,2021-05-22 00:00:00,2021-05-25 09:43:15,0,hermann106,rue gbatioé 206.tkn,2,0,hermann106,c'est fait
+2680238,Togo,6.1589901,1.2378360,2021-05-22 00:00:00,2021-05-25 09:43:15,0,hermann106,rue nyoe-wowo 192.tkn,2,0,hermann106,c'est fait
+2680205,Togo,6.1576393,1.2412182,2021-05-22 00:00:00,2021-05-25 09:43:14,0,martinmensah72,coiffure,2,0,hermann106,c'est fait
+2680252,Togo,6.1594140,1.2420113,2021-05-22 00:00:00,2021-05-25 09:43:13,0,ADJANGBA,rue abougou 238. TKN,2,0,hermann106,c'est fait
+2421934,Togo,6.1812111,1.1923888,2020-11-13 00:00:00,2021-05-19 12:12:32,0,hermann106,le restaurant n'est plus ici,2,0,hermann106,c'est fait
+720945,Togo,6.1817276,1.1874106,2016-09-21 00:00:00,2021-05-19 12:09:10,0,AKE Amazan,Rue 132.TOT,2,0,hermann106,c'est fait
+720944,Togo,6.1821116,1.1891095,2016-09-21 00:00:00,2021-05-19 12:09:10,0,AKE Amazan,Rue 121.TOT,2,0,hermann106,c'est fait
+1124442,Togo,6.1804884,1.1931291,2017-09-02 00:00:00,2021-05-19 12:09:09,0,Enock4seth,Hôtel Pesco,2,0,hermann106,c'est fait
+1722350,Togo,6.1812000,1.1924100,2019-03-24 00:00:00,2021-05-19 12:09:09,0,ti-lo,internet_access est plus commun entretemps https://taginfo.openstreetmap.org/keys/?key=internet_access,2,0,hermann106,c'est fait
+2619932,Togo,6.1749547,1.1388782,2021-04-12 00:00:00,2021-05-18 23:08:04,0,hermann106,grande route,2,0,hermann106,c'est fait
+2245576,Togo,6.1813342,1.1757125,2020-06-28 00:00:00,2021-05-18 18:33:00,0,hermann106,ifaid,2,0,hermann106,c'est fait
+2562668,Togo,6.1966311,1.1411284,2021-03-02 00:00:00,2021-05-12 08:23:07,0,Tchagod,"'Mauvais emplacement' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Poste HTA BT Gendarmerie Sagbado POI types: office-government OSM data version: 2021-02-01T11:34:17Z  #mapsme",2,0,Syl,Supprimé
+2562667,Togo,6.1967688,1.1410856,2021-03-02 00:00:00,2021-05-12 08:23:01,0,Tchagod,"'Mauvais emplacement' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Poste HTA BT Gendarmerie Sagbado POI types: office-government OSM data version: 2021-02-01T11:34:17Z  #mapsme",2,0,Syl,Supprimé
+2562666,Togo,6.1969707,1.1412647,2021-03-02 00:00:00,2021-05-12 08:22:56,0,Tchagod,"'Mauvais emplacement' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Poste HTA BT Gendarmerie Sagbado POI types: office-government OSM data version: 2021-02-01T11:34:17Z  #mapsme",2,0,Syl,Supprimé
+2563281,Togo,6.1968589,1.1410145,2021-03-02 00:00:00,2021-05-12 08:22:47,0,Tchagod,"'Supprimer' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: office-government OSM data version: 2021-02-01T11:34:17Z  #mapsme",2,0,Syl,Supprimé
+575582,Togo,6.3109359,1.2162734,2016-05-27 00:00:00,2021-05-05 12:01:58,0,AKE Amazan,Orphelinat,2,0,hermann106,je comprends
+2071038,Togo,6.2425646,1.2111789,2020-01-27 00:00:00,2021-05-05 12:00:13,0,hermann106,ceco,2,0,hermann106,c'est fait
+2466612,Togo,6.2441030,1.1936403,2020-12-19 00:00:00,2021-05-05 11:59:49,0,hermann106,bâtiment du CIB,2,0,hermann106,c'est fait
+2478043,Togo,6.2536845,1.2087902,2020-12-29 00:00:00,2021-05-05 11:57:50,0,hermann106,corriger le type de cette route,2,0,hermann106,c'est fait
+2478039,Togo,6.2536937,1.2086744,2020-12-29 00:00:00,2021-05-05 11:57:49,0,hermann106,feu tricolore,2,0,hermann106,c'est fait
+2478040,Togo,6.2536940,1.2088894,2020-12-29 00:00:00,2021-05-05 11:57:48,0,hermann106,feu tricolore,2,0,hermann106,c'est fait
+2478041,Togo,6.2536561,1.2088599,2020-12-29 00:00:00,2021-05-05 11:57:47,0,hermann106,feu tricolore,2,0,hermann106,c'est fait
+2478042,Togo,6.2537080,1.2087193,2020-12-29 00:00:00,2021-05-05 11:57:46,0,hermann106,feu tricolore,2,0,hermann106,c'est fait
+1521751,Togo,6.2833325,1.2133255,2018-09-10 00:00:00,2021-05-05 11:54:56,0,AKE Amazan,revoir les données de la route,2,0,hermann106,Que veux tu dire par là?
+1087723,Togo,6.2837489,1.2587468,2017-08-01 00:00:00,2021-05-05 11:53:55,0,paul matt,'Paul Nagou' POI has no name POI types: highway-rest_area OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,hermann106,c'est fait
+2590681,Togo,6.1915188,1.1596222,2021-03-23 00:00:00,2021-05-02 20:38:41,0,Unknown,Il y'a IPG(Institut Polytechnique du Golf) comme référence.,2,0,hermann106,ce n'est pas le bon endroit
+1105687,Togo,6.2007708,1.1440595,2017-08-16 00:00:00,2021-05-02 20:37:23,0,Kosbey,"'Alimentation Générale, Services Mobile Money, Divers.' POI name: Boutique 'Moins Cher' (Ets La Louange) POI types: shop-convenience OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,hermann106,c'est fait
+1934212,Togo,6.2007589,1.1444329,2019-09-21 00:00:00,2021-05-02 20:37:22,0,Kosbey,"'Not exist' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure et tresse chez Tanti Dodo POI types: shop-hairdresser OSM data version: 2019-08-30T18:41:13Z  #mapsme",2,0,hermann106,supprimé
+1934211,Togo,6.2006895,1.1442934,2019-09-21 00:00:00,2021-05-02 20:37:22,0,Kosbey,"'Not exist' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure-Tresse Chez Tanti DODO POI types: shop-hairdresser OSM data version: 2019-08-30T18:41:13Z  #mapsme",2,0,hermann106,supprimé
+1226947,Togo,6.2040942,1.1441700,2017-12-03 00:00:00,2021-05-02 20:37:20,0,hermann106,poste bureau Lomé apedokoè,2,0,hermann106,c'est fait
+1909250,Togo,6.2004336,1.1440601,2019-09-01 00:00:00,2021-05-02 20:37:19,0,Kosbey,'signalée plusieurs fois mais corrigée. la place a changé de lieu.' POI name: Bar Carrefour Libreville POI types: amenity-bar OSM data version: 2019-07-27T07:02:33Z  #mapsme,2,0,hermann106,c'est fait
+2649800,Togo,6.2143824,1.1256301,2021-05-02 00:00:00,2021-05-02 19:45:49,0,hermann106,Eglise catholique,2,0,hermann106,c'est fait
+1389509,Togo,6.2145000,1.1359500,2018-05-10 00:00:00,2021-05-02 19:45:48,0,Unknown,Woelab Prime,2,0,hermann106,est ce que cet endroit existe vraiment?
+2037216,Togo,6.2078000,1.1238000,2019-12-26 00:00:00,2021-05-02 19:45:47,0,Unknown,Maison Indiquée,2,0,hermann106,ça n'indique rien
+2025611,Togo,6.9188423,0.6317603,2019-12-13 00:00:00,2021-05-02 03:09:54,0,hermann106,espace vert ADETOP Nyivémé,3,1,Amen ABBEY MATHEY,
+2636501,Togo,6.2001706,1.1979765,2021-04-24 00:00:00,2021-04-24 16:26:02,0,Bonne Formation Togo,Nouvel emplacement de l'école de formation en Anglais Langcenter International Togo. Immeuble Blanc vert. Tel 0022892871818,2,0,Bonne Formation Togo,
+1740680,Togo,6.1735533,1.1865711,2019-04-09 00:00:00,2021-04-20 09:56:41,0,saliousoft,Bar Formula 1,2,0,hermann106,c'est fait
+2628519,Togo,6.2919000,1.7082000,2021-04-18 00:00:00,2021-04-18 14:33:57,0,Akouete Kouevigou,SIVAME,2,0,Akouete Kouevigou,
+488198,Togo,6.3276153,1.1176033,2015-12-25 00:00:00,2021-04-13 07:48:22,0,AKE Amazan,Église des Assemblée de Dieu,2,0,hermann106,c'est fait
+488199,Togo,6.3303376,1.1157459,2015-12-25 00:00:00,2021-04-13 07:48:22,0,AKE Amazan,Complexe Scolaire la Parole,2,0,hermann106,c'est fait
+488200,Togo,6.3335281,1.1137515,2015-12-25 00:00:00,2021-04-13 07:48:21,0,AKE Amazan,Lycée Technique de Mission-Tove,2,0,hermann106,c'est fait
+488201,Togo,6.3404614,1.1107744,2015-12-25 00:00:00,2021-04-13 07:48:20,0,AKE Amazan,Poissonnerie,2,0,hermann106,c'est fiat
+2033145,Togo,6.1562459,1.2236961,2019-12-21 00:00:00,2021-03-04 14:49:01,0,Warren Ayivor,'Entreprise active dans l'importation de produis de e-commerce' POI name: Chipaplus POI types: office-company OSM data version: 2019-10-19T16:52:54Z  #mapsme,2,0,hermann106,c'est fait
+2563309,Togo,6.1281039,1.2472961,2021-03-02 00:00:00,2021-03-03 03:51:25,0,Unknown,this is a test note,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2534227,Togo,6.2249000,1.0851000,2021-02-11 00:00:00,2021-03-01 23:38:35,0,Unknown,Limite de la cetechnique,2,0,hermann106,c'est fait
+2548908,Togo,9.7670284,1.1061917,2021-02-22 00:00:00,2021-02-24 00:06:29,0,hermann106,la mosquée est de l'autre côté de la route,2,0,hermann106,c'est fait
+2497564,Togo,6.2132700,1.1851300,2021-01-14 00:00:00,2021-01-14 11:23:37,0,Unknown,"ETS DOGBO, scierie",2,0,Karl-Erwin,
+2449122,Togo,6.1593200,1.2056700,2020-12-01 00:00:00,2021-01-11 18:58:58,0,Unknown,GBOSSIME,2,0,hermann106,c'est fait
+1124447,Togo,6.1594763,1.2056249,2017-09-02 00:00:00,2021-01-11 18:58:57,0,Enock4seth,Pharmacie de Gbossime,2,0,hermann106,c'est fait
+2434359,Togo,8.6006327,0.4947761,2020-11-20 00:00:00,2021-01-05 23:32:17,0,hermann106,route vers Djarkpanga,2,0,hermann106,merci bien
+2481580,Togo,6.3228350,1.2275838,2021-01-01 00:00:00,2021-01-04 00:07:28,0,hermann106,route,2,0,hermann106,c'est fait
+488171,Togo,6.2618900,1.0351256,2015-12-25 00:00:00,2021-01-04 00:07:27,0,AKE Amazan,station essence MRS,2,0,hermann106,c'est fait
+488172,Togo,6.2623060,1.0359059,2015-12-25 00:00:00,2021-01-04 00:07:26,0,AKE Amazan,Bar PK 27,2,0,hermann106,c'est fait
+488173,Togo,6.2624358,1.0356594,2015-12-25 00:00:00,2021-01-04 00:07:25,0,AKE Amazan,Église Ministère la main de Dieu,2,0,hermann106,je pense que cette eglise n(y est plus
+2479360,Togo,6.2673367,1.1515457,2020-12-30 00:00:00,2021-01-01 02:01:51,0,hermann106,cette section n'existe pas,2,0,hermann106,c'est fait
+2479359,Togo,6.2690427,1.1511979,2020-12-30 00:00:00,2020-12-31 11:09:32,0,hermann106,soudeur craft=Welder,2,0,hermann106,c'est fait
+2479354,Togo,6.2812367,1.1573469,2020-12-30 00:00:00,2020-12-31 11:09:30,0,hermann106,vente de ciment,2,0,hermann106,c'est fait
+2479355,Togo,6.2810874,1.1570923,2020-12-30 00:00:00,2020-12-31 11:09:28,0,hermann106,route,2,0,hermann106,cest fait
+2479356,Togo,6.2754789,1.1550630,2020-12-30 00:00:00,2020-12-31 10:47:26,0,hermann106,route,2,0,hermann106,c'est fait
+2479357,Togo,6.2729081,1.1541593,2020-12-30 00:00:00,2020-12-31 10:47:23,0,hermann106,vente de ciment,2,0,hermann106,c'est fait
+2479358,Togo,6.2696964,1.1513161,2020-12-30 00:00:00,2020-12-31 10:47:20,0,hermann106,Eglise évangélique,2,0,hermann106,c'est fait
+2474242,Togo,6.2476888,1.1750034,2020-12-27 00:00:00,2020-12-27 10:48:10,0,hermann106,famille,2,0,hermann106,c'est fait
+2466614,Togo,6.2509087,1.1460294,2020-12-19 00:00:00,2020-12-27 10:36:58,0,hermann106,route,2,0,hermann106,c'est fait
+2466615,Togo,6.2552642,1.1456184,2020-12-19 00:00:00,2020-12-27 10:36:58,0,hermann106,route,2,0,hermann106,c'est fait
+2474027,Togo,6.2471271,1.1761212,2020-12-26 00:00:00,2020-12-27 10:01:31,0,hermann106,réseaux de point de vente de bière moderne et locale,2,0,hermann106,c'est fait
+481367,Togo,6.1360200,1.2199330,2015-12-11 00:00:00,2020-12-20 16:49:28,0,AKE Amazan,Agence loterie LoNaTo,2,0,hermann106,c'est fait
+481368,Togo,6.1359638,1.2196980,2015-12-11 00:00:00,2020-12-20 16:49:27,0,AKE Amazan,Cristal Optique,2,0,hermann106,c'est fait
+2398347,Togo,6.1632522,1.2147397,2020-10-25 00:00:00,2020-12-20 15:21:16,0,hermann106,Élite Burger,2,0,hermann106,c'est fait
+2038639,Togo,6.2512727,1.1751713,2019-12-28 00:00:00,2020-12-20 12:38:05,0,hermann106,église catholique de sogbossito,2,0,hermann106,ce n'est pas le bon endroit
+2466617,Togo,6.2232270,1.1790953,2020-12-19 00:00:00,2020-12-19 00:57:39,0,hermann106,carrefour Telessou Agbodekakopé,2,0,hermann106,c'est fait
+2466616,Togo,6.2367521,1.1633946,2020-12-19 00:00:00,2020-12-19 00:57:39,0,hermann106,carrefour Edem,2,0,hermann106,c'est fait
+2035867,Togo,10.2937963,0.4666109,2019-12-24 00:00:00,2020-12-15 17:35:25,0,AKOUETE,soudeur,2,0,hermann106,c'est fait
+2035870,Togo,10.2930948,0.4666373,2019-12-24 00:00:00,2020-12-15 17:13:48,0,AKOUETE,boutique,2,0,hermann106,c'est fait
+2035865,Togo,10.2929465,0.4665428,2019-12-24 00:00:00,2020-12-15 17:13:42,0,AKOUETE,zone d'activités économiques,2,0,hermann106,je ne sais pas comment représenter cela
+2035871,Togo,10.2930356,0.4662764,2019-12-24 00:00:00,2020-12-15 17:13:42,0,AKOUETE,Mosquée,2,0,hermann106,c'est fait
+2035866,Togo,10.2939846,0.4664112,2019-12-24 00:00:00,2020-12-15 17:13:41,0,AKOUETE,boutique,2,0,hermann106,précision
+2035872,Togo,10.2930346,0.4662485,2019-12-24 00:00:00,2020-12-15 17:13:41,0,AKOUETE,vente de pièces détachées,2,0,hermann106,c'est fait
+2035873,Togo,10.2930383,0.4663005,2019-12-24 00:00:00,2020-12-15 17:13:40,0,AKOUETE,mécanicien,2,0,hermann106,c'est fait
+2035869,Togo,10.2932169,0.4666671,2019-12-24 00:00:00,2020-12-15 17:13:39,0,AKOUETE,menuiserie,2,0,hermann106,c'est fait
+2035868,Togo,10.2933658,0.4666146,2019-12-24 00:00:00,2020-12-15 17:13:39,0,AKOUETE,vente de ciments,2,0,hermann106,c'est fait
+1629811,Togo,8.3388516,0.9957244,2018-12-27 00:00:00,2020-12-14 04:18:47,0,hermann106,limite du marché,2,0,hermann106,c'est fait
+1629812,Togo,8.3255630,0.9780631,2018-12-27 00:00:00,2020-12-14 04:18:46,0,hermann106,groupe A et B,2,0,hermann106,c'est fait
+1627505,Togo,8.3276736,0.9834536,2018-12-25 00:00:00,2020-12-14 04:16:15,0,hermann106,maison paroissiale,2,0,hermann106,c'est fait
+1627506,Togo,8.3272599,0.9829315,2018-12-25 00:00:00,2020-12-14 04:16:15,0,hermann106,intetnat,2,0,hermann106,c'est fait
+1674731,Togo,10.8623000,0.2008000,2019-02-08 00:00:00,2020-12-12 22:34:12,0,Nahmsath Y,16,4,1,hermann106,je ne sais pas ce que vous voulez dire
+2460247,Togo,10.9068046,0.1568052,2020-12-12 00:00:00,2020-12-12 17:30:09,0,hermann106,retenu d'eau,2,0,hermann106,c'est fait
+2460245,Togo,10.8980764,0.1481286,2020-12-12 00:00:00,2020-12-12 17:00:23,0,hermann106,ruisseau,2,0,hermann106,c'est fait
+2460246,Togo,10.8928440,0.1482514,2020-12-12 00:00:00,2020-12-12 17:00:22,0,hermann106,ruisseau,2,0,hermann106,c'est fait
+1754847,Togo,10.8316000,0.1675000,2019-04-23 00:00:00,2020-12-02 19:52:24,0,Unknown,BARRAGE DE DALWUAG,2,0,MrMoehritz,nom mis
+2432674,Togo,10.7952500,0.4467600,2020-11-19 00:00:00,2020-12-02 19:28:29,0,CNThw,2 layouts on top of each other,2,0,MrMoehritz,removed duplicate and rectified buildings
+2432675,Togo,10.7948500,0.4464800,2020-11-19 00:00:00,2020-12-02 19:28:29,0,CNThw,layout overlay,2,0,MrMoehritz,removed duplicates and rectified buildings
+1570719,Togo,6.2246894,1.1683845,2018-10-25 00:00:00,2020-12-01 10:37:42,0,Kuevssan,'Rond point Assigomè' POI has no name POI types: highway-residential OSM data version: 2018-09-11T19:10:03Z  #mapsme,2,0,hermann106,pas de rond point à ce niveau
+1935455,Togo,6.2362900,1.1874200,2019-09-22 00:00:00,2020-12-01 10:37:41,0,Thunder5300,Mosquée,2,0,hermann106,c'est fait
+2038640,Togo,6.2420310,1.1692272,2019-12-28 00:00:00,2020-12-01 10:37:41,0,hermann106,place des fêtes,2,0,hermann106,c'est fait
+930853,Togo,6.2490045,1.1664885,2017-03-17 00:00:00,2020-12-01 10:33:40,0,magma18,Grace (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,hermann106,c'est fait
+930839,Togo,6.2490248,1.1664819,2017-03-17 00:00:00,2020-12-01 10:33:40,0,magma18,Grace (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,hermann106,c'est fait
+1521750,Togo,6.2392264,1.2109672,2018-09-10 00:00:00,2020-12-01 10:33:39,0,AKE Amazan,modifié la route,2,0,hermann106,c'est fait
+575581,Togo,6.2583029,1.2087235,2016-05-27 00:00:00,2020-12-01 10:33:39,0,AKE Amazan,Terminal du Sahel (Port Autonome de Lomé),3,0,hermann106,c'est fait
+800066,Togo,6.2335379,1.1540394,2016-11-29 00:00:00,2020-12-01 10:33:38,0,AKE Amazan,station d'essence : CM Petroleum,2,0,hermann106,c'est fait
+2047291,Togo,6.2409433,1.1983408,2020-01-05 00:00:00,2020-12-01 10:19:21,0,hermann106,mosquée,2,0,hermann106,c'est fait
+2445669,Togo,10.7415725,0.4082965,2020-11-28 00:00:00,2020-12-01 10:19:20,0,MrMoehritz,somewhere in this prefecture is a new manganese mine: https://www.republicoftogo.com/Toutes-les-rubriques/Economie/Manganese-la-SGM-decroche-un-permis,3,1,hermann106,c'est fait
+2446174,Togo,7.0501378,0.7098198,2020-11-29 00:00:00,2020-11-29 17:19:34,0,Tamery kamite,Akata-Togo  Akata-Togo,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2434360,Togo,8.6714382,0.6229577,2020-11-20 00:00:00,2020-11-28 23:49:49,0,hermann106,route de Tindjassi,2,0,hermann106,c'est fait
+2434358,Togo,9.0340441,1.1376893,2020-11-20 00:00:00,2020-11-27 12:45:15,0,hermann106,centre de transformation électronique,2,0,hermann106,c'est fait
+481357,Togo,6.1575880,1.3036336,2015-12-11 00:00:00,2020-11-15 23:46:55,0,AKE Amazan,parking,2,0,hermann106,c'est fait
+481356,Togo,6.1579027,1.3046261,2015-12-11 00:00:00,2020-11-15 23:46:53,0,AKE Amazan,station essence Shell,2,0,hermann106,ce n'est plus Shelle c'est T Oil
+2015216,Togo,6.1445577,1.2060541,2019-12-03 00:00:00,2020-11-15 23:41:41,0,hermann106,CNAO,3,0,hermann106,C'est fait
+920359,Togo,6.3320190,1.6043472,2017-03-09 00:00:00,2020-11-07 07:33:50,0,saliousoft,"Au lieu de Anfouin, écrivons plutôt Anfoin",4,1,hermann106,c'est fait
+2395820,Togo,6.1721810,1.1831458,2020-10-23 00:00:00,2020-11-07 07:07:18,0,hermann106,dos d'âne,2,0,hermann106,c'est fait
+2395827,Togo,6.1725127,1.1829428,2020-10-23 00:00:00,2020-11-07 07:06:24,0,hermann106,dos d'âne,2,0,hermann106,c'est fait
+2395826,Togo,6.1724093,1.1831687,2020-10-23 00:00:00,2020-11-07 07:06:24,0,hermann106,Passage clouté,2,0,hermann106,c'est fait
+2395821,Togo,6.1724699,1.1832715,2020-10-23 00:00:00,2020-11-07 07:06:23,0,hermann106,Passage clouté,2,0,hermann106,c'est fait
+2395828,Togo,6.1727283,1.1824603,2020-10-23 00:00:00,2020-11-07 07:06:22,0,hermann106,dos d'âne,2,0,hermann106,c'est fait
+2395822,Togo,6.1724812,1.1832749,2020-10-23 00:00:00,2020-11-07 07:06:22,0,hermann106,dos d'âne,2,0,hermann106,c'est fait
+2395823,Togo,6.1727163,1.1833822,2020-10-23 00:00:00,2020-11-07 07:06:21,0,hermann106,dos d'âne,2,0,hermann106,c'est fait
+2395829,Togo,6.1730564,1.1817336,2020-10-23 00:00:00,2020-11-07 07:06:21,0,hermann106,dos d'âne,2,0,hermann106,c'est fait
+2395824,Togo,6.1730544,1.1835295,2020-10-23 00:00:00,2020-11-07 07:06:20,0,hermann106,dos d'âne,2,0,hermann106,c'est fait
+2395825,Togo,6.1738519,1.1838829,2020-10-23 00:00:00,2020-11-07 07:06:19,0,hermann106,dos d'âne,2,0,hermann106,c'est fait
+2360839,Togo,6.1749876,1.1830956,2020-09-24 00:00:00,2020-11-04 06:15:25,0,hermann106,bar n'existe plus,2,0,hermann106,c'est fait
+2360838,Togo,6.1749236,1.1831439,2020-09-24 00:00:00,2020-11-04 06:15:25,0,hermann106,bar n'existe plus,2,0,hermann106,c'est fait
+2409414,Togo,6.1425741,1.2778207,2020-11-03 00:00:00,2020-11-03 22:12:54,0,hermann106,direction technique,2,0,hermann106,c'est fait
+2384567,Togo,6.1948271,1.5538788,2020-10-13 00:00:00,2020-10-14 03:10:05,0,Mouny,Ocean Atlantique,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2384561,Togo,6.1583048,1.5010071,2020-10-13 00:00:00,2020-10-14 03:09:54,0,Mouny,Ocean Atlantique,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2384552,Togo,6.1873181,1.5113068,2020-10-13 00:00:00,2020-10-14 03:09:50,0,Unknown,Ocean Atlantique,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2227477,Togo,6.8735559,0.7212274,2020-06-13 00:00:00,2020-10-05 09:56:51,0,JulesAgro,'rue donnant accès au domaines des familles BIEM' POI name: Rue BIEM POI types: tourism-artwork OSM data version: 2020-04-02T17:07:40Z  #mapsme,2,0,AKOUETE,
+2340334,Togo,6.2118343,1.1882440,2020-09-08 00:00:00,2020-09-08 17:10:51,0,Unknown,"onosm.org submitted note from a business: name: Bar la fierté  phone: +22896269191 website: https://barlafierteagoe.wixsite.com/barlafiert twitter: undefined hours: Monday - Sunday 9AM to 11PM category: Bars, address:",4,1,Bar la fierté,
+2309417,Togo,6.1756170,1.2119722,2020-08-16 00:00:00,2020-08-16 08:42:11,0,AKOUETE,ce bâtiment n'existe pas à l'UL,2,0,AKOUETE,
+2306003,Togo,6.1440136,1.2032953,2020-08-13 00:00:00,2020-08-13 12:40:44,0,klenam,Chris de Mens Creation,6,1,klenam,Maison de Couture et Institut de Ccoupe
+2304664,Togo,6.1776930,1.2021594,2020-08-12 00:00:00,2020-08-12 10:56:26,0,MargauxELB,Alimentation générale,2,0,MargauxELB,
+2273267,Togo,7.7591068,1.1934715,2020-07-21 00:00:00,2020-07-21 10:01:01,0,hermann106,gggg,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2026154,Togo,6.9051810,0.6355723,2019-12-14 00:00:00,2020-03-23 00:07:42,0,AKOUETE,wifi,3,0,hermann106,c'est fait
+2035920,Togo,9.9592385,1.0500613,2019-12-24 00:00:00,2020-03-22 17:36:42,0,hermann106,Station service Oando,2,0,hermann106,c'est fait
+2035919,Togo,9.9587604,1.0477008,2019-12-24 00:00:00,2020-03-22 17:36:41,0,hermann106,mosquée,2,0,hermann106,c'est fait
+2035921,Togo,9.9582395,1.0523240,2019-12-24 00:00:00,2020-03-22 17:36:40,0,hermann106,hôtel de ville de kantè,2,0,hermann106,c'est fait
+2035923,Togo,9.9531183,1.0605476,2019-12-24 00:00:00,2020-03-22 17:36:40,0,hermann106,centre de culturel de kanté,2,0,hermann106,c'est fait
+935710,Togo,9.5510178,1.1905106,2017-03-21 00:00:00,2020-03-21 01:41:55,0,Bassoliwena,Stade municipal de la Ville (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,hermann106,c'est fait
+935562,Togo,9.5468016,1.1924042,2017-03-21 00:00:00,2020-03-21 01:41:54,0,Bassoliwena,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'position aberrante, inexacte' (OSM data version: 2016-07-15T17:38:02Z) #mapsme",2,0,hermann106,c'est fait
+762964,Togo,9.5581414,1.2111048,2016-10-27 00:00:00,2020-03-21 01:41:54,0,hermann106,ponceau,2,0,hermann106,c'est fait
+1822489,Togo,9.5485301,1.1924028,2019-06-23 00:00:00,2020-03-21 01:41:53,0,hermann106,D-Dos transport,2,0,hermann106,c'est fait
+1664947,Togo,9.5469691,1.1934918,2019-01-29 00:00:00,2020-03-21 01:41:53,0,AbbyJohnson,"JADY’S is now called Queen B. (It is owned by the same people though, and the menu is largely the same.)",2,0,hermann106,c'est fait
+1424463,Togo,9.5517300,1.2096400,2018-06-12 00:00:00,2020-03-21 01:41:52,0,Unknown,Foyer logement pour enfants et jeunes orphelins ou pauvres,4,1,hermann106,c'est fait
+841707,Togo,9.5506195,1.1915455,2017-01-05 00:00:00,2020-03-21 01:41:51,0,hermann106,l'inspection est plutôt ici.,2,0,hermann106,c'est fait
+762967,Togo,9.5584659,1.2108205,2016-10-27 00:00:00,2020-03-21 01:41:51,0,hermann106,pont,2,0,hermann106,c'est fait
+762961,Togo,9.5613598,1.2025416,2016-10-27 00:00:00,2020-03-21 01:41:50,0,hermann106,cht hôpital chinois de kara,2,0,hermann106,c'est fait
+935556,Togo,9.5551451,1.1902629,2017-03-21 00:00:00,2020-03-19 11:59:52,0,Bassoliwena,Terrain de jeu du collège Saint-Augustin (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,hermann106,c'est fait
+762313,Togo,9.5355360,1.1988135,2016-10-26 00:00:00,2020-03-19 11:59:51,0,hermann106,cyber le martinet,2,0,hermann106,c'est fait
+762939,Togo,9.5541150,1.1906618,2016-10-27 00:00:00,2020-03-19 11:59:51,0,hermann106,CCIT kara,2,0,hermann106,c'est fait
+1670071,Togo,9.5446036,1.2010811,2019-02-03 00:00:00,2020-03-19 11:59:50,0,Koko de Gaulle,'Autre Contact +22826606185' POI name: Chapelle POI types: amenity-place_of_worship-christian OSM data version: 2019-01-13T09:03:02Z  #mapsme,2,0,hermann106,c'est fait
+762940,Togo,9.5527996,1.1908137,2016-10-27 00:00:00,2020-03-19 11:59:50,0,hermann106,pressing,2,0,hermann106,c'est fait
+1670072,Togo,9.5491795,1.1973636,2019-02-03 00:00:00,2020-03-19 11:59:49,0,Koko de Gaulle,'Pour Dapaong ou parc Sarakawa' POI has no name POI types: amenity-bus_station OSM data version: 2019-01-13T09:03:02Z  #mapsme,2,0,hermann106,c'est fait
+841710,Togo,9.5636603,1.1945966,2017-01-05 00:00:00,2020-03-19 05:43:37,0,hermann106,extension du nouveau marché,2,0,hermann106,c'est fait
+1755055,Togo,9.5837534,1.1877123,2019-04-23 00:00:00,2020-03-19 05:04:27,0,hermann106,Rue BAKALi  via StreetComplete 11.0,2,0,hermann106,c'est fait
+2075739,Togo,6.1971300,1.1307483,2020-02-01 00:00:00,2020-03-19 02:19:16,0,eligbadzi,Atelier de couture,2,0,hermann106,c'est fait
+2075740,Togo,6.1968400,1.1313267,2020-02-01 00:00:00,2020-03-19 02:19:15,0,eligbadzi,Coiffure et tresse la Grâce,2,0,hermann106,c'est fait
+2075738,Togo,6.1971400,1.1307433,2020-02-01 00:00:00,2020-03-19 02:19:14,0,eligbadzi,Ben Le Coiffeur,2,0,hermann106,c'est fait
+2122717,Togo,6.1894528,1.1249433,2020-03-16 00:00:00,2020-03-19 02:19:14,0,hermann106,grande voie d'accès à d'autres zones,2,0,hermann106,c'est fait
+2075742,Togo,7.0544650,1.6139133,2020-02-01 00:00:00,2020-03-16 18:13:24,0,eligbadzi,service Météo konohoe,3,1,flo095,
+1011749,Togo,6.1628436,1.2017047,2017-05-29 00:00:00,2020-03-11 03:04:40,0,Elkwaet,"Three (3) places missing here:  1. MINODOO (Coworking Space) Immeuble GITM, Boulevard du 30 Aout,  Lomé - Togo  2. MIAWOEVA Immeuble GITM, Boulevard du 30 Aout,  Lomé - Togo  3. Libraweb Togo Immeuble GITM, Boulevard du 30 Aout,  Lomé - Togo",2,0,hermann106,c'est fait
+1843123,Togo,6.8027429,0.5805712,2019-07-13 00:00:00,2020-02-22 07:56:03,0,ManFinsc,The village is called Sevenokopé.,3,0,mfbehrens,
+2098401,Togo,6.8206000,0.5804000,2020-02-22 00:00:00,2020-02-22 07:55:34,0,mfbehrens,Fix name,2,0,mfbehrens,Fixed
+2092319,Togo,6.1520856,1.2491802,2020-02-16 00:00:00,2020-02-18 15:00:50,0,Pierre Sicard,'Bar top bon patron venir de la part de remy et Pierre et du gin !' POI name: Bar ste face chez estozy POI types: amenity-bar OSM data version: 2019-11-24T01:08:45Z  #mapsme,4,1,Pierre Sicard,
+2092309,Togo,6.1528000,1.2504000,2020-02-16 00:00:00,2020-02-16 22:22:12,0,Pierre Sicard,Bar estozy,3,1,Pierre Sicard,
+2077610,Togo,6.1480858,1.2536216,2020-02-02 00:00:00,2020-02-02 23:28:04,0,armand-diesel,Wifi geekSpot,3,1,armand-diesel,"Avec le très haut débit, resté connecté ; avec geekSpot la connexion près de vous."
+2074480,Togo,6.1854000,1.2480100,2020-01-30 00:00:00,2020-01-30 21:20:11,0,Janvier O,Salle du royaume des Témoins de Jéhovah,2,0,Janvier O,
+2074476,Togo,6.1732200,1.2478000,2020-01-30 00:00:00,2020-01-30 21:15:46,0,Janvier O,Salle du royaume des Témoins de Jéhovah,2,0,Janvier O,
+1241861,Togo,6.1712504,1.1854009,2017-12-18 00:00:00,2020-01-21 14:33:36,0,J_Chaumard,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Maison de la Santé, siège du SYNPHOT POI types: amenity-community_centre OSM data version: 2017-11-17T20:18:02Z  #mapsme",2,0,hermann106,c'est fait
+1746131,Togo,6.1712504,1.1854009,2019-04-14 00:00:00,2020-01-21 14:33:36,0,J_Chaumard,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Maison de la Santé, siège du SYNPHOT POI types: amenity-community_centre OSM data version: 2018-09-11T19:10:03Z  #mapsme",2,0,hermann106,c'est fait
+825007,Togo,6.1228675,1.2207148,2016-12-22 00:00:00,2020-01-16 17:02:55,0,hermann106,reste bouchee,2,0,hermann106,c'est fait
+1134952,Togo,6.1231590,1.2215864,2017-09-11 00:00:00,2020-01-16 16:49:51,0,hermann106,ccit,2,0,hermann106,c'est fait
+1452705,Togo,6.1728543,1.1778760,2018-07-13 00:00:00,2020-01-16 15:10:08,0,hermann106,convience,3,0,hermann106,c'est fait
+1452696,Togo,6.1721658,1.1791931,2018-07-13 00:00:00,2020-01-16 14:36:46,0,hermann106,antenne télécom,2,0,hermann106,c'est fait
+1452697,Togo,6.1719270,1.1784468,2018-07-13 00:00:00,2020-01-16 14:36:43,0,hermann106,Orphelinat la maison de la providence,2,0,hermann106,c'est fait
+1452698,Togo,6.1723216,1.1777655,2018-07-13 00:00:00,2020-01-16 13:18:30,0,hermann106,Institut Biblique School of Christ International,2,0,hermann106,c'est fait
+1881752,Togo,6.1711106,1.1777109,2019-08-12 00:00:00,2020-01-16 10:41:13,0,hermann106,moulin à grain,2,0,hermann106,c'est fait
+481373,Togo,6.1247857,1.2161884,2015-12-11 00:00:00,2020-01-15 13:13:50,0,AKE Amazan,Institue Français de Lomé,2,0,hermann106,c'est fait
+1904158,Togo,6.1256535,1.2149860,2019-08-28 00:00:00,2020-01-15 13:05:13,0,Ayouba Maiga,'croyance' POI has no name POI types: highway-rest_area OSM data version: 2018-08-04T14:22:01Z  #mapsme,2,0,hermann106,c'est fait
+1193207,Togo,6.1221209,1.2099473,2017-11-02 00:00:00,2020-01-15 13:05:08,0,Mecro,"'Vente de pièces et accessoires moto, quad' POI name: Togomotoparts POI types: shop-motorcycle OSM data version: 2017-10-20T12:20:02Z  #mapsme",2,0,hermann106,c'est fait
+2046494,Togo,6.1729129,1.1834857,2020-01-04 00:00:00,2020-01-07 14:28:54,0,hermann106,cette est bitumée,2,0,hermann106,c'est fait
+2046490,Togo,6.1704350,1.1871893,2020-01-04 00:00:00,2020-01-07 14:28:53,0,hermann106,cette route n'existe plus,2,0,hermann106,c'est fait
+2046492,Togo,6.1719508,1.1832755,2020-01-04 00:00:00,2020-01-07 14:28:52,0,hermann106,cet endroit est devenu un bassin de rétention d'eau,2,0,hermann106,c'est fait
+2046493,Togo,6.1725821,1.1828182,2020-01-04 00:00:00,2020-01-07 14:28:51,0,hermann106,cette est bitumée,2,0,hermann106,c'est fait
+2038643,Togo,6.2332938,1.1381678,2019-12-28 00:00:00,2020-01-04 15:18:54,0,hermann106,soudeur,2,0,hermann106,c'est fait
+2038650,Togo,6.2343811,1.1373729,2019-12-28 00:00:00,2020-01-04 15:18:52,0,hermann106,"cette voie est a supprimer, elle n'existe pas",2,0,hermann106,C'EST FAIT
+2038644,Togo,6.2332800,1.1380533,2019-12-28 00:00:00,2020-01-04 15:18:51,0,hermann106,menuisier,2,0,hermann106,c'est fait
+2038645,Togo,6.2334638,1.1380646,2019-12-28 00:00:00,2020-01-04 15:18:49,0,hermann106,route,2,0,hermann106,c'est fait
+533881,Togo,6.1248636,1.2137780,2016-03-27 00:00:00,2020-01-01 23:35:15,0,AKE Amazan,Télévision Togolaise,2,0,Enock4seth,
+2035864,Togo,10.3531544,0.4695247,2019-12-24 00:00:00,2019-12-27 12:11:56,0,AKOUETE,affaires sociales,2,0,hermann106,c'est fait
+2026039,Togo,6.9057905,0.6439343,2019-12-14 00:00:00,2019-12-27 07:43:54,0,AKOUETE,atelier soudeur,2,0,hermann106,c'est fait
+2025624,Togo,6.9171219,0.6339692,2019-12-13 00:00:00,2019-12-27 07:42:31,0,hermann106,alcools,2,0,hermann106,c'est fait
+2025617,Togo,6.9134392,0.6332088,2019-12-13 00:00:00,2019-12-27 07:42:31,0,hermann106,tailleur la bonne tenue,2,0,hermann106,c'est fait
+2025612,Togo,6.9163043,0.6337333,2019-12-13 00:00:00,2019-12-27 07:42:30,0,hermann106,clothes,2,0,hermann106,c'est fait
+2025621,Togo,6.9161850,0.6339267,2019-12-13 00:00:00,2019-12-27 07:42:29,0,hermann106,coiffure,2,0,hermann106,c'est fait
+2025623,Togo,6.9168839,0.6339182,2019-12-13 00:00:00,2019-12-27 07:42:29,0,hermann106,mercerie,2,0,hermann106,c'est fait
+2025625,Togo,6.9171466,0.6339732,2019-12-13 00:00:00,2019-12-27 07:42:28,0,hermann106,mèches,2,0,hermann106,c'est fait
+2025648,Togo,6.9081745,0.6536235,2019-12-13 00:00:00,2019-12-27 07:42:28,0,hermann106,espace arboré,2,0,hermann106,c'est fait
+2025622,Togo,6.9164085,0.6339017,2019-12-13 00:00:00,2019-12-27 07:42:27,0,hermann106,Vidéos vente,2,0,hermann106,c'est fait
+2025619,Togo,6.9150575,0.6338963,2019-12-13 00:00:00,2019-12-27 01:15:10,0,hermann106,mercerie,2,0,hermann106,c'est fait
+2025614,Togo,6.9114345,0.6326119,2019-12-13 00:00:00,2019-12-27 01:15:09,0,hermann106,soudeur,2,0,hermann106,c'est fait
+2025616,Togo,6.9126094,0.6328448,2019-12-13 00:00:00,2019-12-27 01:15:08,0,hermann106,menuiserie alu,2,0,hermann106,c'est fait
+2025618,Togo,6.9147674,0.6337409,2019-12-13 00:00:00,2019-12-27 01:15:07,0,hermann106,vente équipements solaire,2,0,hermann106,c'est fait
+2025613,Togo,6.9110050,0.6323334,2019-12-13 00:00:00,2019-12-27 01:15:07,0,hermann106,boutique art,2,0,hermann106,c'est fait
+2025620,Togo,6.9151591,0.6339230,2019-12-13 00:00:00,2019-12-27 01:15:06,0,hermann106,ets de jour en jour,2,0,hermann106,c'est fait
+2025615,Togo,6.9117560,0.6325288,2019-12-13 00:00:00,2019-12-27 01:15:05,0,hermann106,route,2,0,hermann106,c'est fait
+1551166,Togo,6.9102494,0.6454432,2018-10-05 00:00:00,2019-12-27 00:41:04,0,innocente,'SADAQA' POI has no name POI types: man_made-water_well OSM data version: 2018-08-04T14:22:01Z  #mapsme,2,0,hermann106,veillez bien indiquer l'élément à cartographier
+2025657,Togo,6.9096589,0.6489515,2019-12-13 00:00:00,2019-12-27 00:39:35,0,hermann106,route,2,0,hermann106,c'est fait
+2025635,Togo,6.9074564,0.6462683,2019-12-13 00:00:00,2019-12-27 00:39:34,0,hermann106,Antenne de télécommunication,2,0,hermann106,c'est fait
+2025644,Togo,6.9077905,0.6520597,2019-12-13 00:00:00,2019-12-27 00:39:34,0,hermann106,terrain de foot,2,0,hermann106,c'est fait
+2026045,Togo,6.9074228,0.6423829,2019-12-14 00:00:00,2019-12-27 00:39:33,0,AKOUETE,Radio Ave Maria,2,0,hermann106,c'est fait
+2025643,Togo,6.9071749,0.6522707,2019-12-13 00:00:00,2019-12-27 00:39:33,0,hermann106,route,2,0,hermann106,c'est fait
+2026042,Togo,6.9098711,0.6441840,2019-12-14 00:00:00,2019-12-26 08:21:44,0,AKOUETE,mosquée,2,0,AKOUETE,Done!
+2025626,Togo,6.9185175,0.6340427,2019-12-13 00:00:00,2019-12-26 08:21:42,0,hermann106,lonato,2,0,AKOUETE,Done!
+2025629,Togo,6.9216897,0.6343827,2019-12-13 00:00:00,2019-12-26 08:21:41,0,hermann106,vente de ciment,2,0,AKOUETE,Done!
+2025637,Togo,6.9083181,0.6451659,2019-12-13 00:00:00,2019-12-25 23:34:31,0,hermann106,l'atelier est là,2,0,AKOUETE,Done!
+2025638,Togo,6.9088222,0.6451787,2019-12-13 00:00:00,2019-12-25 23:34:30,0,hermann106,mosquée,2,0,AKOUETE,Done!
+2025636,Togo,6.9078787,0.6450441,2019-12-13 00:00:00,2019-12-25 23:34:29,0,hermann106,l'école est là,2,0,AKOUETE,Done!
+2026155,Togo,6.9041617,0.6328638,2019-12-14 00:00:00,2019-12-25 23:34:28,0,AKOUETE,Lonato,2,0,AKOUETE,Done!
+2035922,Togo,9.9549062,1.0560388,2019-12-24 00:00:00,2019-12-25 08:20:45,0,hermann106,Total,2,0,pitscheplatsch,"Already mapped, see https://www.openstreetmap.org/node/2536811102"
+2032912,Togo,10.3374334,0.4625042,2019-12-21 00:00:00,2019-12-23 15:52:13,0,hermann106,futur orphelinat et ecole epp douane groupe C,2,0,AKOUETE,
+2032911,Togo,10.3387241,0.4623590,2019-12-21 00:00:00,2019-12-23 15:52:12,0,hermann106,maison des frères Hanrion,2,0,AKOUETE,Done!
+2030691,Togo,10.3607456,0.4743870,2019-12-18 00:00:00,2019-12-23 10:18:02,0,AKOUETE,resto foufou,2,0,AKOUETE,Done!
+2030696,Togo,10.3596476,0.4742080,2019-12-18 00:00:00,2019-12-23 10:16:24,0,AKOUETE,coiffure homme,2,0,AKOUETE,Done!
+2032420,Togo,10.3565471,0.4752059,2019-12-20 00:00:00,2019-12-23 10:16:24,0,Unknown,maire de mango,2,0,AKOUETE,Done!
+2032544,Togo,10.3537000,0.4656000,2019-12-20 00:00:00,2019-12-23 10:13:00,0,Unknown,Quartier  zongo  karamon,2,0,AKOUETE,Done!
+2032422,Togo,10.3474739,0.4759200,2019-12-20 00:00:00,2019-12-23 09:57:02,0,Unknown,carrefour angoh achingou,2,0,AKOUETE,Done!
+2032915,Togo,10.3566759,0.4753782,2019-12-21 00:00:00,2019-12-23 09:41:38,0,hermann106,ets la qualité vente de pagne,2,0,AKOUETE,Done!
+2032916,Togo,10.3567500,0.4753516,2019-12-21 00:00:00,2019-12-23 09:41:37,0,hermann106,boutique Barry et fils,2,0,AKOUETE,Done!
+2030701,Togo,10.3585206,0.4751750,2019-12-18 00:00:00,2019-12-23 09:29:28,0,AKOUETE,soudeur,2,0,AKOUETE,Done!
+2030682,Togo,10.3618045,0.4781250,2019-12-18 00:00:00,2019-12-20 15:27:51,0,AKOUETE,fontaine,2,0,AKOUETE,Done
+2030692,Togo,10.3606297,0.4742420,2019-12-18 00:00:00,2019-12-20 09:36:09,0,AKOUETE,Lycée Millenium,2,0,AKOUETE,Done!
+2030670,Togo,10.3632966,0.4853673,2019-12-18 00:00:00,2019-12-20 09:36:08,0,AKOUETE,Entreprise égreneuse riz,2,0,AKOUETE,Done!
+2030698,Togo,10.3591944,0.4746482,2019-12-18 00:00:00,2019-12-20 09:36:07,0,AKOUETE,cafétéria,2,0,AKOUETE,Done!
+2030673,Togo,10.3640092,0.4819146,2019-12-18 00:00:00,2019-12-20 09:27:49,0,AKOUETE,Lycée Mango,2,0,AKOUETE,Done!
+2030671,Togo,10.3646997,0.4858514,2019-12-18 00:00:00,2019-12-20 09:27:48,0,AKOUETE,Radio Nafa,2,0,AKOUETE,
+2030666,Togo,10.3636659,0.4859427,2019-12-18 00:00:00,2019-12-20 09:27:47,0,AKOUETE,Complexe Privée Laïc Hanas,2,0,AKOUETE,Done!
+2030672,Togo,10.3637618,0.4836008,2019-12-18 00:00:00,2019-12-20 09:27:46,0,AKOUETE,fontaine,2,0,AKOUETE,Done!
+2030667,Togo,10.3610891,0.4851142,2019-12-18 00:00:00,2019-12-20 09:27:44,0,AKOUETE,cimetière allemande,4,1,AKOUETE,Done!
+2030683,Togo,10.3616101,0.4777307,2019-12-18 00:00:00,2019-12-20 09:14:59,0,AKOUETE,menuiserie,2,0,AKOUETE,Done!
+2030678,Togo,10.3622135,0.4799703,2019-12-18 00:00:00,2019-12-20 09:14:56,0,AKOUETE,boutique,2,0,AKOUETE,Done!
+2029875,Togo,10.3488988,0.4685337,2019-12-17 00:00:00,2019-12-20 09:14:56,0,AKOUETE,Direction Préfectoral du MEDDPN,2,0,AKOUETE,Done!
+2029865,Togo,10.3506671,0.4689399,2019-12-17 00:00:00,2019-12-20 09:14:55,0,AKOUETE,Ets Koara Abdoul Maguid vente de motos,2,0,AKOUETE,Done!
+2029860,Togo,10.3449911,0.4692088,2019-12-17 00:00:00,2019-12-20 09:14:54,0,AKOUETE,Egreuneuse de riz,2,0,AKOUETE,Done!
+2030686,Togo,10.3612973,0.4770261,2019-12-18 00:00:00,2019-12-20 09:14:54,0,AKOUETE,drapeau togolais,2,0,AKOUETE,Done!
+2030681,Togo,10.3618851,0.4789584,2019-12-18 00:00:00,2019-12-20 09:14:53,0,AKOUETE,boutique,2,0,AKOUETE,Done!
+2030676,Togo,10.3627104,0.4802310,2019-12-18 00:00:00,2019-12-20 09:14:52,0,AKOUETE,menuiserie,2,0,AKOUETE,Done!
+2029868,Togo,10.3518339,0.4692120,2019-12-17 00:00:00,2019-12-20 09:14:52,0,AKOUETE,vente de vêtements,2,0,AKOUETE,Done!
+2030699,Togo,10.3591023,0.4749786,2019-12-18 00:00:00,2019-12-20 09:14:51,0,AKOUETE,lavage voiture,2,0,AKOUETE,Done!
+2030694,Togo,10.3602391,0.4741603,2019-12-18 00:00:00,2019-12-20 09:14:48,0,AKOUETE,moulin maïs,2,0,AKOUETE,Done!
+2030689,Togo,10.3610237,0.4751746,2019-12-18 00:00:00,2019-12-20 09:14:48,0,AKOUETE,photographie,2,0,AKOUETE,Done!
+2030679,Togo,10.3619850,0.4794852,2019-12-18 00:00:00,2019-12-20 09:14:47,0,AKOUETE,boutique,2,0,AKOUETE,Done!
+2030674,Togo,10.3629989,0.4812653,2019-12-18 00:00:00,2019-12-20 09:14:45,0,AKOUETE,boutique,2,0,AKOUETE,Done!
+2029866,Togo,10.3507036,0.4689520,2019-12-17 00:00:00,2019-12-20 09:14:43,0,AKOUETE,vente de cosmétiques,2,0,AKOUETE,Done!
+2030702,Togo,10.3513263,0.4690001,2019-12-18 00:00:00,2019-12-20 09:14:40,0,AKOUETE,friperie,2,0,AKOUETE,Done!
+2030697,Togo,10.3591136,0.4741246,2019-12-18 00:00:00,2019-12-20 09:14:39,0,AKOUETE,kiosk eau,2,0,AKOUETE,Done!
+2030687,Togo,10.3610441,0.4766121,2019-12-18 00:00:00,2019-12-20 09:14:36,0,AKOUETE,fontaine,2,0,AKOUETE,Done!
+2030677,Togo,10.3625191,0.4801774,2019-12-18 00:00:00,2019-12-20 09:14:35,0,AKOUETE,vendeuse de gâteau et de friperie,2,0,AKOUETE,Done!
+2029869,Togo,10.3522803,0.4693667,2019-12-17 00:00:00,2019-12-20 09:14:35,0,AKOUETE,UTB,2,0,AKOUETE,Done!
+2029859,Togo,10.3446570,0.4691220,2019-12-17 00:00:00,2019-12-20 09:14:32,0,AKOUETE,Tapisserie,2,0,AKOUETE,Done!
+2030695,Togo,10.3601142,0.4741406,2019-12-18 00:00:00,2019-12-20 09:14:31,0,AKOUETE,mosquée,2,0,AKOUETE,Done!
+2030690,Togo,10.3609886,0.4750104,2019-12-18 00:00:00,2019-12-20 09:14:30,0,AKOUETE,boutique,2,0,AKOUETE,Done!
+2030685,Togo,10.3610094,0.4767733,2019-12-18 00:00:00,2019-12-20 09:14:28,0,AKOUETE,coiffure le boss,2,0,AKOUETE,Done!
+2030680,Togo,10.3620306,0.4797412,2019-12-18 00:00:00,2019-12-20 09:14:27,0,AKOUETE,Quartier Badara,2,0,AKOUETE,Done!
+2030675,Togo,10.3629145,0.4802939,2019-12-18 00:00:00,2019-12-20 09:14:27,0,AKOUETE,Mosquée,2,0,AKOUETE,Done!
+2029867,Togo,10.3516957,0.4690183,2019-12-17 00:00:00,2019-12-20 09:14:24,0,AKOUETE,FUCEC,2,0,AKOUETE,Done!
+2029857,Togo,10.3443596,0.4687149,2019-12-17 00:00:00,2019-12-20 09:14:23,0,AKOUETE,pâturage,2,0,AKOUETE,Done!
+2029862,Togo,10.3452799,0.4691001,2019-12-17 00:00:00,2019-12-20 09:14:23,0,AKOUETE,moulin,2,0,AKOUETE,Done!
+2030693,Togo,10.3607516,0.4741874,2019-12-18 00:00:00,2019-12-20 09:14:22,0,AKOUETE,Carrefour des Jeunes,2,0,AKOUETE,Done!
+2030688,Togo,10.3608926,0.4752666,2019-12-18 00:00:00,2019-12-20 09:14:21,0,AKOUETE,cafétériat,2,0,AKOUETE,Done!
+2029837,Togo,10.3614037,0.4685332,2019-12-17 00:00:00,2019-12-20 04:23:51,0,AKOUETE,atelier moto,2,0,AKOUETE,Done!
+2029847,Togo,10.3594576,0.4710252,2019-12-17 00:00:00,2019-12-20 04:23:51,0,AKOUETE,commerce générale Chetou et frères,2,0,AKOUETE,Done!
+2029855,Togo,10.3422602,0.4660744,2019-12-17 00:00:00,2019-12-20 04:23:50,0,AKOUETE,mosquée,2,0,AKOUETE,Done!
+2029832,Togo,10.3646690,0.4645483,2019-12-17 00:00:00,2019-12-20 04:23:50,0,AKOUETE,mosquée Anour,2,0,AKOUETE,Done!
+2029845,Togo,10.3597425,0.4708267,2019-12-17 00:00:00,2019-12-20 04:23:49,0,AKOUETE,ministère de l'enseignement primaire et secondaire,2,0,AKOUETE,Done!
+2029835,Togo,10.3614219,0.4686631,2019-12-17 00:00:00,2019-12-20 04:23:48,0,AKOUETE,météo,2,0,AKOUETE,Done!
+2029830,Togo,10.3649607,0.4641674,2019-12-17 00:00:00,2019-12-20 04:23:47,0,AKOUETE,ICAT,2,0,AKOUETE,Done!
+2029871,Togo,10.3533464,0.4690185,2019-12-17 00:00:00,2019-12-20 04:23:45,0,AKOUETE,Direction Préfectoral Affaires Sociales,2,0,AKOUETE,Done!
+2029833,Togo,10.3637325,0.4648837,2019-12-17 00:00:00,2019-12-20 04:23:45,0,AKOUETE,DRDR,2,0,AKOUETE,Done!
+2029861,Togo,10.3451071,0.4691823,2019-12-17 00:00:00,2019-12-20 04:23:44,0,AKOUETE,soudeur,2,0,AKOUETE,Done!
+2029836,Togo,10.3611908,0.4674240,2019-12-17 00:00:00,2019-12-20 04:23:43,0,AKOUETE,Ministère des Travaux Publics,2,0,AKOUETE,Done!
+2029828,Togo,10.3656290,0.4637350,2019-12-17 00:00:00,2019-12-20 04:23:43,0,AKOUETE,Atelier de soudure,2,0,AKOUETE,Done!
+2029831,Togo,10.3646454,0.4645751,2019-12-17 00:00:00,2019-12-20 04:23:42,0,AKOUETE,École Islamique Anour,2,0,AKOUETE,Done!
+2029834,Togo,10.3632373,0.4659709,2019-12-17 00:00:00,2019-12-20 04:23:41,0,AKOUETE,gendarmerie,2,0,AKOUETE,Done!
+2029829,Togo,10.3650086,0.4640996,2019-12-17 00:00:00,2019-12-20 04:23:40,0,AKOUETE,NSCT,2,0,AKOUETE,Done!
+2029850,Togo,10.3585418,0.4712319,2019-12-17 00:00:00,2019-12-19 20:07:24,0,AKOUETE,ATOP Mango,2,0,AKOUETE,Done!
+2029851,Togo,10.3580993,0.4712133,2019-12-17 00:00:00,2019-12-19 20:07:23,0,AKOUETE,poissonnerie,2,0,AKOUETE,Done!
+2029827,Togo,10.3636822,0.4620329,2019-12-17 00:00:00,2019-12-19 19:37:53,0,AKOUETE,Centre des Jeunes,2,0,AKOUETE,Done!
+2029826,Togo,10.3578983,0.4607440,2019-12-17 00:00:00,2019-12-19 19:29:49,0,AKOUETE,cimetière chrétienne,2,0,AKOUETE,Done!
+2029863,Togo,10.3464120,0.4691608,2019-12-17 00:00:00,2019-12-19 06:46:48,0,AKOUETE,vente de ciments,2,0,hermann106,c'est fait
+2029864,Togo,10.3470784,0.4691227,2019-12-17 00:00:00,2019-12-19 04:06:31,0,AKOUETE,soudeur,2,0,hermann106,c'est fait
+2029856,Togo,10.3437679,0.4708324,2019-12-17 00:00:00,2019-12-18 04:14:21,0,AKOUETE,zone inondable,2,0,hermann106,c'est fait
+2029870,Togo,10.3524875,0.4694166,2019-12-17 00:00:00,2019-12-18 03:39:45,0,AKOUETE,CIB,2,0,AKOUETE,Done!
+2029872,Togo,10.3538772,0.4700686,2019-12-17 00:00:00,2019-12-18 03:37:43,0,AKOUETE,Ferrailleur,2,0,AKOUETE,Done!
+2029853,Togo,10.3543054,0.4701960,2019-12-17 00:00:00,2019-12-18 03:37:41,0,AKOUETE,vente de vêtements,2,0,AKOUETE,Done!
+2029874,Togo,10.3541586,0.4701225,2019-12-17 00:00:00,2019-12-18 03:37:41,0,AKOUETE,Ferrailleur,2,0,AKOUETE,Done!
+2029873,Togo,10.3540157,0.4700701,2019-12-17 00:00:00,2019-12-18 03:37:40,0,AKOUETE,menuiserie,2,0,AKOUETE,Done!
+2029849,Togo,10.3589477,0.4711203,2019-12-17 00:00:00,2019-12-18 03:05:31,0,AKOUETE,magasin sesame,2,0,AKOUETE,Done!
+2029844,Togo,10.3600783,0.4704094,2019-12-17 00:00:00,2019-12-18 03:05:30,0,AKOUETE,moulin,2,0,AKOUETE,Done!
+2029843,Togo,10.3601637,0.4702659,2019-12-17 00:00:00,2019-12-18 03:05:29,0,AKOUETE,tapissier,2,0,AKOUETE,Done!
+2029848,Togo,10.3592724,0.4709592,2019-12-17 00:00:00,2019-12-18 03:05:29,0,AKOUETE,Lonato,2,0,AKOUETE,Done!
+2029841,Togo,10.3600533,0.4698108,2019-12-17 00:00:00,2019-12-18 02:44:23,0,AKOUETE,centre communautaire,2,0,AKOUETE,Done!
+2029842,Togo,10.3600769,0.4700224,2019-12-17 00:00:00,2019-12-18 02:44:23,0,AKOUETE,clinique vétérinaire,2,0,AKOUETE,Done!
+2029840,Togo,10.3605525,0.4693781,2019-12-17 00:00:00,2019-12-18 02:30:34,0,AKOUETE,mécanicien,2,0,AKOUETE,Done!
+2029838,Togo,10.3608610,0.4689622,2019-12-17 00:00:00,2019-12-18 02:30:15,0,AKOUETE,station essence CAP,2,0,AKOUETE,Done!
+2029839,Togo,10.3607902,0.4690844,2019-12-17 00:00:00,2019-12-18 02:07:25,0,AKOUETE,boutique mon beau village,2,0,AKOUETE,Done!
+2029823,Togo,10.3537421,0.4665018,2019-12-17 00:00:00,2019-12-18 01:39:51,0,AKOUETE,Magasin pasa,2,0,AKOUETE,Done!
+2029824,Togo,10.3536735,0.4660268,2019-12-17 00:00:00,2019-12-18 01:39:29,0,AKOUETE,Mosquée Zongo kalamo,2,0,AKOUETE,Done!
+2029825,Togo,10.3552019,0.4656213,2019-12-17 00:00:00,2019-12-18 01:35:51,0,AKOUETE,Quartier Zongo kalamo,2,0,AKOUETE,done!
+2025650,Togo,6.9108533,0.6566300,2019-12-13 00:00:00,2019-12-15 04:54:42,0,hermann106,mosquée,2,0,hermann106,c'est fait
+2025645,Togo,6.9078129,0.6524217,2019-12-13 00:00:00,2019-12-15 04:54:41,0,hermann106,école coranique,2,0,hermann106,c'est fait
+2025652,Togo,6.9110217,0.6574301,2019-12-13 00:00:00,2019-12-15 04:54:40,0,hermann106,terrain,2,0,hermann106,c'est fait
+2025647,Togo,6.9081035,0.6529890,2019-12-13 00:00:00,2019-12-15 04:54:39,0,hermann106,cafétéria mazaso,2,0,hermann106,c'est fait
+2025651,Togo,6.9110740,0.6570738,2019-12-13 00:00:00,2019-12-15 04:54:38,0,hermann106,route,2,0,hermann106,c'est fait
+2025649,Togo,6.9090796,0.6535915,2019-12-13 00:00:00,2019-12-15 04:54:38,0,hermann106,mosquée,2,0,hermann106,c'est fait
+2025646,Togo,6.9081987,0.6528539,2019-12-13 00:00:00,2019-12-15 04:54:37,0,hermann106,route,2,0,hermann106,c'est fait
+2025653,Togo,6.9119720,0.6561210,2019-12-13 00:00:00,2019-12-15 04:54:35,0,hermann106,boutique,2,0,hermann106,c'est fait
+2026157,Togo,6.9057761,0.6372893,2019-12-14 00:00:00,2019-12-15 03:03:51,0,AKOUETE,vente de cassette video,2,0,hermann106,c'est fait
+2026152,Togo,6.9019969,0.6392413,2019-12-14 00:00:00,2019-12-15 03:03:50,0,AKOUETE,vente de produits congelés,2,0,hermann106,c'est fait
+2026035,Togo,6.8812128,0.6456622,2019-12-14 00:00:00,2019-12-15 02:14:35,0,AKOUETE,Cité U,2,0,AKOUETE,
+2026046,Togo,6.9064479,0.6421792,2019-12-14 00:00:00,2019-12-15 01:48:49,0,AKOUETE,École Primaire Catholique Tsihinnu,2,0,AKOUETE,
+2026043,Togo,6.9086901,0.6435192,2019-12-14 00:00:00,2019-12-15 01:44:08,0,AKOUETE,mosquée,2,0,AKOUETE,
+2026038,Togo,6.9057771,0.6434101,2019-12-14 00:00:00,2019-12-15 01:41:52,0,AKOUETE,Moulin Maïs,2,0,AKOUETE,
+2025654,Togo,6.9127533,0.6537217,2019-12-13 00:00:00,2019-12-14 15:01:55,0,hermann106,couturière,2,0,hermann106,c'est fait
+2025658,Togo,6.9047627,0.6486009,2019-12-13 00:00:00,2019-12-14 15:00:23,0,hermann106,mosquée,2,0,hermann106,c'est fait
+2025659,Togo,6.9038227,0.6507810,2019-12-13 00:00:00,2019-12-14 15:00:05,0,hermann106,la,2,0,hermann106,c'est fait
+2025639,Togo,6.9071536,0.6493130,2019-12-13 00:00:00,2019-12-14 15:00:03,0,hermann106,route,2,0,hermann106,c'est fait
+2025640,Togo,6.9075305,0.6493951,2019-12-13 00:00:00,2019-12-14 14:59:54,0,hermann106,route,2,0,hermann106,c'est fait
+2025634,Togo,6.9051040,0.6473994,2019-12-13 00:00:00,2019-12-14 14:59:51,0,hermann106,ce point n'existe pas,2,0,hermann106,c'est fait
+2025641,Togo,6.9073744,0.6495011,2019-12-13 00:00:00,2019-12-14 14:59:45,0,hermann106,moulin à grain,2,0,hermann106,c'est fait
+2025655,Togo,6.9115116,0.6508166,2019-12-13 00:00:00,2019-12-14 14:59:22,0,hermann106,couture homme,2,0,hermann106,c'est fait
+2025642,Togo,6.9071608,0.6498503,2019-12-13 00:00:00,2019-12-14 14:59:17,0,hermann106,route,2,0,hermann106,c'est fait
+2025656,Togo,6.9115475,0.6507634,2019-12-13 00:00:00,2019-12-14 14:59:08,0,hermann106,mercerie,2,0,hermann106,c'est fait
+2026047,Togo,6.9071588,0.6422130,2019-12-14 00:00:00,2019-12-14 14:04:29,0,AKOUETE,paroisse Immaculée Conception,2,0,AKOUETE,
+2026040,Togo,6.9060061,0.6449939,2019-12-14 00:00:00,2019-12-14 13:04:53,0,AKOUETE,moulin maïs,2,0,AKOUETE,
+2026034,Togo,6.9046719,0.6371187,2019-12-14 00:00:00,2019-12-14 12:54:40,0,AKOUETE,moulin maïs,2,0,AKOUETE,
+2026048,Togo,6.9060702,0.6392363,2019-12-14 00:00:00,2019-12-14 12:32:20,0,AKOUETE,mosquée,2,0,AKOUETE,
+2026049,Togo,6.9057907,0.6373795,2019-12-14 00:00:00,2019-12-14 12:31:15,0,AKOUETE,maternité Bethel,2,0,AKOUETE,
+2026033,Togo,6.9020915,0.6384311,2019-12-14 00:00:00,2019-12-14 12:29:49,0,AKOUETE,Complexe scolaire Beau Soleil,2,0,AKOUETE,
+1969072,Togo,6.2414900,1.1823200,2019-10-21 00:00:00,2019-10-21 07:00:24,0,bessobiyou,MAISON PALANGA GRATIEN,4,1,bessobiyou,
+1426891,Togo,7.4210076,0.8837956,2018-06-15 00:00:00,2019-09-21 21:34:10,0,mountenjoy,grade 1 - fresh paved until kpalime,2,0,mountenjoy,
+1571628,Togo,7.4881864,0.9378076,2018-10-26 00:00:00,2019-09-21 21:25:09,0,AKE Amazan,Nom de la ville : Ezimé,2,0,mountenjoy,fixed
+1426888,Togo,7.1102848,0.7269640,2018-06-15 00:00:00,2019-09-21 21:06:45,0,mountenjoy,paved,2,0,mountenjoy,normal in Togo
+1426890,Togo,7.1376350,0.6175735,2018-06-15 00:00:00,2019-09-20 22:16:31,0,mountenjoy,paved but worst holes,2,0,mountenjoy,
+1426889,Togo,7.1298479,0.6878113,2018-06-15 00:00:00,2019-09-20 22:03:31,0,mountenjoy,paved with some holes,2,0,mountenjoy,
+1706914,Togo,9.5633646,1.1954404,2019-03-11 00:00:00,2019-09-10 14:59:52,0,SebOst,"'La cour d'appel n'est pas du tout a cet endroit, je l'ai ajoutée sur son emplacement correct' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Cour d'appel POI types: amenity-courthouse OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,Syl,Corrigé
+762960,Togo,9.5634387,1.1944858,2016-10-27 00:00:00,2019-09-10 14:58:10,0,hermann106,marché de kara,2,0,Syl,Déjà présent
+1134956,Togo,9.6565906,1.3076708,2017-09-11 00:00:00,2019-09-10 14:56:57,0,hermann106,marché,2,0,Syl,Déjà présent
+762968,Togo,9.5534254,1.2046544,2016-10-27 00:00:00,2019-09-10 14:56:21,0,hermann106,bar,3,0,Syl,Ajouté depuis
+1351596,Togo,6.1758516,1.1812663,2018-04-07 00:00:00,2019-09-10 14:52:05,0,hermann106,la boutique est fermée,2,0,Syl,Supprimée
+1463419,Togo,6.1748257,1.1827265,2018-07-22 00:00:00,2019-09-10 14:49:42,0,hermann106,rue ekpon,2,0,Syl,Nom ajouté depuis
+1463420,Togo,6.1751439,1.1820924,2018-07-22 00:00:00,2019-09-10 14:49:25,0,hermann106,rue dissi,2,0,Syl,Nom ajouté depuis
+1707153,Togo,6.1850568,1.1668253,2019-03-11 00:00:00,2019-09-10 14:47:37,0,hermann106,la boutique n'y est plus,2,0,Syl,Supprimée
+1876476,Togo,6.1429274,1.2755246,2019-08-09 00:00:00,2019-09-10 14:45:42,0,ImamFall,'ATM' POI has no name POI types: amenity-atm OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,Syl,Already in the map
+1794020,Togo,6.2382300,1.1946200,2019-05-28 00:00:00,2019-09-10 14:45:18,0,Unknown,Domicile,2,0,Syl,Sûrement une note personnelle
+1463098,Togo,6.1741933,1.1840524,2018-07-22 00:00:00,2019-09-10 14:44:40,0,hermann106,rue melonkou,3,0,Syl,Modifié depuis
+474479,Togo,6.1893013,1.2575325,2015-11-26 00:00:00,2019-09-10 14:42:41,0,AKE Amazan,Togo 2000,3,0,Syl,
+1124443,Togo,6.1707850,1.1931109,2017-09-02 00:00:00,2019-09-10 14:41:44,0,Enock4seth,T-Oil,3,0,Syl,
+968596,Togo,6.1655330,1.3263510,2017-04-18 00:00:00,2019-09-10 14:39:38,0,Nyatefe,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2017-03-28T20:59:03Z) #mapsme",2,0,Syl,Removed
+685323,Togo,6.2335087,1.6042135,2016-08-23 00:00:00,2019-09-10 14:35:56,0,louisboko,"Traitement de texte, Photocopie, Cyber (OSM data version: 2016-07-15T17:38:02Z) #mapsme",2,0,Syl,Supprimé
+1727072,Togo,6.2335080,1.6042145,2019-03-28 00:00:00,2019-09-10 14:35:55,0,louisboko,"'Nous avons quitté cet endroit pour ailleurs' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: CIB-INTA Aneho POI types: internet_access-wlan shop-computer OSM data version: 2019-03-14T00:11:02Z  #mapsme",2,0,Syl,Supprimé
+930447,Togo,6.2335080,1.6042145,2017-03-17 00:00:00,2019-09-10 14:35:55,0,louisboko,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'CIB-INTA Aneho a quitté cet immeuble pour s'installer à un autre endroit. merci' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,Syl,Supprimé
+895287,Togo,6.1691144,1.2436532,2017-02-17 00:00:00,2019-09-10 14:34:26,0,Anani Amegah,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'DOMICILE' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,Syl,Cela ressemble à une note personnelle. Rien à ajouter à OpenStreetMap.
+935832,Togo,6.1393659,1.2321751,2017-03-21 00:00:00,2019-09-10 14:32:08,0,Modeste Momo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'mal localisé. j'ai du créer un autre' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,Syl,Supprimé
+894063,Togo,6.1393659,1.2321751,2017-02-16 00:00:00,2019-09-10 14:32:08,0,Modeste Momo,prestation de services en Maintenance informatique et réseaux (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,Syl,Supprimé
+923967,Togo,6.1393659,1.2321751,2017-03-12 00:00:00,2019-09-10 14:30:25,0,Modeste Momo,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'mal localisé' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,Syl,Note en double
+894861,Togo,6.1393659,1.2321751,2017-02-17 00:00:00,2019-09-10 14:29:53,0,Modeste Momo,prestation de services en Maintenance informatique et réseaux (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,Syl,Note en double
+1327968,Togo,6.1259685,1.2088434,2018-03-14 00:00:00,2019-09-10 14:26:13,0,Jeanine Reinhard,"'been there, not here' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Pizzeria Casanostra POI types: amenity-restaurant OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Syl,Removed
+1327969,Togo,6.1320543,1.2137143,2018-03-14 00:00:00,2019-09-10 14:24:45,0,Jeanine Reinhard,"'been there, doesn't exist' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Rojana POI types: shop-supermarket OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Syl,Removed
+1319314,Togo,6.9182539,0.6248783,2018-03-06 00:00:00,2019-09-10 14:22:37,0,Jeanine Reinhard,"'been there, not there' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: cremerie au fermier POI types: amenity-bar OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Syl,Removed
+844543,Togo,6.9182539,0.6248783,2017-01-07 00:00:00,2019-09-10 14:22:37,0,Jonathan Voborsky,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Au fermier befindet sich woanders' (OSM data version: 2016-11-23T15:14:03Z) #mapsme",2,0,Syl,Removed
+844783,Togo,6.9182539,0.6248783,2017-01-07 00:00:00,2019-09-10 14:21:21,0,Moritz Pe,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-12-14T16:41:03Z) #mapsme",2,0,Syl,Duplicate note
+767684,Togo,8.3312688,0.9859948,2016-10-31 00:00:00,2019-09-10 14:17:40,0,hermann106,tribunal de blitta,2,0,Syl,Déjà présent
+767687,Togo,8.3307496,0.9855408,2016-10-31 00:00:00,2019-09-10 14:17:35,0,hermann106,inspecteur du premier degré,2,0,Syl,Déjà présent
+767683,Togo,8.3311697,0.9861021,2016-10-31 00:00:00,2019-09-10 14:17:29,0,hermann106,Utb,2,0,Syl,Déjà présent
+767686,Togo,8.3311343,0.9857749,2016-10-31 00:00:00,2019-09-10 14:16:51,0,hermann106,police,2,0,Syl,Déjà présent
+718469,Togo,6.1307202,1.2368354,2016-09-19 00:00:00,2019-09-10 14:14:45,0,Mahesh Ailani,VENDE DE PS DETASHE ET MOTO TVS (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Syl,Note en double
+1705998,Togo,6.1829875,1.1905575,2019-03-10 00:00:00,2019-09-10 14:12:46,0,hermann106,l'école est fermee,2,0,Syl,Supprimé
+1590554,Togo,6.2160911,1.1435075,2018-11-15 00:00:00,2019-09-10 14:04:46,0,Kosbey,"'Délocalisé' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Quincaillerie et Vente de ciment POI types: shop-hardware OSM data version: 2018-10-30T22:25:02Z  #mapsme",2,0,Syl,Supprimé
+1104962,Togo,6.2160916,1.1435079,2017-08-15 00:00:00,2019-09-10 14:04:46,0,Unknown,"'bad place' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Quincaillerie et Vente de ciment POI types: shop-hardware OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,Syl,Supprimé
+1567954,Togo,6.2160911,1.1435075,2018-10-22 00:00:00,2019-09-10 14:04:46,0,Kosbey,"'Lieu délocalisé' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Quincaillerie et Vente de ciment POI types: shop-hardware OSM data version: 2018-09-11T19:10:03Z  #mapsme",2,0,Syl,Supprimé
+1820944,Togo,6.2573633,1.0645808,2019-06-21 00:00:00,2019-09-10 14:03:33,0,Kosbey,"'Faux lieu' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Terrain Max et autres POI types: office-estate_agent OSM data version: 2019-05-17T13:54:02Z  #mapsme",2,0,Syl,Supprimé
+1820945,Togo,6.2594403,1.0642375,2019-06-21 00:00:00,2019-09-10 14:03:33,0,Kosbey,"'Fausse indication' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Parcelle Adoukonou, Max, .... POI types: office-estate_agent OSM data version: 2019-05-17T13:54:02Z  #mapsme",2,0,Syl,Supprimé
+1745021,Togo,6.2006895,1.1442934,2019-04-13 00:00:00,2019-09-10 13:58:43,0,Kosbey,"'Délocalisé' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure-Tresse Chez Tanti DODO POI types: shop-hairdresser OSM data version: 2019-03-28T14:13:02Z  #mapsme",2,0,Syl,Supprimé
+1590552,Togo,6.2007589,1.1444329,2018-11-15 00:00:00,2019-09-10 13:58:43,0,Kosbey,"'Délocalisé' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure et tresse chez Tanti Dodo POI types: shop-hairdresser OSM data version: 2018-10-30T22:25:02Z  #mapsme",2,0,Syl,Supprimé
+1535047,Togo,6.2006895,1.1442934,2018-09-20 00:00:00,2019-09-10 13:58:43,0,Kosbey,"'Changement d'adresses' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure-Tresse Chez Tanti DODO POI types: shop-hairdresser OSM data version: 2018-08-04T14:22:01Z  #mapsme",2,0,Syl,Supprimé
+1800823,Togo,6.2007589,1.1444329,2019-06-03 00:00:00,2019-09-10 13:58:42,0,Kosbey,"'Délocalisé' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure et tresse chez Tanti Dodo POI types: shop-hairdresser OSM data version: 2019-05-17T13:54:02Z  #mapsme",2,0,Syl,Supprimé
+1889924,Togo,6.2007589,1.1444329,2019-08-19 00:00:00,2019-09-10 13:58:42,0,Kosbey,"'La place est fermée' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure et tresse chez Tanti Dodo POI types: shop-hairdresser OSM data version: 2019-06-21T10:47:15Z  #mapsme",2,0,Syl,Supprimé
+1590553,Togo,6.2006895,1.1442934,2018-11-15 00:00:00,2019-09-10 13:58:42,0,Kosbey,"'Délocalisé' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure-Tresse Chez Tanti DODO POI types: shop-hairdresser OSM data version: 2018-10-30T22:25:02Z  #mapsme",2,0,Syl,Supprimé
+1535048,Togo,6.2007589,1.1444329,2018-09-20 00:00:00,2019-09-10 13:58:42,0,Kosbey,"'Changement d'adresse' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure et tresse chez Tanti Dodo POI types: shop-hairdresser OSM data version: 2018-08-04T14:22:01Z  #mapsme",2,0,Syl,Supprimé
+1556164,Togo,6.2006895,1.1442934,2018-10-10 00:00:00,2019-09-10 13:58:41,0,Kosbey,"'Changement de lieu' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure-Tresse Chez Tanti DODO POI types: shop-hairdresser OSM data version: 2018-09-11T19:10:03Z  #mapsme",2,0,Syl,Supprimé
+1665772,Togo,6.2006895,1.1442934,2019-01-30 00:00:00,2019-09-10 13:58:41,0,Kosbey,"'Changement d'adresse' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure-Tresse Chez Tanti DODO POI types: shop-hairdresser OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,Syl,Supprimé
+1627951,Togo,6.2007589,1.1444329,2018-12-25 00:00:00,2019-09-10 13:58:41,0,Kosbey,"'Changement d'adresse' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure et tresse chez Tanti Dodo POI types: shop-hairdresser OSM data version: 2018-12-13T07:12:02Z  #mapsme",2,0,Syl,Supprimé
+1620709,Togo,6.2007589,1.1444329,2018-12-18 00:00:00,2019-09-10 13:58:41,0,Kosbey,"'Changement d'adresse' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure et tresse chez Tanti Dodo POI types: shop-hairdresser OSM data version: 2018-10-30T22:25:02Z  #mapsme",2,0,Syl,Supprimé
+1909249,Togo,6.2007589,1.1444329,2019-09-01 00:00:00,2019-09-10 13:58:40,0,Kosbey,"'signalée plusieurs fois mais corrigée. la place n'existe plus.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure et tresse chez Tanti Dodo POI types: shop-hairdresser OSM data version: 2019-07-27T07:02:33Z  #mapsme",2,0,Syl,Supprimé
+1665881,Togo,6.2006895,1.1442934,2019-01-30 00:00:00,2019-09-10 13:58:40,0,Kosbey,"'Changement d'adresse' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure-Tresse Chez Tanti DODO POI types: shop-hairdresser OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,Syl,Supprimé
+1524185,Togo,6.2006895,1.1442934,2018-09-12 00:00:00,2019-09-10 13:58:40,0,Kosbey,"'La place a changé de lieu.' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure-Tresse Chez Tanti DODO POI types: shop-hairdresser OSM data version: 2018-07-05T18:22:02Z  #mapsme",2,0,Syl,Supprimé
+1556165,Togo,6.2007589,1.1444329,2018-10-10 00:00:00,2019-09-10 13:58:40,0,Kosbey,"'Changement de lieu' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure et tresse chez Tanti Dodo POI types: shop-hairdresser OSM data version: 2018-09-11T19:10:03Z  #mapsme",2,0,Syl,Supprimé
+1775254,Togo,6.2007589,1.1444329,2019-05-11 00:00:00,2019-09-10 13:58:39,0,Kosbey,"'Délocalisé' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure et tresse chez Tanti Dodo POI types: shop-hairdresser OSM data version: 2019-04-19T10:36:02Z  #mapsme",2,0,Syl,Supprimé
+1665882,Togo,6.2007589,1.1444329,2019-01-30 00:00:00,2019-09-10 13:58:39,0,Kosbey,"'Changement d'adresse' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Coiffure et tresse chez Tanti Dodo POI types: shop-hairdresser OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,Syl,Supprimé
+794022,Togo,6.1801143,1.2400161,2016-11-24 00:00:00,2019-05-09 07:15:57,0,SANTONYODEGUIDI2,"JANNONCE est un magazine de communication commercial. JANNONCE, la communication à votre portée. (OSM data version: 2016-06-01T10:03:02Z) #mapsme",2,0,freebeer,no info
+1609242,Togo,6.1574200,1.2241400,2018-12-05 00:00:00,2019-05-09 07:09:56,0,FIRST DIGITAL IMPACT,"FIRST DIGITALIMPACT : Agence Web, Marketing Digital, Communication & Transformation Digitale Togo.  First Digital Impact vous offre les meilleures solutions pour réussir votre stratégie digitale.   Agence de communication et de marketing full digital à Lomé au Togo ( webmarketing, référencement naturel (seo), création de site Internet, social media marketing, community management, création de contenu).   Peu importe votre domaine d'activité, quand il s'agit de définir une stratégie digitale ou d'un projet de développement web ou mobile ou de marketing digital, First Digital Impact vous aide à le concrétiser et à développer votre visibilité sur Internet.",2,0,freebeer,no address info
+1644481,Togo,7.1443713,1.5937009,2019-01-09 00:00:00,2019-05-09 07:07:01,0,Viki_travel_weak,Hi guys! check the dragged node road please.,2,0,freebeer,not seeing anything
+1629461,Togo,6.1997615,1.1904442,2018-12-27 00:00:00,2018-12-27 11:04:05,0,djoukson,Soycain Lomé,4,1,djoukson,Soycain Lomé
+1247788,Togo,6.1712504,1.1854009,2017-12-24 00:00:00,2018-11-01 03:16:00,0,J_Chaumard,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Maison de la Santé, siège du SYNPHOT POI types: amenity-community_centre OSM data version: 2017-11-17T20:18:02Z  #mapsme",2,0,Syl,Note en double
+1193208,Togo,6.1220828,1.2100504,2017-11-02 00:00:00,2018-11-01 03:13:40,0,Mecro,"'a déménagé ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Go Africa on line POI types: office-telecommunication OSM data version: 2017-10-20T12:20:02Z  #mapsme",2,0,Syl,Plus rien à cet endroit
+961251,Togo,6.1644956,1.2077853,2017-04-12 00:00:00,2018-11-01 03:12:01,0,Unknown,"209, Rue klala, Quartier Abové, à coté du bar LAKAZA",2,0,Syl,Note en double et mal située
+936647,Togo,9.5544299,1.1955370,2017-03-22 00:00:00,2018-11-01 03:10:11,0,Bassoliwena,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'lieu erroné ' (OSM data version: 2016-07-15T17:38:02Z) #mapsme",2,0,Syl,Rien à cet endroit
+802520,Togo,6.2049759,1.1866762,2016-12-02 00:00:00,2018-10-27 19:52:45,0,hermann106,hôtel la concorde,2,0,freebeer,on the map
+962992,Togo,6.1304215,1.2158133,2017-04-13 00:00:00,2018-10-27 19:48:50,0,Ansoumane Douno,Togo (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,freebeer,on the map
+961123,Togo,6.1205106,1.2163603,2017-04-12 00:00:00,2018-10-27 19:48:07,0,Unknown,Togo,2,0,freebeer,on thge  map
+1507521,Togo,9.4560267,0.8119799,2018-08-30 00:00:00,2018-10-27 19:45:18,0,Dgonzales,'Unlike other towns this shows as a generic town labeled Kabou instead of Kabou replacing the word Town so if I place a bookmark here the town name is lost but 'Town' is still visible.' POI name: Kabou POI types: place-town OSM data version: 2018-07-05T18:22:02Z  #mapsme,2,0,freebeer,"not a map data issue, no name field includes Town"
+647477,Togo,6.2159458,1.2093785,2016-07-28 00:00:00,2018-10-27 19:42:39,0,Unknown,"Rachel is staying here - Augustin Louguitibe's house, (Derrier Total Agoe, Lome)",2,0,freebeer,personal maps.me bookmark
+1566106,Togo,8.9610452,0.5053711,2018-10-20 00:00:00,2018-10-22 08:21:00,0,Unknown,Saint Genis des fontaines (This note have been created from Geovelo : http://amenagements-cyclables.fr/fr/contributions/5409),2,0,simon_geovelo,
+1507126,Togo,6.2073349,1.1892806,2018-08-29 00:00:00,2018-08-29 17:07:15,0,Blaissa kolani,FFG : Freedom FaithNet Global              Adidoadin,4,1,Blaissa kolani,
+1500441,Togo,6.1144620,1.2027347,2018-08-24 00:00:00,2018-08-24 07:03:05,0,NK-MOTEL,NK-MOTEL GUESTHOUSE,4,1,NK-MOTEL,
+1450435,Togo,6.1299600,1.2046400,2018-07-10 00:00:00,2018-07-10 15:07:44,0,jesux_basilux,LSS,2,0,jesux_basilux,
+533891,Togo,6.2721912,1.2892677,2016-03-27 00:00:00,2018-06-30 04:01:30,0,AKE Amazan,"Village Aveta, jour du marché Jeudi",2,0,AKOUETE,
+861583,Togo,6.1680917,1.3261110,2017-01-24 00:00:00,2018-06-09 14:08:38,0,yovo57,petit marché simpat de baguda a coté de la poste,2,0,hermann106,c'est fait
+767682,Togo,8.3320143,0.9874910,2016-10-31 00:00:00,2018-06-09 09:57:13,0,hermann106,centre hospitalier de blitta,2,0,30303020,Already mapped.
+894614,Togo,8.9558669,1.1656974,2017-02-16 00:00:00,2018-06-09 09:55:31,0,Fortuné Tadjou,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-12-14T16:41:03Z) #mapsme",2,0,30303020,No POI here anymore.
+1412232,Togo,6.2281000,1.2229200,2018-06-01 00:00:00,2018-06-04 12:44:54,0,hermann106,Ecole primaire publique Adougba,2,0,hermann106,fait
+1293763,Togo,6.2498600,1.2086100,2018-02-09 00:00:00,2018-05-17 16:50:53,0,Unknown,Total Agoè Zongo,2,0,ilasolthah,La station existe déjà
+954426,Togo,6.2017680,1.2059763,2017-04-06 00:00:00,2018-05-17 16:47:30,0,hermann106,bar la licorne,2,0,ilasolthah,Point d'intérêt à été ajouté
+1330587,Togo,6.1721917,1.2143996,2018-03-17 00:00:00,2018-05-17 16:44:48,0,Unknown,École Supérieure des Assistants Administratif (ESSAd),2,0,ilasolthah,l'école est ajoutée selon votre proposition. Merci de vérifier et ajouter d'autres informations.
+1022305,Togo,6.1649103,1.2144077,2017-06-07 00:00:00,2018-05-17 16:41:08,0,efimuun fimuun,Maison BOUTORA TAKPA N° 882,2,0,ilasolthah,Cette information est d'ordre privé et qui n'a pas besoin d'être sur la base de donnée. Le numéro de de maison est important si on l'associe à la porte. exple: entrance=yes
+1368581,Togo,6.2084633,1.1586933,2018-04-22 00:00:00,2018-05-11 09:10:45,0,AKE Amazan,Maison des Jeunes (Amadahome),2,0,hermann106,c'est fait
+474478,Togo,6.2070539,1.1853882,2015-11-26 00:00:00,2018-04-19 20:22:27,0,AKE Amazan,Allure Academy (école de Mode),2,0,hermann106,c'est fait
+890852,Togo,6.2006243,1.1812394,2017-02-13 00:00:00,2018-04-19 20:18:20,0,Jihel,Carrefour (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,hermann106,merci
+1202513,Togo,6.2041190,1.1730556,2017-11-11 00:00:00,2018-04-19 20:15:08,0,hermann106,pressing le doyen,2,0,hermann106,c'est fait
+1177099,Togo,6.2092930,1.1742107,2017-10-17 00:00:00,2018-04-19 20:14:04,0,hermann106,église de la grande grace,2,0,hermann106,c'est fait
+1177070,Togo,6.2205606,1.1664685,2017-10-17 00:00:00,2018-04-19 20:13:31,0,Magloire Essomanda,Station T-OIL,2,0,hermann106,c'est fait
+1105381,Togo,6.2159871,1.1517607,2017-08-15 00:00:00,2018-04-19 20:11:43,0,Kosbey,"'mistaken place' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Carrefour Aised POI types: tourism-information OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,hermann106,erreur
+1100804,Togo,6.2211135,1.1433817,2017-08-12 00:00:00,2018-04-19 20:11:16,0,Kosbey,'Collège d'enseignement général' POI name: CEG KOHÉ POI types: amenity-school OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,hermann106,c'est fait
+455642,Togo,6.2529866,1.1377555,2015-10-22 00:00:00,2018-04-19 20:10:06,0,SomeoneElse,"Presumably none of the Kaya trees here such as http://www.openstreetmap.org/node/3097524404/history are really _named_ Kaya, but that's just the type of tree that they are.",2,0,hermann106,what is it?
+488165,Togo,6.2298223,1.1141825,2015-12-25 00:00:00,2018-04-19 20:09:19,0,AKE Amazan,Agence Togocel,2,0,hermann106,c'est fait
+488175,Togo,6.3727505,0.9857767,2015-12-25 00:00:00,2018-04-16 17:47:05,0,AKE Amazan,lycée de Badja,2,0,hermann106,c'est fait
+488184,Togo,6.3727886,0.9855808,2015-12-25 00:00:00,2018-04-16 17:47:04,0,AKE Amazan,auberge zaina,2,0,hermann106,c'est fait
+575584,Togo,6.5183668,1.1922309,2016-05-27 00:00:00,2018-04-16 17:47:04,0,AKE Amazan,pont,2,0,hermann106,C'est fait
+1166041,Togo,6.1711071,1.0892867,2017-10-08 00:00:00,2018-04-09 12:11:51,0,N9MDH,'Segbe border crossing' POI has no name POI types: highway-residential OSM data version: 2017-09-17T07:13:02Z  #mapsme,2,0,hermann106,c'est fait
+1349730,Togo,6.1369526,1.2013883,2018-04-05 00:00:00,2018-04-05 11:53:48,0,hermann106,terrain de fiot,2,0,edboss1995,It works
+1262697,Togo,6.1549956,1.2246836,2018-01-09 00:00:00,2018-03-19 20:10:38,0,hermann106,ministère des mines et de l'energie,2,0,hermann106,C'est fait
+1329792,Togo,6.1369300,1.2351900,2018-03-16 00:00:00,2018-03-19 20:10:37,0,Bravia Eco Hotel,Bravia Eco Hotel Lome,4,1,hermann106,c'est fait
+1260460,Togo,6.1651998,1.2021084,2018-01-07 00:00:00,2018-03-19 20:10:36,0,Enock4seth,connecté,2,0,hermann106,mistake
+1176985,Togo,6.1873539,1.1635576,2017-10-17 00:00:00,2018-03-19 20:10:35,0,hermann106,route,2,0,hermann106,c'est fait
+1293490,Togo,6.1530400,1.2416100,2018-02-08 00:00:00,2018-03-19 20:10:34,0,Unknown,Siège CAP,2,0,hermann106,c'est fait
+1241495,Togo,6.1804729,1.1771142,2017-12-18 00:00:00,2018-03-19 20:10:33,0,Unknown,Maison de la famille ANIKA,2,0,hermann106,Information à caractère personnelle
+1287913,Togo,6.1743570,1.1845104,2018-02-03 00:00:00,2018-03-19 20:10:32,0,J_Chaumard,"'ce restaurant est désormais fermé. ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Pizza Burger City (BPC) POI types: shop-electronics amenity-fast_food OSM data version: 2018-01-10T08:12:02Z  #mapsme",2,0,hermann106,c'est fait
+481339,Togo,6.1775243,1.3755323,2015-12-11 00:00:00,2018-03-19 19:17:15,0,AKE Amazan,hôtel Loris,2,0,hermann106,c'est fait
+1323308,Togo,6.1497350,1.2982060,2018-03-10 00:00:00,2018-03-11 05:34:42,0,Unknown,Zfhjj,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1304761,Togo,6.1884681,1.3754055,2018-02-19 00:00:00,2018-02-23 10:52:39,0,hermann106,Carrefour rond point CUBE,2,0,hermann106,c'est une erreur
+481338,Togo,6.1802277,1.3888512,2015-12-11 00:00:00,2018-02-23 10:52:38,0,AKE Amazan,Entreprise Briques,2,0,hermann106,c'est fait
+1304711,Togo,6.1905750,1.3763200,2018-02-19 00:00:00,2018-02-21 11:40:13,0,hermann106,ceg kpogan lambou,2,0,hermann106,c'est fait
+1202512,Togo,6.1142593,1.2017155,2017-11-11 00:00:00,2018-02-06 15:11:32,0,hermann106,toil,2,0,Enock4seth,Merci :)
+1202509,Togo,6.1185240,1.2072577,2017-11-11 00:00:00,2018-02-06 15:09:49,0,hermann106,hotel,2,0,Enock4seth,
+1202510,Togo,6.1188186,1.2101776,2017-11-11 00:00:00,2018-02-06 15:09:47,0,hermann106,galion,2,0,Enock4seth,
+1202511,Togo,6.1159046,1.2071070,2017-11-11 00:00:00,2018-02-06 15:09:47,0,hermann106,hôtel tano,2,0,Enock4seth,
+823130,Togo,7.1886106,0.7558943,2016-12-20 00:00:00,2018-01-21 18:22:07,0,AKE Amazan,bar 02,2,0,sogesti,
+1261263,Togo,6.1393520,1.2659624,2018-01-08 00:00:00,2018-01-08 00:04:30,0,Gator8000,Hey there you are sexy,2,0,Gator8000,
+1252121,Togo,6.2280593,1.5887126,2017-12-29 00:00:00,2017-12-29 13:32:59,0,Ashsi,This church moved a couple roads south west.,3,1,Ashsi,
+1138262,Togo,6.1566158,1.2157715,2017-09-13 00:00:00,2017-12-26 06:37:59,0,hermann106,je dois corriger cette route,2,0,dominique hoavonon,
+474466,Togo,6.1470517,1.2193765,2015-11-26 00:00:00,2017-12-26 06:37:51,0,AKE Amazan,passage clouté,3,1,dominique hoavonon,
+760117,Togo,6.1428696,1.2133549,2016-10-25 00:00:00,2017-12-26 06:37:46,0,N9MDH,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Private house's swimming pool' (OSM data version: 2016-10-10T15:13:03Z) #mapsme",2,0,dominique hoavonon,
+836247,Togo,6.1438775,1.2122823,2016-12-31 00:00:00,2017-12-26 06:37:36,0,Moritz Pe,amo (OSM data version: 2016-11-23T15:14:03Z) #mapsme,2,0,dominique hoavonon,
+760116,Togo,6.1425896,1.2112829,2016-10-25 00:00:00,2017-12-26 06:37:29,0,N9MDH,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Private house's swimming pool' (OSM data version: 2016-10-10T15:13:03Z) #mapsme",2,0,dominique hoavonon,
+760118,Togo,6.1425563,1.2098278,2016-10-25 00:00:00,2017-12-26 06:37:24,0,N9MDH,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Private house's swimming pool' (OSM data version: 2016-10-10T15:13:03Z) #mapsme",2,0,dominique hoavonon,
+1125851,Togo,6.1465906,1.2039487,2017-09-03 00:00:00,2017-12-26 06:37:19,0,Enock4seth,t-oil,2,0,dominique hoavonon,
+495355,Togo,6.1493681,1.2183860,2016-01-09 00:00:00,2017-12-26 06:37:14,0,AKE Amazan,Feux Tricolores,2,0,dominique hoavonon,
+1143234,Togo,6.1542514,1.2229156,2017-09-17 00:00:00,2017-12-26 06:37:09,0,hermann106,T-Oil,2,0,dominique hoavonon,
+481247,Togo,6.1487942,1.2342717,2015-12-11 00:00:00,2017-12-26 06:37:03,0,AKE Amazan,Espace de Jeune : Agora Senghor,2,0,dominique hoavonon,
+495364,Togo,6.1521482,1.2402264,2016-01-09 00:00:00,2017-12-26 06:36:59,0,AKE Amazan,Direction générale Moov,2,0,dominique hoavonon,
+474471,Togo,6.1520199,1.2405844,2015-11-26 00:00:00,2017-12-26 06:36:50,0,AKE Amazan,Moov Direction Générale,2,0,dominique hoavonon,
+495363,Togo,6.1466456,1.2436203,2016-01-09 00:00:00,2017-12-26 06:36:46,0,AKE Amazan,place publique de Be,2,0,dominique hoavonon,
+1223705,Togo,6.1495771,1.2526047,2017-12-01 00:00:00,2017-12-26 06:36:40,0,hermann106,bar reine shop,2,0,dominique hoavonon,
+1125842,Togo,6.1611950,1.2650133,2017-09-03 00:00:00,2017-12-26 06:36:35,0,Enock4seth,dos d'âne,2,0,dominique hoavonon,
+1125841,Togo,6.1577470,1.2568419,2017-09-03 00:00:00,2017-12-26 06:36:29,0,Enock4seth,merge ESIG Global ou bien crée un relation,2,0,dominique hoavonon,
+466461,Togo,6.1283600,1.2385930,2015-11-10 00:00:00,2017-12-26 04:29:45,0,saliousoft,Écrire GOLDEN CROWN et non GOLDEN CREW,2,0,dominique hoavonon,
+481364,Togo,6.1306407,1.2474807,2015-12-11 00:00:00,2017-12-26 04:29:31,0,AKE Amazan,Bar restaurant Peace Beach,2,0,dominique hoavonon,
+478799,Togo,6.1316784,1.2490242,2015-12-06 00:00:00,2017-12-26 04:29:17,0,SeverinGeo,feu rouge,2,0,dominique hoavonon,
+495361,Togo,6.1382922,1.2556574,2016-01-09 00:00:00,2017-12-26 04:29:03,0,AKE Amazan,Lycée d'Ablogame,2,0,dominique hoavonon,
+495360,Togo,6.1379275,1.2560550,2016-01-09 00:00:00,2017-12-26 04:28:55,0,AKE Amazan,"Rue TCHOOU ,62.BAH",2,0,dominique hoavonon,
+495358,Togo,6.1371072,1.2625018,2016-01-09 00:00:00,2017-12-26 04:28:42,0,AKE Amazan,agence lonato,2,0,dominique hoavonon,
+481362,Togo,6.1382695,1.2656693,2015-12-11 00:00:00,2017-12-26 04:28:31,0,AKE Amazan,Banque : Orabank,2,0,dominique hoavonon,
+474475,Togo,6.1483391,1.2721307,2015-11-26 00:00:00,2017-12-26 04:28:18,0,AKE Amazan,Necotrans Togo,2,0,dominique hoavonon,
+890851,Togo,6.1514752,1.2699443,2017-02-13 00:00:00,2017-12-26 04:25:58,0,Jihel,Vente de pièces et matériels pour véhicules (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,dominique hoavonon,
+1125852,Togo,6.1418562,1.2078738,2017-09-03 00:00:00,2017-11-25 09:59:28,0,Enock4seth,Tokoin Hôpital,2,0,hermann106,merci
+767680,Togo,8.3437235,1.0092417,2016-10-31 00:00:00,2017-11-25 00:13:26,0,hermann106,total blitta,2,0,hermann106,c'est fait
+1215334,Togo,6.1434058,1.2311441,2017-11-23 00:00:00,2017-11-23 16:42:42,0,hermann106,tomaPast,2,0,hermann106,c'est une erreur
+488176,Togo,6.3771076,0.9816782,2015-12-25 00:00:00,2017-11-18 17:09:45,0,AKE Amazan,Bar Nassogne,2,0,hermann106,c'est fait
+488185,Togo,6.3356763,1.0050941,2015-12-25 00:00:00,2017-11-18 17:09:43,0,AKE Amazan,Centre de formation la Méthode,2,0,hermann106,c'est fait mais il faut un survey
+495351,Togo,6.3695802,0.9888010,2016-01-09 00:00:00,2017-11-18 17:09:43,0,AKE Amazan,Église ARS,2,0,hermann106,"c'est fait, il faut faire un survey"
+488174,Togo,6.3387658,1.0038269,2015-12-25 00:00:00,2017-11-18 17:09:41,0,AKE Amazan,poste de contrôle de police Bagbe,2,0,hermann106,c'est fait
+481258,Togo,6.1774855,1.1852897,2015-12-11 00:00:00,2017-11-11 07:02:40,0,AKE Amazan,Rue 190 .sov,2,0,hermann106,hummm
+685991,Togo,6.3337828,1.7082009,2016-08-24 00:00:00,2017-11-09 15:13:55,0,louisboko,"Transfert d'argent flooz, chrono cash, photocopie (OSM data version: 2016-08-08T15:45:02Z) #mapsme",2,0,hermann106,c'est fait
+488166,Togo,6.2297956,1.1141298,2015-12-25 00:00:00,2017-11-09 15:13:53,0,AKE Amazan,Station essence OANDO,2,0,hermann106,c'est fait
+936646,Togo,9.5532216,1.1872393,2017-03-22 00:00:00,2017-11-09 15:13:51,0,Bassoliwena,"terrains de foot, basket, handball, tennis de table, autres (OSM data version: 2016-07-15T17:38:02Z) #mapsme",2,0,hermann106,il serait bien que tu dessine les terrains
+488167,Togo,6.2368452,1.0964239,2015-12-25 00:00:00,2017-11-09 05:33:07,0,AKE Amazan,Poste de Péage,2,0,hermann106,c'est fait
+488182,Togo,6.4512814,0.9133678,2015-12-25 00:00:00,2017-11-07 21:39:08,0,AKE Amazan,station essence Somayaf Togo,2,0,hermann106,c'est fait
+488183,Togo,6.4553510,0.9140901,2015-12-25 00:00:00,2017-11-07 21:39:07,0,AKE Amazan,infirmerie St Michel,2,0,hermann106,c'est fait
+488181,Togo,6.4484918,0.9151541,2015-12-25 00:00:00,2017-11-07 21:39:06,0,AKE Amazan,station essence MRS,2,0,hermann106,c'est fait
+1193996,Togo,10.8911500,0.1931400,2017-11-03 00:00:00,2017-11-04 21:00:37,0,Unknown,GBH2020,2,0,hermann106,que signifie GBH2020?
+943836,Togo,10.8154307,0.1854403,2017-03-28 00:00:00,2017-11-04 20:59:33,0,Martin Yoglare,NAPIEBOUGOU (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,hermann106,le point n'indique rien
+317202,Togo,6.4229749,1.2105238,2015-02-16 00:00:00,2017-11-02 14:08:43,0,alnass,j veut voir les contours de la ville de Tsévié,2,0,hermann106,c'est fait
+533890,Togo,6.2776128,1.2947637,2016-03-27 00:00:00,2017-11-02 14:08:42,0,AKE Amazan,Pont,2,0,hermann106,c'est fait
+533889,Togo,6.2815215,1.2987832,2016-03-27 00:00:00,2017-11-02 14:08:41,0,AKE Amazan,Cimetière,2,0,hermann106,c'est fait
+922364,Togo,6.1314908,1.2235016,2017-03-10 00:00:00,2017-10-30 23:34:08,0,saliousoft,terrain de basket-ball,2,0,hermann106,c'est fait
+922365,Togo,6.1310581,1.2238289,2017-03-10 00:00:00,2017-10-30 23:34:06,0,saliousoft,feu tricolore,2,0,hermann106,c'est fait
+922366,Togo,6.1309378,1.2240463,2017-03-10 00:00:00,2017-10-30 23:34:05,0,saliousoft,antenne,2,0,hermann106,c'est une antenne du réseaux informatique de la banque. Je ne sais pas si ça vaut lapeine de tagger cela
+467616,Togo,6.1758048,1.1863604,2015-11-12 00:00:00,2017-10-27 13:38:47,0,AKE Amazan,créer section (footing),2,0,hermann106,la route est arrangé
+1125847,Togo,6.1944458,1.2096895,2017-09-03 00:00:00,2017-10-21 20:22:57,0,Enock4seth,rond point,2,0,hermann106,c'est fait
+1125848,Togo,6.1943574,1.2089582,2017-09-03 00:00:00,2017-10-21 19:55:45,0,Enock4seth,paving stone,2,0,hermann106,c'est fait
+1124448,Togo,6.1593259,1.2022506,2017-09-02 00:00:00,2017-10-13 08:59:50,0,Enock4seth,route,3,0,hermann106,C'est fait
+481360,Togo,6.1428413,1.2742687,2015-12-11 00:00:00,2017-10-06 17:24:00,0,AKE Amazan,Bank of Africa,2,0,hermann106,c'est fait
+495356,Togo,6.1339669,1.2348300,2016-01-09 00:00:00,2017-10-06 17:04:20,0,AKE Amazan,sens unique,2,0,hermann106,c'est fait
+481371,Togo,6.1330888,1.2163921,2015-12-11 00:00:00,2017-10-06 17:04:18,0,AKE Amazan,Infinity Beauty,2,0,hermann106,c'est fait
+481365,Togo,6.1276448,1.2370375,2015-12-11 00:00:00,2017-10-06 17:04:17,0,AKE Amazan,station essence Total,2,0,hermann106,c'est fait
+481372,Togo,6.1330194,1.2164881,2015-12-11 00:00:00,2017-10-06 17:04:17,0,AKE Amazan,Station Essence Total (P. Congrès,2,0,hermann106,c'est fait
+1124446,Togo,6.1677687,1.2219587,2017-09-02 00:00:00,2017-10-06 13:25:02,0,Enock4seth,l'eau,2,0,hermann106,Done
+575587,Togo,6.7731433,1.1788210,2016-05-27 00:00:00,2017-10-05 13:25:37,0,AKE Amazan,pont,2,0,hermann106,c'est fait
+575589,Togo,7.0486542,1.1552414,2016-05-27 00:00:00,2017-10-05 13:13:41,0,AKE Amazan,Terrain de foot,2,0,hermann106,c'est fait
+575593,Togo,7.3371618,1.1680521,2016-05-27 00:00:00,2017-10-05 13:10:02,0,AKE Amazan,pont,2,0,hermann106,c'est fait
+575594,Togo,7.3478147,1.1695124,2016-05-27 00:00:00,2017-10-05 13:10:01,0,AKE Amazan,pont,2,0,hermann106,c'est fait
+575595,Togo,7.3808467,1.1747637,2016-05-27 00:00:00,2017-10-05 13:10:00,0,AKE Amazan,pont,2,0,hermann106,c'est fait
+575591,Togo,7.1693785,1.1659194,2016-05-27 00:00:00,2017-10-05 13:09:59,0,AKE Amazan,pont,2,0,hermann106,c'est fait
+702039,Togo,6.2045834,1.1888566,2016-09-05 00:00:00,2017-09-26 13:59:55,0,Guy Maurel KONAN,Zbip non loin du bar bazar la source,2,0,hermann106,c'est fait
+558033,Togo,6.2050261,1.1985575,2016-05-02 00:00:00,2017-09-26 13:59:53,0,AKE Amazan,BlueZone,3,0,hermann106,c'est fait
+474476,Togo,6.2033789,1.1909773,2015-11-26 00:00:00,2017-09-26 13:59:48,0,AKE Amazan,rond point,2,0,hermann106,c'est fait
+1125849,Togo,6.1988885,1.1990739,2017-09-03 00:00:00,2017-09-26 13:59:45,0,Enock4seth,parking,2,0,hermann106,c'est fait
+1125850,Togo,6.1981073,1.2005369,2017-09-03 00:00:00,2017-09-26 13:59:41,0,Enock4seth,paving should end here,2,0,hermann106,c'est fait
+762944,Togo,9.5523017,1.1906800,2016-10-27 00:00:00,2017-09-22 20:16:27,0,hermann106,foyer Saint Charles LWANGA,2,0,freebeer,on the map
+762941,Togo,9.5527223,1.1908448,2016-10-27 00:00:00,2017-09-22 20:16:10,0,hermann106,bar la clemence,2,0,freebeer,on the map
+762945,Togo,9.5499229,1.1916703,2016-10-27 00:00:00,2017-09-22 20:15:40,0,hermann106,ism adonai,2,0,freebeer,on the map
+762946,Togo,9.5498568,1.1915142,2016-10-27 00:00:00,2017-09-22 20:15:20,0,hermann106,super kfet l'Élysée n 1,2,0,freebeer,on the map
+762947,Togo,9.5486064,1.1918708,2016-10-27 00:00:00,2017-09-22 20:14:59,0,hermann106,hôtel de l'union,2,0,freebeer,on the map
+762948,Togo,9.5483489,1.1919656,2016-10-27 00:00:00,2017-09-22 20:14:28,0,hermann106,gare rakieta,2,0,freebeer,on the map
+762951,Togo,9.5494757,1.1897066,2016-10-27 00:00:00,2017-09-22 20:14:07,0,hermann106,pharmacie kozah,2,0,freebeer,on the map
+762953,Togo,9.5469035,1.1892512,2016-10-27 00:00:00,2017-09-22 20:13:38,0,hermann106,pharmacie Espoir,2,0,freebeer,on the map
+531919,Togo,9.5494125,1.2034794,2016-03-23 00:00:00,2017-09-22 20:13:10,0,hermann106,bar,4,1,freebeer,on the map
+762962,Togo,9.5494072,1.2033599,2016-10-27 00:00:00,2017-09-22 20:12:45,0,hermann106,bar,2,0,freebeer,on the map
+762938,Togo,9.5551258,1.1898685,2016-10-27 00:00:00,2017-09-22 20:11:46,0,hermann106,collège Saint Augustin,2,0,freebeer,on the map
+1139885,Togo,6.1175600,1.2050100,2017-09-14 00:00:00,2017-09-14 19:22:36,0,Unknown,KC-DIVING,2,0,hermann106,c'est traité
+1138256,Togo,6.1598462,1.2139243,2017-09-13 00:00:00,2017-09-14 06:32:14,0,hermann106,la mairie n'y est plus,2,0,hermann106,c'est fait
+488211,Togo,6.1859251,1.1778316,2015-12-25 00:00:00,2017-09-02 16:57:37,0,AKE Amazan,couture Dieu seul Suffit,2,0,hermann106,c'est fait
+488193,Togo,6.1767367,1.1787996,2015-12-25 00:00:00,2017-09-02 16:57:36,0,AKE Amazan,Bibliothèque Publique,4,1,hermann106,c'est fait
+954113,Togo,6.1820702,1.1778116,2017-04-06 00:00:00,2017-09-02 16:57:35,0,Unknown,Centre culturel Mytro Nunya (2010-2015) http://www.mytronunya.info/,2,0,hermann106,c'est fait
+510662,Togo,6.1814164,1.1790272,2016-02-09 00:00:00,2017-09-02 16:57:34,0,AKE Amazan,Moulin a Maïs,2,0,hermann106,c'est fait
+477123,Togo,6.1864648,1.1744642,2015-12-02 00:00:00,2017-09-02 16:51:10,0,Unknown,Zone,4,0,hermann106,c'est fait
+488212,Togo,6.1876051,1.1754543,2015-12-25 00:00:00,2017-09-02 16:46:18,0,AKE Amazan,École primaire Baptiste Biblique : Le Sauveur,2,0,hermann106,c'est fait
+1083087,Togo,6.1834350,1.1818302,2017-07-29 00:00:00,2017-09-02 15:53:50,0,hermann106,quartier tordu Rue 282.tot,2,0,hermann106,c'est fait
+488207,Togo,6.1832578,1.1814200,2015-12-25 00:00:00,2017-09-02 15:53:48,0,AKE Amazan,atelier de menuiserie,2,0,hermann106,la note est mal placée on ne peut pas savoir où exactement est la menuiserie
+488208,Togo,6.1841194,1.1803306,2015-12-25 00:00:00,2017-09-02 15:53:47,0,AKE Amazan,célébrité Bar,2,0,hermann106,c'est fait
+558034,Togo,6.1944736,1.2069517,2016-05-02 00:00:00,2017-09-02 15:47:52,0,AKE Amazan,Lampadaire,2,0,hermann106,c'est fait
+558035,Togo,6.1946003,1.2066296,2016-05-02 00:00:00,2017-09-02 15:47:50,0,AKE Amazan,Lampadaire,2,0,hermann106,c'est fait
+558037,Togo,6.1966712,1.2026505,2016-05-02 00:00:00,2017-09-02 10:21:50,0,AKE Amazan,loterie,2,0,hermann106,c'est fait
+558036,Togo,6.1960793,1.2038055,2016-05-02 00:00:00,2017-09-01 21:31:25,0,AKE Amazan,menuiserie aluminium,2,0,hermann106,fait
+558038,Togo,6.1971033,1.2019434,2016-05-02 00:00:00,2017-09-01 21:31:24,0,AKE Amazan,Moulin à Maïs,2,0,hermann106,fait
+474477,Togo,6.2014639,1.1944623,2015-11-26 00:00:00,2017-09-01 21:31:23,0,AKE Amazan,rond point,2,0,hermann106,fait
+474473,Togo,6.2001673,1.1966591,2015-11-26 00:00:00,2017-09-01 21:05:31,0,AKE Amazan,rond point,2,0,hermann106,c'est fait
+1089494,Togo,6.2000029,1.1982125,2017-08-03 00:00:00,2017-09-01 21:05:30,0,Gnimdou ABOUKEY,"Salut à tous, si quelqu'un pouvait répertorier ce lieu ce serait bien. Il s'agit de la maison poudima, à côté de celle-ci se trouve la société sodimac qui est spécialisée dans la vente de matériaux de construction et de route. Merci",2,0,hermann106,"Salut, le mieux est de faire une note sur la boutique en question."
+1089496,Togo,6.1998189,1.1971986,2017-08-03 00:00:00,2017-09-01 21:05:08,0,Gnimdou ABOUKEY,Une église à répertorier au Togo à à Lomé (agbalepedo) . Église de pentecôte globale du Togo.,2,0,hermann106,ta note se trouve sur la route. faite attention à la précision ou taux d'erreur du gps avant de faire une note.
+1121946,Togo,6.1825107,1.1948474,2017-08-30 00:00:00,2017-09-01 07:52:43,0,Enock4seth,feu rouge être connecté sur la route,2,0,hermann106,c'est fait
+1120694,Togo,6.1809217,1.1929183,2017-08-29 00:00:00,2017-09-01 07:45:37,0,Enock4seth,dos d'âne,2,0,hermann106,c'est fait
+1120696,Togo,6.1989058,1.1974600,2017-08-29 00:00:00,2017-08-30 11:11:52,0,Enock4seth,Bar Fufu est ici,2,0,hermann106,C'est fait
+1120913,Togo,6.2008428,1.1480069,2017-08-29 00:00:00,2017-08-30 05:20:47,0,Enock4seth,T-oil,2,0,Enock4seth,
+1111349,Togo,6.2003322,1.1485903,2017-08-20 00:00:00,2017-08-30 05:20:45,0,Kosbey,"'2 endroits pour la même structure' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-pharmacy OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,Enock4seth,
+1120693,Togo,6.1693667,1.1644919,2017-08-29 00:00:00,2017-08-30 05:20:38,0,Enock4seth,Police,2,0,Enock4seth,
+481254,Togo,6.1801904,1.1722634,2015-12-11 00:00:00,2017-08-29 16:46:35,0,AKE Amazan,Bureau de la Poste,4,1,Enock4seth,déjà cartographie
+1083364,Togo,6.1777813,1.1707945,2017-07-29 00:00:00,2017-08-23 12:28:24,0,eligbadzi,Moulin à maïs,2,0,hermann106,Il n'y a pas de moulin
+720946,Togo,6.1886927,1.1832236,2016-09-21 00:00:00,2017-08-23 08:03:53,0,AKE Amazan,Rue 204.TOT,2,0,hermann106,fait
+672893,Togo,6.1727291,1.1793075,2016-08-15 00:00:00,2017-08-23 08:03:52,0,AKE Amazan,nom de la rue : rue 21.SOV,2,0,hermann106,fait
+720947,Togo,6.1890349,1.1829425,2016-09-21 00:00:00,2017-08-23 08:03:51,0,AKE Amazan,il y a une route ouverte,2,0,hermann106,fait
+467615,Togo,6.1732731,1.1867370,2015-11-12 00:00:00,2017-08-23 08:03:49,0,AKE Amazan,"revoir le footing , créer une section",2,0,hermann106,fait
+672894,Togo,6.1731957,1.1805065,2016-08-15 00:00:00,2017-08-23 08:03:48,0,AKE Amazan,nom de la rue : 25.SOV,2,0,hermann106,fait
+720948,Togo,6.1882092,1.1831575,2016-09-21 00:00:00,2017-08-23 08:03:47,0,AKE Amazan,Rue 189,2,0,hermann106,fait
+672895,Togo,6.1735078,1.1804038,2016-08-15 00:00:00,2017-08-23 08:03:46,0,AKE Amazan,nom de la rue : Rue 240.sov,2,0,hermann106,fait
+672896,Togo,6.1737959,1.1814498,2016-08-15 00:00:00,2017-08-23 08:03:45,0,AKE Amazan,Rue 220.SOV,2,0,hermann106,fait
+912891,Togo,6.1733170,1.1869378,2017-03-03 00:00:00,2017-08-23 08:03:44,0,J_Chaumard,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'le lieu à deja ete marque une première fois : doublon ' (OSM data version: 2017-02-15T16:20:03Z) #mapsme",2,0,hermann106,fait
+488204,Togo,6.1824771,1.1823613,2015-12-25 00:00:00,2017-07-29 13:07:25,0,AKE Amazan,Cyber Café ONIT,2,0,hermann106,fait
+488205,Togo,6.1825782,1.1823223,2015-12-25 00:00:00,2017-07-29 13:07:24,0,AKE Amazan,auberge La Reine,2,0,hermann106,fait
+488209,Togo,6.1850508,1.1790484,2015-12-25 00:00:00,2017-07-29 13:03:58,0,AKE Amazan,Quincaillerie,2,0,hermann106,fait
+488210,Togo,6.1852436,1.1784973,2015-12-25 00:00:00,2017-07-29 13:03:57,0,AKE Amazan,boutique de vente de pièces détachées Moto,2,0,hermann106,fait
+1083051,Togo,6.1852677,1.1784888,2017-07-29 00:00:00,2017-07-29 13:03:56,0,hermann106,Vente de pièces détachées Apsonic 98716244,2,0,hermann106,fait
+1083322,Togo,6.1822591,1.1826152,2017-07-29 00:00:00,2017-07-29 12:56:45,0,hermann106,Le recto Verso,2,0,hermann106,fait
+488203,Togo,6.1822755,1.1826823,2015-12-25 00:00:00,2017-07-29 12:56:43,0,AKE Amazan,Fast-food + Bar : Le Recto Verso,2,0,hermann106,fait
+1083134,Togo,6.1822362,1.1826433,2017-07-29 00:00:00,2017-07-29 12:56:42,0,hermann106,fast food,2,0,hermann106,fait
+1029873,Togo,9.5447700,1.1929400,2017-06-14 00:00:00,2017-06-19 12:29:20,0,Unknown,Test kara,2,0,erickdeoliveiraleal,
+825545,Togo,9.5401041,1.1640385,2016-12-22 00:00:00,2017-06-14 02:17:50,0,Ferguson Atehèzi,A côté du Lycée Dongoyo (OSM data version: 2016-11-23T15:14:03Z) #mapsme,2,0,dominique hoavonon,
+841702,Togo,9.5459909,1.1909866,2017-01-05 00:00:00,2017-06-14 02:12:58,0,hermann106,la bia  n'est plus à ce niveau,2,0,dominique hoavonon,
+1013725,Togo,6.2436000,1.2149000,2017-05-30 00:00:00,2017-05-30 14:11:40,0,blaissa,Dépotoire de kégué,2,0,blaissa,
+1013721,Togo,6.2399000,1.2101000,2017-05-30 00:00:00,2017-05-30 14:09:57,0,blaissa,Échangeur,2,0,blaissa,
+1013708,Togo,6.2064000,1.2402000,2017-05-30 00:00:00,2017-05-30 13:35:27,0,blaissa,Rue de Kpatcha,2,0,blaissa,
+1013706,Togo,6.2098000,1.2414000,2017-05-30 00:00:00,2017-05-30 13:30:26,0,blaissa,Pharmacie kégué,2,0,blaissa,
+1013702,Togo,6.2114661,1.2447596,2017-05-30 00:00:00,2017-05-30 13:27:14,0,blaissa,Échangeur kégué,4,1,blaissa,
+999950,Togo,6.2149838,1.2451268,2017-05-18 00:00:00,2017-05-30 13:24:20,0,Unknown,Atd bt1,5,1,blaissa,
+1010805,Togo,6.2157800,1.2252200,2017-05-28 00:00:00,2017-05-28 16:53:54,0,blaissa,Chez blaissa,4,1,blaissa,
+1010802,Togo,6.2165900,1.2256500,2017-05-28 00:00:00,2017-05-28 16:51:53,0,blaissa,Rue de la Misericorde,6,1,blaissa,
+1010766,Togo,6.2247000,1.2127000,2017-05-28 00:00:00,2017-05-28 16:35:38,0,blaissa,Assemblé de Dieu atsanvé,4,1,blaissa,
+1010768,Togo,6.2258000,1.2114000,2017-05-28 00:00:00,2017-05-28 16:13:03,0,blaissa,Marie theotokos d'agoenyiévé,2,0,blaissa,
+1001754,Togo,7.5141100,0.6074500,2017-05-20 00:00:00,2017-05-20 09:00:03,0,wise9,Akloa,2,0,wise9,
+999815,Togo,6.2170977,1.2597799,2017-05-18 00:00:00,2017-05-18 15:49:30,0,Systemedeou,Aaaa aaaa,2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+987623,Togo,6.1365465,1.2572050,2017-05-06 00:00:00,2017-05-06 14:10:39,0,Carvajalmessan,GARAGE GEORGE,6,1,Carvajalmessan,
+987618,Togo,7.5216767,1.1550182,2017-05-06 00:00:00,2017-05-06 14:05:02,0,Carvajalmessan,Bar la Trankilité - Campement,2,0,Carvajalmessan,
+495362,Togo,6.1418936,1.2449760,2016-01-09 00:00:00,2017-04-08 16:41:18,0,AKE Amazan,Station essence Shell,2,0,dominique hoavonon,
+672891,Togo,6.2109255,1.2413130,2016-08-15 00:00:00,2017-03-09 13:56:05,0,AKE Amazan,corriger nom du boulevard,2,0,saliousoft,
+720949,Togo,6.1874113,1.1825975,2016-09-21 00:00:00,2017-03-09 13:53:59,0,AKE Amazan,rue 179.TOT,2,0,saliousoft,
+488194,Togo,6.1767009,1.1788660,2015-12-25 00:00:00,2017-03-09 13:52:31,0,AKE Amazan,Hakuna Matata (centre culturel),2,0,saliousoft,
+488192,Togo,6.1771395,1.1780590,2015-12-25 00:00:00,2017-03-09 13:52:12,0,AKE Amazan,Ogar Assurance,2,0,saliousoft,
+481257,Togo,6.1766129,1.1788447,2015-12-11 00:00:00,2017-03-09 13:52:07,0,AKE Amazan,place des fêtes Hakuna matata,2,0,saliousoft,
+481256,Togo,6.1779515,1.1769714,2015-12-11 00:00:00,2017-03-09 13:52:02,0,AKE Amazan,Station d'essence Total,2,0,saliousoft,
+488191,Togo,6.1786323,1.1753490,2015-12-25 00:00:00,2017-03-09 13:51:57,0,AKE Amazan,Supermarché Champion,2,0,saliousoft,
+481255,Togo,6.1789827,1.1744718,2015-12-11 00:00:00,2017-03-09 13:51:51,0,AKE Amazan,Vente Moto Apollo,2,0,saliousoft,
+488196,Togo,6.1768963,1.1722718,2015-12-25 00:00:00,2017-03-09 13:51:41,0,AKE Amazan,Bar restaurant la grâce,4,1,saliousoft,
+510659,Togo,6.1801477,1.1721802,2016-02-09 00:00:00,2017-03-09 13:51:31,0,AKE Amazan,Post,2,0,saliousoft,
+488190,Togo,6.1813679,1.1706771,2015-12-25 00:00:00,2017-03-09 13:51:23,0,AKE Amazan,BTCI,2,0,saliousoft,
+488195,Togo,6.1769033,1.1729790,2015-12-25 00:00:00,2017-03-09 13:51:13,0,AKE Amazan,Terrain de foot RCJ,2,0,saliousoft,
+481253,Togo,6.1812052,1.1704652,2015-12-11 00:00:00,2017-03-09 13:51:04,0,AKE Amazan,Apsonic,2,0,saliousoft,
+477110,Togo,6.1763370,1.1689121,2015-12-02 00:00:00,2017-03-09 13:49:43,0,Unknown,Zone,2,0,saliousoft,
+481251,Togo,6.1848876,1.1664438,2015-12-11 00:00:00,2017-03-09 13:49:38,0,AKE Amazan,Imprimerie pour Tous,2,0,saliousoft,
+481252,Togo,6.1835595,1.1686706,2015-12-11 00:00:00,2017-03-09 13:49:31,0,AKE Amazan,Espace TogoTelecom,2,0,saliousoft,
+533879,Togo,6.1841209,1.1673729,2016-03-27 00:00:00,2017-03-09 13:49:27,0,AKE Amazan,Route continue sur le Blv,2,0,saliousoft,
+481250,Togo,6.1863453,1.1647858,2015-12-11 00:00:00,2017-03-09 13:49:20,0,AKE Amazan,Garage Car-center SarlU,2,0,saliousoft,
+477103,Togo,6.1855475,1.1634672,2015-12-02 00:00:00,2017-03-09 13:49:15,0,Unknown,Zone,2,0,saliousoft,
+477105,Togo,6.1805022,1.1604953,2015-12-02 00:00:00,2017-03-09 13:49:09,0,Unknown,Zone,4,1,saliousoft,
+533882,Togo,6.1866930,1.1595355,2016-03-27 00:00:00,2017-03-09 13:49:04,0,AKE Amazan,porte du lycee,2,0,saliousoft,
+890675,Togo,6.1836881,1.1588588,2017-02-13 00:00:00,2017-03-09 13:48:59,0,Mawuli2,oeuvre humanitaire/volontariat (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,saliousoft,
+477129,Togo,6.1824755,1.1554956,2015-12-02 00:00:00,2017-03-09 13:48:54,0,Unknown,Zone,2,0,saliousoft,
+477100,Togo,6.1893020,1.1580169,2015-12-02 00:00:00,2017-03-09 13:48:41,0,Unknown,Siège AEJT,4,0,saliousoft,
+477130,Togo,6.1917553,1.1529207,2015-12-02 00:00:00,2017-03-09 13:48:34,0,Unknown,Zone,3,0,saliousoft,
+488162,Togo,6.1983543,1.1512820,2015-12-25 00:00:00,2017-03-09 13:48:29,0,AKE Amazan,Hôtel Concordia,2,0,saliousoft,
+488161,Togo,6.2031177,1.1458050,2015-12-25 00:00:00,2017-03-09 13:48:22,0,AKE Amazan,Arrêt Bus Sotral,2,0,saliousoft,
+488187,Togo,6.2051223,1.1431715,2015-12-25 00:00:00,2017-03-09 13:48:15,0,AKE Amazan,Hôtel Nord - Sud,2,0,saliousoft,
+488163,Togo,6.2029239,1.1459069,2015-12-25 00:00:00,2017-03-09 13:48:12,0,AKE Amazan,Institut polytechnique du Golfe,2,0,saliousoft,
+488164,Togo,6.2060664,1.1423292,2015-12-25 00:00:00,2017-03-09 13:48:08,0,AKE Amazan,station essence Sanol,2,0,saliousoft,
+488186,Togo,6.2070814,1.1408843,2015-12-25 00:00:00,2017-03-09 13:47:55,0,AKE Amazan,Pharmacie Siloe,2,0,saliousoft,
+488160,Togo,6.2009181,1.1483526,2015-12-25 00:00:00,2017-03-09 13:47:51,0,AKE Amazan,Supermarché la Dauphine Adidogome,2,0,saliousoft,
+481249,Togo,6.2005431,1.1489586,2015-12-11 00:00:00,2017-03-09 13:47:46,0,AKE Amazan,cyber Rapha,2,0,saliousoft,
+702605,Togo,6.2012267,1.1560850,2016-09-06 00:00:00,2017-03-09 13:47:40,0,hermann106,ecoteclab,2,0,saliousoft,
+702604,Togo,6.2011017,1.1559417,2016-09-06 00:00:00,2017-03-09 13:47:31,0,hermann106,asdi,2,0,saliousoft,
+477133,Togo,6.1918619,1.1486828,2015-12-02 00:00:00,2017-03-09 13:47:23,0,Unknown,Zone,4,0,saliousoft,
+477125,Togo,6.1944005,1.1352181,2015-12-02 00:00:00,2017-03-09 13:47:16,0,Unknown,Zone,2,0,saliousoft,
+477136,Togo,6.1956271,1.1471272,2015-12-02 00:00:00,2017-03-09 13:47:09,0,Unknown,Zone,4,0,saliousoft,
+488159,Togo,6.1944743,1.1558288,2015-12-25 00:00:00,2017-03-09 13:46:50,0,AKE Amazan,pharmacie Besda,2,0,saliousoft,
+488188,Togo,6.1884111,1.1621607,2015-12-25 00:00:00,2017-03-09 13:46:44,0,AKE Amazan,Clinique le Bien-être,2,0,saliousoft,
+488213,Togo,6.1881659,1.1747204,2015-12-25 00:00:00,2017-03-09 13:46:39,0,AKE Amazan,Bar la Solution,2,0,saliousoft,
+510658,Togo,6.1819849,1.2022305,2016-02-09 00:00:00,2017-03-09 13:45:51,0,AKE Amazan,Changement de nom Nom actuel: Hôtel le Guide,2,0,saliousoft,
+920128,Togo,6.1786950,1.2036050,2017-03-09 00:00:00,2017-03-09 13:45:19,0,ADJOGBLE Emmanuel,Rue 125 AFLAO-GAKLI,2,0,saliousoft,
+776618,Togo,6.1763556,1.2030654,2016-11-08 00:00:00,2017-03-09 13:45:12,0,hermann106,faiej,2,0,saliousoft,
+784893,Togo,6.1673515,1.2028836,2016-11-16 00:00:00,2017-03-09 13:45:06,0,Georges FAMBE,ecrire FUCEC au lieu de FUSEC,2,0,saliousoft,
+905142,Togo,6.1651357,1.2088220,2017-02-25 00:00:00,2017-03-09 13:45:00,0,Isabelix,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-10-10T15:13:03Z) #mapsme",2,0,saliousoft,
+474467,Togo,6.1630513,1.2147553,2015-11-26 00:00:00,2017-03-09 13:44:54,0,AKE Amazan,panneau STOP,2,0,saliousoft,
+474469,Togo,6.1546364,1.2170345,2015-11-26 00:00:00,2017-03-09 13:44:47,0,AKE Amazan,Station Service,2,0,saliousoft,
+821028,Togo,6.1512807,1.2173348,2016-12-18 00:00:00,2017-03-09 13:44:42,0,MJ BAD,Rue OKEMEDJI 97GBV (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,saliousoft,
+495354,Togo,6.1490989,1.2178781,2016-01-09 00:00:00,2017-03-09 13:44:31,0,AKE Amazan,Ecobank,2,0,saliousoft,
+495359,Togo,6.1368468,1.2564771,2016-01-09 00:00:00,2017-03-09 13:44:21,0,AKE Amazan,"Rue TCHOOU , 62.KTK",2,0,saliousoft,
+470532,Togo,6.1338556,1.2336444,2015-11-18 00:00:00,2017-03-05 00:46:09,0,SeverinGeo,Rue Seta,2,0,Wim L,added to map
+488168,Togo,6.2417978,1.0628424,2015-12-25 00:00:00,2017-03-05 00:46:08,0,AKE Amazan,Église Pentecôte,2,0,Wim L,on map
+360247,Togo,6.2304936,1.1014652,2015-05-08 00:00:00,2017-03-05 00:46:07,0,Unknown,UCAO-UUT Université Catholique de l'Afrique de l'Ouest - Unité Universitaire au Togo,2,0,Wim L,added to map
+488189,Togo,6.1863766,1.1650513,2015-12-25 00:00:00,2017-03-05 00:46:06,0,AKE Amazan,Banque Of Africa,2,0,Wim L,
+481369,Togo,6.1355947,1.2179734,2015-12-11 00:00:00,2017-01-17 18:01:39,0,AKE Amazan,Station Essence Shell,2,0,Enock4seth,
+481366,Togo,6.1412077,1.2207055,2015-12-11 00:00:00,2017-01-17 17:49:42,0,AKE Amazan,Station essence Shell,2,0,Enock4seth,
+470531,Togo,6.1410447,1.2205771,2015-11-18 00:00:00,2017-01-17 17:49:40,0,SeverinGeo,Shell,2,0,Enock4seth,
+481361,Togo,6.1391231,1.2684502,2015-12-11 00:00:00,2016-10-29 19:34:58,0,AKE Amazan,Orca,2,0,Oberpfälzer,moved POI to position reported by AKE Amazan
+666680,Togo,6.1377418,1.2788759,2016-08-11 00:00:00,2016-10-29 19:34:57,0,Chris Nayo,Lomé Container Terminal (LCT) (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,Oberpfälzer,corrected name and added short_name by accepting this note (have seen it by myself)
+707292,Togo,6.1770431,1.1950144,2016-09-10 00:00:00,2016-09-12 03:33:58,0,hermann106,wafate,2,0,hermann106,le point est édité
+706323,Togo,6.1983021,1.1993029,2016-09-09 00:00:00,2016-09-12 03:33:57,0,hermann106,relika,2,0,hermann106,edité
+706324,Togo,6.1983422,1.1991937,2016-09-09 00:00:00,2016-09-12 03:33:57,0,hermann106,ecohub,2,0,hermann106,edité
+533880,Togo,6.1254119,1.2139983,2016-03-27 00:00:00,2016-08-31 09:06:11,0,AKE Amazan,Rue des Medias,4,1,168888,c'est fait
+556461,Togo,6.1533394,1.2011361,2016-04-28 00:00:00,2016-04-28 16:22:42,0,koffster,Bar-Restaurant La Grignotine,2,0,koffster,
+533884,Togo,6.3779543,1.4747635,2016-03-27 00:00:00,2016-04-02 20:23:03,0,AKE Amazan,nom village: ADAGBOKONDI,2,0,Wim L,"Added (node 4093522092, changeset 38255212)"
+481363,Togo,6.1322936,1.2499020,2015-12-11 00:00:00,2016-02-02 21:34:25,0,AKE Amazan,WestAuto.com,2,0,lionel AUCLAIR,westafauto
+244873,Togo,6.1368986,1.2125328,2014-09-22 00:00:00,2015-11-07 22:41:20,0,Unknown,Chez Zoul,2,0,SeverinGeo,ajouté
+368859,Togo,6.1334135,1.2200391,2015-05-24 00:00:00,2015-11-07 22:39:52,0,Josef73,"I think this is an error, because the opening_hours are not in english. look at the wikisite: http://wiki.openstreetmap.org/wiki/DE:Key:opening_hours Please translate. Thanks.",2,0,SeverinGeo,corrected
+459353,Togo,6.1229843,1.2189835,2015-10-28 00:00:00,2015-11-07 22:37:01,0,SeverinGeo,Corriger le nom,2,0,SeverinGeo,corrigé
+382590,Togo,6.1462617,1.2066078,2015-06-19 00:00:00,2015-11-07 22:33:38,0,Unknown,PNLS/IST (Programme National de Lutte contre de Sida et les Infections Sexuellement Transmissibles),3,0,SeverinGeo,ajouté
+325220,Togo,6.1663476,1.2317777,2015-03-01 00:00:00,2015-11-07 22:30:41,0,Unknown,Clinique des Mères Dr Chaold,2,0,SeverinGeo,ajouté
+463957,Togo,6.1597762,1.2058021,2015-11-07 00:00:00,2015-11-07 22:27:25,0,SeverinGeo,Pharmacie de Gbossime,2,0,SeverinGeo,fait
+327931,Togo,6.1638516,1.2291920,2015-03-07 00:00:00,2015-11-07 22:27:23,0,Stalfur,Mini-roundabouts or bad tagging?,4,1,SeverinGeo,"bad tagging, corrected"
+459354,Togo,6.1583230,1.2245219,2015-10-28 00:00:00,2015-11-07 22:27:21,0,SeverinGeo,voie qui a bougé,2,0,SeverinGeo,fait
+360562,Togo,6.1715957,1.2351412,2015-05-09 00:00:00,2015-05-14 19:02:47,0,Unknown,Petrol station: MRS,3,0,Fons De Wolf,
+268769,Togo,6.9489202,0.6399536,2014-11-11 00:00:00,2015-01-21 22:51:13,0,Amen ABBEY MATHEY,nécessaire,4,1,kokoscor,
+181952,Togo,6.1626783,1.2370777,2014-06-10 00:00:00,2015-01-09 08:31:49,0,otismessio,ma maison,2,0,benoitberlin,pas utile
+130772,Togo,10.3725678,0.4753518,2014-03-07 00:00:00,2015-01-09 08:27:46,0,Unknown,Hospital of Hope.  Opening January 2015,3,0,benoitberlin,
+288169,Togo,6.2876574,1.4148331,2014-12-18 00:00:00,2014-12-18 15:19:03,0,petit joseph,Séva Tonu,4,1,petit joseph,un village au bord du lac
+255577,Togo,6.1638595,1.2173057,2014-10-13 00:00:00,2014-12-18 02:50:14,0,Général gamkisi,maquis,2,0,Amen ABBEY MATHEY,
+207722,Togo,6.3248532,1.3664246,2014-07-28 00:00:00,2014-09-28 21:00:40,0,Unknown,Le nom de cette route est Lomé-Vogan,2,0,Oberpfälzer,"Corrected, both old names belong to other roads"
+206267,Togo,6.1696543,1.1923170,2014-07-26 00:00:00,2014-08-31 03:41:54,0,Agbako Raphael,Pas trouvé d'erreur Je suis très fier de devenir membre de la communauté OSM,2,0,Oberpfälzer,Thank you a lot!
+16413,Togo,6.1796543,1.2063664,2013-07-23 00:00:00,2014-07-23 03:12:51,0,Unknown,Immuebla GTA(Service de Immigration),3,0,Matissi,
+23426,Togo,6.1699637,1.1987489,2013-08-09 00:00:00,2014-07-23 03:12:40,0,Unknown,Lomé Hubcité | Site Orange,2,0,Matissi,
+21994,Togo,6.1597129,1.2012112,2013-08-06 00:00:00,2014-07-23 03:12:29,0,Unknown,Site Gris; Projet Hubcité La baie d'Atikoumé,2,0,Matissi,
+23263,Togo,6.1374186,1.2042689,2013-08-09 00:00:00,2014-07-23 03:11:22,0,Dodji Bonaventure,SIte VERT,2,0,Matissi,
+172294,Togo,6.1239029,1.2044567,2014-05-23 00:00:00,2014-07-23 03:11:04,0,Unknown,Rue Glidji,4,1,Matissi,
+203924,Togo,6.1973443,1.1901712,2014-07-23 00:00:00,2014-07-23 03:06:32,0,Matissi,Collège Protestant Lomé agbalépédogan,6,1,Matissi,
+203926,Togo,6.1984536,1.1916089,2014-07-23 00:00:00,2014-07-23 03:00:37,0,Matissi,Lycée du 2fevrier,2,0,Matissi,
+179601,Togo,6.1595849,1.2362194,2014-06-05 00:00:00,2014-07-18 19:36:18,0,otismessio,marché de nukafu,2,0,Oberpfälzer,added as POI marketplace
+170649,Togo,7.5149809,1.3866806,2014-05-20 00:00:00,2014-07-03 15:20:28,0,Unknown,LAC NANGBETO SUR LE MONO,2,0,Oberpfälzer,removed river Mono from Lake
+170646,Togo,7.5146406,1.3866806,2014-05-20 00:00:00,2014-07-03 15:20:23,0,Unknown,LAC NANGBETO SUR LE MONO AU TOGO,4,1,Oberpfälzer,removed river Mono from Lake
+170645,Togo,7.5149809,1.3863373,2014-05-20 00:00:00,2014-07-03 15:20:16,0,agboyawo,LAC DE NANGETO SUR LE MONO AU TOGO,2,0,Oberpfälzer,removed river Mono from Lake
+58531,Togo,6.1196732,1.2067258,2013-10-16 00:00:00,2013-10-16 17:47:57,0,zonevide19,Salle du Royaume des Témoins de Jéhovah,4,1,zonevide19,
+17948,Togo,6.1442883,1.2449527,2013-07-27 00:00:00,2013-09-19 09:09:48,0,nadeem2013,Bvd Felix Houphouet-Boigny,4,1,Rps333,name added
+23142,Togo,6.1592222,1.2009752,2013-08-09 00:00:00,2013-09-19 08:48:53,0,Unknown,Site Gris du projet HubCité,2,0,Rps333,added
+22294,Togo,6.1903260,1.1506462,2013-08-07 00:00:00,2013-08-07 10:08:40,0,Asso jeannot,Eglise catholique de la station secondaire Notre Dame du Sacré coeur de Wonyomé,2,0,Asso jeannot,
+22293,Togo,6.1898247,1.1503941,2013-08-07 00:00:00,2013-08-07 10:07:02,0,Asso jeannot,vers Yokoè,6,1,Asso jeannot,
+22291,Togo,6.1903206,1.1525184,2013-08-07 00:00:00,2013-08-07 10:05:45,0,Asso jeannot,école primaire publique de wonyomé,4,1,Asso jeannot,

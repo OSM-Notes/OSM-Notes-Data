@@ -1,0 +1,7 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5263512,Crna Gora / Црна Гора,43.0129633,19.4084596,2026-04-24 00:00:00,2026-04-24 08:43:49,0,Milmilmiljmit,The road is completed and open to traffic.,2,0,Milmilmiljmit,
+4882584,Crna Gora / Црна Гора,43.0128439,19.4316276,2025-07-29 00:00:00,2026-04-22 18:55:08,267,Johndoe63,Chemin inexistant. A supprimer . Dangereux car très forte pente,3,0,Dilicko,There is no bridge here. I have local knowledge. The road through the Tara canyon from the Mojkovac-Djurdevic Tara direction was opened in 2026.
+5255412,Crna Gora / Црна Гора,43.0128243,19.4082832,2026-04-18 00:00:00,2026-04-22 18:49:58,4,Milica2009,"After rehabilitation, the road was opened at the beginning of 2026",2,0,Dilicko,
+5255407,Crna Gora / Црна Гора,43.0127542,19.4083011,2026-04-18 00:00:00,2026-04-22 18:48:35,4,Milica2009,"After the rehabilitation of the landslide, which lasted for 3 years, this road was opened for traffic at the beginning of 2026, which can be checked on the website of the Ministry of Transport.",2,0,Dilicko,The Mojkovac-Djurdjevica Tara road is open. I often pass this road and it was opened about a month ago.
+5257447,Crna Gora / Црна Гора,42.0958611,19.0933122,2026-04-19 00:00:00,2026-04-19 18:15:58,0,L29Ah,building 3A  #OsmAnd,2,0,L29Ah,

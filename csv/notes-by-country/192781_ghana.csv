@@ -1,0 +1,6 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1087977,Ghana,6.0712922,1.0295154,2017-08-01 00:00:00,2026-04-23 06:24:15,3187,Enock4seth,cibstr,3,0,Enock4seth,"Oops! After 8 years not really sure, but good a feature is mapped here. I will review later but will resolve note now."
+5261129,Ghana,6.7955350,0.0000000,2026-04-22 00:00:00,2026-04-22 21:18:25,0,Unknown,Ne prikazuje mi lokaciju na mapi.,2,0,Sammyhawkrad,No relevant info provided
+5260862,Ghana,5.5939643,-0.2927148,2026-04-22 00:00:00,2026-04-22 12:01:08,0,Unknown,There is church built here,2,0,Sammyhawkrad,Providing the name would have been helpful
+5257735,Ghana,5.6371372,-0.2637094,2026-04-20 00:00:00,2026-04-20 01:06:38,0,Unknown,"Thebloomsite Global Nexus and Short Stays- Jomo House, Tantra Hills, Accra",2,0,Unknown,

@@ -1,0 +1,147 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5092273,Gabon,0.4079020,9.4890830,2025-12-15 00:00:00,2025-12-15 12:04:56,0,Jenny PJG,Ma maison,4,1,Jenny PJG,
+3837777,Gabon,0.4058666,9.4345791,2023-08-16 00:00:00,2025-11-19 22:39:06,0,Mateusz Konieczny,name=Jardi Plus https://www.openstreetmap.org/node/4201690768  shop=Pépinière ? What is the meaning of that shop value? What kind of services or products are sold here? Is anything from https://wiki.openstreetmap.org/wiki/Key:shop fitting? Maybe new value needs to be invented? Maybe this data is wrong and there is no shop here? Maybe it is not a shop but something else?,3,1,carte_gabon,
+4815321,Gabon,1.5897880,11.5782810,2025-06-21 00:00:00,2025-06-21 02:00:23,0,Dismas17,Domain Mboulou Ondo Simon,2,0,Dismas17,
+4815306,Gabon,1.2625880,13.1769870,2025-06-21 00:00:00,2025-06-21 01:48:42,0,Dismas17,L'ile Ada Mintsa,2,0,Dismas17,
+4815305,Gabon,2.0582600,13.2903130,2025-06-21 00:00:00,2025-06-21 01:45:54,0,Dismas17,L'ile Helley Mboulou,2,0,Dismas17,
+4815304,Gabon,2.0533170,13.2897450,2025-06-21 00:00:00,2025-06-21 01:44:48,0,Dismas17,L'ile Ebang Mboulou,2,0,Dismas17,
+4815303,Gabon,2.0400650,13.2847340,2025-06-21 00:00:00,2025-06-21 01:43:08,0,Dismas17,L'ile Okome Mboulou,2,0,Dismas17,
+4815297,Gabon,1.7969030,13.1938400,2025-06-21 00:00:00,2025-06-21 01:34:44,0,Dismas17,L'ile Mezui Mboulou,2,0,Dismas17,
+4815290,Gabon,1.5980460,13.1431246,2025-06-21 00:00:00,2025-06-21 01:31:40,0,Unknown,L'ile Mboulou,2,0,Dismas17,
+4815295,Gabon,1.6905740,13.1358370,2025-06-21 00:00:00,2025-06-21 01:31:17,0,Dismas17,L'ile Mengue Mboulou,2,0,Dismas17,
+4815293,Gabon,1.7230330,13.1535960,2025-06-21 00:00:00,2025-06-21 01:29:52,0,Dismas17,L'ile Angue Mboulou,2,0,Dismas17,
+4312040,Gabon,0.3750000,9.4656700,2024-06-28 00:00:00,2025-06-17 08:12:29,0,Unknown,ici c'est le siège de la Gabonaise de Courtage d'Assurances (GCA),2,0,ZOLO-MDS,
+4731992,Gabon,0.4125690,9.5211770,2025-04-28 00:00:00,2025-04-28 15:34:59,0,Niru Studio,Adresse,4,1,Niru Studio,
+4634339,Gabon,0.4194835,9.5546851,2025-02-20 00:00:00,2025-02-20 09:10:36,0,Allouche OBAME,▪️Cabinet de soins infirmiers Nom: Sœur Marie Eugène  Heures de visites: 06h à 08h - 12h à 14h00 Tel: 074 917766 / 077 002526  #OsmAnd,3,1,Allouche OBAME,
+4509017,Gabon,0.4042431,9.4486284,2024-11-06 00:00:00,2024-11-06 00:24:39,0,SurfInn,Eglise Catholique Petit Séminaire Saint Jean,2,0,SurfInn,
+4509015,Gabon,0.4033960,9.4446510,2024-11-06 00:00:00,2024-11-06 00:21:57,0,SurfInn,Parking Privé Galerir R+3,4,1,SurfInn,
+4509012,Gabon,0.4036800,9.4446960,2024-11-06 00:00:00,2024-11-06 00:19:20,0,SurfInn,Cabinet d'Imagerie Médicale,4,1,SurfInn,
+4508475,Gabon,0.4031166,9.4450665,2024-11-05 00:00:00,2024-11-06 00:18:18,0,SurfInn,Agence OraBank-Bessieux,8,1,SurfInn,
+4508480,Gabon,0.4034600,9.4448680,2024-11-05 00:00:00,2024-11-05 13:25:14,0,SurfInn,Agence COFINA Bessieux,6,1,SurfInn,
+4508484,Gabon,0.4039200,9.4451100,2024-11-05 00:00:00,2024-11-05 13:24:41,0,SurfInn,Cabinet d'Imagerie Médicale,6,1,SurfInn,
+4171411,Gabon,-0.1877972,10.7666016,2024-03-28 00:00:00,2024-07-21 16:43:54,0,Unknown,Ndjolé,2,0,mardiz,
+1616092,Gabon,0.3346255,9.4811546,2018-12-13 00:00:00,2024-05-12 15:37:00,0,tou alex,'常青公司' POI has no name POI types: highway-rest_area OSM data version: 2018-10-30T22:25:02Z  #mapsme,2,0,Taya_S,duplicate + already mapped
+1616090,Gabon,0.3345268,9.4812978,2018-12-13 00:00:00,2024-05-12 15:36:57,0,tou alex,'常青公司' POI has no name POI types: highway-rest_area OSM data version: 2018-10-30T22:25:02Z  #mapsme,2,0,Taya_S,duplicate + already mapped
+1616091,Gabon,0.3345314,9.4811384,2018-12-13 00:00:00,2024-05-12 15:36:55,0,tou alex,'常青公司' POI has no name POI types: highway-rest_area OSM data version: 2018-10-30T22:25:02Z  #mapsme,2,0,Taya_S,duplicate + already mapped
+2353526,Gabon,0.4281222,9.4830492,2020-09-18 00:00:00,2024-03-06 14:02:42,0,BERNARD BAVINGOULA,Cabinet N.E.G.E. & CO,2,0,laminem,
+1946853,Gabon,1.0159246,10.7972431,2019-10-02 00:00:00,2023-12-30 08:17:34,0,user_2790326,"Medouneu is in Gagon, not in Equatorial Guinea.",2,0,NeisBot,#NothingToDoHere - Reason: The initial user account has been removed or no longer exists.  For more information please see: https://community.openstreetmap.org/t/what-is-the-purpose-of-notes-nothingtodohere
+4019625,Gabon,0.4093201,9.4347048,2023-12-08 00:00:00,2023-12-08 09:18:41,0,Unknown,onosm.org submitted note from a business: Nom: Restaurant LePalais addr:street=Rue Eugène Marie Joseph Aloli addr:city=Libreville Numéro de téléphone: +24177273727 Réseau social: https://www.facebook.com/profile.php?id=100027029693423 Heures d'ouverture: Lundi - Samedi 12:00-23:00 Accessibilité en fauteuil roulant: limited Catégorie: Restaurants Modes de paiement acceptés: En espèces takeaway=yes,2,0,Leweb,
+4019620,Gabon,0.4093201,9.4347048,2023-12-08 00:00:00,2023-12-08 09:05:32,0,Unknown,onosm.org submitted note from a business: addr:street=LIBREVILLE addr:city=Libreville addr:postcode=97114 Numéro de téléphone: +24177486150 Catégorie: Restaurants Modes de paiement acceptés:  takeaway=undefined,4,1,Leweb,
+4015684,Gabon,0.3944104,9.6435606,2023-12-05 00:00:00,2023-12-05 10:45:14,0,wissi2002,maison de wissi,2,0,wissi2002,
+3924176,Gabon,-1.2182467,10.5843170,2023-10-05 00:00:00,2023-11-09 08:50:49,0,Jules BRANDON,POI has no name POI types: amenity-school OSM data version: 2023-03-14T07:42:53Z  #mapsme,2,0,confusedbuffalo,Note provides no extra information
+3924174,Gabon,-1.2182467,10.5843170,2023-10-05 00:00:00,2023-11-09 08:50:47,0,Jules BRANDON,POI has no name POI types: amenity-school OSM data version: 2023-03-14T07:42:53Z  #mapsme,2,0,confusedbuffalo,Note provides no extra information
+3863128,Gabon,0.4265048,9.4784117,2023-08-31 00:00:00,2023-08-31 08:45:39,0,Allouche OBAME,"BP: 4308 Tel: 065 26 13 49 Consultation générale, petite  chirurgie, échographie",2,0,Allouche OBAME,
+3791415,Gabon,0.4731792,9.4141674,2023-07-21 00:00:00,2023-07-22 05:30:39,0,Unknown,ffff,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1428777,Gabon,-1.8662973,11.0590845,2018-06-17 00:00:00,2023-07-15 14:27:57,0,GMurdock,'Three ATMs located at BICIG Bank' POI has no name POI types: amenity-atm OSM data version: 2018-03-16T17:06:02Z  #mapsme,3,1,AlexP100,
+3781367,Gabon,-1.6164000,10.6902000,2023-07-15 00:00:00,2023-07-15 14:15:37,0,AlexP100,Turn to Olam Mandji plantation,2,0,AlexP100,
+3609087,Gabon,0.4136400,9.4319600,2023-03-22 00:00:00,2023-03-22 21:05:15,0,Olivier KOUMADI,Boutique ZUMA Market,4,1,Olivier KOUMADI,
+3602682,Gabon,0.3865034,9.4554842,2023-03-18 00:00:00,2023-03-18 12:40:35,0,ASSOUMOU ONDO,SNI (Société Nationale Immobilière),4,1,ASSOUMOU ONDO,SNI (Société Nationale Immobilière)
+3474732,Gabon,0.3898239,9.7628278,2022-12-12 00:00:00,2023-02-25 08:26:16,0,Allouche OBAME,N'existe plus là. À supprimer,2,0,Władysław Komorek,Done.
+2069981,Gabon,-0.6762405,8.7670898,2020-01-26 00:00:00,2023-02-20 08:26:05,0,explosivo420,Club SOGARA Club sur la plage à côté de la Société Gabonaise de Raffinage (SOGARA),2,0,Władysław Komorek,
+735082,Gabon,-0.6921634,8.7715679,2016-10-02 00:00:00,2023-02-20 08:20:33,0,Thomas Breugnot,Oprag (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Władysław Komorek,
+2118410,Gabon,-0.7044202,8.7763558,2020-03-11 00:00:00,2023-02-20 08:10:48,0,Babacar Diop,'DPS chantier naval' POI has no name POI types: amenity-shelter internet_access-wlan OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,Władysław Komorek,
+1634826,Gabon,-0.7220584,8.7860772,2018-12-31 00:00:00,2023-02-20 07:57:20,0,Christophe FOUBET,"Ecole Mixte de Port-Gentil. Ecole actuellement conventionnée, dispensant une éducation suivant les normes de l'éducation Française. De la maternelle au CM2.",2,0,Władysław Komorek,
+1601914,Gabon,-0.7432300,8.7688923,2018-11-27 00:00:00,2023-02-20 07:55:07,0,Unknown,SdR Transfo,2,0,Władysław Komorek,
+1610353,Gabon,-0.8339230,8.8203692,2018-12-06 00:00:00,2023-02-20 07:24:18,0,upendraK,"Hello, Can anyone with local knowledge here help us regarding construction of Port-Gentil-Omboué road. I had gone through article from Gabon review which states there's temporary road closure from November 22nd to December 15th 2018.Is road already available for public? It would be great help if we get clarification about the road here, as this would be valuable data to be on OpenStreetMap.",2,0,Władysław Komorek,Done.
+1738833,Gabon,-0.6789518,10.2196764,2019-04-08 00:00:00,2023-02-16 20:47:09,0,stephengmatthews,"'This is a duplicate' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-fuel OSM data version: 2019-03-14T00:11:02Z  #mapsme",2,0,Władysław Komorek,Done.
+2055472,Gabon,-1.0833772,10.2566024,2020-01-13 00:00:00,2023-02-15 15:00:47,0,ekome amvame,'Complexe Sportif d'ONAL' POI has no name POI types: leisure-playground OSM data version: 2019-08-30T18:41:13Z  #mapsme,2,0,Władysław Komorek,Done.
+1426459,Gabon,-1.8669622,11.0591377,2018-06-14 00:00:00,2023-02-01 11:32:34,0,DAUPHIN84,église saint Martin,2,0,Władysław Komorek,Done.
+3502642,Gabon,-0.1514226,10.3927049,2023-01-03 00:00:00,2023-01-07 11:42:09,0,Unknown,Libreville,2,0,Syl,Note mal positionnée
+2188504,Gabon,0.4348000,9.4830000,2020-05-11 00:00:00,2023-01-07 11:41:20,0,Allouche OBAME,L'euphorie   Snack club,3,0,Syl,"Il n'y a rien ici dans OSM, je clos la note."
+3499496,Gabon,0.3997130,9.4567689,2022-12-31 00:00:00,2022-12-31 20:09:34,0,soda gabon22,SODA,6,1,soda gabon22,SODA GABON représentation libreville
+861636,Gabon,-0.5870716,11.5950394,2017-01-24 00:00:00,2022-12-03 10:43:13,0,yovo57,j'aimerai connaitre les points d'eau sur cette carte du parc national de la copé.,2,0,Syl,"Bonjour, pour ça il faut qu'une personne les ajoute dans OSM."
+3443863,Gabon,0.4591400,9.4085500,2022-11-16 00:00:00,2022-12-03 09:26:33,0,SNT_LBP_FO,Rivoli,2,0,Syl,A été ajouté depuis
+3305868,Gabon,0.4842939,9.4098651,2022-08-08 00:00:00,2022-12-03 09:25:58,0,Unknown,Lieu de l'anniversaire,2,0,Syl,Note sans information
+3026214,Gabon,0.3911300,9.4484000,2022-01-27 00:00:00,2022-12-03 09:24:56,0,Unknown,pointeur,2,0,Syl,Note sans information
+2403566,Gabon,-0.3421191,10.1870728,2020-10-29 00:00:00,2022-12-03 09:23:10,0,Unknown,Le détail de l'évenement,2,0,Syl,Note sans information
+2396986,Gabon,-0.7196400,8.7832000,2020-10-23 00:00:00,2022-12-03 09:22:43,0,Unknown,Gabon,2,0,Syl,
+2245728,Gabon,0.6146090,9.3585610,2020-06-28 00:00:00,2022-12-03 09:22:16,0,Unknown,Un poin,2,0,Syl,Note sans information
+1856543,Gabon,0.3944000,9.4547000,2019-07-25 00:00:00,2022-12-03 09:19:06,0,Unknown,Palais des sports,3,0,Syl,Déjà présent
+1645059,Gabon,0.4218271,9.4786827,2019-01-09 00:00:00,2022-12-03 09:17:05,0,Arnold Figo,'ce lieu s'appelle Rond Point de Nzeng Ayong' POI has no name POI types: highway-rest_area OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,Syl,Le nom a été ajouté depuis
+3259594,Gabon,0.4349046,9.4818804,2022-07-10 00:00:00,2022-12-03 09:11:28,0,Allouche OBAME,Unable to answer 'Are these opening hours still correct?' for https://osm.org/node/5887620510 via StreetComplete 45.0:  Supérette,5,1,Syl,"Je ne vois rien à corriger, je clos la note."
+1972619,Gabon,-1.6569879,13.4383392,2019-10-24 00:00:00,2022-11-15 06:06:09,0,meviste,Airport_venguer,2,0,RaphaelPasloin,on the map closing
+3433719,Gabon,0.0000000,13.6898104,2022-11-08 00:00:00,2022-11-09 10:43:41,0,Geovelo_Notes,1 (This note has been created from Geovelo : http://amenagements-cyclables.fr/fr/contributions/36902),3,0,Geovelo_Notes,
+3377317,Gabon,0.2403038,9.6684891,2022-09-28 00:00:00,2022-09-28 15:22:00,0,Unknown,Hi Jamie,2,0,pitfire,
+3377322,Gabon,0.2395528,9.6705437,2022-09-28 00:00:00,2022-09-28 15:21:39,0,Unknown,Hhhhhhh,2,0,pitfire,
+2240803,Gabon,0.4324002,9.4770867,2020-06-24 00:00:00,2022-06-18 20:57:41,0,Allouche OBAME,ce point d'intérêt ne pas au bon endroit. À supprimer,2,0,Syl,Note en double
+3147215,Gabon,0.3368900,9.4829600,2022-04-22 00:00:00,2022-04-22 09:37:06,0,Michel Rolinx,Hopital,2,0,Michel Rolinx,
+3078751,Gabon,0.4298058,9.4372090,2022-03-08 00:00:00,2022-03-29 08:55:19,0,Unknown,"bonjour, j'ai remarqué l'absence du lycée Michel Montaigne au Gabon il est normalement situé au Bas de gué-gué entre prix import et couscous (restaurant). J'apprécierais si vous pouviez restaurez votre erreur. A bon entendeur, salut",4,1,N ABABIO,Lycée michel montaigne
+3078749,Gabon,0.4298017,9.4371982,2022-03-08 00:00:00,2022-03-09 09:09:53,0,Unknown,Lycée Michel Montaigne,2,0,kartonage,https://www.openstreetmap.org/note/3078751
+3054786,Gabon,0.4296500,9.4367000,2022-02-17 00:00:00,2022-02-17 07:51:26,0,Samyec,Lycée Privé Michel Montaigne,4,1,Samyec,Lycée Privé Michel Montaigne
+846637,Gabon,0.3971387,9.4406826,2017-01-09 00:00:00,2022-02-04 17:01:37,0,Gregory Bouchard,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-12-14T16:41:03Z) #mapsme",2,0,Syl,Note en double
+2967861,Gabon,-0.7787200,11.9177500,2021-12-11 00:00:00,2021-12-14 08:53:31,0,Unknown,carte du gabon,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2771170,Gabon,0.3164800,9.5220200,2021-07-26 00:00:00,2021-07-26 00:31:38,0,christfarel74,Il y a à cet endroit la centrale d'Alenakiri,4,1,christfarel74,
+2738395,Gabon,0.4304000,9.4949000,2021-07-02 00:00:00,2021-07-02 16:49:55,0,AMSCG,Avancé activités,2,0,AMSCG,
+2432252,Gabon,0.4066900,9.4344900,2020-11-19 00:00:00,2020-11-19 15:08:04,0,Alyster Lendira,SODATO,2,0,Alyster Lendira,
+2359527,Gabon,1.0020000,13.0009000,2020-09-23 00:00:00,2020-09-23 05:04:54,0,Valeria Hernandez,Nombre,2,0,Valeria Hernandez,
+1763373,Gabon,-0.2308520,9.9552990,2019-05-01 00:00:00,2020-07-29 14:12:06,0,Cyfreak,River,2,0,augxcgrwxo,
+1763372,Gabon,-0.2243010,9.9605170,2019-05-01 00:00:00,2020-07-29 14:11:55,0,Cyfreak,River,2,0,augxcgrwxo,
+1763371,Gabon,-0.2156590,9.9623190,2019-05-01 00:00:00,2020-07-29 14:11:51,0,Cyfreak,River,2,0,augxcgrwxo,
+1763370,Gabon,-0.2067320,9.9698530,2019-05-01 00:00:00,2020-07-29 14:11:49,0,Cyfreak,River,2,0,augxcgrwxo,
+2225407,Gabon,0.4147700,9.4519100,2020-06-11 00:00:00,2020-06-11 12:01:20,0,Unknown,Lauryscofield10,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+2112251,Gabon,-0.4081100,10.5113200,2020-03-06 00:00:00,2020-04-19 23:15:01,0,Unknown,Gabon,2,0,freebeer,on the map
+2160052,Gabon,0.4450442,9.4490873,2020-04-15 00:00:00,2020-04-15 09:17:55,0,Unknown,👧,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+2160041,Gabon,0.4431986,9.4490606,2020-04-15 00:00:00,2020-04-15 09:12:40,0,Unknown,Home,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2160039,Gabon,0.4431986,9.4490692,2020-04-15 00:00:00,2020-04-15 09:12:37,0,Unknown,Chez moi,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2160035,Gabon,0.4446521,9.4488430,2020-04-15 00:00:00,2020-04-15 09:12:33,0,Unknown,Ma maison d'habitation,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2160037,Gabon,0.4431986,9.4490692,2020-04-15 00:00:00,2020-04-15 09:12:29,0,Unknown,Ma maison,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2160043,Gabon,0.4431986,9.4490606,2020-04-15 00:00:00,2020-04-15 09:12:25,0,Unknown,Home R,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2145772,Gabon,0.4245925,9.4689918,2020-04-02 00:00:00,2020-04-02 13:58:00,0,AXION SP GABON,AXION Services Plus,3,1,AXION SP GABON,"AXION Services Plus 1er Etage Immeuble Mondjo, face station Oilibya Nzeng Ayong Libreville GABON"
+2069977,Gabon,-0.6775681,8.7713170,2020-01-26 00:00:00,2020-01-26 22:46:10,0,explosivo420,Club Sogara,4,1,explosivo420,Club sur la plage à côté de la Société Gabonaise de Raffinage (SOGARA)
+861690,Gabon,-1.6359359,13.5892832,2017-01-24 00:00:00,2020-01-23 18:04:40,0,yovo57,ou son toute les pistes?,4,1,wisi_,"En cours de résolution, merci."
+1906279,Gabon,0.3910921,9.4441047,2019-08-30 00:00:00,2019-11-03 15:23:24,0,Luc Nile,'Restaurant très chic et à petits prix. Salades XL entre 2000 et 3500 fcfa - Plats simples entre 2000 et 3500 fcfa _ Buffet volonté à 8000 fcfa' POI name: ILLICO POI types: amenity-restaurant OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,freebeer,on the map
+1455765,Gabon,1.0672875,9.6753330,2018-07-15 00:00:00,2019-10-02 20:01:02,0,user_2790326,This river is broader. An user had spoiled it.,2,0,user_2790326,
+594687,Gabon,-0.7273578,8.7886319,2016-06-15 00:00:00,2019-09-13 21:28:10,0,Thomas Breugnot,Dr Sarrazin Philippe 07358929 (OSM data version: 2016-06-01T10:03:02Z) #mapsme,3,0,josmougn,fermeture de notes faute d'infos
+1050435,Gabon,-0.8064653,8.8054293,2017-07-02 00:00:00,2019-09-13 21:25:37,0,josmougn,tennis and soccers pitches somewhere there,2,0,josmougn,szemblent avoir été ajoutés
+1909192,Gabon,0.4032800,9.4587700,2019-09-01 00:00:00,2019-09-01 15:25:02,0,IVUNDE,École Publique de la peyrie,4,1,IVUNDE,
+1845393,Gabon,0.4065390,9.4373631,2019-07-15 00:00:00,2019-07-28 11:57:09,0,Unknown,MaxiTech,2,0,Alvin Biyoghe,Approved
+875539,Gabon,0.4074630,9.4386627,2017-01-31 00:00:00,2019-07-28 11:56:39,0,Pistache2,"cinéma,  expo (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,Alvin Biyoghe,rejected
+1826691,Gabon,0.4024487,9.4362243,2019-06-27 00:00:00,2019-07-28 11:55:55,0,Projet Ekhena,Arret Trans'Urb - Sainte Marie,2,0,Alvin Biyoghe,Approved
+1645058,Gabon,0.4218271,9.4786827,2019-01-09 00:00:00,2019-07-28 11:54:42,0,Arnold Figo,'Rond Point de Nzeng Ayong' POI has no name POI types: highway-rest_area OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,Alvin Biyoghe,It's Rond-point de Nzeng-Ayong
+1854224,Gabon,0.7941673,11.5404659,2019-07-23 00:00:00,2019-07-23 15:42:27,0,가시나무,'ㅇㅇㅇㅇ' POI has no name POI types: natural-wood OSM data version: 2019-05-17T13:54:02Z  #mapsme,2,0,가시나무,
+1555019,Gabon,0.4037335,9.4374436,2018-10-09 00:00:00,2019-07-02 10:52:23,0,Unknown,toum,2,0,zaizone,Note peu explicite --> Non exploitable
+1216567,Gabon,0.4142220,9.4469535,2017-11-25 00:00:00,2019-07-02 09:55:44,0,Antony Spiridonov,"'wrong placement' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Ambassade de Russie POI types: amenity-embassy OSM data version: 2017-10-20T12:20:02Z  #mapsme",2,0,zaizone,Corrections in this changeset --> https://www.openstreetmap.org/changeset/71814704
+739416,Gabon,0.4137271,9.4515467,2016-10-06 00:00:00,2019-07-02 09:45:15,0,Unknown,ali,3,0,zaizone,Informations personnelles --> Note inutilisable
+1612990,Gabon,0.4167500,9.4527800,2018-12-09 00:00:00,2019-07-02 09:45:07,0,Unknown,mamadou sacko,2,0,zaizone,Informations personnelles --> Note inutilisable
+654641,Gabon,0.4818156,9.3903709,2016-08-02 00:00:00,2019-07-02 09:29:03,0,DanVonMut,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'no longer exists' (OSM data version: 2016-07-15T17:38:02Z) #mapsme",2,0,zaizone,La note concerne probablement un lieu qui a déjà été supprimé. Un bar a été ajouté à cet emplacement en mai 2018. --> Résolution de la note
+1249198,Gabon,0.5008130,9.4096157,2017-12-26 00:00:00,2019-07-02 09:24:26,0,Unknown,MAISON HOUETO,2,0,zaizone,"Cette note décrit une habitation privée, elle n'a donc aucune utilité pour la cartographie OSM."
+910550,Gabon,0.4594868,9.4076423,2017-03-01 00:00:00,2019-07-02 09:22:54,0,Dan Cucuet,apartament (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,zaizone,Je clos cette note car elle semble désigner un lieu privé : 'apartament'. Info inutile pour la cartographie au sein de la communauté OpenStreetMap.
+614955,Gabon,0.4018746,9.5228058,2016-07-03 00:00:00,2019-07-02 09:20:22,0,Gregory Bouchard,rond point pk12 (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,zaizone,Note résolue ici : https://www.openstreetmap.org/changeset/71813635
+1274867,Gabon,0.7216000,10.3636000,2018-01-21 00:00:00,2019-07-02 09:12:45,0,Unknown,Village d'Assok,2,0,zaizone,Village ajouté ici --> https://www.openstreetmap.org/changeset/71813405
+1752804,Gabon,0.3409389,10.1886177,2019-04-21 00:00:00,2019-07-02 09:09:32,0,Unknown,Le village s'appelle Alen Komo,2,0,zaizone,Note résolue ici : https://www.openstreetmap.org/changeset/71813320
+1079181,Gabon,0.4573829,9.4075277,2017-07-26 00:00:00,2019-03-23 17:56:16,0,stège,"'l'hôtel a été démoli depuis plus de 5 ans déjà. c'est resté un terrain vague jusqu'à ce jour' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Hotel POI types: internet_access-wlan tourism-hotel OSM data version: 2017-06-09T16:24:09Z  #mapsme",2,0,lennieandrichie,
+628745,Gabon,0.4018746,9.5228058,2016-07-15 00:00:00,2018-11-01 00:56:41,0,Gregory Bouchard,rond point pk12 (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,Syl,Duplicate note
+1326138,Gabon,0.5221974,9.3941206,2018-03-13 00:00:00,2018-09-06 20:55:15,0,Unknown,"Stade de l’Amitié Sino-Gabonaise is the official stadium name, can ayone add that name?",7,1,stadiaarcadia,
+760336,Gabon,0.3613019,9.4701505,2016-10-25 00:00:00,2018-06-20 18:04:18,0,Unknown,ECHANGEUR LALALA,2,0,30303020,
+1128760,Gabon,0.3833000,9.4500000,2017-09-05 00:00:00,2018-06-07 14:33:30,0,Unknown,Mauvais positionnement de MH33 IMMOBILIÈRE...Ca été changé poir nuire ! L'ancienne adresse était la bonne...  Nous indiquons la bonne adresse à nouveau,2,0,zaizone,Pas d'agence immobilière cartographiée à cet endroit. Note non reliée à un quelconque élément
+1144761,Gabon,0.3903979,9.4449806,2017-09-18 00:00:00,2018-06-07 14:14:40,0,Unknown,Immeuble CIMA,2,0,zaizone,Point d’intérêt ajouté --> https://www.openstreetmap.org/changeset/59639537
+610490,Gabon,0.3981867,9.4407178,2016-06-30 00:00:00,2018-06-07 14:08:43,0,Jean-Claude KIYOFOLO,Agence de communication  (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,zaizone,Suppression élément incohérent --> https://www.openstreetmap.org/changeset/59639417
+588521,Gabon,0.4012491,9.4416860,2016-06-09 00:00:00,2018-06-07 14:07:21,0,Jean-Claude KIYOFOLO,Agence de Communication  (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,zaizone,Suppression élément incohérent --> https://www.openstreetmap.org/changeset/59639347
+739194,Gabon,0.4034523,9.4552432,2016-10-06 00:00:00,2018-06-07 13:57:09,0,Gregory Bouchard,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-09-19T14:38:03Z) #mapsme",2,0,zaizone,Correction faite : https://www.openstreetmap.org/changeset/59639101
+1176015,Gabon,0.3899902,9.4540154,2017-10-16 00:00:00,2018-05-25 22:33:41,0,Juann Roberto Momnougui,'Libreville' POI name: Libreville POI types: place-city-capital-2 OSM data version: 2017-10-06T18:13:02Z  #mapsme,2,0,30303020,Already mapped.
+1391553,Gabon,-0.6923355,10.2196880,2018-05-12 00:00:00,2018-05-12 10:47:25,0,ekoehne,Bar,4,1,ekoehne,Bar Atongowanga
+1327744,Gabon,-1.1397135,14.2368221,2018-03-14 00:00:00,2018-03-14 16:47:20,0,chancelia,vite,2,0,chancelia,
+1237090,Gabon,-0.7156700,8.7611400,2017-12-13 00:00:00,2017-12-13 09:25:28,0,Promiz,Armée Française,2,0,Promiz,
+909447,Gabon,0.4648777,9.4037325,2017-02-28 00:00:00,2017-10-08 20:25:20,0,Pistache2,"crèche, maternelle et primaire (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,freebeer,on the map
+18601,Gabon,0.4466155,9.4371486,2013-07-29 00:00:00,2017-10-08 20:24:30,0,Unknown,RELAX,2,0,freebeer,no useful mapping info
+823095,Gabon,0.4191000,9.4328314,2016-12-20 00:00:00,2017-10-08 20:22:16,0,pary babey,Grande école de Gestion du Gabon (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,freebeer,on the map
+507688,Gabon,0.5837148,9.6926087,2016-02-03 00:00:00,2017-10-08 20:19:37,0,Unknown,onosm.org submitted note from a business: name: 411 Locals phone: 866-391-0622 website: http://411locals.com/ twitter: @411locals hours: 9:00 am - 5:00 pm category: Web Design address: 411 Locals,2,0,freebeer,no useful mapping address
+918866,Gabon,0.4143776,9.4469293,2017-03-08 00:00:00,2017-09-22 21:17:29,0,Pistache2,ambassade de russie (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,freebeer,on the map
+908061,Gabon,0.4648777,9.4037325,2017-02-27 00:00:00,2017-09-22 21:14:53,0,Pistache2,crèche (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,freebeer,on the map
+1046102,Gabon,0.3911600,9.4465500,2017-06-28 00:00:00,2017-06-28 15:22:05,0,Romuald Séif Mostley Ndong Assoumou,Centre Hospitalier Universitaire de Libreville #MWFTTU2017,4,1,Romuald Séif Mostley Ndong Assoumou,
+594689,Gabon,-0.7165348,8.7812238,2016-06-15 00:00:00,2017-06-22 06:32:07,0,Thomas Breugnot,"Nathalie, la Gerante.  (OSM data version: 2016-06-01T10:03:02Z) #mapsme",2,0,josmougn,Resto le nautilus
+731919,Gabon,-0.7321735,8.7882887,2016-09-30 00:00:00,2017-06-19 21:00:53,0,Thomas Breugnot,Total petite concession  (OSM data version: 2016-08-22T09:03:02Z) #mapsme,4,0,josmougn,Ok
+593579,Gabon,0.3963585,9.4432372,2016-06-13 00:00:00,2017-06-14 09:02:38,0,Jean-Claude KIYOFOLO,Ma maison (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,Prince Kassad,
+995552,Gabon,0.3877471,9.4451545,2017-05-14 00:00:00,2017-05-14 06:06:47,0,TECK,Galerie GALICCO RDC : Plusieurs boutiques commerçantes  1er Étage : Direction Générale SOLSI et Digital TV Gabon,4,1,TECK,Galerie GALICCI RDC : Plusieurs boutiques commerçantes  1er Étage : Direction Générale SOLSI et Digital TV Gabon
+718133,Gabon,-0.9300205,13.9570999,2016-09-19 00:00:00,2016-12-28 22:13:17,0,Unknown,I guess my husband is controlling my account. Help,2,0,Prince Kassad,
+443827,Gabon,0.3848619,9.4670391,2015-09-30 00:00:00,2016-08-27 12:20:28,0,Unknown,CIDT,2,0,emanuel94,route fermée
+628069,Gabon,0.4756809,9.4197806,2016-07-14 00:00:00,2016-07-14 18:44:16,0,DanVonMut,"you will find this great little place advertised on airbnb. family run accommodation with 2 self catering apartments with WiFi parking and air con plus 2 small ensitue rooms with aircon and seating  area. clean, cheap, good location and lovely hosts!! (OSM data version: 2016-06-20T05:57:02Z) #mapsme",2,0,hsc666,OSM notes are not intended for private comments / advertising.
+570757,Gabon,-1.8705621,11.0564518,2016-05-22 00:00:00,2016-05-22 09:36:39,0,Dieudonne Mouketou-T,"(1) La route qui passe par Mouila n'est pas la RN 3 mais plutot la RN 1 et (2) Je souhaiterais entrer une cartographie de detail pour la ville de Mouila, comment faire?  Bien a vous,  DM-T",4,1,Dieudonne Mouketou-T,
+458182,Gabon,-1.0825181,10.2549863,2015-10-26 00:00:00,2016-05-05 10:41:25,0,Unknown,Home,2,0,Prince Kassad,
+138674,Gabon,-0.6794370,10.2190327,2014-03-23 00:00:00,2015-06-02 10:54:06,0,Unknown,Adouma,4,0,Schönborn Medium,
+203475,Gabon,0.4322392,9.4235015,2014-07-22 00:00:00,2014-10-20 13:17:08,0,teddymoreau404,Cité Kalikak,6,1,fetch_1999,
+203477,Gabon,0.4330761,9.4239360,2014-07-22 00:00:00,2014-07-22 07:37:34,0,teddymoreau404,Immeuble  WENZOU CECADO Kalikak,2,0,teddymoreau404,
+144441,Gabon,0.4519797,9.4233513,2014-04-03 00:00:00,2014-04-08 12:56:03,0,nramarr,CAMP DE GAULLE SANGARIS REAR HQ,4,1,fetch_1999,
+141230,Gabon,0.4215536,9.4787121,2014-03-28 00:00:00,2014-03-28 17:12:38,0,Unknown,Rond Point de Nzeng-Ayong,4,1,fetch_1999,
+7580,Gabon,0.4632232,9.4100475,2013-06-14 00:00:00,2013-06-14 14:37:12,0,Association BAL,Aéroport Léon Mba,4,1,Association BAL,

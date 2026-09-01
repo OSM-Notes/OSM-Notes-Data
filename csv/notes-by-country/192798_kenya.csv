@@ -1,0 +1,6 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5259754,Kenya,-0.9246015,36.5914013,2026-04-21 00:00:00,2026-04-21 14:43:33,0,Unknown,What is going on here?,2,0,Unknown,Accidental duplicate note. I am keeping the original one open.
+5259755,Kenya,-0.9246015,36.5914013,2026-04-21 00:00:00,2026-04-21 14:43:20,0,Unknown,What is going on here?,4,1,Unknown,Accidental duplicate note. I am keeping the original one open.
+5195582,Kenya,-4.0734333,39.5352733,2026-03-08 00:00:00,2026-04-19 21:29:14,42,Ke1i,A small village called Guya  #CoMaps android 2026.02.23-9,2,0,map per,"Thanks, added the village"
+5195596,Kenya,-4.0693517,39.5304483,2026-03-08 00:00:00,2026-04-19 21:27:49,42,Ke1i,Kaya Chonyi forest  #CoMaps android 2026.02.23-9,2,0,map per,"Thanks, added the name"

@@ -1,0 +1,10 @@
+{
+  "export_date": "2026-09-01T11:30:20Z",
+  "export_timestamp": 1788262220,
+  "total_users": 285832,
+  "total_countries": 145,
+  "version": "1.0.0",
+  "schema_version": "1.0.0",
+  "api_compat_min": "1.0.0",
+  "data_schema_hash": "f6e6a1d92365fdd9d3a77a4c0080074c32dd054a437529a276d49b63c749d5cf"
+}

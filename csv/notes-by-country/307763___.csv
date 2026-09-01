@@ -1,0 +1,5 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4941846,الإمارات العربية المتحدة,24.2213683,55.7817085,2025-09-01 00:00:00,2026-04-23 05:32:24,234,only-citable-waltz,Unable to answer 'What are the opening hours here?' – Al Ain Mall (Department Store) – https://osm.org/node/5255512823 via StreetComplete_ee 61.1:  Possible duplicate of https://www.openstreetmap.org/way/115331651/history ?  هل هذه النقطة مكررة لـ https://www.openstreetmap.org/way/115331651/history ؟,2,0,memmane,
+1911440,الإمارات العربية المتحدة,24.2217928,55.7818889,2019-09-03 00:00:00,2026-04-23 05:32:11,2424,busaif,Alain Mall العين مول,2,0,memmane,
+3190418,الإمارات العربية المتحدة,24.2232841,55.7688707,2022-05-22 00:00:00,2026-04-23 04:53:25,1432,Unknown,onosm.org submitted note from a business: name: Star Gallery phone: 0544494885 website:  twitter:  facebook:  email:  hours: Monday-Sunday 9:00 AM to 11:30 PM category: Mobile Phone Shops address:,2,0,memmane,

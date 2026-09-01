@@ -1,0 +1,12 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5259135,Hrvatska,45.0104660,14.1572160,2026-04-21 00:00:00,2026-04-21 10:32:36,0,kuhni74,several new buildings,2,0,kuhni74,
+5259136,Hrvatska,45.0095160,14.1586410,2026-04-21 00:00:00,2026-04-21 10:32:32,0,kuhni74,several new buildings,2,0,kuhni74,
+5259124,Hrvatska,45.0074430,14.1371620,2026-04-21 00:00:00,2026-04-21 10:23:38,0,kuhni74,wayside_cross,2,0,kuhni74,
+5259140,Hrvatska,45.0472240,14.1217450,2026-04-21 00:00:00,2026-04-21 10:21:08,0,kuhni74,spelling?,2,0,kuhni74,
+5259075,Hrvatska,45.2780430,14.5668300,2026-04-21 00:00:00,2026-04-21 08:05:32,0,Unknown,Apartment 'Carovo 7' ulica Carovo 7 Kraljevica,2,0,Unknown,
+5259146,Hrvatska,45.2779450,14.5668200,2026-04-21 00:00:00,2026-04-21 08:05:22,0,Unknown,"Apartment Carovo 7, Kraljevica Ulica Carovo 7",2,0,Unknown,
+5259069,Hrvatska,45.2778510,14.5668820,2026-04-21 00:00:00,2026-04-21 08:04:27,0,Unknown,Apartment 'Carovo 7' Kraljevica Ulica Carovo 7,2,0,Unknown,
+5259109,Hrvatska,45.1580560,14.6276660,2026-04-21 00:00:00,2026-04-21 07:38:42,0,gapi78,Donkey Amigo,2,0,gapi78,
+5252476,Hrvatska,44.4667535,15.1546762,2026-04-16 00:00:00,2026-04-20 19:40:34,4,Đuro Jiří,Spomenik?  via StreetComplete_ee 63.0  Attached photo(s): https://streetcomplete.app/p/338751.jpg,2,0,Đuro Jiří,
+5257327,Hrvatska,45.5667990,16.6397770,2026-04-19 00:00:00,2026-04-19 16:25:21,0,Unknown,"There is no road here, you pass through someone's lawn",3,1,Unknown,

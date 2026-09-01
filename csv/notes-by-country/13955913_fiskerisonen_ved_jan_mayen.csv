@@ -1,0 +1,5 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+970549,Fiskerisonen ved Jan Mayen,73.3348560,-9.4193450,2017-04-20 00:00:00,2017-04-22 17:16:40,0,Unknown,Missing street:  This error is submitted from Navmii GPS.,2,0,py_berrard,
+323644,Fiskerisonen ved Jan Mayen,71.7863083,-6.8969898,2015-02-26 00:00:00,2015-09-27 20:51:13,0,Unknown,خیلی بدهستش,2,0,Jo89195,
+200838,Fiskerisonen ved Jan Mayen,71.4504431,-9.7885609,2014-07-16 00:00:00,2015-09-27 20:50:29,0,Unknown,ဘာလုပ္ေနလဲ,2,0,Jo89195,What is the problem here?

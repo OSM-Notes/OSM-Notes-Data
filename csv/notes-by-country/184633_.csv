@@ -1,0 +1,6 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1709666,नेपाल,27.6223266,85.5495071,2019-03-14 00:00:00,2026-04-23 02:51:31,2597,Unknown,Kavre valley,2,0,Unknown,
+5260558,नेपाल,27.0144069,84.8787859,2026-04-22 00:00:00,2026-04-22 05:22:44,0,Unknown,"Nepal Telecom, Birgunj",2,0,Unknown,
+3938579,नेपाल,27.7123679,85.3110662,2023-10-13 00:00:00,2026-04-19 11:34:03,919,whammo,simplify intersection to a T  #EveryDoor,2,0,whammo,Fixed
+5252666,नेपाल,27.8352683,85.3247776,2026-04-16 00:00:00,2026-04-19 11:30:31,3,yup_here,"This place does not exist: 'This place is a resort' A CoMaps user reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2026-04-05T19:23:11Z POI has no name POI types: tourism-hostel  #CoMaps android 2026.04.07-8-FDroid",2,0,map per,"Thanks, changed the category to 'resort'"

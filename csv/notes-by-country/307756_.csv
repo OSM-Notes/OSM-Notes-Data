@@ -1,0 +1,6 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5238116,대한민국,38.0279970,128.7026770,2026-04-06 00:00:00,2026-04-23 17:21:46,17,Unknown,"본부,군수지원대대",2,0,올리버,
+5032947,대한민국,35.4275431,128.5101485,2025-11-01 00:00:00,2026-04-23 04:11:17,173,Unknown,남지 비상활주로,2,0,Unknown,도천 활주로
+5261632,대한민국,35.2106684,129.0030634,2026-04-22 00:00:00,2026-04-22 19:21:24,0,Unknown,구포 열차 사고  1993년 3월 28일 17시 29분   서울발 부산행 무궁화호 제117열차가 탈선 및 전복하여 78명이 사망하고 198명 중경상 사고  한국전력 고압선 선로(전력구)지중화 공사(시공사 삼성종합건설)로  지반에 물이 빠지면서 철로가 침하 되어 사고가 발생,2,0,Unknown,https://www.youtube.com/watch?v=nqJ_uZR7WNk  내용 참고 하세요
+4917457,대한민국,37.6043738,127.3539853,2025-08-18 00:00:00,2026-04-21 16:31:20,246,Sisikottos,"path along the river, under the bridge east of this point  #OsmAnd",2,0,Unknown,

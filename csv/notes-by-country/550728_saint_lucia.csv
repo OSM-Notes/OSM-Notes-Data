@@ -1,0 +1,185 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4672977,Saint Lucia,13.9644671,-61.0227733,2025-03-20 00:00:00,2025-03-27 09:52:36,0,redrace,Hotel The Cove  #OsmAnd,2,0,redrace,erledigt
+4672960,Saint Lucia,13.9651966,-61.0239919,2025-03-20 00:00:00,2025-03-27 09:52:36,0,redrace,Coco Cafe  #OsmAnd,2,0,redrace,erledigt
+3407745,Saint Lucia,13.9643882,-61.0225296,2022-10-21 00:00:00,2025-03-27 09:52:35,0,TradewindsTravel,Zoetry Marigot Bay,2,0,redrace,
+4683895,Saint Lucia,13.8546201,-61.0596106,2025-03-26 00:00:00,2025-03-27 09:24:42,0,redrace,Immigration Office ist here!  #OsmAnd,2,0,redrace,erledigt
+3611494,Saint Lucia,13.8539797,-61.0593027,2023-03-24 00:00:00,2025-03-27 09:24:41,0,BPierrick,'1st floor' OSM snapshot date: 2022-12-16T15:17:23Z POI name: Inland Revenue Department POI types: office-government  #organicmaps,2,0,redrace,erledigt
+4258174,Saint Lucia,14.0092400,-60.9892200,2024-05-21 00:00:00,2024-05-21 15:14:19,0,Tarsha,Casa Bella,2,0,Tarsha,
+4158855,Saint Lucia,14.0145466,-60.9947017,2024-03-18 00:00:00,2024-03-18 22:11:50,0,hejlslu,Harry Edwards Jewelers,4,1,hejlslu,
+4031958,Saint Lucia,13.8266203,-61.0624682,2023-12-17 00:00:00,2023-12-30 18:04:19,0,m_p_13,canopy swing bench and hammock on the platform,2,0,m_p_13,
+4031962,Saint Lucia,13.8254307,-61.0628760,2023-12-17 00:00:00,2023-12-30 18:00:23,0,m_p_13,mirror ball sculpture,2,0,m_p_13,
+3629255,Saint Lucia,13.8580897,-61.0590398,2023-04-06 00:00:00,2023-04-06 03:02:53,0,La Kaye Nou By SMO Wellness,La Kaye Nou  By SMO Wellness  SMO Wellness,3,1,La Kaye Nou By SMO Wellness,
+3629254,Saint Lucia,13.8581352,-61.0594019,2023-04-06 00:00:00,2023-04-06 02:58:39,0,La Kaye Nou By SMO Wellness,SMO Wellness,2,0,La Kaye Nou By SMO Wellness,
+3504472,Saint Lucia,13.7753000,-61.0430000,2023-01-04 00:00:00,2023-01-10 14:23:11,0,Unknown,reunion,2,0,user_17724595,
+2771772,Saint Lucia,14.0336050,-60.9813281,2021-07-26 00:00:00,2022-09-12 14:41:53,0,BPierrick,rat island,2,0,Tom_Holland,Is tagged correctly
+2702976,Saint Lucia,13.8173981,-61.0544462,2021-06-07 00:00:00,2022-09-12 14:41:52,0,BPierrick,Tet Paul trail office,2,0,Tom_Holland,Not clear what the note is referring to
+2542170,Saint Lucia,14.0501149,-60.9679531,2021-02-17 00:00:00,2022-09-12 14:41:52,0,BPierrick,gas station does not exist anymore,2,0,Tom_Holland,Has been removed
+3077369,Saint Lucia,13.8307625,-60.8977392,2022-03-06 00:00:00,2022-09-12 14:41:52,0,BPierrick,road name: Atlantic Drive,2,0,Tom_Holland,Updated
+3275908,Saint Lucia,14.0144000,-60.9912000,2022-07-20 00:00:00,2022-09-12 14:41:52,0,Unknown,Francis Compton Building,2,0,Tom_Holland,Building is tagged
+2702979,Saint Lucia,13.8721999,-61.0786950,2021-06-07 00:00:00,2022-09-12 14:41:51,0,BPierrick,this is all beach with cliffs from Anse mamin to see jambon,2,0,Tom_Holland,"Not clear from the current orthos, will have to wait until we have better data."
+2542168,Saint Lucia,13.9031885,-61.0664104,2021-02-17 00:00:00,2022-09-12 14:41:51,0,BPierrick,football field ⚽,2,0,Tom_Holland,Map has correct data
+2650229,Saint Lucia,14.0603500,-60.9565600,2021-05-02 00:00:00,2022-09-12 14:41:51,0,7fifty8WOLF,Sugar city car wash,2,0,Tom_Holland,Added
+2771778,Saint Lucia,14.0428460,-60.9578192,2021-07-26 00:00:00,2022-09-12 14:41:50,0,BPierrick,Bridge here,2,0,Tom_Holland,Added
+3037464,Saint Lucia,13.9351214,-60.9144188,2022-02-04 00:00:00,2022-09-12 14:41:50,0,ivanbranco,"invalid place value, was this supposed to addr:place maybe?",2,0,Tom_Holland,"The original mapper clearly does not understand the OSM schema for the tags they are editing as there are several invaliid values  I think they were trying to do an is_in: kind of thing, but they are simply describing a locality(perhaps a suburb?) in the Dennery District"
+3169786,Saint Lucia,13.9318960,-60.9336653,2022-05-07 00:00:00,2022-09-12 14:41:50,0,Unknown,farm,2,0,Tom_Holland,Not visible in the ortho
+2702977,Saint Lucia,13.7773460,-60.9049404,2021-06-07 00:00:00,2022-09-12 14:41:49,0,BPierrick,pond,2,0,Tom_Holland,Doesn't appear to be any pond in the ortho
+3167995,Saint Lucia,13.8167440,-60.9129024,2022-05-06 00:00:00,2022-09-12 14:41:49,0,Unknown,Beauchamp playing field,2,0,Tom_Holland,Has been added
+3296493,Saint Lucia,14.0710268,-60.9303206,2022-08-03 00:00:00,2022-09-12 14:41:49,0,Unknown,"New road sign has been erected, this road is called 'Beach Drive'.",2,0,Tom_Holland,Updated
+2771773,Saint Lucia,13.7369496,-60.9448839,2021-07-26 00:00:00,2022-09-12 14:41:49,0,BPierrick,The skyway hotel is now closed,2,0,Tom_Holland,Updated opening hours
+3077370,Saint Lucia,13.8312801,-60.8979438,2022-03-06 00:00:00,2022-09-12 14:41:48,0,BPierrick,Road name: Fond Bay drive,2,0,Tom_Holland,Updated
+3332049,Saint Lucia,14.0708524,-60.9296340,2022-08-26 00:00:00,2022-09-12 14:41:48,0,Prasad jane,Our users indicate that the road name is 'Beach Drive'. We cannot find any available sources to verify this information. Can any local mappers confirm this? #MSFTOpenMaps.,5,1,Tom_Holland,Personal note/request
+2542169,Saint Lucia,13.8911843,-61.0509864,2021-02-17 00:00:00,2022-09-12 14:41:48,0,BPierrick,bridge,2,0,Tom_Holland,"Position is ambiguous, can't infer what is a bridge from the ortho"
+3168019,Saint Lucia,13.7378218,-60.9681237,2022-05-06 00:00:00,2022-09-12 14:41:47,0,Shervyy,Cedar heights playing field,2,0,Tom_Holland,Updated
+3063685,Saint Lucia,13.8092166,-60.9149355,2022-02-24 00:00:00,2022-09-12 14:41:47,0,Merphy_J,"Location of only known Baobab Tree in Saint Lucia, believed to be almost 200 years old",2,0,Tom_Holland,Added
+2662003,Saint Lucia,13.8541948,-61.0580843,2021-05-09 00:00:00,2022-09-12 14:41:47,0,BPierrick,spelling: Sir Arthur Lewis,2,0,Tom_Holland,Updated
+3077371,Saint Lucia,13.9035219,-61.0675091,2022-03-06 00:00:00,2022-09-12 14:41:46,0,BPierrick,max speed in canaries : 24km/h,2,0,Tom_Holland,Personal note
+2403729,Saint Lucia,14.0097790,-60.9906489,2020-10-29 00:00:00,2022-08-01 19:22:57,0,BPierrick,burnt down too,2,0,Honorable_Uno,
+2403728,Saint Lucia,14.0098282,-60.9903935,2020-10-29 00:00:00,2022-08-01 19:22:36,0,BPierrick,This building burned down. None of the businesses here are still open,3,0,Honorable_Uno,
+3236823,Saint Lucia,14.0730400,-60.9470800,2022-06-23 00:00:00,2022-06-23 00:36:09,0,Unknown,Iyanola Medical University,4,1,xh-emagine,
+3093700,Saint Lucia,14.0877552,-60.9341240,2022-03-19 00:00:00,2022-03-19 10:02:53,0,Unknown,CAP ESTATE STREET MAP Jan 2022,4,1,andy de V,
+3063700,Saint Lucia,13.8092500,-60.9149700,2022-02-24 00:00:00,2022-02-24 13:24:49,0,Merphy_J,Saint Lucia's only known Baobab Tree,2,0,Merphy_J,Location further to the right as indicated by other pin. Please disregard this one.
+3047521,Saint Lucia,13.5837564,-61.0507894,2022-02-11 00:00:00,2022-02-12 06:39:56,0,Unknown,5c988f4558tyup0o9,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2549048,Saint Lucia,13.8100762,-61.0654449,2021-02-22 00:00:00,2021-05-09 13:11:24,0,sergebiodos,A visiter,2,0,BPierrick,I agree  this is a great place to visit.
+2350886,Saint Lucia,13.9999858,-60.9852254,2020-09-16 00:00:00,2020-10-29 13:42:29,0,darranh,St Lucy's Home,7,1,BPierrick,Hi this is a home for the elderly.
+2221264,Saint Lucia,13.8614300,-61.0685900,2020-06-07 00:00:00,2020-10-29 13:29:40,0,DrWJS,Correct Spelling:  BananaQuit House.,2,0,BPierrick,Done
+2360057,Saint Lucia,13.8560974,-61.0584461,2020-09-23 00:00:00,2020-10-29 13:28:49,0,BPierrick,boulevard Street is single way from this point,2,0,BPierrick,
+1944390,Saint Lucia,13.8139767,-61.0475650,2019-09-30 00:00:00,2020-10-29 13:27:34,0,BPierrick,river crossing,2,0,BPierrick,
+803851,Saint Lucia,13.8944106,-60.9068298,2016-12-03 00:00:00,2020-10-29 13:25:29,0,Unknown,Piton,3,0,BPierrick,
+1669921,Saint Lucia,13.9021925,-60.9576416,2019-02-03 00:00:00,2020-10-29 13:25:15,0,Unknown,Charminegeorge update map now,4,0,BPierrick,
+1669916,Saint Lucia,13.9279000,-60.9576000,2019-02-03 00:00:00,2020-10-29 13:25:10,0,Unknown,Help me feed back on the open map to direct it back,5,0,BPierrick,
+963189,Saint Lucia,13.9979355,-60.9828737,2017-04-14 00:00:00,2020-10-29 13:24:49,0,Unknown,Monumental street corner,2,0,BPierrick,"Can't modify the map according to this note, not enough informations. Closing note"
+2360055,Saint Lucia,14.0059970,-61.0011870,2020-09-23 00:00:00,2020-10-29 13:23:06,0,BPierrick,Speed limit on the highway : 64km/h,2,0,BPierrick,
+963200,Saint Lucia,14.0099200,-60.9911200,2017-04-14 00:00:00,2020-10-29 13:21:11,0,Unknown,Churches Chicken,2,0,BPierrick,Outdated Closing the note
+992138,Saint Lucia,14.0966000,-60.9507000,2017-05-10 00:00:00,2020-10-29 13:20:30,0,Unknown,Royalton Hotel,2,0,BPierrick,
+2233816,Saint Lucia,14.0945161,-60.9426990,2020-06-18 00:00:00,2020-10-29 13:18:42,0,BPierrick,road called 'Immortel Drive',2,0,BPierrick,Done
+2360056,Saint Lucia,14.0463918,-60.9166215,2020-09-23 00:00:00,2020-10-29 13:16:57,0,BPierrick,from there to dauphin the road become a track,2,0,BPierrick,Done
+2019106,Saint Lucia,14.0214584,-60.9840453,2019-12-07 00:00:00,2020-10-29 13:14:47,0,BPierrick,FedEx moved north,3,0,BPierrick,
+1757635,Saint Lucia,14.0275997,-60.9842920,2019-04-25 00:00:00,2020-10-29 13:12:56,0,Unknown,George Charles airport vigie  Castries,2,0,BPierrick,The airport is present on the map. Closing the note
+2202504,Saint Lucia,13.9971000,-61.0088000,2020-05-22 00:00:00,2020-05-23 08:52:57,0,Unknown,Owen King Hospital,2,0,kartonage,to the north
+1993410,Saint Lucia,13.8325586,-60.8991158,2019-11-12 00:00:00,2020-01-21 17:33:43,0,Unknown,Fond Bay Suites and Villa Fond Bay Gardens,2,0,Syl,Already in the map
+1993440,Saint Lucia,13.8325586,-60.8991265,2019-11-12 00:00:00,2020-01-21 17:33:33,0,user_10460276,Fond Bay Suites and Villa Fond Bay Gardens,2,0,Syl,Already in the map
+2054922,Saint Lucia,14.0576764,-60.9709144,2020-01-12 00:00:00,2020-01-13 16:44:45,0,BPierrick,bois d'orange summit,2,0,BPierrick,
+1915659,Saint Lucia,14.0591859,-60.9684187,2019-09-06 00:00:00,2020-01-12 17:09:23,0,BPierrick,Cliff here,2,0,BPierrick,
+1921289,Saint Lucia,13.9354266,-61.0455614,2019-09-11 00:00:00,2020-01-12 17:09:22,0,BPierrick,View point,2,0,BPierrick,added
+1921290,Saint Lucia,13.9136724,-61.0560640,2019-09-11 00:00:00,2020-01-12 17:09:21,0,BPierrick,Plays Cassav bakery,2,0,BPierrick,
+1921288,Saint Lucia,13.9377996,-61.0440065,2019-09-11 00:00:00,2019-12-26 16:24:54,0,BPierrick,The melting pot art gallery,2,0,BPierrick,added
+1921287,Saint Lucia,13.9407178,-61.0424672,2019-09-11 00:00:00,2019-12-26 16:24:53,0,BPierrick,post office,2,0,BPierrick,added
+1921286,Saint Lucia,13.9461241,-61.0402811,2019-09-11 00:00:00,2019-12-26 16:24:52,0,BPierrick,Sol gas station,2,0,BPierrick,added
+1228860,Saint Lucia,13.9978600,-60.9832200,2017-12-05 00:00:00,2019-12-26 16:24:52,0,Unknown,Bagattele Hill,4,0,BPierrick,added
+1921283,Saint Lucia,13.9825094,-60.9976163,2019-09-11 00:00:00,2019-12-26 16:24:51,0,BPierrick,Ernesco auto parts,2,0,BPierrick,added
+1921284,Saint Lucia,13.9807826,-60.9987812,2019-09-11 00:00:00,2019-12-26 16:24:51,0,BPierrick,CPJ supermarket,2,0,BPierrick,
+1921282,Saint Lucia,13.9834689,-60.9964634,2019-09-11 00:00:00,2019-12-25 15:27:59,0,BPierrick,Escape bar,2,0,BPierrick,
+1921285,Saint Lucia,13.9564042,-61.0201615,2019-09-11 00:00:00,2019-12-25 15:27:58,0,BPierrick,st Lucia farmers market,2,0,BPierrick,
+1921278,Saint Lucia,13.9765569,-60.9780886,2019-09-11 00:00:00,2019-12-25 15:27:58,0,BPierrick,Central point Ltd cement lumber,2,0,BPierrick,
+1921280,Saint Lucia,13.9836906,-60.9901263,2019-09-11 00:00:00,2019-12-25 15:27:56,0,BPierrick,paint plus shop,2,0,BPierrick,
+1921279,Saint Lucia,13.9791525,-60.9829559,2019-09-11 00:00:00,2019-12-25 15:27:56,0,BPierrick,hot pepper restaurant and bar,2,0,BPierrick,
+1921281,Saint Lucia,13.9822938,-60.9929024,2019-09-11 00:00:00,2019-12-25 15:27:55,0,BPierrick,auto parts,2,0,BPierrick,
+1974279,Saint Lucia,14.0173311,-60.9862956,2019-10-25 00:00:00,2019-12-25 15:27:55,0,Dormir à L'aise,"Dormir à L'aise, (Orange House) Vide Boutielle Road, La Clery, Castries",2,0,BPierrick,added
+1946768,Saint Lucia,14.0772864,-60.9427714,2019-10-02 00:00:00,2019-12-25 15:27:54,0,Unknown,Holiday Riding Stables,2,0,BPierrick,added
+271996,Saint Lucia,14.0818860,-60.9621906,2014-11-17 00:00:00,2019-12-25 15:27:54,0,worthwhile,Missing water_label for Rodney Bay.,2,0,BPierrick,outdated
+507434,Saint Lucia,14.0814945,-60.9491684,2016-02-02 00:00:00,2019-12-25 15:20:15,0,LinJ,JTS Apartments,2,0,BPierrick,
+1946770,Saint Lucia,14.0902735,-60.9275150,2019-10-02 00:00:00,2019-12-25 15:19:15,0,Unknown,Marjorie's Bar,3,0,BPierrick,
+1921277,Saint Lucia,13.9843618,-60.9723541,2019-09-11 00:00:00,2019-09-11 13:35:10,0,BPierrick,Harry's arc welding,2,0,BPierrick,
+1921276,Saint Lucia,13.9894806,-60.9728238,2019-09-11 00:00:00,2019-09-11 13:33:37,0,BPierrick,Trois Piton 7th day adventist church,2,0,BPierrick,
+1921275,Saint Lucia,13.9941878,-60.9698763,2019-09-11 00:00:00,2019-09-11 13:32:50,0,BPierrick,Bay root bar,2,0,BPierrick,
+1921274,Saint Lucia,13.9918007,-60.9656239,2019-09-11 00:00:00,2019-09-11 13:30:28,0,BPierrick,gas station has been abandoned,2,0,BPierrick,
+1921273,Saint Lucia,13.9970935,-60.9505287,2019-09-11 00:00:00,2019-09-11 13:30:02,0,BPierrick,hill 20 restaurant & bar,2,0,BPierrick,
+1921272,Saint Lucia,14.0040560,-60.9453095,2019-09-11 00:00:00,2019-09-11 13:29:39,0,BPierrick,The shelter bar here,2,0,BPierrick,
+1921271,Saint Lucia,14.0052076,-60.9449519,2019-09-11 00:00:00,2019-09-11 13:29:02,0,BPierrick,Gordon's bar,2,0,BPierrick,
+1921270,Saint Lucia,14.0122957,-60.9421086,2019-09-11 00:00:00,2019-09-11 13:28:21,0,BPierrick,Sugar Ditch,2,0,BPierrick,
+1921269,Saint Lucia,14.0167027,-60.9393997,2019-09-11 00:00:00,2019-09-11 13:27:41,0,BPierrick,NJ bar and grill here,2,0,BPierrick,
+1907189,Saint Lucia,14.0191915,-60.9389520,2019-08-31 00:00:00,2019-09-11 13:26:18,0,Unknown,WASCO Water tank,2,0,BPierrick,added
+1921268,Saint Lucia,14.0362627,-60.9498599,2019-09-11 00:00:00,2019-09-11 13:24:32,0,BPierrick,Pre school here,2,0,BPierrick,
+1921267,Saint Lucia,14.0426265,-60.9581227,2019-09-11 00:00:00,2019-09-11 13:21:54,0,BPierrick,Supermarket Ultra Mart Inc here,2,0,BPierrick,
+1313114,Saint Lucia,14.0755700,-60.9460600,2018-02-28 00:00:00,2019-09-11 13:21:05,0,Unknown,Winfort Apartments,2,0,BPierrick,added
+824129,Saint Lucia,14.0914173,-60.9444179,2016-12-21 00:00:00,2019-09-11 13:19:35,0,Ysbrand Endt,This street does not exist!!!  (OSM data version: 2016-11-23T15:14:03Z) #mapsme,2,0,BPierrick,"The street is there on the most recent imagery, I'm leaving the street as it is for now"
+1051109,Saint Lucia,13.8190115,-60.9028413,2017-07-03 00:00:00,2019-08-23 15:50:39,0,poornibadrinath,Is this St John's way or Lady Miko street?,3,0,Zephgaspard,
+1864444,Saint Lucia,13.9184990,-60.8895564,2019-07-31 00:00:00,2019-07-31 14:54:53,0,Unknown,Hydrant 1,4,1,Stanio,Location not precise enough
+1864650,Saint Lucia,13.9171348,-60.8919597,2019-07-31 00:00:00,2019-07-31 14:54:07,0,Stanio,hydrant,2,0,Stanio,
+1723153,Saint Lucia,13.9981574,-60.9817658,2019-03-25 00:00:00,2019-06-14 13:11:13,0,darranh,Shabba's Bar,4,1,darranh,I added the bar on the existing building. If you have any more informations about it let me know and I will add it on the map.
+1052820,Saint Lucia,13.7972400,-60.9304440,2017-07-04 00:00:00,2019-06-13 22:13:33,0,RichRico,Desruisseaux is the name for this place? Can someone confirm and add if yes?,4,0,BPierrick,I confirm that this place is called Desruisseaux. I've added thenames of the hamlets around
+618396,Saint Lucia,13.8570299,-61.0516401,2016-07-06 00:00:00,2019-06-13 21:28:44,0,7kings Radio,this is a bar called La ja Bless (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,BPierrick,I've added the bar
+620512,Saint Lucia,13.8556861,-61.0523790,2016-07-08 00:00:00,2019-06-13 21:27:56,0,7kings Radio,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'the name has changed to Roy's Auto Electronics' (OSM data version: 2016-06-20T05:57:02Z) #mapsme",2,0,BPierrick,The place is up to date
+984932,Saint Lucia,13.7601400,-61.0234300,2017-05-04 00:00:00,2019-06-13 21:26:31,0,Chanterlina Charlery,BREEZY ISLE VILLA,2,0,BPierrick,Added
+1676341,Saint Lucia,13.7532810,-61.0200048,2019-02-09 00:00:00,2019-06-13 21:25:17,0,PaulMilton,"'the Kalime bar is across the road, last building on the left at the end of the road' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-restaurant OSM data version: 2019-01-13T09:03:02Z  #mapsme",3,0,BPierrick,
+841477,Saint Lucia,13.7323554,-60.9398800,2017-01-04 00:00:00,2019-06-13 21:23:33,0,CGeorge,Castries-Vieux Fort Highway,3,0,BPierrick,
+516566,Saint Lucia,13.7303424,-60.9528714,2016-02-20 00:00:00,2019-06-13 21:23:01,0,Ongowongo,Laborie Credit Union building is between Cost-U-Less and Morne Bakery (China Town),5,1,BPierrick,"The Laborie Credit Union is now on the map, I'm closing the ,ote"
+966733,Saint Lucia,14.0757930,-60.9533232,2017-04-17 00:00:00,2019-06-13 21:21:55,0,Unknown,Taiwanese Embassy 中華民國駐聖露西亞大使館,2,0,BPierrick,The embassy have been added
+830320,Saint Lucia,14.0914173,-60.9444179,2016-12-27 00:00:00,2019-06-13 21:20:12,0,Ysbrand Endt,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'this part does not exist yet' (OSM data version: 2016-11-23T15:14:03Z) #mapsme",2,0,BPierrick,
+1313121,Saint Lucia,14.0799000,-60.9477600,2018-02-28 00:00:00,2019-06-13 21:19:25,0,Unknown,St Lucia National Car Rental Services,2,0,BPierrick,
+1313117,Saint Lucia,14.0730300,-60.9377500,2018-02-28 00:00:00,2019-06-13 21:18:40,0,Unknown,Beausejour Garden Drive,2,0,BPierrick,
+519366,Saint Lucia,14.0299287,-60.9467357,2016-02-26 00:00:00,2019-06-13 21:18:10,0,Kryptonite HD,Regis Lane,4,1,BPierrick,
+963188,Saint Lucia,13.9983020,-60.9821194,2017-04-14 00:00:00,2019-06-13 21:11:51,0,Unknown,Monumental tree,2,0,BPierrick,Tree added on the map
+1107888,Saint Lucia,14.0056321,-60.9803456,2017-08-17 00:00:00,2019-06-13 21:10:55,0,Davis Lake,'United Pentecostal Church' POI has no name POI types: building OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,BPierrick,Added
+514890,Saint Lucia,14.0085715,-60.9879667,2016-02-17 00:00:00,2019-06-13 21:09:54,0,Unknown,St Lucia Hospitality Industry Workers Credit Co-Operative Society Ltd,8,0,BPierrick,Added
+963199,Saint Lucia,14.0099600,-60.9914600,2017-04-14 00:00:00,2019-06-13 21:08:08,0,Unknown,Courts Saint Lucia,2,0,BPierrick,Already on the map
+520878,Saint Lucia,14.0170149,-60.9891344,2016-02-29 00:00:00,2019-06-13 21:07:11,0,375crispin,St lucia National Housing Corp. NHC Office,3,0,BPierrick,"Added, if you have any more informations (opening time, phone ...) let me know and I will add it on the map"
+943984,Saint Lucia,14.0196889,-60.9886953,2017-03-28 00:00:00,2019-06-13 21:04:50,0,Pyck 972,Dolcy's Candy and Soda shop (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,BPierrick,Added
+1320883,Saint Lucia,14.0222500,-60.9983300,2018-03-08 00:00:00,2019-06-13 21:03:36,0,Unknown,CARE Headquarters,2,0,BPierrick,I added the CARE Headquarters
+1585128,Saint Lucia,13.9433361,-61.0361061,2018-11-09 00:00:00,2019-06-13 21:00:06,0,Anto2254,"'ceci est l'emplacement exact du tropical paradise view de sainte-lucie. l'emplacement de cet établissement édité par booking n'est pas le bon, nous avons évité de peu un accident car il nous mène à travers bois...' POI name: Tropical paradise view POI types: tourism-guest_house OSM data version: 2018-09-11T19:10:03Z  #mapsme",2,0,BPierrick,L'emplacement sur OpenStreetMap est correct. Malheureusement Booking utilise GoogleMap qui n'est pas du tout fiable à Sainte Lucie.
+502089,Saint Lucia,13.9106937,-60.8891326,2016-01-21 00:00:00,2019-06-13 20:55:59,0,Unknown,St. Peter's Street. Ma Broad lives here.,3,0,BPierrick,
+1775761,Saint Lucia,13.7514098,-60.9898713,2019-05-11 00:00:00,2019-05-12 04:38:21,0,Unknown,<,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1672767,Saint Lucia,13.9664000,-61.0236000,2019-02-06 00:00:00,2019-05-06 17:20:30,0,Unknown,The zip code for castries,2,0,freebeer,no info
+1669925,Saint Lucia,14.0010347,-60.9669113,2019-02-03 00:00:00,2019-05-06 17:17:48,0,Unknown,Where is Castries located,2,0,freebeer,no info
+1670255,Saint Lucia,13.9279000,-60.9576000,2019-02-03 00:00:00,2019-05-06 17:17:17,0,Unknown,Where the location for Castries on the mark dot,2,0,freebeer,no info
+1675593,Saint Lucia,14.0089000,-60.9970000,2019-02-09 00:00:00,2019-05-06 17:14:45,0,Unknown,Why Castries has not update,2,0,freebeer,no info
+1688269,Saint Lucia,14.0103000,-61.0016000,2019-02-21 00:00:00,2019-05-06 17:14:07,0,Unknown,Where is hospital road location located I need to direct this path please,2,0,freebeer,no info
+963192,Saint Lucia,14.0091800,-60.9908100,2017-04-14 00:00:00,2019-04-16 09:03:32,0,Unknown,Derek walcott square statue,2,0,47NOE,Added
+1669583,Saint Lucia,13.9277359,-60.9576416,2019-02-03 00:00:00,2019-02-03 04:50:42,0,Unknown,1669582,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1669582,Saint Lucia,13.9279000,-60.9576000,2019-02-03 00:00:00,2019-02-03 04:50:31,0,Unknown,I  I want the map direction,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+963201,Saint Lucia,14.0099200,-60.9909000,2017-04-14 00:00:00,2018-10-26 12:16:19,0,Unknown,Central smiles,2,0,freebeer,on the map
+1550134,Saint Lucia,14.0208039,-60.9869159,2018-10-04 00:00:00,2018-10-26 12:05:48,0,eMagine,"eMagine Solutions Inc.  eMagine Solutions Inc. is a Caribbean web design and development company based on the island of St Lucia that provides professional website design and development solutions, search engine optimization (SEO), prepackaged web-based applications, completely custom application development and custom database systems.",2,0,freebeer,no mapping info
+1294511,Saint Lucia,13.7478527,-60.9960374,2018-02-10 00:00:00,2018-02-10 01:51:33,0,Sunset Lane,Sunset Lane,8,1,Sunset Lane,Local Guest House
+520519,Saint Lucia,14.0717895,-60.9456501,2016-02-28 00:00:00,2017-12-27 11:55:28,0,Unknown,Main Bonneterre Road,2,0,Tiamate,outdated note
+1055007,Saint Lucia,13.9425146,-61.0374839,2017-07-06 00:00:00,2017-11-28 20:40:32,0,Al Sadler,'See page 177 of the Windward Islands Guide book' POI has no name POI types: psurface-paved_good highway-residential OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,freebeer,no useful mapping info
+1193570,Saint Lucia,13.9404489,-61.0415928,2017-11-02 00:00:00,2017-11-28 20:40:09,0,SHELLOBOSS,Junny come and see that,3,0,freebeer,no useful mapping info
+1193282,Saint Lucia,13.9402707,-61.0419112,2017-11-02 00:00:00,2017-11-28 20:39:51,0,ballotpopo,This is where all the sporting activities are played,7,1,freebeer,on the map
+1213943,Saint Lucia,13.8283345,-61.0617337,2017-11-22 00:00:00,2017-11-28 20:37:34,0,Laure Jeremie,"'It seems very hard to find good food in St Lucia. The Bayside restaurant offers quite good food compared to most restaurants we tried so far but the price is totally over rated! The place is definitely very nice, but paying $20 for a watermelon salad (as you can see on the picture) while the burger was for $23, even if the goat cheese was very good, it really doesn't justify the price. The cheesecake was just ok as well as the Caribbean coffee. I personally wouldn't recommend them.' POI name: Bayside restaurant POI types: amenity-restaurant internet_access-wlan OSM data version: 2017-10-20T12:20:02Z  #mapsme",2,0,freebeer,personal maps.me bookmark
+1193369,Saint Lucia,14.0086800,-60.9868200,2017-11-02 00:00:00,2017-11-02 15:57:25,0,Trooper6747,Brown's house,2,0,Trooper6747,
+963197,Saint Lucia,14.0093400,-60.9913300,2017-04-14 00:00:00,2017-09-20 12:16:21,0,Unknown,Johnsons Hardware,2,0,freebeer,on the map
+963193,Saint Lucia,14.0093400,-60.9911300,2017-04-14 00:00:00,2017-09-20 12:16:08,0,Unknown,RBC Royal Bank,2,0,freebeer,on the map
+963195,Saint Lucia,14.0093300,-60.9907100,2017-04-14 00:00:00,2017-09-20 12:15:46,0,Unknown,Kimlans Restaurant,2,0,freebeer,on the map
+963203,Saint Lucia,14.0098600,-60.9906200,2017-04-14 00:00:00,2017-09-20 12:15:16,0,Unknown,Voyager,2,0,freebeer,on the map
+963202,Saint Lucia,14.0098900,-60.9907500,2017-04-14 00:00:00,2017-09-20 12:15:00,0,Unknown,Raj,2,0,freebeer,on the map
+963194,Saint Lucia,14.0093500,-60.9909400,2017-04-14 00:00:00,2017-09-20 12:14:30,0,Unknown,Elenas Ice cream,2,0,freebeer,on the map
+963198,Saint Lucia,14.0094000,-60.9915100,2017-04-14 00:00:00,2017-09-20 12:14:14,0,Unknown,Blue coral mall,2,0,freebeer,on the map
+963196,Saint Lucia,14.0093100,-60.9905500,2017-04-14 00:00:00,2017-09-20 12:13:55,0,Unknown,Hobbies,2,0,freebeer,on the map
+963191,Saint Lucia,14.0083500,-60.9910600,2017-04-14 00:00:00,2017-09-20 12:13:36,0,Unknown,Clico building,2,0,freebeer,on the map
+963190,Saint Lucia,14.0084300,-60.9908000,2017-04-14 00:00:00,2017-09-20 12:13:20,0,Unknown,Brazil street,2,0,freebeer,on the map
+1074974,Saint Lucia,14.0193760,-60.9792199,2017-07-22 00:00:00,2017-09-20 12:11:27,0,vo lo,'Peter marcelous went to school together with me.' POI name: Active Hill POI types: highway-residential OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,freebeer,no useful mapping info
+1074973,Saint Lucia,14.0326468,-60.9679404,2017-07-22 00:00:00,2017-09-20 12:11:02,0,vo lo,'We are well received the people are kind.' POI name: Rituals Coffee POI types: internet_access-wlan amenity-cafe OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,freebeer,on the map
+502087,Saint Lucia,13.9111259,-60.8889878,2016-01-21 00:00:00,2017-09-20 12:08:58,0,Unknown,Victoria Street/Church Street,2,0,freebeer,on the map
+520833,Saint Lucia,13.7462009,-60.9835517,2016-02-29 00:00:00,2017-09-20 12:05:58,0,hunterc,Black bay river,2,0,freebeer,on the map
+943983,Saint Lucia,14.0196889,-60.9886953,2017-03-28 00:00:00,2017-05-27 19:24:38,0,Pyck 972,Dolcy's home (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,TheDutchMan13,
+833876,Saint Lucia,13.7454481,-60.9765386,2016-12-29 00:00:00,2017-05-27 19:04:43,0,Sunildat Gurudat,home (OSM data version: 2016-11-23T15:14:03Z) #mapsme,2,0,TheDutchMan13,
+984940,Saint Lucia,13.7601249,-61.0234281,2017-05-04 00:00:00,2017-05-04 02:09:42,0,Chanterlina Charlery,BREEZY ISLE VILLA,2,0,Chanterlina Charlery,
+984933,Saint Lucia,13.7601400,-61.0234300,2017-05-04 00:00:00,2017-05-04 02:08:00,0,Chanterlina Charlery,BREEZY ISLE VILLA,4,1,Chanterlina Charlery,BREEZY ISLE VILLA
+984929,Saint Lucia,13.7591300,-61.0227500,2017-05-04 00:00:00,2017-05-04 02:06:42,0,Chanterlina Charlery,BREEZY ISLE COTTAGE,2,0,Chanterlina Charlery,
+502088,Saint Lucia,13.9105375,-60.8892614,2016-01-21 00:00:00,2016-10-15 12:40:07,0,Unknown,High Street. Main Artery running through the community.,2,0,davidmguest,
+516560,Saint Lucia,14.0575155,-60.9666243,2016-02-20 00:00:00,2016-08-21 19:06:30,0,Unknown,Jehovah Witness Kingdom Hall,2,0,davidmguest,
+516561,Saint Lucia,14.0546612,-60.9636176,2016-02-20 00:00:00,2016-08-21 19:06:14,0,Unknown,Hairdressing Saloon,2,0,davidmguest,
+516562,Saint Lucia,14.0556916,-60.9643471,2016-02-20 00:00:00,2016-08-21 19:06:01,0,Unknown,Laurel's Restuarant,2,0,davidmguest,
+521531,Saint Lucia,13.8527681,-61.0583425,2016-03-01 00:00:00,2016-08-21 19:02:35,0,Unknown,bridge street,3,0,davidmguest,
+516563,Saint Lucia,13.7276712,-60.9558784,2016-02-20 00:00:00,2016-08-21 19:01:46,0,Ongowongo,Derek Walcott Street extends East to meet Belvedere Street,3,0,davidmguest,
+524449,Saint Lucia,14.0043971,-60.9870172,2016-03-07 00:00:00,2016-03-07 19:50:54,0,moonlight69,Arthur's Supermarket,2,0,moonlight69,
+520880,Saint Lucia,14.0765287,-60.9380818,2016-02-29 00:00:00,2016-02-29 18:17:04,0,375crispin,Openspace for Beausejour Terrace phase 1,2,0,375crispin,
+482878,Saint Lucia,14.0184059,-60.9830802,2015-12-14 00:00:00,2016-02-29 18:05:25,0,saikabhi,Can anyone please confirm if the area is called 'La Clery' and perhaps map the area? Thank you.,4,1,375crispin,Yes it is la clery
+518416,Saint Lucia,14.0194884,-60.9980866,2016-02-24 00:00:00,2016-02-24 12:28:21,0,SLUhistorygirl,National Archives Authority of Saint Lucia: National Genealogical Center,4,1,SLUhistorygirl,
+516568,Saint Lucia,14.0002955,-60.9862179,2016-02-21 00:00:00,2016-02-21 01:05:04,0,gabbii,there is a road connecting Arundel Hil to Bishop's Gap,4,1,gabbii,
+514477,Saint Lucia,14.0136149,-60.9903109,2016-02-17 00:00:00,2016-02-17 02:29:22,0,shoneslu,Heraldine Rock Building,2,0,shoneslu,
+514468,Saint Lucia,14.0152258,-60.9398317,2016-02-17 00:00:00,2016-02-17 01:39:09,0,Andrea Jojo,#MapSaintLucia Restaurant & Bar,2,0,Andrea Jojo,
+514467,Saint Lucia,14.0119546,-60.9187013,2016-02-17 00:00:00,2016-02-17 01:36:31,0,Andrea Jojo,#MapSaintLucia Boguis R C Primary School,2,0,Andrea Jojo,
+514466,Saint Lucia,14.0213152,-60.9293067,2016-02-17 00:00:00,2016-02-17 01:34:51,0,Andrea Jojo,#MapSaintLucia Old Laguerre Combined School,2,0,Andrea Jojo,
+514465,Saint Lucia,14.0216119,-60.9320050,2016-02-17 00:00:00,2016-02-17 01:17:21,0,Andrea Jojo,#MapSaintLucia  Laguerre Health Centre,2,0,Andrea Jojo,
+514453,Saint Lucia,14.0125011,-60.9421358,2016-02-17 00:00:00,2016-02-17 01:15:22,0,Andrea Jojo,"La Croix, Chaubaugh",4,1,Andrea Jojo,"#MapSaintLucia La Croix, Chaubaugh"
+514457,Saint Lucia,14.0186323,-60.9391826,2016-02-17 00:00:00,2016-02-17 01:14:39,0,Andrea Jojo,Paix Bouche,4,1,Andrea Jojo,#MapSaintLucia Paix Bouche
+514458,Saint Lucia,14.0213230,-60.9300444,2016-02-17 00:00:00,2016-02-17 01:14:00,0,Andrea Jojo,La Guerre,4,1,Andrea Jojo,#MapSaintLucia Laguerre
+504274,Saint Lucia,14.0024504,-60.9834713,2016-01-26 00:00:00,2016-01-26 20:14:13,0,Zena Sookwa-Alcindor,Gus Mart Supermarket,2,0,Zena Sookwa-Alcindor,
+504271,Saint Lucia,13.9905489,-61.0094056,2016-01-26 00:00:00,2016-01-26 20:01:01,0,Zena Sookwa-Alcindor,Ciceron Combined School,2,0,Zena Sookwa-Alcindor,
+504270,Saint Lucia,13.9926804,-61.0074180,2016-01-26 00:00:00,2016-01-26 19:59:55,0,Zena Sookwa-Alcindor,Ciceron SDA Church,2,0,Zena Sookwa-Alcindor,
+504269,Saint Lucia,13.9951112,-61.0123801,2016-01-26 00:00:00,2016-01-26 19:59:42,0,Zena Sookwa-Alcindor,Millenium Gas Station,2,0,Zena Sookwa-Alcindor,
+504264,Saint Lucia,14.0016437,-60.9806684,2016-01-26 00:00:00,2016-01-26 19:48:46,0,Zena Sookwa-Alcindor,Entrepot Community Court,4,1,Zena Sookwa-Alcindor,
+501049,Saint Lucia,13.7683399,-60.9795778,2016-01-20 00:00:00,2016-01-20 06:00:20,0,KennyBakie,"Augier Road, Augier",2,0,KennyBakie,
+501045,Saint Lucia,13.7678900,-60.9776411,2016-01-20 00:00:00,2016-01-20 05:56:55,0,Unknown,"Derriere Bois Road, Augier",4,1,KennyBakie,"Derriere Bois Road, Augier"
+185289,Saint Lucia,13.9268195,-60.9672546,2014-06-17 00:00:00,2014-10-21 03:54:36,0,Unknown,dfgfsdg,2,0,Prince Kassad,

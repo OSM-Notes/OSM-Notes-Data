@@ -1,0 +1,6 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3957435,Niuē,-18.9807456,-169.8822409,2023-10-25 00:00:00,2024-08-05 10:18:52,0,Unknown,Maybe a ruined house? i saw it on street view and it appears that nature has taken over it. Correct me of i'm wrong.,3,0,s777n,Doesnt look abandoned to me too. Anonymous note and there is no answer so it should be fine to resolve.
+2973445,Niuē,-19.0529100,-169.9199152,2021-12-17 00:00:00,2022-03-10 14:41:38,0,kazuh,"Alofi, Niue",2,0,Erin76,already tagged as such
+2756009,Niuē,-19.0679080,-169.8600912,2021-07-15 00:00:00,2021-07-15 14:07:50,0,Unknown,Niue,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+1123373,Niuē,-19.0731504,-169.9173403,2017-09-01 00:00:00,2019-01-02 16:00:48,0,Unknown,senter sateron,3,0,ent8r,Closing because there is no answer...

@@ -1,0 +1,18 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4265964,Türkiye,39.8900326,32.6994243,2024-05-26 00:00:00,2026-04-23 22:32:54,697,zcatav,'This street is now open to two-way traffic.' OSM snapshot date: 2024-04-29T02:50:07Z POI name: 2518. Cd. POI types: hwtag-oneway highway-residential  #organicmaps android,2,0,augil,
+5223854,Türkiye,39.9091711,32.7043775,2026-03-29 00:00:00,2026-04-23 22:31:03,25,augil,Bina bütün yerleşkeyi kaplamamalı,3,1,augil,
+4986562,Türkiye,37.0351021,27.4152955,2025-10-01 00:00:00,2026-04-23 18:52:32,204,Unknown,RUBYS PİZZERİA BODRUM,3,1,Unknown,
+4609338,Türkiye,36.5896286,31.8624387,2025-01-31 00:00:00,2026-04-23 10:45:24,447,Shoorick,bus stop  #OsmAnd,3,1,Unknown,
+2922112,Türkiye,40.9351400,29.2173900,2021-11-04 00:00:00,2026-04-22 13:57:25,1630,Mrtsygi,Özgün Sitesi 9F  Blok,2,0,burakonder,Bina yıkıldığı için not kapatılmıştır.
+5254584,Türkiye,38.5708161,43.2633505,2026-04-18 00:00:00,2026-04-21 09:16:57,3,m_p_13,roads  #OsmAnd,2,0,m_p_13,
+1703069,Türkiye,41.0359553,28.8470522,2019-03-07 00:00:00,2026-04-20 13:06:44,2601,oldenough4,Yavuz Selim Cami (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Seyfettin033,"ok, added name"
+5258240,Türkiye,41.2177927,32.6570240,2026-04-20 00:00:00,2026-04-20 12:11:19,0,Unknown,bu adres karabükte bulunan karakoç erkek öğrenci yurdudur,3,1,Unknown,
+5242700,Türkiye,39.9232386,32.8402396,2026-04-09 00:00:00,2026-04-20 10:39:32,11,murattas6,'red bisiklet (11:00-18:00 pazar kapalı) ata sokak no:10' OSM snapshot date: 2026-03-10T00:09:11Z POI has no name POI types: amenity-bicycle_repair_station  #organicmaps android 2026.03.11-12-Google,2,0,murattas6,Eklenmiştir
+2957090,Türkiye,38.5074592,26.6306554,2021-12-02 00:00:00,2026-04-19 20:40:39,1599,sorcun,470  SOKAK tabelası Doğu-Batı yönünde  via StreetComplete 37.2  Attached photo(s): https://westnordost.de/p/71180.jpg,3,0,sorcun,
+5257571,Türkiye,38.5136917,27.9295528,2026-04-19 00:00:00,2026-04-19 19:40:50,0,Unknown,CEMAL AYDEPE EV,2,0,Unknown,
+5257220,Türkiye,38.5143927,27.9355931,2026-04-19 00:00:00,2026-04-19 15:39:14,0,Unknown,FERDİ ZEYREK PARKI,4,1,Unknown,AHMETLİ BELEDİYESİ FERDİ ZEYREK PARKI
+5257222,Türkiye,38.5130411,27.9337531,2026-04-19 00:00:00,2026-04-19 15:38:52,0,Unknown,ÇAMLIK PARKI AHMETLİ BELEDİYESİ,2,0,Unknown,
+5257221,Türkiye,38.5139562,27.9259157,2026-04-19 00:00:00,2026-04-19 15:37:23,0,Unknown,AHMETLİ BELEDİYESİ GARAJ,2,0,Unknown,
+5257214,Türkiye,38.5186109,27.9383907,2026-04-19 00:00:00,2026-04-19 15:34:13,0,Unknown,AHMETLİ BELEDİYESİ,2,0,Unknown,
+5257208,Türkiye,38.5212593,27.9370227,2026-04-19 00:00:00,2026-04-19 15:32:07,0,Unknown,İHSAN EV KONUMU,4,1,Unknown,

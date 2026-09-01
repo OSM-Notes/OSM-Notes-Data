@@ -1,0 +1,34 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5255680,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.5329936,-4.6301798,2026-04-18 00:00:00,2026-04-24 00:18:23,6,Mohamed mkm,المرجوا إضافة فئة متجر مواد غذائية   #organicmaps android 2026.04.07-8-Google,2,0,Mohamed mkm,
+5249389,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.5329917,-4.6301941,2026-04-14 00:00:00,2026-04-24 00:18:14,10,Mohamed mkm,متجر المواد الغذائيه   #organicmaps android 2026.04.07-8-Google,2,0,Mohamed mkm,
+5262180,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,29.6888823,-9.7430652,2026-04-23 00:00:00,2026-04-23 08:59:06,0,Nkin,Chez moi Sad,6,1,Nkin,
+5261500,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,32.7776217,-6.3895583,2026-04-22 00:00:00,2026-04-22 17:40:30,0,Unknown,Aliminuim,4,1,Unknown,
+4095730,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,32.7790032,-6.3963765,2024-02-01 00:00:00,2026-04-22 17:25:10,811,PNEU EL MANSOUR,PNEU EL MANSOUR,2,0,Unknown,
+5261485,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,33.9893099,-6.8620992,2026-04-22 00:00:00,2026-04-22 17:04:21,0,Nkin,الموارد البشرية لوزارة التربية الوطنية,3,1,Nkin,
+5261470,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,33.9888030,-6.8622170,2026-04-22 00:00:00,2026-04-22 16:58:30,0,Nkin,الموارد البشرية لوزارة التربية الوطنية,6,1,Nkin,
+5260634,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,31.6326157,-7.9850918,2026-04-22 00:00:00,2026-04-22 07:20:01,0,Unknown,"Le Palais Aix Kabaj est situé a Hart Soura Trik Sidi Bouharba,N°14 Medina, Marrakech",2,0,Unknown,Positionnement rectifié et maintenant correct du numéro 14 Sidi Bouharba
+4312047,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,33.5683800,-7.6259700,2024-06-28 00:00:00,2026-04-22 01:16:53,663,ParoMed,"Hotel, Courtyard by Marriott",6,1,ilias_,ajouté
+5249388,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.5240358,-4.6443498,2026-04-14 00:00:00,2026-04-21 20:41:34,7,Mohamed mkm,​معهد التكنولوجيا التطبيقية (OFPPT) - تاونات  #organicmaps android 2026.04.07-8-Google,2,0,Mohamed mkm,
+5254475,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.5216859,-4.6444483,2026-04-17 00:00:00,2026-04-21 20:41:19,4,Mohamed mkm,مسجد mosquée   #organicmaps android 2026.04.07-8-Google,2,0,Mohamed mkm,
+954183,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,33.5878167,-7.6112214,2017-04-06 00:00:00,2026-04-21 20:10:00,3302,mouslime,tomobil (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,ilias_,lay hdik
+2550449,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,33.6012443,-7.6340162,2021-02-23 00:00:00,2026-04-21 20:06:56,1883,Evren COMERT,"'Closed due to pandemia' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: le petit pêcheur POI types: cuisine-fish amenity-restaurant cuisine-seafood OSM data version: 2021-02-01T11:34:17Z  #mapsme",2,0,ilias_,already removed
+814513,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,33.5938882,-7.6367211,2016-12-13 00:00:00,2026-04-21 20:01:03,3416,l'esprit maison papier peint,l'esprit maison angle bd ziraoui et rue taounate,2,0,ilias_,ajouté
+4872826,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,33.5831160,-7.6502850,2025-07-24 00:00:00,2026-04-21 19:58:30,271,z28_salah,N'est pas disponible sur la localisation des applications Meta,2,0,ilias_,Alors merci de signaler cela chez meta
+2682237,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,33.5852122,-7.6469216,2021-05-23 00:00:00,2026-04-21 19:57:46,1794,ccarton,Carrefour Market,3,0,ilias_,added
+2681745,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,33.5855577,-7.6478892,2021-05-23 00:00:00,2026-04-21 19:56:53,1794,sambenjj2,Il y a un supermarché Carrefour,4,1,ilias_,ajouté
+5152227,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.0604240,-4.9827670,2026-02-02 00:00:00,2026-04-21 14:42:04,78,Unknown,musee batha,2,0,RandomMappppist,Here : https://www.openstreetmap.org/node/1721711295
+5044412,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.0588873,-4.9771540,2025-11-09 00:00:00,2026-04-21 14:41:22,163,Robonamino,'Abdou ' OSM snapshot date: 2025-10-21T03:35:21Z POI name: Palais el Glaoui POI types: historic-monument  #organicmaps ios 2025.10.23-22-ios,2,0,RandomMappppist,Palace was already here : https://www.openstreetmap.org/node/2312523477
+5212685,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.0583013,-4.9758884,2026-03-20 00:00:00,2026-04-21 14:38:31,32,The Thirsty Traveler,'Staying here now. ' OSM snapshot date: 2026-02-16T20:35:12Z POI name: Palais Houyam POI types: tourism-hotel  #organicmaps ios 2026.03.11-12-ios,2,0,RandomMappppist,"Thanks for adding it, I can resolved the note?"
+5152253,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.0638100,-4.9764930,2026-02-02 00:00:00,2026-04-21 14:37:37,78,Unknown,Musée Dar Belghazi,2,0,RandomMappppist,Il y était deja https://www.openstreetmap.org/node/4925278169
+5152244,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.0648099,-4.9759416,2026-02-02 00:00:00,2026-04-21 14:36:55,78,Unknown,Musée Nejjarine,2,0,RandomMappppist,musée Nejjarine est aussi connu sous le nom de Fondouk al-Najjariyyin
+5028563,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.0683226,-4.9694865,2025-10-29 00:00:00,2026-04-21 14:33:51,174,philt3ren,There is a parking here  via StreetComplete 61.3,2,0,RandomMappppist,The parking was added
+5152256,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.0673740,-4.9848960,2026-02-02 00:00:00,2026-04-21 14:31:05,78,Unknown,Musée Borj Nord,2,0,RandomMappppist,Fixed https://www.openstreetmap.org/way/468305418/history#map=19/34.067270/-4.984891&layers=PN
+5254464,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.5553863,-4.6300273,2026-04-17 00:00:00,2026-04-19 08:45:16,2,Mohamed mkm,المرجوا إضافة محطة الوقود shell في عدا الموقع   #organicmaps android 2026.04.07-8-Google,2,0,Mohamed mkm,
+5250414,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.5339490,-4.6319410,2026-04-14 00:00:00,2026-04-19 08:29:37,5,Mohamed mkm,مقبرة الرحمة  #organicmaps android 2026.04.07-8-Google,2,0,Mohamed mkm,
+5253048,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.5336481,-4.6361245,2026-04-16 00:00:00,2026-04-19 08:27:57,3,Mohamed mkm,مسجد الدمنة  mosquée demna  #organicmaps android 2026.04.07-8-Google,2,0,Mohamed mkm,
+5250412,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.5389174,-4.6370217,2026-04-14 00:00:00,2026-04-19 08:27:37,5,Mohamed mkm,CTM  #organicmaps android 2026.04.07-8-Google,2,0,Mohamed mkm,
+5250413,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.5375256,-4.6384440,2026-04-14 00:00:00,2026-04-19 08:27:27,5,Mohamed mkm,poste maroc  #organicmaps android 2026.04.07-8-Google,3,0,Mohamed mkm,
+5253046,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.5366391,-4.6380921,2026-04-16 00:00:00,2026-04-19 08:26:12,3,Mohamed mkm,cih bank  #organicmaps android 2026.04.07-8-Google,2,0,Mohamed mkm,
+5249862,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.5225342,-4.6441660,2026-04-14 00:00:00,2026-04-19 07:36:53,5,Mohamed mkm,المسجد الكبير تاونات   #organicmaps android 2026.04.07-8-Google,2,0,Mohamed mkm,
+5254716,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,34.6670334,-1.8991515,2026-04-18 00:00:00,2026-04-19 07:31:21,1,Unknown,ip105.76.166.178,2,0,mavl,This note does not contain a useful information for OpenStreetMap.

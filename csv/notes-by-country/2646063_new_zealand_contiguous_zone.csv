@@ -1,0 +1,3 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1312811,New Zealand (Contiguous Zone),-39.3509950,177.3658910,2018-02-28 00:00:00,2018-03-06 07:54:02,0,Andreas Hippe,"'the offical name is 'cape kidnappers walking track' (department of conservation). furthermore, i would add the information that it is only possible to do the track during low tide.' POI name: Hawke's Bay POI types: natural-bay OSM data version: 2018-01-26T12:04:02Z  #mapsme",6,1,Andreas Hippe,i see. thx for the information. i'll do so ;-)

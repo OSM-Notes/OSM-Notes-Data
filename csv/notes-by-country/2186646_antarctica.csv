@@ -1,0 +1,37 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5093263,Antarctica,-84.9389418,139.5288949,2025-12-16 00:00:00,2025-12-16 09:07:56,0,Unknown,Myanmar  #LocusMap,3,0,pitscheplatsch,
+5091767,Antarctica,-76.3127200,-112.1202100,2025-12-14 00:00:00,2025-12-14 23:59:22,0,KM16,MILLER,3,0,KM16,
+5091746,Antarctica,-74.3790617,-132.5419807,2025-12-14 00:00:00,2025-12-14 23:18:57,0,KM16,LOCKETT ISLAND,15,1,KM16,Small island known as Lockett Island
+5077533,Antarctica,-84.2814364,33.8878924,2025-12-03 00:00:00,2025-12-03 16:08:05,0,Unknown,Nankana Bangla sahib 03044827730,3,0,pitscheplatsch,#spam
+5032671,Antarctica,-70.7410415,-105.2824943,2025-11-01 00:00:00,2025-11-01 16:07:39,0,Unknown,Myanmar,3,0,pitscheplatsch,
+5031924,Antarctica,-84.2074100,10.0282570,2025-10-31 00:00:00,2025-10-31 22:46:12,0,JosVar18,Prueba de subir nota de texto,3,0,JosVar18,
+5031925,Antarctica,-84.2074100,10.0282570,2025-10-31 00:00:00,2025-10-31 22:46:03,0,JosVar18,Prueba de subir nota de texto,2,0,NeisBot,"This note has the identical location and text  as note https://osm.org/note/5031924  Therefore, it will be closed.  #DuplicateNote"
+5025409,Antarctica,-77.8007517,0.4323176,2025-10-27 00:00:00,2025-10-27 20:03:34,0,Unknown,Base sous terraine usa missile nucléaire 90 m secrete           C     C'est une farce un,3,0,pitscheplatsch,ciao
+4751310,Antarctica,-78.8363377,-137.3036098,2025-05-10 00:00:00,2025-05-11 07:14:23,0,Unknown,Yass,2,0,kmpoppe,Nonsense note
+4718919,Antarctica,-70.4506896,-104.2958726,2025-04-20 00:00:00,2025-05-07 21:20:21,0,Geovelo_Notes,Cayenne remire montjoly (This note has been created from Geovelo: https://amenagements-cyclables.fr/fr/contributions/90238),2,0,K12230LF,Note mal positionnée
+4657735,Antarctica,-78.2400000,-147.0400000,2025-03-09 00:00:00,2025-03-09 16:48:26,0,Unknown,"s sapien, feugiat id metus ac, aliquet egestas augue. Praesent lacinia neque ut odio ullamcorper, sit amet pellentesque lorem porttitor. Duis ornare tortor quis dapibus varius. Fusce ullamcorper sodales imperdiet. Aenean rutrum porttitor luctus.  Aliquam",3,0,Taya_S,Closing nonsense Lorem Ipsum spam note
+4568268,Antarctica,-73.8248203,-143.2962006,2024-12-29 00:00:00,2024-12-30 13:05:04,0,Geovelo_Notes,Bruxelles (This note has been created from Geovelo: https://amenagements-cyclables.fr/fr/contributions/84436),7,1,pitscheplatsch,Great!
+4400367,Antarctica,-85.0277124,-138.0063272,2024-08-24 00:00:00,2024-08-24 15:31:41,0,Unknown,The location is Northwood IA,3,0,pitscheplatsch,misplaced
+4319508,Antarctica,-85.0276014,-138.0442429,2024-07-05 00:00:00,2024-07-05 05:39:17,0,Unknown,By Northwood IA,3,0,pitscheplatsch,Misplaced
+4319150,Antarctica,-85.0265156,-138.0441839,2024-07-04 00:00:00,2024-07-04 21:03:06,0,Unknown,Address is Northwood,3,0,pitscheplatsch,misplaced
+3949584,Antarctica,-78.4781000,136.3309000,2023-10-20 00:00:00,2024-04-28 16:38:30,0,Oleksandrovna,×⅙,4,1,sheikchilli,unclear/spam/personal note
+3639332,Antarctica,-77.1454432,-125.9290695,2023-04-12 00:00:00,2024-03-01 00:53:50,0,Unknown,Рыльск,3,0,snoozingnewt,unclear
+3848121,Antarctica,-66.6609695,140.0089073,2023-08-22 00:00:00,2024-02-17 16:51:29,0,Unknown,Cette voie de circulation n'existe qu'en hiver quand la banquise est formée et solide,2,0,Syl,Cette information est déjà présente : https://www.openstreetmap.org/way/1151618828
+3848120,Antarctica,-66.6733098,139.9930286,2023-08-22 00:00:00,2024-02-17 16:50:52,0,Unknown,Cette voie de circulation n'existe qu'en hiver quand la banquise est formée et solide.,2,0,Syl,Cette information est déjà présente : https://www.openstreetmap.org/way/187792383
+3949575,Antarctica,-78.4748130,136.4967266,2023-10-20 00:00:00,2023-11-05 19:24:50,0,Oleksandrovna,'=is the×½was/ 67⁶⁷p⁴3y⁸ ⁶,2,0,confusedbuffalo,
+3879935,Antarctica,-72.9487000,-104.9991000,2023-09-09 00:00:00,2023-09-19 21:34:23,0,Unknown,This is the country of Antlant!!!,2,0,TrickyFoxy,
+3643224,Antarctica,-74.7212828,-102.6499844,2023-04-15 00:00:00,2023-07-09 08:52:48,0,Sibert,Where are you ?,4,1,Syl,No useful information for OpenStreetMap
+3643231,Antarctica,-73.6947197,-113.6127090,2023-04-15 00:00:00,2023-07-09 08:52:45,0,Sibert,Where are you ? What’s your number so I can call you ?,2,0,Syl,No useful information for OpenStreetMap
+3660100,Antarctica,-74.7473505,-140.3160954,2023-04-25 00:00:00,2023-07-09 08:49:29,0,Unknown,"Cruzen Island is an AMAZING tourist destination, there is little contamination and you will never die from the sun’s heat.",2,0,Syl,Already in the database
+3731474,Antarctica,-76.0452700,-136.0696800,2023-06-12 00:00:00,2023-06-12 04:53:51,0,SteakTraps (Roblox),"Mount Berlin, Antarctica (Volcano)",3,0,SteakTraps (Roblox),
+3206167,Antarctica,-63.0898017,-112.1308663,2022-06-02 00:00:00,2022-06-02 06:54:24,0,Unknown,Middle of nowhere! Also probably the final resting place of the ISS when it's deorbited.,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+3088836,Antarctica,-71.9873900,-99.0822601,2022-03-15 00:00:00,2022-03-16 01:51:42,0,Unknown,il fait froid,2,0,GeoMechain,
+276956,Antarctica,-73.2324453,-126.7733002,2014-11-27 00:00:00,2021-05-12 20:48:55,0,fredu1,Le nom de l'île: Lauff Island,4,0,Syl,Name added
+2458016,Antarctica,-82.4136392,-140.9109610,2020-12-10 00:00:00,2020-12-10 10:26:38,0,Zarinnnn,Area name is missing,2,0,Zarinnnn,Area name is missing. Please help
+114628,Antarctica,-74.3801600,-128.4887300,2014-02-07 00:00:00,2018-04-19 07:38:15,0,Unknown,ایران 13-43و855,2,0,Essin,
+1097453,Antarctica,-66.2512000,-109.1348000,2017-08-09 00:00:00,2017-08-18 07:43:31,0,Unknown,Island Area,4,0,py_berrard,
+1097451,Antarctica,-66.2522050,-108.9332199,2017-08-09 00:00:00,2017-08-15 11:24:23,0,Unknown,Island Area,2,0,py_berrard,
+375680,Antarctica,-72.2062147,-118.7861549,2015-06-07 00:00:00,2015-06-07 07:55:19,0,malenki,Test 8,2,0,malenki,
+375677,Antarctica,-72.2059773,-118.7865135,2015-06-07 00:00:00,2015-06-07 07:55:07,0,malenki,Test 6,3,0,malenki,
+375676,Antarctica,-72.2056612,-118.7856170,2015-06-07 00:00:00,2015-06-07 07:55:03,0,malenki,Test 5,4,1,malenki,Test 5 finished

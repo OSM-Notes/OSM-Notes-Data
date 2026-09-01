@@ -1,0 +1,8 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1403971,Burkina Faso,11.6890015,-1.2928062,2018-05-24 00:00:00,2026-04-21 18:06:46,2889,NWR2018,village (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Unknown,
+3491633,Burkina Faso,10.9919000,-0.5780000,2022-12-26 00:00:00,2026-04-21 11:32:00,1212,Christian COURBOIS,Village de Zerboko,2,0,@Balley,
+3491645,Burkina Faso,11.0205000,-0.5323000,2022-12-26 00:00:00,2026-04-21 11:31:38,1212,Christian COURBOIS,Village de Bougré-de-Zoaga,2,0,@Balley,
+3457530,Burkina Faso,11.0599700,-0.5975600,2022-11-27 00:00:00,2026-04-21 11:31:12,1241,Christian COURBOIS,Ville de Zoaga.,2,0,@Balley,
+3631735,Burkina Faso,11.0618800,-0.5341300,2023-04-07 00:00:00,2026-04-21 11:30:04,1110,Christian COURBOIS,Village de Zamé (Département de Zoaga),4,1,@Balley,
+4486285,Burkina Faso,11.1376700,-0.5853000,2024-10-20 00:00:00,2026-04-21 11:28:15,548,Christian COURBOIS,Village de Wanda,3,1,@Balley,

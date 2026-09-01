@@ -1,0 +1,2 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+4,United States,40.7128,-74.0060,2024-01-20 00:00:00,2024-01-20 11:30:00,0,Unknown,Quick fix: Added missing road,54,0,Unknown,Done

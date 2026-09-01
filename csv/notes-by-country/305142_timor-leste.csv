@@ -1,0 +1,36 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3991453,Timor-Leste,-9.2467203,124.3459422,2023-11-17 00:00:00,2026-04-19 07:14:56,884,Mateusz Konieczny,"name=Loja Bangunan https://www.openstreetmap.org/way/1199546613  shop=convenient shop ? What kind of shop, if any is here? Is it shop=convenience?  (see https://wiki.openstreetmap.org/wiki/Tag:shop%3Dconvenience )",11,1,FajrAl,I think it's solved
+1950648,Timor-Leste,-8.4497880,126.7290115,2019-10-06 00:00:00,2026-04-19 07:13:24,2387,Wikipedia Kontor HH,Seit 2015 neue Grenzziehung,2,0,FajrAl,Closing.
+3463824,Timor-Leste,-8.4355265,126.4958954,2022-12-01 00:00:00,2026-04-19 07:13:03,1235,Unknown,Tunjukan nomor hp +67075926267 yang hilang suda dua hari,2,0,FajrAl,Closing.
+2192564,Timor-Leste,-8.5510981,125.5720139,2020-05-14 00:00:00,2026-04-19 07:12:39,2166,filinski,nothing here please delete poi,2,0,FajrAl,fixed
+2174941,Timor-Leste,-8.5502706,125.5697232,2020-04-28 00:00:00,2026-04-19 07:12:30,2182,filinski,no pool here since a few years. please delete.,2,0,FajrAl,fixed
+2073537,Timor-Leste,-8.5554321,125.5757260,2020-01-30 00:00:00,2026-04-19 07:11:19,2271,filinski,anz banks no longer exist in Timor,2,0,FajrAl,fixed
+2174929,Timor-Leste,-8.5513421,125.5721533,2020-04-28 00:00:00,2026-04-19 07:08:23,2182,filinski,Nothing here,2,0,FajrAl,Closing.
+2084607,Timor-Leste,-8.5499151,125.5697608,2020-02-10 00:00:00,2026-04-19 07:03:55,2260,filinski,closed not here,2,0,FajrAl,Closing.
+2073536,Timor-Leste,-8.5524190,125.5735373,2020-01-30 00:00:00,2026-04-19 07:02:52,2271,filinski,not a cave entrance!,2,0,FajrAl,deleted
+1936196,Timor-Leste,-8.2166720,125.6122680,2019-09-23 00:00:00,2026-04-19 06:57:50,2400,Benita S,Wrong location,2,0,FajrAl,deleted
+1685840,Timor-Leste,-8.5581057,125.5162239,2019-02-19 00:00:00,2026-04-19 06:57:17,2616,Unknown,Save Zona 1,2,0,FajrAl,Closing.
+1597779,Timor-Leste,-8.2644914,125.5475700,2018-11-23 00:00:00,2026-04-19 06:57:06,2704,joshua_mcdougall,Hard to tell if this building outline is accurate.,2,0,FajrAl,moved
+1597776,Timor-Leste,-8.2640829,125.5491315,2018-11-23 00:00:00,2026-04-19 06:56:01,2704,joshua_mcdougall,Do these roads currently exist?,2,0,FajrAl,It's not here anymore
+1597758,Timor-Leste,-8.2576567,125.5464250,2018-11-23 00:00:00,2026-04-19 06:55:33,2704,joshua_mcdougall,Assumption: Road goes under this object.,2,0,FajrAl,fixed
+1456152,Timor-Leste,-8.5486844,125.5868411,2018-07-16 00:00:00,2026-04-19 06:53:20,2834,TheSwavu,Duplicate?,2,0,FajrAl,fixed
+1182123,Timor-Leste,-8.6394072,125.5260944,2017-10-22 00:00:00,2026-04-19 06:49:57,3101,Unknown,fatisi vilage,2,0,FajrAl,added
+4453103,Timor-Leste,-8.4889926,126.8907031,2024-09-26 00:00:00,2026-04-19 06:46:46,570,Unknown,Starting Point of La-RR-05,2,0,FajrAl,Closing.
+4453101,Timor-Leste,-8.4678524,126.8828718,2024-09-26 00:00:00,2026-04-19 06:46:42,570,Unknown,End Point of the La-RR-05,2,0,FajrAl,Closing.
+4283223,Timor-Leste,-9.2022510,125.4082300,2024-06-08 00:00:00,2026-04-19 06:45:02,680,Nabili,broken bridge,2,0,FajrAl,added note
+3976151,Timor-Leste,-8.9084593,125.2213708,2023-11-07 00:00:00,2026-04-19 06:43:01,894,tastrax,Not sure this is actually a stream? Is it a connecting road/track?,2,0,FajrAl,fixed
+4549316,Timor-Leste,-8.5920223,125.3254920,2024-12-10 00:00:00,2026-04-19 06:41:03,495,Mateusz Konieczny,"https://www.openstreetmap.org/way/1206023960  Is there kindergarten here? Or is it merely building named 'kindergarten'?  of there is kindergarten there, then it should be tagged: see https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dkindergarten",2,0,FajrAl,changed
+4574308,Timor-Leste,-8.5454790,125.5414520,2025-01-03 00:00:00,2026-04-19 06:40:03,471,Unknown,Office,2,0,FajrAl,Closing.
+4574315,Timor-Leste,-8.5598130,125.5334170,2025-01-03 00:00:00,2026-04-19 06:40:00,471,Unknown,Office,2,0,FajrAl,Closing.
+4689951,Timor-Leste,-8.3463583,127.0503734,2025-03-31 00:00:00,2026-04-19 06:39:47,384,ivanbranco,swimming pool?  https://www.openstreetmap.org/relation/2253903,2,0,FajrAl,They are now deleted
+4689952,Timor-Leste,-8.4381526,127.2824629,2025-03-31 00:00:00,2026-04-19 06:37:19,384,ivanbranco,swimming pool?,2,0,FajrAl,Closing.
+4709640,Timor-Leste,-8.9884636,125.2202100,2025-04-14 00:00:00,2026-04-19 06:36:41,370,Unknown,LELE story,2,0,FajrAl,Closing.
+4798465,Timor-Leste,-8.7098742,126.8268156,2025-06-10 00:00:00,2026-04-19 06:36:37,313,Unknown,start point,2,0,FajrAl,Closing.
+4867251,Timor-Leste,-8.5617897,125.5759916,2025-07-21 00:00:00,2026-04-19 06:36:33,272,Unknown,"BTL, E.P - https://icw.btl.tl",2,0,FajrAl,Closing.
+4873205,Timor-Leste,-9.2566576,125.3475022,2025-07-24 00:00:00,2026-04-19 06:36:28,269,Unknown,CHL Timor Location Aproval,2,0,FajrAl,Closing.
+4921451,Timor-Leste,-8.5575445,125.5752246,2025-08-21 00:00:00,2026-04-19 06:34:57,241,Unknown,Gistl.org,2,0,FajrAl,Closing.
+5094417,Timor-Leste,-8.3500313,127.0500076,2025-12-17 00:00:00,2026-04-19 06:34:00,123,Cpt_U,There is no airport or airstrip in this location.,2,0,FajrAl,deleted
+5094424,Timor-Leste,-8.2430801,125.6064105,2025-12-17 00:00:00,2026-04-19 06:32:56,123,Cpt_U,Correct runway headings are 01/19,2,0,FajrAl,fixed
+5120612,Timor-Leste,-8.7745809,125.9044468,2026-01-07 00:00:00,2026-04-19 06:26:58,102,八号当铺,te,2,0,FajrAl,Closing.
+5199835,Timor-Leste,-8.5219505,125.6148482,2026-03-10 00:00:00,2026-04-19 06:26:32,40,Wiki brain,"[Pt] há uma praia aqui, certo?  via StreetComplete 63.0",2,0,FajrAl,"It's already there, named Dolok Oan Beach. Closing note."

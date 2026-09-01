@@ -1,0 +1,3 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4104005,Peter 1s øy,-68.8441962,-90.7072449,2024-02-07 00:00:00,2024-02-08 13:26:34,0,Unknown,here i seen a alien,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
