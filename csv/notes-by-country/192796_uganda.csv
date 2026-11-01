@@ -1,0 +1,3 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5257805,Uganda,1.1818500,33.9706700,2026-04-20 00:00:00,2026-04-20 04:03:32,0,Unknown,I wanna be a billionaire before 25years,2,0,Unknown,Never mind

@@ -1,0 +1,7 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4159500,Antártida Argentina,-67.6079298,-27.0628031,2024-03-19 00:00:00,2025-03-14 12:14:47,0,Unknown,this  place typ allow,2,0,Taya_S,No useful mapping information
+4658838,Antártida Argentina,-73.5367043,-26.3207815,2025-03-10 00:00:00,2025-03-10 11:01:58,0,Geovelo_Notes,en vélo (This note has been created from Geovelo: https://amenagements-cyclables.fr/fr/contributions/87607),3,0,pitscheplatsch,It seems that this note is #misplaced
+4561298,Antártida Argentina,-85.0488555,-46.5125452,2024-12-23 00:00:00,2024-12-24 12:51:18,0,Unknown,Does not show south pole,3,0,pitscheplatsch,Great!
+4540498,Antártida Argentina,-69.6080759,-28.1608585,2024-12-02 00:00:00,2024-12-02 07:17:54,0,Anangupta,Map ki location glt dekh rhi instagram pe,3,0,pitscheplatsch,
+4078018,Antártida Argentina,-84.9671146,-28.1212449,2024-01-20 00:00:00,2024-01-20 12:22:57,0,Unknown,Pomny,3,0,NeisBot,

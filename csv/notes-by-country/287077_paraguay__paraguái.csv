@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5261639,Paraguay / Paraguái,-25.3668294,-57.5929284,2026-04-22 00:00:00,2026-04-22 18:42:11,0,Unknown,USF,2,0,Unknown,
+5249940,Paraguay / Paraguái,-25.2976533,-57.5637072,2026-04-14 00:00:00,2026-04-20 19:26:52,6,WeLoveMaps,Unable to answer 'Is this still here?' – Parroquia San Cristóbal (Christian Church) – https://osm.org/node/9991128858 via StreetComplete 63.0:  Twice on the map,2,0,WeLoveMaps,will edit this area now

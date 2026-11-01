@@ -1,0 +1,45 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4761730,中国–不丹争议地区,27.8767144,91.0079956,2025-05-16 00:00:00,2025-05-29 17:14:57,0,ugyenNorbu,"The international border for Bhutan is not accurate. Can someone please edit this, please.",2,0,NM$L,已在4761728解决
+4761718,中国–不丹争议地区,27.9639304,90.7802010,2025-05-16 00:00:00,2025-05-29 17:14:27,0,ugyenNorbu,"The international border for Bhutan is not accurate. Can someone please edit this, please.",2,0,NM$L,已在4761728解决
+4761716,中国–不丹争议地区,27.9889445,90.7994270,2025-05-16 00:00:00,2025-05-29 17:14:20,0,ugyenNorbu,"The international border for Bhutan is not accurate. Can someone please edit this, please.",2,0,NM$L,已在4761728解决
+4761713,中国–不丹争议地区,28.0245608,90.8004570,2025-05-16 00:00:00,2025-05-29 17:14:13,0,ugyenNorbu,"The international border for Bhutan is not accurate. Can someone please edit this, please.",2,0,NM$L,已在4761728解决
+4761728,中国–不丹争议地区,27.9108508,90.9482574,2025-05-16 00:00:00,2025-05-25 15:59:24,0,ugyenNorbu,"The international border for Bhutan is not accurate. Can someone please edit this, please.",2,0,NM$L,The boundary now is relatively accurate for OSM is under de-facto principle when mapping disputed boundary. Thanks
+2948303,中国–不丹争议地区,27.4905015,89.0370160,2021-11-25 00:00:00,2024-12-10 10:41:56,0,NM$L,不丹实控地区,3,1,小阿喵喵,
+2948304,中国–不丹争议地区,27.4243581,89.0302183,2021-11-25 00:00:00,2024-12-10 10:41:42,0,NM$L,不丹实控地区,3,1,小阿喵喵,
+4467507,中国–不丹争议地区,27.9805124,90.8979285,2024-10-06 00:00:00,2024-11-07 08:04:18,0,RB25,"The 'English' name (they mean the anglicised approximation of the Tibetan name) that someone has given for this location at Way 700461763 is completely wrong. They have said that the name is 'Gyai'norpu'. This is an incorrect guess at the Tibetan, probably assuming that the Chinese 'Jieluobu' represents the Tibetan 'Rgyal nor bu'. But it doesn't. The Tibetan (shown on photos of signboards in the village) is Rgyal la phug. So the anglicised or English name should be Gyalaphug.  Note: Some more recent signboards in the village show the Tibetan name as Bye li phug, and the English approximation for that would be Cheliphug. But for consistency, it is best to use Gyalaphug for the English name. 'Gyai'norbu' is wrong and should be removed, but I don't know how to do that.",5,1,呼噜噜呼噜,
+4174561,中国–不丹争议地区,27.9752019,90.9259838,2024-03-30 00:00:00,2024-11-07 08:04:12,0,Unknown,"New village/settlement, probably called Mabjatang (Ch: 1. 马家塘Majiatang) 27.976218°N,  90.925006°E",3,0,呼噜噜呼噜,
+4322821,中国–不丹争议地区,27.2602070,89.0186168,2024-07-07 00:00:00,2024-07-07 19:09:30,0,Unknown,庞达村三期，中国,2,0,Taya_S,Political spam
+4322873,中国–不丹争议地区,27.9182797,90.8678954,2024-07-07 00:00:00,2024-07-07 19:06:10,0,Unknown,巴桑弄，又叫拉龙拉康河，中国洛扎县河流,2,0,Taya_S,Political spam
+4322870,中国–不丹争议地区,27.9310479,90.8646338,2024-07-07 00:00:00,2024-07-07 19:06:07,0,Unknown,巴桑曲灿，又叫巴桑曲浈。中国洛扎县地方,2,0,Taya_S,Political spam
+4322871,中国–不丹争议地区,27.9355326,90.8603007,2024-07-07 00:00:00,2024-07-07 19:06:04,0,Unknown,巴桑曲隆，中国洛扎县地方,2,0,Taya_S,Political spam
+4322876,中国–不丹争议地区,27.9554921,90.8759193,2024-07-07 00:00:00,2024-07-07 19:06:01,0,Unknown,卓玛朗姆错，中国洛扎县湖泊,2,0,Taya_S,Political spam
+4322880,中国–不丹争议地区,27.9497809,90.8885461,2024-07-07 00:00:00,2024-07-07 19:05:58,0,Unknown,俄若拉错，中国洛扎县湖泊,2,0,Taya_S,Political spam
+4322879,中国–不丹争议地区,27.9446308,90.8963211,2024-07-07 00:00:00,2024-07-07 19:05:56,0,Unknown,邦嘎错，中国洛扎县湖泊,2,0,Taya_S,Political spam
+4322878,中国–不丹争议地区,27.9400160,90.9442079,2024-07-07 00:00:00,2024-07-07 19:05:54,0,Unknown,杨错，中国洛扎县湖泊,2,0,Taya_S,Political spam
+4322864,中国–不丹争议地区,27.2855524,88.9342158,2024-07-07 00:00:00,2024-07-07 19:03:57,0,Unknown,达朗果浦，中国亚东县河流,2,0,Taya_S,Political spam
+4322824,中国–不丹争议地区,27.3212731,89.0066973,2024-07-07 00:00:00,2024-07-07 19:03:41,0,Unknown,庞达村一期，中国,2,0,Taya_S,Political spam
+4322823,中国–不丹争议地区,27.3084085,89.0077764,2024-07-07 00:00:00,2024-07-07 19:03:38,0,Unknown,庞达村 中国,2,0,Taya_S,Political spam
+4322822,中国–不丹争议地区,27.3001028,89.0083061,2024-07-07 00:00:00,2024-07-07 19:03:32,0,Unknown,果拉，中国,2,0,Taya_S,Political spam
+4322840,中国–不丹争议地区,27.4841662,89.0209164,2024-07-07 00:00:00,2024-07-07 19:03:16,0,Unknown,基那错，中国亚东县湖泊,2,0,Taya_S,Political spam
+4322844,中国–不丹争议地区,27.4977092,89.0097861,2024-07-07 00:00:00,2024-07-07 19:03:13,0,Unknown,曲勒匈新村或者叫邦嘎拉新村，中国,2,0,Taya_S,Political spam
+4322842,中国–不丹争议地区,27.4753948,89.0099540,2024-07-07 00:00:00,2024-07-07 19:03:10,0,Unknown,朗玛浦新村，中国,2,0,Taya_S,Political spam
+4322832,中国–不丹争议地区,27.3886632,88.9908849,2024-07-07 00:00:00,2024-07-07 19:02:59,0,Unknown,拉日岗，中国亚东县地方，不丹占据,2,0,Taya_S,Political spam
+4322825,中国–不丹争议地区,27.3725645,89.0116608,2024-07-07 00:00:00,2024-07-07 19:02:49,0,Unknown,哈热，中国,2,0,Taya_S,Political spam
+4322831,中国–不丹争议地区,27.3890458,89.0144724,2024-07-07 00:00:00,2024-07-07 19:02:43,0,Unknown,单姆舍曲，中国亚东县河流,2,0,Taya_S,Political spam
+4322826,中国–不丹争议地区,27.4088675,89.0210231,2024-07-07 00:00:00,2024-07-07 19:02:40,0,Unknown,色姆舍曲，中国亚东县河流,2,0,Taya_S,Political spam
+4322838,中国–不丹争议地区,27.4375589,89.0365971,2024-07-07 00:00:00,2024-07-07 19:02:33,0,Unknown,塔克浦曲，中国亚东县河流,2,0,Taya_S,Political spam
+4322835,中国–不丹争议地区,27.4297795,89.0631942,2024-07-07 00:00:00,2024-07-07 19:02:31,0,Unknown,恰尔塘河，中国亚东县河流,2,0,Taya_S,Political spam
+4322834,中国–不丹争议地区,27.4428080,89.0844465,2024-07-07 00:00:00,2024-07-07 19:02:28,0,Unknown,打浦曲，中国亚东县河流,2,0,Taya_S,Political spam
+4322833,中国–不丹争议地区,27.4311110,89.0858345,2024-07-07 00:00:00,2024-07-07 19:02:25,0,Unknown,卡鲁曲，中国亚东县河流,2,0,Taya_S,Political spam
+4322859,中国–不丹争议地区,27.4290496,89.1159301,2024-07-07 00:00:00,2024-07-07 19:02:22,0,Unknown,卓拉错，中国亚东县湖泊,2,0,Taya_S,Political spam
+4322854,中国–不丹争议地区,27.4651369,89.0845874,2024-07-07 00:00:00,2024-07-07 19:02:20,0,Unknown,拉巴错，中国亚东县湖泊,2,0,Taya_S,Political spam
+4322855,中国–不丹争议地区,27.4687134,89.0704585,2024-07-07 00:00:00,2024-07-07 19:02:14,0,Unknown,卡色卡错，中国亚东县湖泊,2,0,Taya_S,Political spam
+4322846,中国–不丹争议地区,27.4981049,89.0655902,2024-07-07 00:00:00,2024-07-07 19:01:57,0,Unknown,江赤卡错，中国亚东县湖泊,2,0,Taya_S,Political spam
+4322849,中国–不丹争议地区,27.5056977,89.0787081,2024-07-07 00:00:00,2024-07-07 19:01:55,0,Unknown,扎多湖，中国亚东县湖泊,2,0,Taya_S,Political spam
+4322853,中国–不丹争议地区,27.4987845,89.0933717,2024-07-07 00:00:00,2024-07-07 19:01:53,0,Unknown,基拉错，中国亚东县湖泊,2,0,Taya_S,Political spam
+4322850,中国–不丹争议地区,27.5083749,89.0907023,2024-07-07 00:00:00,2024-07-07 19:01:51,0,Unknown,穷堆拉错，中国亚东县湖泊,2,0,Taya_S,Political spam
+4322851,中国–不丹争议地区,27.5153827,89.0897560,2024-07-07 00:00:00,2024-07-07 19:01:48,0,Unknown,措拉卡错，中国亚东县湖泊,2,0,Taya_S,Political spam
+4322852,中国–不丹争议地区,27.5205037,89.1069623,2024-07-07 00:00:00,2024-07-07 19:01:46,0,Unknown,康扎拉山口，中国与不丹交界处山口,2,0,Taya_S,Political spam
+4301274,中国–不丹争议地区,27.2317049,89.0168619,2024-06-21 00:00:00,2024-07-03 16:48:40,0,Unknown,阿桑哨所，中国哨所,2,0,Taya_S,Political spam
+180201,中国–不丹争议地区,27.3912782,89.0081406,2014-06-07 00:00:00,2016-07-06 06:40:25,0,Unknown,manglour,2,0,indigomc,Insufficient info

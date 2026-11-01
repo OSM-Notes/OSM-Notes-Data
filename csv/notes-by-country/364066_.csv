@@ -1,0 +1,8 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5233021,Հայաստան,40.7471960,44.8818111,2026-04-04 00:00:00,2026-04-22 07:58:21,18,ks1v,https://dilijanvillas.com/  #OsmAnd,2,0,ks1v,
+5255985,Հայաստան,40.7554177,44.8046737,2026-04-18 00:00:00,2026-04-21 08:41:03,3,ks1v,cell mast h10  #OsmAnd,2,0,ks1v,
+5255984,Հայաստան,40.7572874,44.8040435,2026-04-18 00:00:00,2026-04-21 08:39:15,3,ks1v,tunnel  #OsmAnd,2,0,ks1v,
+5255983,Հայաստան,40.7520878,44.8042099,2026-04-18 00:00:00,2026-04-21 08:37:01,3,ks1v,gully road up  #OsmAnd,2,0,ks1v,
+5255982,Հայաստան,40.7516459,44.8041498,2026-04-18 00:00:00,2026-04-21 08:36:33,3,ks1v,is  #OsmAnd,2,0,ks1v,
+5255986,Հայաստան,40.1837551,44.5153099,2026-04-18 00:00:00,2026-04-21 07:28:50,3,ks1v,KFC / kfcforever2024  #OsmAnd,2,0,ks1v,

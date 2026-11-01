@@ -1,0 +1,13 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3957485,Pitkern Ailen,-25.0665281,-130.1004946,2023-10-25 00:00:00,2023-11-18 14:49:05,0,Unknown,"According to wikipedia,Adamstown (Pitcarn island) has only 50 people.",2,0,confusedbuffalo,Mapped as such already
+2688466,Pitkern Ailen,-24.6742000,-124.7862000,2021-05-28 00:00:00,2022-03-20 18:56:02,0,Unknown,Acadia Islet,3,0,os-emmer,The island already has the name you mentioned.
+2966718,Pitkern Ailen,-25.0669411,-130.1052475,2021-12-10 00:00:00,2022-01-29 18:39:12,0,Unknown,'Adamstown' should be 'Adamstoen',2,0,Nordpfeil,name:pih=Adamstaun added
+2966721,Pitkern Ailen,-25.0697011,-130.1059341,2021-12-10 00:00:00,2022-01-29 18:39:12,0,Unknown,'Pitcairn' should be 'Pitkern',2,0,Nordpfeil,name:pih=Pitkern added
+2966719,Pitkern Ailen,-25.0667079,-130.1002693,2021-12-10 00:00:00,2022-01-29 18:39:11,0,Unknown,'Adamstown' should be 'Adamstoen',2,0,Nordpfeil,name:pih=Adamstaun added
+2688464,Pitkern Ailen,-24.6864900,-124.7824700,2021-05-28 00:00:00,2022-01-29 18:02:07,0,Unknown,Edwards Islet,2,0,Nordpfeil,name already added
+2688467,Pitkern Ailen,-24.6856000,-124.7931900,2021-05-28 00:00:00,2022-01-29 18:01:30,0,Unknown,Westward Islet,2,0,Nordpfeil,name already added
+2688463,Pitkern Ailen,-24.6880200,-124.7860100,2021-05-28 00:00:00,2022-01-29 18:01:30,0,Unknown,Pandora Islet,2,0,Nordpfeil,name already added
+2704836,Pitkern Ailen,-25.0747933,-130.1109982,2021-06-08 00:00:00,2021-06-18 18:36:41,0,os-emmer,According to this video there is a new harbour at the south of this island. I can't find the harbour or the road to it on the map. Does anybody know the exact position?  https://youtu.be/_x2d_sJUAic?t=1057,2,0,os-emmer,It looks like the harbour is on the west of the island and not the south https://www.openstreetmap.org/way/603023560
+872127,Pitkern Ailen,-24.6867428,-124.7830850,2017-01-29 00:00:00,2017-06-25 17:22:40,0,Unknown,Good 😊,4,0,mueschel,
+1019980,Pitkern Ailen,-24.6767553,-124.7846031,2017-06-05 00:00:00,2017-06-06 16:10:02,0,Unknown,а,4,0,mavl,The note does not contain an useful information for OpenStreetMap.

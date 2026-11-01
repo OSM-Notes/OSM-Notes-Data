@@ -1,0 +1,8 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5263411,Bolivia,-16.4934310,-68.1373790,2026-04-24 00:00:00,2026-04-24 06:48:11,0,Unknown,PBGroup srl,2,0,Unknown,
+5263345,Bolivia,-19.0379239,-65.2638246,2026-04-24 00:00:00,2026-04-24 05:04:34,0,Unknown,Moitochive,4,1,Unknown,
+5263349,Bolivia,-19.0390357,-65.2643036,2026-04-24 00:00:00,2026-04-24 04:59:06,0,Unknown,Capilla Virgen del Carmen,4,1,Unknown,no corresponde la Ubicación
+5111075,Bolivia,-16.5092671,-68.1410694,2025-12-30 00:00:00,2026-04-24 02:23:08,115,Unknown,Salón de Fiestas 'Diamante Azul',2,0,JJIglesias,Added to the map
+5260638,Bolivia,-16.4783740,-68.1502640,2026-04-22 00:00:00,2026-04-23 02:32:11,1,Unknown,AREA PARA COMPLEJO HOSPITALARIO INTEGRADO ACHACHICALA,2,0,5m4u9,
+5260476,Bolivia,-16.4930548,-68.1834403,2026-04-22 00:00:00,2026-04-23 02:31:53,1,Unknown,Estudio de belleza Tonos y Matices by Yesmy Larrea,2,0,5m4u9,nota duplicada

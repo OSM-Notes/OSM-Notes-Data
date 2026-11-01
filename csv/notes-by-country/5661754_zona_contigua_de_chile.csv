@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4950959,Zona contigua de Chile,-26.3453021,-105.1668566,2025-09-07 00:00:00,2025-09-07 16:47:23,0,Unknown,Jharkhand,4,0,felipeeugenio,
+4771735,Zona contigua de Chile,-37.6927860,-74.1364288,2025-05-23 00:00:00,2025-05-23 12:04:45,0,Unknown,zizi,2,0,felipeeugenio,

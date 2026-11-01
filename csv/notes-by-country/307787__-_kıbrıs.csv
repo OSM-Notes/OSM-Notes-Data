@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5259322,Κύπρος - Kıbrıs,35.1593991,33.3189297,2026-04-21 00:00:00,2026-04-23 14:53:12,2,Unknown,'C1630 Mimap 219' POI name: C1630 Mimap 219 POI types: tourism-apartment OSM data version: 2024-02-09T10:21:43Z  #mapsme,3,0,marczoutendijk,No reaction received. I close this note.
+5256782,Κύπρος - Kıbrıs,34.8173067,32.8739961,2026-04-19 00:00:00,2026-04-20 08:20:07,1,Layft Greater,Unable to answer 'What’s the name of this street?' – Residential Road – https://osm.org/way/1263500757 via StreetComplete 63.0:  it's a plot,2,0,Whan Two,

@@ -1,0 +1,3 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1519903,Nouvelle-Calédonie (zone économique exclusive),-19.2284037,159.9383554,2018-09-09 00:00:00,2018-10-30 22:18:49,0,S-zation,"This is vandalism  https://en.wikipedia.org/wiki/Sandy_Island,_New_Caledonia",3,0,S-zation,It was already reverted by SomeoneElse. This was the vandalism changeset: https://www.openstreetmap.org/changeset/62245490

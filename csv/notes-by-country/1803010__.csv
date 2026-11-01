@@ -1,0 +1,300 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5056844,יהודה ושומרון,32.0861379,35.4676437,2025-11-17 00:00:00,2026-01-05 10:53:33,49,Guy A,Possibly paved road now?,2,0,Guy A,
+5116229,יהודה ושומרון,31.8084357,35.3117752,2026-01-03 00:00:00,2026-01-04 06:57:40,1,Unknown,هذا فلسطین ولکن انتم لا یعرفون حر معرفته,2,0,pitscheplatsch,
+4438153,יהודה ושומרון,31.9283710,35.0509820,2024-09-16 00:00:00,2025-12-07 14:09:22,0,Unknown,אבן גבירול,2,0,Sanniu,named
+4438150,יהודה ושומרון,31.9278360,35.0507100,2024-09-16 00:00:00,2025-12-07 14:09:17,0,Unknown,אבן גבירול מודיעין עלית,2,0,Sanniu,named
+4438151,יהודה ושומרון,31.9273010,35.0500070,2024-09-16 00:00:00,2025-12-07 14:09:11,0,Unknown,רחוב אבן גבירול מודיעין עלית,2,0,Sanniu,named
+5077752,יהודה ושומרון,31.9366077,35.0384903,2025-12-03 00:00:00,2025-12-05 19:13:09,0,Unknown,111,2,0,I-76,?
+1370919,יהודה ושומרון,31.5893567,35.1948738,2018-04-24 00:00:00,2025-11-18 20:15:58,0,גיתית מחלקת פיתוח SayYes,פני קדם,2,0,Ilanride22,
+4243222,יהודה ושומרון,32.1042184,35.1926073,2024-05-12 00:00:00,2025-11-02 17:51:19,0,Unknown,אורט יובלי אריאל,2,0,Sanniu,mapped as https://www.openstreetmap.org/way/551933096
+4243225,יהודה ושומרון,32.1045075,35.1931749,2024-05-12 00:00:00,2025-11-02 17:51:12,0,Unknown,אורט יובלי אריאל,2,0,Sanniu,mapped as https://www.openstreetmap.org/way/551933096
+472185,יהודה ושומרון,31.7636666,35.5033824,2015-11-21 00:00:00,2025-07-28 15:25:56,0,uspoerlein,parking is a lot bigger than this,2,0,uspoerlein,adjusted using satellite data
+3370088,יהודה ושומרון,31.9349500,35.2279500,2022-09-23 00:00:00,2025-07-12 11:32:28,0,Unknown,"חסר שם רחוב, שם הרחוב - הרב אברהם שפירא",2,0,Ilanride22,
+4828568,יהודה ושומרון,32.1887473,34.9651641,2025-06-27 00:00:00,2025-06-27 18:17:53,0,$ hi hello its me,anaya cafe,3,1,$ hi hello its me,drinks house
+3305355,יהודה ושומרון,31.7155367,35.1286018,2022-08-08 00:00:00,2025-06-25 15:46:29,0,Unknown,Ein El Haweyeh,2,0,yrtimiD,already mapped
+3313754,יהודה ושומרון,31.7011400,35.1272800,2022-08-14 00:00:00,2025-06-25 15:46:14,0,Unknown,הכביש סגור זמנית,2,0,yrtimiD,probably outdated
+2127861,יהודה ושומרון,31.9432449,35.0429043,2020-03-23 00:00:00,2025-06-08 12:46:50,0,Unknown,תצפית מדהימה מחדרה ועד עזה .,2,0,Udi,
+3538537,יהודה ושומרון,32.3373074,35.5193567,2023-01-30 00:00:00,2025-05-29 07:41:16,0,Unknown,some of the roads were changed recently.,2,0,Hsein Yazbek,
+763407,יהודה ושומרון,31.8291070,35.3015200,2016-10-27 00:00:00,2025-03-02 11:21:06,0,homebuilt,Ein Prat (OSM data version: 2016-10-10T15:13:03Z) #mapsme,4,1,Compositor,
+2972668,יהודה ושומרון,31.8061021,35.2803612,2021-12-16 00:00:00,2025-02-27 13:01:14,0,Unknown,بسم الله قسم الجبارین,2,0,Compositor,
+42166,יהודה ושומרון,31.7742939,35.2786446,2013-09-15 00:00:00,2024-05-01 03:24:03,0,alqudsmapping,Location of the demolition order,3,0,sheikchilli,likely outdated
+2048073,יהודה ושומרון,32.1038808,35.2077138,2020-01-06 00:00:00,2024-04-28 15:08:59,0,Unknown,1,3,0,sheikchilli,unclear/personal note
+2331103,יהודה ושומרון,31.8643280,35.2630341,2020-09-01 00:00:00,2024-02-01 18:18:28,0,Unknown,דְיג דוֹג המרכז לחיות,2,0,user_19737901,
+2293272,יהודה ושומרון,31.8652209,35.2614328,2020-08-04 00:00:00,2024-02-01 18:18:19,0,מיטל גיגי תורס,חסרה חנות בשם פסגת השולחן,2,0,user_19737901,
+2333620,יהודה ושומרון,31.8651000,35.2619300,2020-09-03 00:00:00,2024-02-01 18:18:16,0,Unknown,החרשיה,2,0,user_19737901,
+1699376,יהודה ושומרון,31.9067100,35.1661400,2019-03-04 00:00:00,2024-01-17 06:55:29,0,Unknown,End1,2,0,NeisBot,#NotHelpfulInformation #StartEnd
+2000279,יהודה ושומרון,31.7833505,35.2637100,2019-11-18 00:00:00,2024-01-02 06:17:24,0,GBAB,checkpoint,2,0,Allison P,
+91907,יהודה ושומרון,31.8117820,35.3904390,2013-12-28 00:00:00,2023-12-29 18:39:38,0,Unknown,"Moved from OSB ID686380:  dont think there is a connection [MRISRAEL/Osmand, 2012-10-18 19:19:06 CEST]",2,0,Mateusz Konieczny,no connection mapped nowadays
+91905,יהודה ושומרון,31.7654010,35.4951520,2013-12-28 00:00:00,2023-12-29 18:39:25,0,Unknown,"Moved from OSB ID683661:  road missing. service road. [MRISRAEL/Osmand, 2012-10-09 12:22:30 CEST]",2,0,Mateusz Konieczny,seems to be mapped now
+3983179,יהודה ושומרון,32.3682000,35.4224000,2023-11-11 00:00:00,2023-11-20 13:14:27,0,Unknown,Dylan999hewitt https://osm.org/way/692848131,2,0,I-76,spam
+1559535,יהודה ושומרון,31.8060283,35.3353825,2018-10-13 00:00:00,2023-11-03 14:07:18,0,מעלה אדומים,252807,2,0,Mateusz Konieczny - bot account,"Closing note as not containing report of mistakes in OSM data. Note text was '252807'  If you wanted to report problems with OSM data please open a more clear note, or reopen this one with an explanation"
+728222,יהודה ושומרון,31.7200054,35.1990275,2016-09-27 00:00:00,2023-10-30 06:01:54,0,Hamza Abu Srour,مسجد مخيم عايدة (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,zluuzki,duplicate
+934771,יהודה ושומרון,31.6108827,35.2236823,2017-03-20 00:00:00,2023-10-30 06:01:52,0,Adnan Alabiat,ابو هريرة (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,zluuzki,duplicate
+1678925,יהודה ושומרון,31.5855322,35.1204763,2019-02-12 00:00:00,2023-10-30 06:01:49,0,IbrahimNat,'نقطة مراقبة وتفتيش اسرائيلي' POI has no name POI types: landuse-military OSM data version: 2018-10-30T22:25:02Z  #mapsme,2,0,zluuzki,duplicate
+1858374,יהודה ושומרון,31.5339580,35.1322552,2019-07-27 00:00:00,2023-10-30 06:01:44,0,Omar's the Hebrew,'شارع 60' POI name: כביש עפולה באר-שבע POI types: highway-trunk OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,zluuzki,added
+1858373,יהודה ושומרון,31.5339580,35.1322552,2019-07-27 00:00:00,2023-10-30 06:01:42,0,Omar's the Hebrew,'شارع60' POI name: כביש עפולה באר-שבע POI types: highway-trunk OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,zluuzki,added
+709673,יהודה ושומרון,31.5654592,35.0824372,2016-09-12 00:00:00,2023-10-30 06:01:38,0,Omar Nat,الشركة الدولية لمواد البناء  (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,zluuzki,duplicate
+946055,יהודה ושומרון,31.5021259,35.1034174,2017-03-30 00:00:00,2023-10-30 06:01:26,0,Johnny Boutros,DCL (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,zluuzki,duplicate
+945937,יהודה ושומרון,31.5021259,35.1034174,2017-03-30 00:00:00,2023-10-30 06:01:24,0,Johnny Boutros,DCL (OSM data version: 2017-02-15T16:20:03Z) #mapsme,4,0,zluuzki,duplicate
+1144667,יהודה ושומרון,31.9441241,35.0193135,2017-09-18 00:00:00,2023-10-30 06:01:15,0,black east,'منتزه نعلين' POI has no name POI types: tourism-picnic_site OSM data version: 2017-08-17T15:51:02Z  #mapsme,2,0,zluuzki,duplicate
+1143808,יהודה ושומרון,31.9441241,35.0193135,2017-09-17 00:00:00,2023-10-30 06:01:14,0,black east,'منتزه نعلين' POI has no name POI types: tourism-picnic_site OSM data version: 2017-08-17T15:51:02Z  #mapsme,2,0,zluuzki,duplicate
+1703413,יהודה ושומרון,31.8890628,35.0809915,2019-03-08 00:00:00,2023-10-30 06:01:05,0,Johnny Boutros,'Israeli checkpoint' POI name: דרך זו מובילה לשטח B הכניסה לישראלים מסוכנת POI types: landuse-military OSM data version: 2019-01-13T09:03:02Z  #mapsme,2,0,zluuzki,duplicate
+2224740,יהודה ושומרון,31.7049413,35.3311450,2020-06-10 00:00:00,2023-10-30 06:00:50,0,wbc,'Orthodoxes Kloster' POI name: Mar Saba Convent POI types: amenity-place_of_worship-christian OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,zluuzki,added
+1049040,יהודה ושומרון,31.7049413,35.3311450,2017-07-01 00:00:00,2023-10-30 06:00:30,0,أسامة أﺑﻮ زنيد,دير مار سابا (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,zluuzki,duplicate
+1003230,יהודה ושומרון,31.7049413,35.3311450,2017-05-21 00:00:00,2023-10-30 06:00:29,0,Denis Golovko,Монастырь прп. Саввы Освященного (OSM data version: 2017-03-28T20:59:03Z) #mapsme,4,1,zluuzki,duplicate
+641491,יהודה ושומרון,31.8821575,35.2097912,2016-07-24 00:00:00,2023-10-30 06:00:18,0,nmotan,مسجد تميم الداري (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,zluuzki,duplicate
+1198198,יהודה ושומרון,32.1417373,35.0040362,2017-11-07 00:00:00,2023-10-30 06:00:15,0,Fadi Salman,'منجرة ومعرض ياسر سلمان' POI has no name POI types: landuse-orchard OSM data version: 2017-10-06T18:13:02Z  #mapsme,2,0,zluuzki,duplicate
+890205,יהודה ושומרון,31.9235702,35.2189952,2017-02-12 00:00:00,2023-10-30 06:00:11,0,Loay Aslan,المحكمة الشرعيه (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,zluuzki,duplicate
+1246446,יהודה ושומרון,31.9240369,35.2207453,2017-12-22 00:00:00,2023-10-30 06:00:09,0,djex,'wrong place' POI name: Bait El DCO Checkpoint POI types: barrier-gate OSM data version: 2017-12-08T15:42:02Z  #mapsme,2,0,zluuzki,duplicate
+1010092,יהודה ושומרון,32.1887850,34.9829675,2017-05-27 00:00:00,2023-10-30 05:59:54,0,عماد الدلو,'برج النجمة قلقيلية' POI name: Qalqilya Farmland POI types: landuse-orchard OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,zluuzki,not here
+1056468,יהודה ושומרון,32.1887850,34.9829675,2017-07-07 00:00:00,2023-10-30 05:59:53,0,Maen Nazzal,'حارة خليل ابو عمشة' POI name: Qalqilya Farmland POI types: landuse-orchard OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,zluuzki,not here
+1056469,יהודה ושומרון,32.1887850,34.9829675,2017-07-07 00:00:00,2023-10-30 05:59:51,0,Maen Nazzal,'حي خليل نزال ابو عمشة' POI name: Qalqilya Farmland POI types: landuse-orchard OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,zluuzki,not here
+1070454,יהודה ושומרון,32.1887850,34.9829675,2017-07-19 00:00:00,2023-10-30 05:59:50,0,علي شوبكي,'الشوبكي للمعدات' POI name: Qalqilya Farmland POI types: landuse-orchard OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,zluuzki,not here
+980154,יהודה ושומרון,32.1887850,34.9829675,2017-04-29 00:00:00,2023-10-30 05:59:41,0,عماد الدلو,برج النجمة قلقيلية (OSM data version: 2017-03-28T20:59:03Z) #mapsme,2,0,zluuzki,duplicate
+851493,יהודה ושומרון,32.1887850,34.9829675,2017-01-14 00:00:00,2023-10-30 05:59:38,0,رجائي سلامة أبو الجود,حاجز قلقيليه (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,zluuzki,duplicate
+626687,יהודה ושומרון,32.1887850,34.9829675,2016-07-13 00:00:00,2023-10-30 05:59:35,0,Ahmad Hashash,دراجات هوائيه (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,zluuzki,duplicate
+1273024,יהודה ושומרון,32.1097283,35.0639025,2018-01-19 00:00:00,2023-10-30 05:59:15,0,abd2343,'مسبح بديا' POI has no name POI types: tourism-picnic_site OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,zluuzki,duplicate
+1098410,יהודה ושומרון,32.3002555,35.0395323,2017-08-10 00:00:00,2023-10-30 05:59:13,0,ابو علي الخطيب,'منتزه ومسابح تل الربيع' POI has no name POI types: tourism-picnic_site OSM data version: 2017-07-03T17:28:05Z  #mapsme,2,0,zluuzki,duplicate
+691679,יהודה ושומרון,31.8201073,35.5013151,2016-08-28 00:00:00,2023-10-30 05:59:07,0,Азин,Монастырь св.Герасима (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,zluuzki,duplicate
+691633,יהודה ושומרון,31.8201073,35.5013151,2016-08-28 00:00:00,2023-10-30 05:59:06,0,Азин,Монастырь св.Герасима (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,zluuzki,duplicate
+691617,יהודה ושומרון,31.8201073,35.5013151,2016-08-28 00:00:00,2023-10-30 05:59:04,0,Азин,Монастырь св.Герасима (OSM data version: 2016-08-08T15:45:02Z) #mapsme,2,0,zluuzki,duplicate
+1067862,יהודה ושומרון,32.3488239,35.0623092,2017-07-17 00:00:00,2023-10-30 05:58:56,0,Tareq2017,'Palestine industrial stone ' POI has no name POI types: man_made-chimney OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,zluuzki,duplicate
+1902466,יהודה ושומרון,32.3998334,35.0668622,2019-08-27 00:00:00,2023-10-30 05:58:52,0,Assim Mare'e,'شركة الافكار الخضراء' POI name: Nazlat Abu Nar - Attil POI types: highway-tertiary OSM data version: 2019-07-27T07:02:33Z  #mapsme,2,0,zluuzki,duplicate
+3738242,יהודה ושומרון,32.4417500,35.1779417,2023-06-17 00:00:00,2023-10-30 05:58:48,0,ramzeeslettt,'مطعم وبيتزا سرفانا' POI name: مطعم وبيتزا سرفانا POI types: amenity-restaurant OSM data version: 2023-03-14T07:42:53Z  #mapsme,2,0,zluuzki,duplicate
+698303,יהודה ושומרון,32.4081031,35.2275635,2016-09-02 00:00:00,2023-10-30 05:58:44,0,Saeed Mahmoud,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'This place is no longer available ' (OSM data version: 2016-08-22T09:03:02Z) #mapsme",2,0,zluuzki,duplicate
+787255,יהודה ושומרון,32.1887850,34.9829675,2016-11-18 00:00:00,2023-10-23 17:46:59,0,Lewa Afanah,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Jouri Optics' (OSM data version: 2016-11-05T13:55:03Z) #mapsme",2,0,confusedbuffalo,Duplicate note
+3661103,יהודה ושומרון,31.7697151,35.2993566,2023-04-26 00:00:00,2023-09-19 23:30:24,0,Unknown,This is Palestine.,2,0,Sharonacr1,
+3666706,יהודה ושומרון,31.9272826,35.0459200,2023-04-30 00:00:00,2023-07-19 11:51:47,0,MBTY1,כל שדרות בית שמאי נפתח לתנועה סלול אספלט,2,0,MBTY1,
+3666702,יהודה ושומרון,31.9241357,35.0478727,2023-04-30 00:00:00,2023-07-19 11:50:25,0,MBTY1,ע”פ השילוט ברחוב שם הרחוב הוא: שד’ הרב מפוניבז’ גם אחרי הכיכר צריך גם לשנות,2,0,MBTY1,
+3752083,יהודה ושומרון,31.9230333,35.0527683,2023-06-26 00:00:00,2023-07-19 11:31:26,0,MBTY1,הרב אלישיב עד לרחוב חזון איש  via StreetComplete 53.1,2,0,MBTY1,
+3752085,יהודה ושומרון,31.9222153,35.0528663,2023-06-26 00:00:00,2023-07-19 11:31:13,0,MBTY1,הרב אלישיב  via StreetComplete 53.1,2,0,MBTY1,
+3752076,יהודה ושומרון,31.9233602,35.0486454,2023-06-26 00:00:00,2023-07-19 11:25:52,0,MBTY1,זה רחוב ”חזון אי”ש”  via StreetComplete 53.1,2,0,MBTY1,
+3752078,יהודה ושומרון,31.9231642,35.0494861,2023-06-26 00:00:00,2023-07-19 11:25:48,0,MBTY1,אבי עזרי  via StreetComplete 53.1,2,0,MBTY1,
+3666703,יהודה ושומרון,31.9238386,35.0469500,2023-04-30 00:00:00,2023-07-19 11:21:45,0,MBTY1,שם הרחוב הוא זכרון שמואל ולא זכרון שלמה,2,0,MBTY1,
+3752067,יהודה ושומרון,31.9238988,35.0471819,2023-06-26 00:00:00,2023-07-19 11:21:01,0,MBTY1,זה רחוב ”זכרון שמואל”  via StreetComplete 53.1,2,0,MBTY1,
+3777261,יהודה ושומרון,31.9798321,35.0590897,2023-07-12 00:00:00,2023-07-13 14:11:37,0,Unknown,Krdks,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+3659406,יהודה ושומרון,32.1069700,35.1773300,2023-04-25 00:00:00,2023-04-25 11:31:07,0,Youry Jukov,Home,4,1,Youry Jukov,
+3642307,יהודה ושומרון,31.6739100,35.1665053,2023-04-14 00:00:00,2023-04-14 12:50:29,0,mkopinsky,Water fountain  via StreetComplete 52.0,2,0,mkopinsky,
+3577820,יהודה ושומרון,31.6705518,35.1673168,2023-02-27 00:00:00,2023-04-08 20:03:49,0,Unknown,זית רענן,2,0,mkopinsky,Fixed
+2400703,יהודה ושומרון,31.6552200,35.1462700,2020-10-26 00:00:00,2022-12-07 16:23:17,0,Unknown,open street,2,0,אאאאאאוריה,
+3469967,יהודה ושומרון,31.6567700,35.1501100,2022-12-07 00:00:00,2022-12-07 16:23:10,0,Unknown,נקודה 4,2,0,אאאאאאוריה,
+3469962,יהודה ושומרון,31.6550300,35.1506600,2022-12-07 00:00:00,2022-12-07 16:23:07,0,Unknown,נקודה 1,2,0,אאאאאאוריה,
+3469959,יהודה ושומרון,31.6565000,35.1516000,2022-12-07 00:00:00,2022-12-07 16:23:04,0,Unknown,נקודת התחלה וסיום,2,0,אאאאאאוריה,
+3469969,יהודה ושומרון,31.6572900,35.1530200,2022-12-07 00:00:00,2022-12-07 16:23:00,0,Unknown,נקודה 5,2,0,אאאאאאוריה,
+3469965,יהודה ושומרון,31.6555800,35.1521600,2022-12-07 00:00:00,2022-12-07 16:22:56,0,Unknown,נקודה 2,2,0,אאאאאאוריה,
+1786641,יהודה ושומרון,31.6486531,35.1496524,2019-05-21 00:00:00,2022-12-07 16:22:48,0,יאיר פז,טעות בשם הרחוב: מבוא חרוב,2,0,אאאאאאוריה,
+877119,יהודה ושומרון,31.6507671,35.1498529,2017-02-01 00:00:00,2022-12-07 16:22:44,0,Unknown,moadon kshishim,2,0,אאאאאאוריה,
+1633284,יהודה ושומרון,31.6528003,35.1523224,2018-12-30 00:00:00,2022-12-07 16:22:30,0,Unknown,התנחלות,2,0,אאאאאאוריה,
+2042658,יהודה ושומרון,31.8864705,35.1041842,2020-01-01 00:00:00,2022-11-02 21:39:30,0,Map Love,'Military Checkpoint & Special Crossing' POI has no name POI types: man_made-surveillance OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,Ilanride22,
+879662,יהודה ושומרון,31.8399800,35.2648996,2017-02-03 00:00:00,2022-09-05 11:03:42,0,Anwar Nawajha,جبع (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,דוד-צבי,What?
+1703042,יהודה ושומרון,32.1059601,35.2542097,2019-03-07 00:00:00,2022-09-05 11:02:35,0,be_batta,'شارع نابلس رام الله القدس' POI name: כביש עפולה באר-שבע POI types: psurface-paved_good highway-trunk OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,דוד-צבי,
+1062294,יהודה ושומרון,32.0499883,35.2659529,2017-07-12 00:00:00,2022-09-05 11:01:36,0,Nidal Elwan,Nice location for relaxing (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,דוד-צבי,
+2576694,יהודה ושומרון,32.0417906,35.2644771,2021-03-12 00:00:00,2022-09-05 11:01:03,0,Unknown,سنجل ،رام الله,2,0,דוד-צבי,What the problem
+2576697,יהודה ושומרון,32.0417770,35.2645871,2021-03-12 00:00:00,2022-09-05 10:53:20,0,Unknown,سنجل .رام الله,2,0,דוד-צבי,What theproblem is
+3296084,יהודה ושומרון,32.0204526,35.0452495,2022-08-02 00:00:00,2022-09-05 10:51:57,0,Unknown,טליה,2,0,דוד-צבי,כלומר? תוכל לפרט בבקשה?
+2200137,יהודה ושומרון,32.0096845,35.1215881,2020-05-20 00:00:00,2022-09-05 10:51:22,0,Luziana,'מעין מהמם  כדי להגיע לנוה צוף (חלמיש) צריך לעבור מחסום    כן אפילו מומלץ בוויז מעיין מאיר  מעיין לילדים עדיף לקחת את השביל בצד ימין מעיין היותר עמוק נמצא בצד שמאל של השביל' POI has no name POI types: amenity-atm OSM data version: 2020-04-02T17:07:40Z  #mapsme,2,0,דוד-צבי,
+2585266,יהודה ושומרון,32.0109000,35.1302000,2021-03-19 00:00:00,2022-09-05 10:50:45,0,Unknown,נווה אח'י,2,0,דוד-צבי,
+2488310,יהודה ושומרון,31.9981680,35.1777399,2021-01-07 00:00:00,2022-09-05 10:46:34,0,Unknown,"זאת גינה ציבורית , אין קשר למשפחת גולדשטיין ולא ראוי שתקרא על שמם",2,0,דוד-צבי,זה השם הרשמי של המקום
+2488308,יהודה ושומרון,32.0011705,35.1819885,2021-01-07 00:00:00,2022-09-05 10:45:58,0,Unknown,זה השביל ההיקפי החדש לא הישן,2,0,דוד-צבי,"לא זה לא... זה היה ההיקפי לפני שנים רבות, כשעוד לא היו הגדרות של היום"
+2079601,יהודה ושומרון,31.9586436,35.2546334,2020-02-04 00:00:00,2022-09-05 10:45:11,0,AshrafSawalha,road is open,2,0,דוד-צבי,
+2483781,יהודה ושומרון,31.9695000,35.2534000,2021-01-03 00:00:00,2022-09-05 10:44:54,0,Unknown,الجنيدي,2,0,דוד-צבי,
+488909,יהודה ושומרון,31.9548750,35.2634954,2015-12-27 00:00:00,2022-09-05 10:35:04,0,ruthmor,בור מים,2,0,דוד-צבי,
+488908,יהודה ושומרון,31.9549706,35.2632916,2015-12-27 00:00:00,2022-09-05 10:35:00,0,ruthmor,מקימי הגדר,2,0,דוד-צבי,
+488910,יהודה ושומרון,31.9571871,35.2633238,2015-12-27 00:00:00,2022-09-05 10:34:49,0,ruthmor,התעשייה,2,0,דוד-צבי,
+1241261,יהודה ושומרון,31.9586254,35.2546334,2017-12-17 00:00:00,2022-09-05 10:20:36,0,AshrafSawalha,the road is open and passes to the highway.,2,0,דוד-צבי,
+2293332,יהודה ושומרון,31.8654670,35.2612960,2020-08-04 00:00:00,2022-09-04 13:16:58,0,מיטל גיגי תורס,להוסיף אורן שרביט - מספרת גברים וילדים,2,0,דוד-צבי,
+2293277,יהודה ושומרון,31.8652369,35.2607730,2020-08-04 00:00:00,2022-09-04 13:09:23,0,מיטל גיגי תורס,חסר שם: אופטיקה משקפיים,2,0,דוד-צבי,
+2110299,יהודה ושומרון,31.8695000,35.2582300,2020-03-04 00:00:00,2022-09-04 13:08:38,0,Ilanride22,no separated lanes of traffic,2,0,דוד-צבי,
+1636201,יהודה ושומרון,31.8719330,35.2609704,2019-01-01 00:00:00,2022-09-04 13:08:24,0,Abdo J,"'Silly landmark that does not exist ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: דרך זו מובילה לשטח B הכניסה לישראלים מסוכנת POI types: landuse-military OSM data version: 2018-12-13T07:12:02Z  #mapsme",2,0,דוד-צבי,
+1248470,יהודה ושומרון,31.9117481,35.2422440,2017-12-25 00:00:00,2022-09-04 13:07:59,0,Yosef Cohen,'מחלף בית אל' POI has no name POI types: highway-primary OSM data version: 2017-12-08T15:42:02Z  #mapsme,2,0,דוד-צבי,
+1452006,יהודה ושומרון,31.9159285,35.2403292,2018-07-12 00:00:00,2022-09-04 13:07:34,0,אילוז,חניון עין תות,2,0,דוד-צבי,
+1636203,יהודה ושומרון,31.9252753,35.2288027,2019-01-01 00:00:00,2022-09-04 13:02:31,0,Abdo J,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: דרך זו מובילה לשטח B הכניסה לישראלים מסוכנת POI types: landuse-military OSM data version: 2018-12-13T07:12:02Z  #mapsme",2,0,דוד-צבי,
+1636202,יהודה ושומרון,31.9242623,35.2261392,2019-01-01 00:00:00,2022-09-04 13:02:24,0,Abdo J,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: דרך זו מובילה לשטח A הכניסה לישראלים מסוכנת ואסורה על-פי חוק POI types: landuse-military OSM data version: 2018-12-13T07:12:02Z  #mapsme",2,0,דוד-צבי,
+2728705,יהודה ושומרון,31.9334000,35.2333000,2021-06-25 00:00:00,2022-09-04 13:00:07,0,Unknown,اين هذا,2,0,דוד-צבי,
+1956483,יהודה ושומרון,31.9418000,35.2225000,2019-10-11 00:00:00,2022-09-04 12:57:13,0,Unknown,ベテル,2,0,דוד-צבי,
+3013591,יהודה ושומרון,31.9420585,35.2232940,2022-01-16 00:00:00,2022-09-04 12:54:02,0,Unknown,כיכר שבעת המינים,2,0,דוד-צבי,
+1988723,יהודה ושומרון,31.8571900,35.1657400,2019-11-08 00:00:00,2022-08-22 20:43:06,0,Unknown,maya,2,0,dsh4,
+2633304,יהודה ושומרון,31.8589230,35.1573130,2021-04-22 00:00:00,2022-08-22 20:42:59,0,Ilanride22,רחוב השופר,2,0,dsh4,
+3324837,יהודה ושומרון,31.8134300,35.3958900,2022-08-21 00:00:00,2022-08-21 15:31:20,0,Nati669,כאן מתחיל רחוב הקטורת ופונה לימין (מחליף את יריחו),5,1,Nati669,
+3305352,יהודה ושומרון,31.7117536,35.1273572,2022-08-08 00:00:00,2022-08-08 14:34:23,0,Unknown,Ein El A'amoud,2,0,Hashem11,
+2403833,יהודה ושומרון,32.3396620,35.2070510,2020-10-29 00:00:00,2022-07-15 12:52:26,0,Unknown,مفروشات السعد للسجاد والأثاث_جبع,3,1,Mohammed barham,
+2403837,יהודה ושומרון,32.3394082,35.2068526,2020-10-29 00:00:00,2022-07-15 12:52:22,0,Unknown,مفروشات السعد للسجاد والاثاث-جبع,3,1,Mohammed barham,
+1124410,יהודה ושומרון,32.3464857,35.1997058,2017-09-02 00:00:00,2022-07-15 12:52:18,0,FeraS-Mehd,'مركز صيانة شركة ييجو في جنين' POI name: اوتو زون مركز خدمات ما بعد البيع POI types: shop-car_repair OSM data version: 2017-07-28T09:42:02Z  #mapsme,3,1,Mohammed barham,
+2403839,יהודה ושומרון,32.3385400,35.2051700,2020-10-29 00:00:00,2022-07-15 12:52:14,0,Unknown,مفروشات السعد للسجاد والأثاث-جبع,3,1,Mohammed barham,
+1045333,יהודה ושומרון,31.5812308,35.4071857,2017-06-27 00:00:00,2022-06-06 08:31:44,0,Mahmoud daraghmeh,'معبر' POI name: Mizpe Shalem Checkpoint POI types: barrier-gate OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,mardiz,is mapped
+2004593,יהודה ושומרון,31.6716491,35.4370570,2019-11-22 00:00:00,2022-06-06 08:30:43,0,GBAB,Bridge moved ca. 50 m towards East,2,0,mardiz,is tagged
+1746779,יהודה ושומרון,31.6717686,35.4366449,2019-04-15 00:00:00,2022-06-06 08:30:32,0,scbi,Straßenverlauf neu,2,0,mardiz,tagged
+1044554,יהודה ושומרון,32.4386363,35.3228295,2017-06-27 00:00:00,2022-04-24 10:16:10,0,Fareed Eran,قرية حداد (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,шварц миша,
+907754,יהודה ושומרון,32.1675039,35.0210346,2017-02-27 00:00:00,2022-04-22 23:51:56,0,Givattal,Golan (OSM data version: 2017-02-15T16:20:03Z) #mapsme,6,1,TDK2022,
+1381747,יהודה ושומרון,31.7750340,35.3008388,2018-05-03 00:00:00,2022-04-19 16:19:49,0,Yehudit Sloushch,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: pizza anshehu POI types: amenity-fast_food OSM data version: 2018-03-16T17:06:02Z  #mapsme",2,0,Matan_M132,fixed
+1674871,יהודה ושומרון,31.7909699,35.3083286,2019-02-08 00:00:00,2022-04-19 16:15:20,0,Unknown,баскетбольная площадка,2,0,Matan_M132,fixed
+3132446,יהודה ושומרון,31.7305043,35.1492333,2022-04-13 00:00:00,2022-04-13 18:38:04,0,Unknown,Hhhcjjcjfjfjjfjfjfjjf,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+907758,יהודה ושומרון,32.1675039,35.0210346,2017-02-27 00:00:00,2022-04-08 13:21:01,0,Givattal,Golan (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,Matan_M132,
+2915823,יהודה ושומרון,31.8367646,34.9825501,2021-10-30 00:00:00,2022-02-08 08:53:40,0,moshebi,הפסקת בוקר 07:00-07:25,2,0,Sanniu,private note
+2598725,יהודה ושומרון,31.6591517,35.1224220,2021-03-29 00:00:00,2022-02-02 13:41:03,0,Ilanride22,add a roundabout,2,0,Ilanride22,
+880778,יהודה ושומרון,31.7066622,35.1356574,2017-02-04 00:00:00,2021-12-13 18:48:14,0,Yafa mobile 2017,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'العنوان الصحيح يبعد عن المكان الحالي 50 متر' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,hikerisaac12,
+1302136,יהודה ושומרון,31.8342033,35.3792354,2018-02-16 00:00:00,2021-09-23 13:08:14,0,Guy A,Does this road really exist?,3,1,noamikonissimikogmailcom,
+1563121,יהודה ושומרון,31.8834521,35.2142930,2018-10-17 00:00:00,2021-08-20 23:56:33,0,Unknown,iVAS Communications Ltd.,2,0,وينك من زمان؟,
+2813467,יהודה ושומרון,31.8836100,35.2144500,2021-08-20 00:00:00,2021-08-20 23:56:12,0,وينك من زمان؟,"وينك من زمان؟ www.wenak.ps دليل تجاري فلسطيني شامل لسجل المؤسسات والشركات التجارية بموقعها الجغرافي, وظائف, عطائات, سيرة ذاتية, سيارات, عقارات, فرص تدريب, منح جامعية",4,1,وينك من زمان؟,
+63406,יהודה ושומרון,31.9230270,35.0495625,2013-10-26 00:00:00,2021-08-08 21:26:33,0,Mr_Israel,several streetnames missing in this area,2,0,Shalomori123,Old comment
+367331,יהודה ושומרון,31.7497737,35.3715134,2015-05-20 00:00:00,2021-07-28 11:30:59,0,Unknown,"I dont know 'palstain' country, it's israel country, maybe  'pa'",5,1,yrtimiD,"if yes, please clarify on reactivation."
+2717111,יהודה ושומרון,31.7049413,35.3311450,2021-06-17 00:00:00,2021-07-23 19:27:15,0,wbc,'Orthodoxes Kloster' POI name: Mar Saba Convent POI types: amenity-place_of_worship-christian OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,yrtimiD,already exists
+1703040,יהודה ושומרון,32.0986547,35.1589892,2019-03-07 00:00:00,2021-07-12 17:33:09,0,be_batta,'مدخل محافظة سلفيت' POI name: (Um Alqora St.)شارع أم القرى POI types: highway-secondary OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,Matan_M132,
+1703039,יהודה ושומרון,32.1093113,35.1654087,2019-03-07 00:00:00,2021-07-12 17:32:49,0,be_batta,'دوار كفل حارس . سلفيت' POI name: צומת אריאל POI types: highway-motorway_junction OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,Matan_M132,
+1063481,יהודה ושומרון,32.0557254,35.2539901,2017-07-13 00:00:00,2021-07-09 04:04:08,0,Nidal Elwan,Palestinian site (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,user_11418917,
+1703041,יהודה ושומרון,32.1159019,35.2573494,2019-03-07 00:00:00,2021-07-09 04:03:45,0,be_batta,'مركز تفتيش للجيش الإسرائيلي داخل أراضي فلسطين' POI name: Zatarah Check Point POI types: barrier-border_control OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,user_11418917,
+2738877,יהודה ושומרון,32.1201205,35.2752800,2021-07-03 00:00:00,2021-07-09 04:03:30,0,anwarbanijami,"'هذه مستوطنة تم الاستيلاء عليها من قبل الاحتلال الاسرائيلي وتمت ازالتها' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: אביתר POI types: place-hamlet OSM data version: 2021-05-11T18:00:52Z  #mapsme",2,0,user_11418917,
+2739218,יהודה ושומרון,31.8080624,35.2574605,2021-07-03 00:00:00,2021-07-03 12:16:22,0,Adhamdwikat,المركز الطبي الفرنسي التخصصي,3,1,Adhamdwikat,
+752514,יהודה ושומרון,31.6497410,35.1620720,2016-10-18 00:00:00,2021-06-24 14:09:45,0,‫زين الدين الحرباوي‬‎,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'كانت فلسطين' (OSM data version: 2016-07-15T17:38:02Z) #mapsme",2,0,kartonage,This note does not contain anything meaningful to add to the map.
+752512,יהודה ושומרון,31.6497410,35.1620720,2016-10-18 00:00:00,2021-06-24 14:09:42,0,‫زين الدين الحرباوي‬‎,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'كانت فلسطين' (OSM data version: 2016-07-15T17:38:02Z) #mapsme",2,0,kartonage,This note does not contain anything meaningful to add to the map.
+752513,יהודה ושומרון,31.6497410,35.1620720,2016-10-18 00:00:00,2021-06-24 14:09:40,0,‫زين الدين الحرباوي‬‎,كانت فلسطين (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+1768443,יהודה ושומרון,31.6497499,35.1620692,2019-05-05 00:00:00,2021-06-24 14:09:10,0,Rony85,'Palestine' POI name: الضفة الغربية وقطاع غزة POI types: place-country OSM data version: 2019-03-28T14:13:02Z  #mapsme,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+1773231,יהודה ושומרון,31.6497410,35.1620720,2019-05-09 00:00:00,2021-06-24 14:09:08,0,Khaled Bassam Zaid,'State Of Palestine' POI name: الضفة الغربية وقطاع غزة POI types: place-country OSM data version: 2019-03-14T00:11:02Z  #mapsme,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+1559073,יהודה ושומרון,31.6497499,35.1620692,2018-10-13 00:00:00,2021-06-24 14:09:05,0,Abdo J,'Occupied Palestinian Territories ' POI name: الضفة الغربية وقطاع غزة POI types: place-country OSM data version: 2018-09-11T19:10:03Z  #mapsme,2,0,kartonage,This note does not contain anything meaningful to add to the map.
+763405,יהודה ושומרון,31.8318085,35.3082014,2016-10-27 00:00:00,2021-05-30 11:14:22,0,homebuilt,Ein Prat (OSM data version: 2016-10-10T15:13:03Z) #mapsme,3,1,איתי יקר,
+2685264,יהודה ושומרון,31.7229500,35.1707400,2021-05-26 00:00:00,2021-05-30 07:41:39,0,Unknown,מזכירות,2,0,Tsahi Ben-Ami,Added
+2685262,יהודה ושומרון,31.7219400,35.1703000,2021-05-26 00:00:00,2021-05-30 07:41:29,0,Unknown,משעול הקורנית,2,0,Tsahi Ben-Ami,Added
+2685259,יהודה ושומרון,31.7230300,35.1671300,2021-05-26 00:00:00,2021-05-30 07:41:20,0,Unknown,רחוב יורם (פיצ'י) בן מאיר,2,0,Tsahi Ben-Ami,Added
+2685261,יהודה ושומרון,31.7231100,35.1696700,2021-05-26 00:00:00,2021-05-30 07:41:12,0,Unknown,דרך ההר,2,0,Tsahi Ben-Ami,Added
+2685260,יהודה ושומרון,31.7229800,35.1683700,2021-05-26 00:00:00,2021-05-30 07:41:03,0,Unknown,דואר,2,0,Tsahi Ben-Ami,Added
+2685258,יהודה ושומרון,31.7235700,35.1661800,2021-05-26 00:00:00,2021-05-30 07:40:53,0,Unknown,רחוב הרימון,2,0,Tsahi Ben-Ami,Added
+2685255,יהודה ושומרון,31.7243400,35.1661400,2021-05-26 00:00:00,2021-05-30 07:40:39,0,Unknown,רחוב האלה,2,0,Tsahi Ben-Ami,Added
+2685256,יהודה ושומרון,31.7248300,35.1665400,2021-05-26 00:00:00,2021-05-30 07:40:29,0,Unknown,רחוב האלון,2,0,Tsahi Ben-Ami,Added
+2685257,יהודה ושומרון,31.7244600,35.1650200,2021-05-26 00:00:00,2021-05-30 07:40:17,0,Unknown,רחוב הקטלב,2,0,Tsahi Ben-Ami,Added
+1744332,יהודה ושומרון,32.1290440,34.9862865,2019-04-13 00:00:00,2021-05-23 14:01:12,0,Unknown,יש להוסיף שם רחוב - רחוב החבצלת,2,0,Sanniu,Added
+110237,יהודה ושומרון,31.5296320,35.1182351,2014-01-30 00:00:00,2021-05-19 13:09:31,0,Uri baruchB,Centre medical,2,0,Matan_M132,
+1857073,יהודה ושומרון,31.7424188,35.2891367,2019-07-25 00:00:00,2021-04-09 05:14:31,0,Unknown,This is a crossing that should be accessible to Palestinians.,2,0,Elena Litvinov,
+2461940,יהודה ושומרון,31.6925000,35.3652000,2020-12-14 00:00:00,2021-03-31 09:59:56,0,Ilanride22,intermediate?,2,0,Ohad1972,
+1329227,יהודה ושומרון,32.4120432,35.0551672,2018-03-16 00:00:00,2021-03-29 21:34:01,0,محمد ياسين أبو الشوارب,'بوابة نزلة عيسى ' POI has no name POI types: barrier-gate OSM data version: 2018-02-09T21:26:02Z  #mapsme,2,0,Ilanride22,
+2330493,יהודה ושומרון,31.8641366,35.2614248,2020-08-31 00:00:00,2021-03-14 18:41:27,0,Unknown,בדיקה,2,0,Matan_M132,
+2330506,יהודה ושומרון,31.8651868,35.2613899,2020-08-31 00:00:00,2021-03-08 06:30:50,0,Unknown,חומוס יאלי נמצא במקום במקום חומוס אליהו. בבקשה לשנות בהקדם,2,0,Matan_M132,
+2293288,יהודה ושומרון,31.8648701,35.2632004,2020-08-04 00:00:00,2021-03-08 06:30:38,0,מיטל גיגי תורס,יש להוסיף: מועצה אזורית מטה בנימין (בבניה),2,0,Matan_M132,
+2293275,יהודה ושומרון,31.8661048,35.2599898,2020-08-04 00:00:00,2021-03-08 06:30:11,0,מיטל גיגי תורס,שם החנות חסר: על המשקל,2,0,Matan_M132,שמות החנויות קיימות
+2331231,יהודה ושומרון,31.8661084,35.2599157,2020-09-01 00:00:00,2021-03-08 06:30:05,0,Unknown,על המשקל,2,0,Matan_M132,שמות החנויות קיימות
+2293274,יהודה ושומרון,31.8660569,35.2599147,2020-08-04 00:00:00,2021-03-08 06:29:59,0,מיטל גיגי תורס,שם החנות חסר:  נעלי שני,2,0,Matan_M132,שמות החנויות קיימות
+2293273,יהודה ושומרון,31.8659658,35.2599549,2020-08-04 00:00:00,2021-03-08 06:29:47,0,מיטל גיגי תורס,שם החנות חסר:  הכל לבית,2,0,Matan_M132,שמות החנויות קיימות
+2330495,יהודה ושומרון,31.8645558,35.2598208,2020-08-31 00:00:00,2021-03-08 06:29:00,0,Unknown,ש.ג.,2,0,Matan_M132,
+2333622,יהודה ושומרון,31.8644289,35.2602983,2020-09-03 00:00:00,2021-03-08 06:28:56,0,Unknown,החרשיה נגריה מעצבת,2,0,Matan_M132,
+2293252,יהודה ושומרון,31.8643667,35.2606443,2020-08-04 00:00:00,2021-03-08 06:27:55,0,מיטל גיגי תורס,זהו אינו מבנה המועצה. זהו מבנה  החברה לפיתוח מטה בנימין,2,0,Matan_M132,
+2331066,יהודה ושומרון,31.8639178,35.2633774,2020-09-01 00:00:00,2021-03-08 06:26:50,0,Unknown,מכבסת הפסגה,2,0,Matan_M132,
+2488312,יהודה ושומרון,32.0016573,35.1763639,2021-01-07 00:00:00,2021-03-08 06:25:56,0,Unknown,בית כנסת חדש עטרת,2,0,Matan_M132,
+2488313,יהודה ושומרון,32.0018188,35.1756558,2021-01-07 00:00:00,2021-03-08 06:25:12,0,Unknown,מועדון לא אולם שמחות,2,0,Matan_M132,
+1808164,יהודה ושומרון,31.6657053,35.2417240,2019-06-10 00:00:00,2021-02-27 20:48:08,0,Unknown,Add english : Herodion National Park,2,0,Dindia,
+1777750,יהודה ושומרון,32.0484611,35.0581455,2019-05-13 00:00:00,2021-02-24 15:44:38,0,Unknown,"Zereda, the home town of Jeroboam I, the son of Nebat, the first king following the division of the kingdom of Solomon",2,0,Matan_M132,"fixed, the site is a little bit northen from this point"
+1972959,יהודה ושומרון,32.0506518,35.0724004,2019-10-24 00:00:00,2021-02-24 15:35:16,0,محمد الشعيبي ابوخليل,'محمية وادي الزرقاء العلوي' POI name: נחל שילה עילי POI types: leisure-nature_reserve OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,Matan_M132,
+2504785,יהודה ושומרון,32.4863434,35.4011679,2021-01-20 00:00:00,2021-01-20 09:26:30,0,Unknown,1245614,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2407497,יהודה ושומרון,31.8428667,35.2300644,2020-11-02 00:00:00,2020-11-02 09:50:18,0,Unknown,onosm.org submitted note from a business: name: Castalita Restaurant phone: 02-636-9944 website: Castalita.com twitter:  facebook: https://facebook.com/Castalita email: castalita.restaurant@gmail.com hours: Tuesday-Sunday 10:00am - 10:00pm category: Middle Eastern Restaurants address: beit hanina,2,0,Raymos Javer,This is accurate
+2102278,יהודה ושומרון,31.6718000,35.4418000,2020-02-26 00:00:00,2020-09-06 20:53:49,0,Ilanride22,This stream should probably be intermittent,2,0,Ilanride22,
+2293290,יהודה ושומרון,31.8641321,35.2648526,2020-08-04 00:00:00,2020-08-04 11:56:59,0,מיטל גיגי תורס,יש להוסיף: מכבסת הפסגה הנגריה - מושיק שולץ,3,1,מיטל גיגי תורס,
+2225247,יהודה ושומרון,32.2766381,35.1913601,2020-06-11 00:00:00,2020-06-11 08:46:48,0,Unknown,Sabastia Water Tank,2,0,nail abo saif,
+2224870,יהודה ושומרון,32.2655957,35.1887470,2020-06-10 00:00:00,2020-06-10 20:21:23,0,nail abo saif,The third main entrance to sebastia,2,0,nail abo saif,
+2224868,יהודה ושומרון,32.2714720,35.1817685,2020-06-10 00:00:00,2020-06-10 20:18:57,0,nail abo saif,The second main entrance to sebastia,2,0,nail abo saif,
+2224865,יהודה ושומרון,32.2752139,35.1767085,2020-06-10 00:00:00,2020-06-10 20:16:05,0,nail abo saif,The first main entrance to sebastia,2,0,nail abo saif,
+2208076,יהודה ושומרון,31.8418231,35.0145972,2020-05-27 00:00:00,2020-05-27 09:45:32,0,Unknown,3,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+2208074,יהודה ושומרון,31.8429761,35.0227082,2020-05-27 00:00:00,2020-05-27 09:40:58,0,Unknown,2,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+2208073,יהודה ושומרון,31.8431200,35.0252100,2020-05-27 00:00:00,2020-05-27 09:40:49,0,Unknown,1,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+2154379,יהודה ושומרון,32.0605323,35.3274610,2020-04-10 00:00:00,2020-04-10 09:56:07,0,אמונה טורס,"גובה של 870 מטר, נוף מדהים, אוויר הרים, צימרים במקום",2,0,אמונה טורס,
+2113267,יהודה ושומרון,32.4829225,35.1442337,2020-03-07 00:00:00,2020-04-05 21:06:48,0,مزعه دجاج بياض مغلقه,المزرعه النموذجيه,4,1,סטסיה,לא אני
+2108520,יהודה ושומרון,31.6743000,35.4340000,2020-03-03 00:00:00,2020-03-03 01:23:07,0,Ilanride22,intermittent,2,0,Ilanride22,
+2054021,יהודה ושומרון,31.5204900,35.1108900,2020-01-11 00:00:00,2020-01-11 18:55:51,0,Zuzu22,Al Fakhori Guesthouse,3,0,Zuzu22,
+2054020,יהודה ושומרון,31.5204580,35.1121786,2020-01-11 00:00:00,2020-01-11 18:52:37,0,Zuzu22,Al Fakhori Guesthouse,2,0,Zuzu22,
+2049262,יהודה ושומרון,31.8837457,35.1990593,2020-01-07 00:00:00,2020-01-07 10:04:41,0,Louie Zeidan,Kings Donuts and Chicken,2,0,Louie Zeidan,
+1412637,יהודה ושומרון,31.7085271,35.3537464,2018-06-01 00:00:00,2019-12-18 02:31:53,0,mohammed atari,start,3,0,freebeer,no info
+1673976,יהודה ושומרון,32.0682834,35.0514936,2019-02-07 00:00:00,2019-12-17 21:04:03,0,Unknown,here,3,0,freebeer,"no, there"
+1959007,יהודה ושומרון,31.8026008,35.2856827,2019-10-12 00:00:00,2019-12-17 20:54:30,0,Unknown,Illegitimate state,2,0,freebeer,comatose state inebriated state confused state solid state flatulent state impoverished state i'm in an awful state
+1564279,יהודה ושומרון,31.5258291,35.1041898,2018-10-18 00:00:00,2019-11-08 11:43:46,0,Bubaya,bridge between street and Beit Hadassah.,2,0,maurizioa,fatto
+110236,יהודה ושומרון,31.5314701,35.1152819,2014-01-30 00:00:00,2019-11-08 11:43:45,0,Uri baruchB,Bank Leumi,2,0,maurizioa,
+1328894,יהודה ושומרון,31.5244987,35.1016654,2018-03-15 00:00:00,2019-11-08 11:43:44,0,rriemann,Ancient Synagoge,2,0,maurizioa,
+684521,יהודה ושומרון,31.5251417,35.1058030,2016-08-23 00:00:00,2019-11-08 11:13:05,0,Unknown,https://en.wikipedia.org/wiki/Hebron_Yeshiva,3,0,maurizioa,fatto
+110234,יהודה ושומרון,31.5248079,35.1108670,2014-01-30 00:00:00,2019-11-08 11:03:27,0,Uri baruchB,Tombeau des patriarchs  Abraham isaac jacob,2,0,maurizioa,
+1066737,יהודה ושומרון,31.5248290,35.1103560,2017-07-16 00:00:00,2019-11-08 11:03:27,0,Unknown,Machpela Checkpoint,2,0,maurizioa,
+869172,יהודה ושומרון,31.5248641,35.1107198,2017-01-27 00:00:00,2019-11-08 11:03:26,0,ahmadalawal,الحرم الإبراهيمي (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,maurizioa,
+871490,יהודה ושומרון,31.5247121,35.1107707,2017-01-28 00:00:00,2019-11-08 11:03:26,0,ahmadalawal,الحرم الإبراهيمي (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,maurizioa,
+971017,יהודה ושומרון,31.5247658,35.1108016,2017-04-21 00:00:00,2019-11-08 11:03:25,0,Alaalana Layal,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'الحرم الإبراهيمي مكان مقدس للمسلمين' (OSM data version: 2016-08-22T09:03:02Z) #mapsme",2,0,maurizioa,
+1980539,יהודה ושומרון,32.1069000,35.4574000,2019-10-31 00:00:00,2019-11-01 09:53:01,0,Unknown,rrrrr,2,0,pitscheplatsch,personal bookmark
+1180240,יהודה ושומרון,31.8035466,35.3258237,2017-10-20 00:00:00,2019-10-21 17:19:35,0,yrtimiD,this road is connected to main,2,0,Ilanride22,
+336962,יהודה ושומרון,32.2099780,35.2726150,2015-03-24 00:00:00,2019-10-14 16:18:11,0,Unknown,gfjhfghjfghgfhf,2,0,tanzwiese,
+1328895,יהודה ושומרון,31.5244344,35.1017180,2018-03-15 00:00:00,2019-06-19 18:43:35,0,rriemann,Synagoge,2,0,Nordpfeil,added
+1636592,יהודה ושומרון,31.5158829,35.3963227,2019-01-02 00:00:00,2019-06-16 11:16:35,0,Russkii,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: עיינות קדם POI types: natural-spring OSM data version: 2018-12-13T07:12:02Z  #mapsme",2,0,Syl,Nothing here
+174958,יהודה ושומרון,31.5123007,35.3972626,2014-05-27 00:00:00,2019-06-07 13:56:03,0,Doron Liad,מעיינות חמים. נביעה של מי גפרית.,5,1,댄디스트리,
+1759152,יהודה ושומרון,31.9764279,35.0043741,2019-04-27 00:00:00,2019-04-27 09:17:16,0,rawhe,بيت روحي ناصر,2,0,rawhe,
+406871,יהודה ושומרון,31.7196938,35.2029097,2015-08-01 00:00:00,2019-03-28 17:29:10,0,Unknown,The wall,2,0,Marsupium,
+406872,יהודה ושומרון,31.7189911,35.2022552,2015-08-01 00:00:00,2019-03-28 17:29:02,0,Unknown,The wall,2,0,Marsupium,
+1195394,יהודה ושומרון,31.8969657,35.0435959,2017-11-04 00:00:00,2019-03-05 12:18:14,0,yrtimiD,max height 5.2 under the bridge,2,0,Sanniu,
+63405,יהודה ושומרון,31.9309309,35.0466013,2013-10-26 00:00:00,2019-01-30 11:53:53,0,Mr_Israel,Streetname is missing,2,0,Sanniu,
+63404,יהודה ושומרון,31.9240469,35.0416231,2013-10-26 00:00:00,2019-01-30 11:53:42,0,Mr_Israel,The streetname is missing,2,0,Sanniu,
+1044556,יהודה ושומרון,31.9060692,35.2225577,2017-06-27 00:00:00,2019-01-28 19:14:32,0,Fareed Eran,'امين ابو زينة' POI has no name POI types: leisure-playground OSM data version: 2016-11-05T13:55:03Z  #mapsme,2,0,rawan sous,
+655295,יהודה ושומרון,32.1224570,34.9951090,2016-08-03 00:00:00,2019-01-08 15:48:26,0,Unknown,this parking is free and for customers (note created by the app 'free parking'). Description: sport club (Количество мест : 11-50),4,0,PlanesRadar,
+1636691,יהודה ושומרון,32.2049624,35.2740915,2019-01-02 00:00:00,2019-01-02 11:58:18,0,hakam wasef cohen,Har bracha tahini,2,0,hakam wasef cohen,bracha tahini
+1634260,יהודה ושומרון,31.7706200,35.2540400,2018-12-30 00:00:00,2018-12-30 21:26:06,0,Unknown,No passage here,2,0,alexy,
+1581101,יהודה ושומרון,31.8834475,35.2145156,2018-11-04 00:00:00,2018-11-04 12:55:08,0,iVAS Communication,iVas Communication,2,0,iVAS Communication,
+1225655,יהודה ושומרון,31.9031369,35.2238631,2017-12-02 00:00:00,2018-10-29 23:37:25,0,fkuran56,my dad home,2,0,freebeer,personal maps.me bookmark
+877104,יהודה ושומרון,31.6544591,35.1508212,2017-02-01 00:00:00,2018-10-25 15:13:11,0,Unknown,this is my map of efrat,2,0,freebeer,no mapping info
+907753,יהודה ושומרון,32.1665284,35.0213032,2017-02-27 00:00:00,2018-10-25 15:12:46,0,Givattal,Дом (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,freebeer,this is still a road
+907755,יהודה ושומרון,32.1665284,35.0213032,2017-02-27 00:00:00,2018-10-25 15:12:15,0,Givattal,Дом (OSM data version: 2017-02-15T16:20:03Z) #mapsme,2,0,freebeer,this is a road
+1500381,יהודה ושומרון,31.8391579,34.9893522,2018-08-24 00:00:00,2018-08-24 04:55:16,0,emm1aus,The name of the place is Emmaus Nicopolis,4,1,emm1aus,
+1499993,יהודה ושומרון,32.2685000,35.1634000,2018-08-23 00:00:00,2018-08-23 17:07:21,0,Yaishamjad,Nablus Tulkarm street,2,0,Yaishamjad,
+577672,יהודה ושומרון,31.7191143,35.2047014,2016-05-30 00:00:00,2018-07-10 08:57:37,0,Unknown,blööö,2,0,30303020,
+108532,יהודה ושומרון,31.7173301,35.2013808,2014-01-27 00:00:00,2018-07-10 08:56:25,0,Unknown,Intercontinental Jacir Palace,3,0,30303020,Probably outdated information.
+406864,יהודה ושומרון,31.7172935,35.2012092,2015-08-01 00:00:00,2018-07-10 08:55:46,0,Unknown,More commonly goes by the name Jasser Palace,2,0,30303020,Already mapped.
+175340,יהודה ושומרון,31.7177088,35.2018878,2014-05-27 00:00:00,2018-07-10 08:55:26,0,Sulaima,"it's written Divano but people won't know what it means. Divano is a restaurant, cafe and bar in Palestine. Was established in March 29, 2010 , to be one of the best restaurants in delivering such food style, Burgers, Dinners, French, Greek and Mediterranean, Italian, Mexican, Sandwiches, Seafood, Steakhouses and Vegetarian. it has one fish aquarium which is considered the biggest across the country,  Divano Cafe and Restaurant offers premium products and excellent customer service,",3,0,30303020,Spam. This feature is available for mapping errors. Please refer to https://wiki.openstreetmap.org/wiki/Notes#Use_of_notes_for_adding_a_marker_for_personal_use to read about the usage of notes.
+1440104,יהודה ושומרון,31.8803819,35.2420056,2018-06-29 00:00:00,2018-06-29 11:49:12,0,Unknown,ישיבת היכל אליהו,4,1,Yellows,"Good info, submitted by me when anonymous"
+1434206,יהודה ושומרון,31.3551029,34.9385834,2018-06-23 00:00:00,2018-06-23 09:43:32,0,Ahmad Almasri,Rahwah,6,1,Ahmad Almasri,
+1389752,יהודה ושומרון,31.8974979,35.0427419,2018-05-10 00:00:00,2018-06-11 11:18:49,0,Roland Steinfeld,'This is only a checkpoint. The road is not blocked! Please open it for navigation.' POI name: מחסום מכבים POI types: building OSM data version: 2018-04-17T05:20:02Z  #mapsme,2,0,Sanniu,should be fixed now
+1409050,יהודה ושומרון,31.5203494,35.1096010,2018-05-29 00:00:00,2018-05-30 05:05:17,0,Unknown,hgdjkjlfglvdlfjl,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+663974,יהודה ושומרון,31.9391891,35.2228761,2016-08-09 00:00:00,2018-02-22 08:48:40,0,Unknown,يسيسي,6,1,SafwatHalaby,
+784945,יהודה ושומרון,31.8036713,35.3248901,2016-11-16 00:00:00,2018-02-16 20:20:03,0,vng_me,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'duplicate' (OSM data version: 2016-10-10T15:13:03Z) #mapsme",2,0,Guy A,
+1279550,יהודה ושומרון,31.9467400,35.2307000,2018-01-26 00:00:00,2018-02-10 22:39:50,0,אריL,היי שלום לכולם אני גר באזור מקווה לעזור וללמוד לערוך בנתיים אני רק בפלאפון.  את השביל שמסומן צריך לחבר לשביל הדרומי בקו ישר. תודה.,6,1,אריL,
+1275640,יהודה ושומרון,32.3296789,35.4083633,2018-01-21 00:00:00,2018-01-22 17:23:20,0,Unknown,منزل السيد يزيد وهدان,2,0,SafwatHalaby,
+1273023,יהודה ושומרון,32.1097036,35.0637786,2018-01-19 00:00:00,2018-01-22 17:21:19,0,abd2343,'مسبح ومنتزه  بديا طريق مسحه' POI has no name POI types: man_made-water_tower OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,SafwatHalaby,
+131213,יהודה ושומרון,31.8645831,35.1724720,2014-03-08 00:00:00,2018-01-19 21:46:17,0,zivco,גבעת זאב שלנו!,2,0,Sanniu,Already mapped
+1267724,יהודה ושומרון,31.3665363,34.9025345,2018-01-14 00:00:00,2018-01-16 11:29:24,0,Unknown,Spotted a mistake or something missing? Let other mappers know so we can fix it. Move the marker to the correct position and ty,3,0,SafwatHalaby,
+718455,יהודה ושומרון,32.1055521,35.2085853,2016-09-19 00:00:00,2017-12-20 13:14:04,0,Unknown,מגרש כדורגל,2,0,Sanniu,fixed
+244262,יהודה ושומרון,32.1219918,35.0480119,2014-09-21 00:00:00,2017-12-20 13:12:28,0,ShauShankMoonB,"I'm on a steer with houses, the continuation of ha'alon street (האלון)",5,0,Sanniu,Already added
+1223056,יהודה ושומרון,31.8401204,34.9865133,2017-12-01 00:00:00,2017-12-18 08:53:16,0,dsh4,Repainted as 3 lanes from about here to Shaar HaGai east only. No left shoulder. At Shaar HaGai no right shoulder.,3,0,Sanniu,"Checked, updated"
+835040,יהודה ושומרון,31.7705576,35.2987546,2016-12-30 00:00:00,2017-12-17 20:43:05,0,Vladimir Bykhovskiy,Маале адумим (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,Sanniu,updated
+1198787,יהודה ושומרון,31.8384489,34.9877455,2017-11-07 00:00:00,2017-12-17 20:34:24,0,dsh4,destination באר שבע מודיעין destination ref 3,2,0,Sanniu,added
+1154815,יהודה ושומרון,31.8383733,35.0132561,2017-09-27 00:00:00,2017-11-08 09:50:44,0,Unknown,מנהרה 1,2,0,Sanniu,Already marked
+987908,יהודה ושומרון,31.8756079,35.1826429,2017-05-06 00:00:00,2017-10-30 12:34:14,0,Unknown,מחנה עופר,2,0,Sanniu,"Already named, thanks."
+909702,יהודה ושומרון,31.8061842,35.3260526,2017-02-28 00:00:00,2017-10-30 12:29:06,0,Unknown,It's worng direction,2,0,Sanniu,"All right now, thanks."
+1016515,יהודה ושומרון,32.0563676,35.0594203,2017-06-02 00:00:00,2017-08-09 20:38:15,0,yrtimiD,track is here,3,0,yrtimiD,highway=track. unfinished because of lack of gpx recordings
+562109,יהודה ושומרון,32.0550630,35.3011322,2016-05-08 00:00:00,2017-07-13 23:08:16,0,Geography Canada,Fix Palestine. Add label.,3,0,Geography Canada,This was fixed a while back - thanks :D :)!
+1061643,יהודה ושומרון,32.0499723,35.2658518,2017-07-12 00:00:00,2017-07-12 12:23:01,0,Nidal Elwan,the best view of Sinjil and it's surronding towns (OSM data version: 2016-09-19T14:38:03Z) #mapsme,6,1,SafwatHalaby,"Maps.ME is very basic for editing. You may want to use the default iD editor (available on openstreetmap.org with no download required), or JOSM for advanced editing."
+85049,יהודה ושומרון,32.0817019,35.3935719,2013-12-11 00:00:00,2017-07-12 10:41:35,0,حاتم,الخارطة قديمة كثير ياريت التجديد بالاخص فلسطين,2,0,SafwatHalaby,"This is non-specific, closing"
+1061581,יהודה ושומרון,32.0466634,35.2753973,2017-07-12 00:00:00,2017-07-12 10:31:32,0,Nidal Elwan,Israeli trash (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,SafwatHalaby,
+1059619,יהודה ושומרון,32.0394433,35.2767042,2017-07-10 00:00:00,2017-07-11 19:24:11,0,Nidal Elwan,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-09-19T14:38:03Z) #mapsme",2,0,Nidal Elwan,
+1059600,יהודה ושומרון,32.0557254,35.2539901,2017-07-10 00:00:00,2017-07-11 19:23:56,0,Nidal Elwan,Palestinian place that tourists love (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Nidal Elwan,
+1059651,יהודה ושומרון,32.0463627,35.2632719,2017-07-10 00:00:00,2017-07-11 19:23:48,0,Nidal Elwan,النّخل (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,Nidal Elwan,
+674942,יהודה ושומרון,32.0394433,35.2767042,2016-08-17 00:00:00,2017-07-11 19:23:19,0,Mohammed Darawad,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'not the real name' (OSM data version: 2016-07-15T17:38:02Z) #mapsme",4,1,Nidal Elwan,
+1029883,יהודה ושומרון,31.7852748,35.2833652,2017-06-14 00:00:00,2017-06-15 15:33:53,0,Unknown,п,4,0,mavl,The note does not contain an useful information for OpenStreetMap.
+995523,יהודה ושומרון,32.0080300,35.1266100,2017-05-14 00:00:00,2017-05-14 04:37:44,0,bennie cohen,בית,2,0,bennie cohen,
+925146,יהודה ושומרון,31.8839600,35.2190900,2017-03-13 00:00:00,2017-03-13 09:23:40,0,Majed jaffal,MADEK,3,1,Majed jaffal,
+893346,יהודה ושומרון,31.8650751,35.1515937,2017-02-15 00:00:00,2017-02-15 17:41:17,0,יעל סלע,היעל,2,0,יעל סלע,
+877110,יהודה ושומרון,31.6552034,35.1471788,2017-02-01 00:00:00,2017-02-02 15:07:20,0,Unknown,this is my house,2,0,mavl,"Thank you for a note, but a building is already marked in OpenStreetMap."
+830322,יהודה ושומרון,31.3695130,34.9416530,2016-12-27 00:00:00,2017-02-01 15:45:45,0,Unknown,Other:  This error is submitted from Navmii GPS.,2,0,Deanna Earley,
+754980,יהודה ושומרון,31.5895000,34.9746400,2016-10-20 00:00:00,2016-10-21 15:30:31,0,Unknown,m,2,0,mavl,The note does not contain a useful information for OpenStreetMap. The note was closed without the change of the data.
+348743,יהודה ושומרון,31.8400139,35.3492832,2015-04-16 00:00:00,2016-07-31 14:07:59,0,Unknown,"יש כאן מעין שנקרא עין מבוע. מקום נחמד מאוד, די מטויל.",2,0,Michael Gefen,
+463234,יהודה ושומרון,32.0915190,35.0156593,2015-11-05 00:00:00,2015-12-17 20:17:54,0,Unknown,נסיון  כחכחהחנחנחחנ,2,0,Guy A,
+472186,יהודה ושומרון,31.7610769,35.4944318,2015-11-21 00:00:00,2015-11-21 19:23:09,0,uspoerlein,street doesnt exist,2,0,uspoerlein,
+411679,יהודה ושומרון,31.7676536,35.4056740,2015-08-10 00:00:00,2015-10-18 10:48:39,0,Unknown,fbfbf,2,0,yaya3133,
+444177,יהודה ושומרון,31.8333442,34.9797367,2015-10-01 00:00:00,2015-10-01 21:38:17,0,alexy,locked gate,2,0,alexy,
+270849,יהודה ושומרון,31.9520416,35.2331543,2014-11-15 00:00:00,2015-07-30 12:36:36,0,Unknown,in bad mood,2,0,Alex Strunck,
+402123,יהודה ושומרון,31.5141689,35.1187071,2015-07-24 00:00:00,2015-07-24 01:04:10,0,fadight,Ghaith Printer،مطبعة غيث,4,1,fadight,Ghaith Printer
+396697,יהודה ושומרון,31.9081645,35.3433609,2015-07-15 00:00:00,2015-07-15 11:10:22,0,mbatta,Mohammad Batta test,2,0,mbatta,
+19067,יהודה ושומרון,31.8080442,35.3312159,2013-07-30 00:00:00,2014-11-15 17:30:37,0,yrtimiD,bridge,6,1,yrtimiD,added bridge
+244261,יהודה ושומרון,32.1221091,35.0549698,2014-09-21 00:00:00,2014-09-21 04:16:06,0,ShauShankMoonB,"I'm on a street, the continuation of ha'alon street",2,0,ShauShankMoonB,
+142558,יהודה ושומרון,31.7913393,35.3398097,2014-03-30 00:00:00,2014-08-31 13:53:32,0,Unknown,Is this Sodastream?,2,0,Yanivma1,"No, That's not SodaStream."
+122644,יהודה ושומרון,32.0689016,35.0419235,2014-02-22 00:00:00,2014-08-18 13:22:31,0,Unknown,pmiim,3,0,Mr_Israel,spam
+155185,יהודה ושומרון,31.8309902,35.1284623,2014-04-22 00:00:00,2014-05-23 07:24:11,0,Unknown,Street's Name: HaGuy  (הגיא),2,0,dekeleinidekel,
+155186,יהודה ושומרון,31.8291580,35.1325393,2014-04-22 00:00:00,2014-05-23 07:24:06,0,Unknown,Street's Name: Mevo HaBustan  (מבוא הבוסתן),2,0,dekeleinidekel,
+155183,יהודה ושומרון,31.8312454,35.1310909,2014-04-22 00:00:00,2014-04-22 08:51:50,0,Unknown,Street's Name: Mevo HaKramim (מבוא הכרמים),2,0,dekeleinidekel,
+155184,יהודה ושומרון,31.8307168,35.1319975,2014-04-22 00:00:00,2014-04-22 08:51:44,0,Unknown,Street's Name: Mevo HaNataf  (מבוא הנטף),4,1,dekeleinidekel,
+107752,יהודה ושומרון,31.8293403,35.1296961,2014-01-25 00:00:00,2014-04-21 21:52:57,0,Unknown,Street's Name: Nof Harim (נוף הרים),2,0,yrtimiD,named road.
+154565,יהודה ושומרון,31.8268882,35.1315951,2014-04-21 00:00:00,2014-04-21 21:51:52,0,Unknown,יש פה כיכר,2,0,yrtimiD,looks like roundabout already in place.
+51646,יהודה ושומרון,32.1075742,35.1877525,2013-10-03 00:00:00,2013-10-04 14:39:42,0,Unknown,:)))) i'm here!,2,0,Mr_Israel,great :)
+16757,יהודה ושומרון,31.9795910,35.1204854,2013-07-24 00:00:00,2013-10-04 14:39:22,0,Unknown,",m ,m m,",3,0,Mr_Israel,no answer.
+19069,יהודה ושומרון,31.7159565,35.4541254,2013-07-30 00:00:00,2013-10-04 14:38:03,0,yrtimiD,toilets,2,0,Mr_Israel,added
+19068,יהודה ושומרון,31.8415634,35.5278111,2013-07-30 00:00:00,2013-09-24 09:22:21,0,yrtimiD,barrier,2,0,Mr_Israel,added + a privat small way to stop navigation through this point.
+20886,יהודה ושומרון,31.9285816,35.0188994,2013-08-04 00:00:00,2013-09-24 08:06:28,0,brill,Break in the road; mo through route,2,0,Mr_Israel,"I have added a footwalk in the middle, so its not possible to drive along the full street anymore. Thank you for posting."
+20885,יהודה ושומרון,31.9298109,35.0180411,2013-08-04 00:00:00,2013-09-24 08:05:03,0,brill,Street name מהר'י קאפח not mentioned on map,2,0,Mr_Israel,added the streetname to this street part.

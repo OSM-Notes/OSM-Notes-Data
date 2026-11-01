@@ -1,0 +1,3 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5206914,ދިވެހިރާއްޖެ,5.1777818,73.0997243,2026-03-16 00:00:00,2026-04-19 20:08:33,34,silvan h,Sandbank Baa Atoll  #CoMaps android 2026.03.09-18-Google,2,0,map per,"Thanks, added the name to the Baa Atoll"

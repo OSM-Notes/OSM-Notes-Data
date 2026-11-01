@@ -1,0 +1,5 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4252596,France (zone contigüe en Atlantique et Manche Ouest),47.1694714,-3.4748865,2024-05-18 00:00:00,2024-06-04 11:39:51,0,Geovelo_Notes,12rue Maurice Thorez 5100 Lorient (This note has been created from Geovelo : http://amenagements-cyclables.fr/fr/contributions/67801),3,0,Geovelo_Notes,
+4102185,France (zone contigüe en Atlantique et Manche Ouest),44.6774422,-1.5471840,2024-02-06 00:00:00,2024-02-06 12:40:33,0,Unknown,C'est la france,2,0,Syl,Déjà présente
+2417337,France (zone contigüe en Atlantique et Manche Ouest),46.6994000,-2.7699000,2020-11-09 00:00:00,2020-11-09 17:01:56,0,RoquetteKing,Franchement j'aime bien nagé mais la….sa fait un peu loin de la piscine non?,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."

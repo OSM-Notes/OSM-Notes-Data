@@ -1,0 +1,669 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5131202,Zambia,-15.0942965,28.3175174,2026-01-16 00:00:00,2026-01-16 07:28:20,0,Unknown,Kamaila SDA Church,4,1,Unknown,
+5068654,Zambia,-15.4272310,28.2617900,2025-11-26 00:00:00,2025-11-26 11:08:49,0,Margaret Kay hgfggv,Hello,7,1,Margaret Kay hgfggv,
+5068649,Zambia,-15.4276250,28.2612270,2025-11-26 00:00:00,2025-11-26 11:08:39,0,Margaret Kay hgfggv,Hospital,6,1,Margaret Kay hgfggv,
+3328452,Zambia,-15.4023351,28.3293824,2022-08-23 00:00:00,2025-11-26 11:05:46,0,Clephas Elijah,The road is actually Kenneth maduma road.  via StreetComplete 45.0  GPS Trace: https://www.openstreetmap.org/user/Clephas%20Elijah/traces/4811577,2,0,Margaret Kay hgfggv,
+5068655,Zambia,-15.4273400,28.2652700,2025-11-26 00:00:00,2025-11-26 11:03:47,0,Margaret Kay hgfggv,Hi,2,0,Margaret Kay hgfggv,
+5048551,Zambia,-15.4719364,28.3158177,2025-11-11 00:00:00,2025-11-11 17:18:54,0,Wana Liawela,Chalala choppies,2,0,Wana Liawela,
+5042315,Zambia,-12.8566972,32.9196873,2025-11-07 00:00:00,2025-11-07 16:04:50,0,josephgibson311,Ngoma farm,3,0,josephgibson311,
+3977718,Zambia,-15.4682386,28.3585685,2023-11-08 00:00:00,2025-10-18 09:30:27,0,Icem4k,'Bulalo Way' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-unclassified  #organicmaps android,3,1,NATHAN TEMBO,
+4027325,Zambia,-15.4209055,28.2847342,2023-12-14 00:00:00,2025-08-12 09:32:23,0,Vintlame,'Mbacha  Lodge' POI name: Mbacha  Lodge POI types: tourism-apartment OSM data version: 2023-06-06T06:59:44Z  #mapsme,2,0,Mateusz Konieczny,
+1918897,Zambia,-12.1749444,26.4334316,2019-09-09 00:00:00,2025-07-16 09:24:45,0,erickn,'ZESCO Sub Station' POI has no name POI types: power-substation OSM data version: 2019-07-27T07:02:33Z  #mapsme,2,0,InfosReseaux,
+1306956,Zambia,-14.2643304,28.8173998,2018-02-21 00:00:00,2025-04-02 12:59:00,0,karitotp,Can someone confirm if this is a substation? Thank you.,2,0,dannmer,on the map
+1306955,Zambia,-14.2637115,28.8206489,2018-02-21 00:00:00,2025-04-02 12:58:29,0,karitotp,Can someone confirm if these points should be added as 'power=tower' or 'power=pole'? Thank you.,2,0,dannmer,no points mapped or visible on imagery
+1306995,Zambia,-14.4618339,28.2858932,2018-02-21 00:00:00,2025-04-02 12:28:00,0,karitotp,Can someone confirm if these points should be added as 'power=tower' or 'power=pole'? Thank you.,2,0,dannmer,nothing mapped or visible on aerial imagery
+3996627,Zambia,-17.8922964,25.8465385,2023-11-21 00:00:00,2025-03-28 12:32:24,0,Ashley Hdez,The geotag for this hotel is missing in Instagram- can someone add please?,2,0,Taya_S,No useful information for OSM. Contact Instagram
+4634452,Zambia,-15.4190660,28.2888670,2025-02-20 00:00:00,2025-02-20 09:38:52,0,Unknown,pinned location for scaled network,3,1,Twapelwa Lumpa0224,pinned location part one (1)
+2625276,Zambia,-9.8484753,29.2038883,2021-04-16 00:00:00,2025-01-19 14:46:41,0,Kalyati,'Sunbird Bioenergy Africa' POI has no name POI types: man_made-chimney OSM data version: 2021-02-01T11:34:17Z  #mapsme,2,0,MANDE SK,
+3659141,Zambia,-13.4841203,25.8601856,2023-04-25 00:00:00,2024-11-16 08:36:32,0,Aselo,This is Mukinge Hill and not Kamusongolwa,2,0,osmfd,Fixed according to error message (Aselo) and Google research. Thanks for the hint.
+3659143,Zambia,-13.4443878,25.8340073,2023-04-25 00:00:00,2024-11-16 08:36:24,0,Aselo,Kamusongolwa Hill is here,2,0,osmfd,Fixed according to error message (Aselo) and Google research. Thanks for the hint.
+3361133,Zambia,-13.4249987,26.1846842,2022-09-15 00:00:00,2024-11-16 08:29:26,0,Raj22,Building?,2,0,osmfd,"No building visible on: Mapbox, Bing or Esri satellite imagery"
+4432460,Zambia,-14.2975700,32.3462800,2024-09-12 00:00:00,2024-09-12 22:04:10,0,Bandaimmig,This place is called (CHANIDA BORDER) not chimefunsa,3,1,Bandaimmig,
+4432463,Zambia,-13.8078360,32.1983580,2024-09-12 00:00:00,2024-09-12 22:03:05,0,Unknown,James Banda farm.,3,1,Bandaimmig,
+3181692,Zambia,-15.3914513,28.3288154,2022-05-16 00:00:00,2024-08-18 19:45:45,0,charles chilufya,Mingling Bar  via StreetComplete 43.2,2,0,Musengah,
+3359777,Zambia,-15.3921402,28.3291699,2022-09-14 00:00:00,2024-08-18 19:45:32,0,Clephas Elijah,Unable to answer 'Is this still here?' for https://osm.org/node/1764058956 via StreetComplete 46.1:  Didn't see any rubbish bin on sight,3,1,Musengah,
+3323762,Zambia,-15.3936838,28.3317822,2022-08-20 00:00:00,2024-08-18 19:42:20,0,qwer11,school of engineering,2,0,Musengah,School of Engineering
+3145767,Zambia,-15.3921537,28.3262694,2022-04-21 00:00:00,2024-08-18 19:41:35,0,chomba chishala,UNZA Clinic  via StreetComplete 39.1,2,0,Musengah,The university clinic
+3120914,Zambia,-15.3926295,28.3272956,2022-04-05 00:00:00,2024-08-18 19:40:55,0,Choongaluyando,Unable to answer 'Are these opening hours still correct?' for https://osm.org/way/164797916 via StreetComplete 42.0:  Tandihi kabotu (not so sure),3,0,Musengah,"The indoor sports facility for the university, known as 'Sports Hall' by the students"
+647038,Zambia,-16.8061447,26.9515592,2016-07-28 00:00:00,2024-05-31 21:46:15,0,DanVonMut,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'this campsite is no longer operational' (OSM data version: 2016-07-15T17:38:02Z) #mapsme",2,0,sheikchilli,no POI here
+3533325,Zambia,-12.5639047,28.2570934,2023-01-26 00:00:00,2024-05-01 14:27:26,0,Unknown,This is the right location,2,0,sheikchilli,unclear
+3533322,Zambia,-12.8165000,28.2000000,2023-01-26 00:00:00,2024-05-01 14:27:14,0,Unknown,You put the wrong location,2,0,sheikchilli,unclear
+4000797,Zambia,-9.3315213,32.7547930,2023-11-24 00:00:00,2024-04-26 17:49:24,0,Unknown,My home,2,0,sheikchilli,no actionable information
+3895654,Zambia,-14.9675500,28.2578800,2023-09-18 00:00:00,2024-04-06 14:39:19,0,Unknown,NAYAMBA School (Grade 1-9),2,0,Paul kurlz,
+2124521,Zambia,-15.4315000,22.5929000,2020-03-19 00:00:00,2024-03-24 21:04:23,0,Unknown,Lake Lilambo,2,0,cuzi,
+3030467,Zambia,-13.6154300,32.6309100,2022-01-30 00:00:00,2024-03-18 21:15:12,0,Unknown,Shepherd,2,0,Conrad98,
+3030468,Zambia,-13.6215796,32.6417005,2022-01-30 00:00:00,2024-03-18 21:15:07,0,Unknown,Shepherd Bush,2,0,Conrad98,
+3030471,Zambia,-13.6186170,32.6566029,2022-01-30 00:00:00,2024-03-18 21:15:02,0,Unknown,Shepard’s Bush Enterprise https://maps.app.goo.gl/WMehEUmLhBBq27t48,2,0,Conrad98,
+1028788,Zambia,-13.6456534,32.6483310,2017-06-13 00:00:00,2024-03-18 21:14:57,0,Erick Nyirenda,'Kanyanja Road' POI has no name POI types: highway-residential OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,Conrad98,
+1343198,Zambia,-13.6580490,32.6482065,2018-03-30 00:00:00,2024-03-18 21:14:42,0,Kenani Mumba,'Kenani mumba' POI has no name POI types: amenity-shelter OSM data version: 2018-02-09T21:26:02Z  #mapsme,2,0,Conrad98,
+3063519,Zambia,-11.1645292,24.1940904,2022-02-24 00:00:00,2024-01-28 13:54:59,0,Madison Duncan,Kalene Seventh-day Advertist Church,2,0,cuzi,
+3063523,Zambia,-11.7363210,24.4320468,2022-02-24 00:00:00,2024-01-28 13:53:28,0,Madison Duncan,Mwinilunga District Council office,2,0,cuzi,
+3063522,Zambia,-11.7381173,24.4299567,2022-02-24 00:00:00,2024-01-28 13:52:40,0,Madison Duncan,Mwinilunga District Hospital,2,0,cuzi,
+3063524,Zambia,-11.6877499,24.4182140,2022-02-24 00:00:00,2024-01-28 13:52:22,0,Madison Duncan,Mwinilunga General Hospital,2,0,cuzi,
+4046420,Zambia,-15.4480021,28.3578945,2023-12-30 00:00:00,2023-12-31 08:49:04,0,Unknown,'Nelson Zimba Close' OSM snapshot date: 2023-12-13T18:30:01Z POI has no name POI types: psurface-unpaved_bad highway-residential  #organicmaps android,2,0,Icem4k,
+4014732,Zambia,-13.4656100,25.8368100,2023-12-04 00:00:00,2023-12-29 09:12:23,0,user_20649535,B2,2,0,NeisBot,#NothingToDoHere - Reason: The initial user account has been removed or no longer exists
+1068421,Zambia,-15.4220359,28.3123753,2017-07-17 00:00:00,2023-12-22 10:19:33,0,beonis,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: oriental garden POI types: amenity-restaurant OSM data version: 2017-06-09T16:24:09Z  #mapsme",2,0,Icem4k,
+1779229,Zambia,-15.4288501,28.3039892,2019-05-15 00:00:00,2023-12-22 10:18:13,0,Unknown,Burma Road Primary School,2,0,Icem4k,
+4036547,Zambia,-15.4531547,28.3552875,2023-12-22 00:00:00,2023-12-22 06:37:59,0,Unknown,'KASHIBA ROAD' OSM snapshot date: 2023-12-13T18:30:01Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4036549,Zambia,-15.4511816,28.3516750,2023-12-22 00:00:00,2023-12-22 06:37:53,0,Unknown,'Lyashimba ST' OSM snapshot date: 2023-12-13T18:30:01Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4034526,Zambia,-15.4619697,28.3557406,2023-12-20 00:00:00,2023-12-21 07:26:31,0,Unknown,'Mpemba Street' OSM snapshot date: 2023-12-13T18:30:01Z POI has no name POI types: psurface-unpaved_bad highway-residential  #organicmaps android,2,0,Icem4k,
+4034527,Zambia,-15.4620172,28.3550707,2023-12-20 00:00:00,2023-12-21 07:26:28,0,Unknown,'Kambwali Street' OSM snapshot date: 2023-12-13T18:30:01Z POI has no name POI types: psurface-unpaved_bad highway-residential  #organicmaps android,2,0,Icem4k,
+4034528,Zambia,-15.4611425,28.3534007,2023-12-20 00:00:00,2023-12-21 07:26:24,0,Unknown,'Magodi Street' OSM snapshot date: 2023-12-13T18:30:01Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4034529,Zambia,-15.4604820,28.3534292,2023-12-20 00:00:00,2023-12-21 07:26:20,0,Unknown,'Nkole Mfumu Street' OSM snapshot date: 2023-12-13T18:30:01Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4034530,Zambia,-15.4598110,28.3530629,2023-12-20 00:00:00,2023-12-21 07:26:11,0,Unknown,'Nawaitwika Street' OSM snapshot date: 2023-12-13T18:30:01Z POI has no name POI types: psurface-paved_good highway-residential  #organicmaps android,2,0,Icem4k,
+4034531,Zambia,-15.4589606,28.3525588,2023-12-20 00:00:00,2023-12-21 07:26:06,0,Unknown,'Bwalya Kapila Street' OSM snapshot date: 2023-12-13T18:30:01Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+1779223,Zambia,-15.4351000,28.3076000,2019-05-15 00:00:00,2023-12-19 12:09:01,0,Unknown,Kabwata Market,2,0,Icem4k,
+3973417,Zambia,-15.4682386,28.3585685,2023-11-05 00:00:00,2023-12-19 05:45:25,0,Icem4k,'Kigali Road' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-unclassified  #organicmaps android,2,0,Icem4k,
+4022365,Zambia,-15.4447094,28.3586836,2023-12-10 00:00:00,2023-12-19 05:45:15,0,Unknown,'E.Nambote CL' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4022366,Zambia,-15.4445310,28.3593113,2023-12-10 00:00:00,2023-12-19 05:44:00,0,Unknown,'Chisamba Cl' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4022368,Zambia,-15.4424767,28.3610897,2023-12-10 00:00:00,2023-12-19 05:43:26,0,Unknown,'Harrison Choongo Continues' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: psurface-unpaved_good highway-residential  #organicmaps android,2,0,Icem4k,
+4022367,Zambia,-15.4454877,28.3596795,2023-12-10 00:00:00,2023-12-19 05:43:21,0,Unknown,'Mbala CL' OSM snapshot date: 2023-11-13T21:29:23Z POI name: Fenton Mhone Close POI types: psurface-paved_good highway-residential  #organicmaps android,2,0,Icem4k,
+4022369,Zambia,-15.4483292,28.3613993,2023-12-10 00:00:00,2023-12-19 05:41:52,0,Unknown,'There is a road here Masilokwe Libakeni Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4025295,Zambia,-15.4510291,28.3552504,2023-12-12 00:00:00,2023-12-19 05:41:19,0,Unknown,'Kalilele street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4025297,Zambia,-15.4520087,28.3552651,2023-12-12 00:00:00,2023-12-19 05:41:06,0,Unknown,'Sikongo Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4025300,Zambia,-15.4557278,28.3549420,2023-12-12 00:00:00,2023-12-19 05:40:32,0,Unknown,'Ukali Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4025294,Zambia,-15.4505979,28.3509832,2023-12-12 00:00:00,2023-12-19 05:40:22,0,Unknown,'Mulundu street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4025296,Zambia,-15.4517713,28.3514965,2023-12-12 00:00:00,2023-12-19 05:40:17,0,Unknown,'Chungu street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4025298,Zambia,-15.4531129,28.3559142,2023-12-12 00:00:00,2023-12-19 05:40:11,0,Unknown,'Mukutuma Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4022983,Zambia,-15.4535653,28.3528458,2023-12-11 00:00:00,2023-12-19 05:39:51,0,Unknown,'It's close' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4030135,Zambia,-15.4580977,28.3629689,2023-12-16 00:00:00,2023-12-19 05:39:44,0,Unknown,'Kasla mukosa' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4030134,Zambia,-15.4586958,28.3635623,2023-12-16 00:00:00,2023-12-19 05:39:41,0,Unknown,'Luchembe st' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4025299,Zambia,-15.4542546,28.3589279,2023-12-12 00:00:00,2023-12-19 05:39:36,0,Unknown,'Lukwesa' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-unclassified  #organicmaps android,2,0,Icem4k,
+4022979,Zambia,-15.4557278,28.3549420,2023-12-11 00:00:00,2023-12-19 05:39:29,0,Unknown,'Ukali' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4022981,Zambia,-15.4531129,28.3559142,2023-12-11 00:00:00,2023-12-19 05:38:57,0,Unknown,'Mukutuma Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4022982,Zambia,-15.4535653,28.3528458,2023-12-11 00:00:00,2023-12-19 05:38:52,0,Unknown,'Ndungu street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4022978,Zambia,-15.4557278,28.3549420,2023-12-11 00:00:00,2023-12-19 05:38:25,0,Unknown,'Lukali street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4022980,Zambia,-15.4542546,28.3589279,2023-12-11 00:00:00,2023-12-19 05:37:51,0,Unknown,'Lukwesa street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-unclassified  #organicmaps android,2,0,Icem4k,
+4022128,Zambia,-15.4569605,28.3623268,2023-12-10 00:00:00,2023-12-19 05:37:34,0,Unknown,'Lukwesa stree' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4022127,Zambia,-15.4580977,28.3629689,2023-12-10 00:00:00,2023-12-19 05:37:31,0,Unknown,'Kasla mukosa st' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4022126,Zambia,-15.4586958,28.3635623,2023-12-10 00:00:00,2023-12-19 05:37:27,0,Unknown,'Luchembe st' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4030133,Zambia,-15.4604535,28.3644692,2023-12-16 00:00:00,2023-12-19 05:37:24,0,Unknown,'Mbenge Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4030132,Zambia,-15.4615437,28.3673980,2023-12-16 00:00:00,2023-12-19 05:37:20,0,Unknown,'Mpuka Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: psurface-unpaved_bad highway-residential  #organicmaps android,2,0,Icem4k,
+3972562,Zambia,-15.4682386,28.3585685,2023-11-04 00:00:00,2023-12-19 05:37:10,0,Icem4k,'Kigali way' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-unclassified  #organicmaps android,2,0,Icem4k,
+4022976,Zambia,-15.4581230,28.3530665,2023-12-11 00:00:00,2023-12-19 05:37:03,0,Unknown,'Mukwikile Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-tertiary  #organicmaps android,2,0,Icem4k,
+4022974,Zambia,-15.4601240,28.3563214,2023-12-11 00:00:00,2023-12-19 05:36:57,0,Unknown,'Matanda Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4025310,Zambia,-15.4618495,28.3566633,2023-12-12 00:00:00,2023-12-19 05:36:53,0,Unknown,'Malindi Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: psurface-unpaved_bad highway-residential  #organicmaps android,2,0,Icem4k,
+4022129,Zambia,-15.4557974,28.3629249,2023-12-10 00:00:00,2023-12-19 05:31:42,0,Unknown,'Nayakase Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-unclassified  #organicmaps android,2,0,Icem4k,
+3992010,Zambia,-15.4543272,28.3653231,2023-11-18 00:00:00,2023-12-19 05:22:11,0,Icem4k,'Musikili Road' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-unclassified  #organicmaps android,2,0,Icem4k,
+4014127,Zambia,-15.4534447,28.3482328,2023-12-04 00:00:00,2023-12-19 05:15:38,0,Unknown,'Lunyema Road' OSM snapshot date: 2023-11-11T04:04:35Z POI has no name POI types: highway-unclassified  #organicmaps android,2,0,Icem4k,
+4026076,Zambia,-15.4495419,28.3222294,2023-12-13 00:00:00,2023-12-13 09:43:13,0,Unknown,'Kapoli Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: psurface-unpaved_bad highway-residential  #organicmaps android,2,0,m_p_13,corrected
+4019142,Zambia,-15.4540214,28.3539843,2023-12-08 00:00:00,2023-12-08 06:41:15,0,Unknown,'Gawa Undi St' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: psurface-paved_good highway-tertiary  #organicmaps android,2,0,Icem4k,
+4019150,Zambia,-15.4532770,28.3505646,2023-12-08 00:00:00,2023-12-08 06:41:00,0,Unknown,'Kashinga street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4016067,Zambia,-15.4561289,28.3532442,2023-12-05 00:00:00,2023-12-08 06:30:55,0,Unknown,'Chikawanda Street' OSM snapshot date: 2023-11-11T04:04:35Z POI has no name POI types: psurface-unpaved_good highway-residential  #organicmaps android,2,0,Icem4k,
+4019143,Zambia,-15.4588401,28.3533484,2023-12-08 00:00:00,2023-12-08 06:30:47,0,Unknown,'Chikube Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4019144,Zambia,-15.4568446,28.3555287,2023-12-08 00:00:00,2023-12-08 06:30:39,0,Unknown,'Mukuni Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4016069,Zambia,-15.4594362,28.3549634,2023-12-05 00:00:00,2023-12-08 06:30:28,0,Unknown,'Ishindi Street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3972563,Zambia,-15.4764528,28.3600440,2023-11-04 00:00:00,2023-12-08 05:32:58,0,Icem4k,'Rockville Road' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: psurface-unpaved_good highway-unclassified  #organicmaps android,2,0,Icem4k,
+4006290,Zambia,-15.4557390,28.3520403,2023-11-28 00:00:00,2023-12-08 05:30:02,0,Unknown,'Puta st' OSM snapshot date: 2023-11-11T04:04:35Z POI has no name POI types: psurface-paved_good highway-unclassified  #organicmaps android,2,0,Icem4k,
+4014112,Zambia,-15.4608120,28.3550790,2023-12-04 00:00:00,2023-12-08 05:26:13,0,Unknown,'Kanyembo street' OSM snapshot date: 2023-11-11T04:04:35Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+4006289,Zambia,-15.4557390,28.3520403,2023-11-28 00:00:00,2023-12-04 06:51:57,0,Unknown,'Puta ST' OSM snapshot date: 2023-11-11T04:04:35Z POI has no name POI types: psurface-paved_good highway-unclassified  #organicmaps android,2,0,Icem4k,
+4006288,Zambia,-15.4557390,28.3520403,2023-11-28 00:00:00,2023-12-04 05:11:33,0,Unknown,'Puta Street' OSM snapshot date: 2023-11-11T04:04:35Z POI has no name POI types: psurface-paved_good highway-unclassified  #organicmaps android,2,0,Icem4k,
+4006291,Zambia,-15.4553972,28.3531115,2023-11-28 00:00:00,2023-12-04 05:11:10,0,Unknown,'Jumbe Street' OSM snapshot date: 2023-11-11T04:04:35Z POI has no name POI types: psurface-unpaved_good highway-residential  #organicmaps android,2,0,Icem4k,
+4006287,Zambia,-15.4557390,28.3520403,2023-11-28 00:00:00,2023-12-04 05:11:03,0,Unknown,'Puta street' OSM snapshot date: 2023-11-13T21:29:23Z POI has no name POI types: psurface-paved_good highway-unclassified  #organicmaps android,2,0,Icem4k,
+4008864,Zambia,-15.4551369,28.3512347,2023-11-30 00:00:00,2023-12-04 05:10:56,0,Unknown,'Mununga street' OSM snapshot date: 2023-11-11T04:04:35Z POI has no name POI types: psurface-paved_good highway-residential  #organicmaps android,2,0,Icem4k,
+3973584,Zambia,-15.4528331,28.3517432,2023-11-05 00:00:00,2023-12-01 14:39:36,0,Icem4k,'Kashiba Road' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-unclassified  #organicmaps android,2,0,Icem4k,
+4004505,Zambia,-15.4481700,28.3751200,2023-11-26 00:00:00,2023-11-26 16:59:42,0,Gabriel Bwalya,Bauleni Waste Management Cooperative.,4,1,Gabriel Bwalya,
+4000247,Zambia,-13.6676000,31.9077000,2023-11-24 00:00:00,2023-11-24 13:47:13,0,Msanzala,Msoro 330/66 kV Substation,2,0,Msanzala,
+4000245,Zambia,-13.6325000,32.6284000,2023-11-24 00:00:00,2023-11-24 13:45:45,0,Msanzala,Chipata 33/11 kV substation,2,0,Msanzala,
+4000024,Zambia,-13.6532849,32.5580263,2023-11-24 00:00:00,2023-11-24 13:41:44,0,Msanzala,Chipata West 330/132/33 kV Substation,2,0,Msanzala,
+3992054,Zambia,-15.4463311,28.3647275,2023-11-18 00:00:00,2023-11-20 09:26:06,0,Icem4k,'Derby Makinka' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992056,Zambia,-15.4462958,28.3655276,2023-11-18 00:00:00,2023-11-20 09:26:02,0,Icem4k,'Gift Kampamba' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992055,Zambia,-15.4464421,28.3642727,2023-11-18 00:00:00,2023-11-20 09:25:58,0,Icem4k,'Kennedy Chola CR' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992053,Zambia,-15.4455111,28.3643337,2023-11-18 00:00:00,2023-11-20 09:25:55,0,Icem4k,'Wiseman Chizumbira' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992057,Zambia,-15.4469618,28.3658258,2023-11-18 00:00:00,2023-11-20 09:25:51,0,Icem4k,'Micheal Mwape Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992034,Zambia,-15.4487632,28.3616716,2023-11-18 00:00:00,2023-11-20 09:25:38,0,Icem4k,'Mwila Chipopo Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992035,Zambia,-15.4483292,28.3613993,2023-11-18 00:00:00,2023-11-20 09:25:34,0,Icem4k,'Here there is a street called Masilokwa Libakeni' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992027,Zambia,-15.4491423,28.3614931,2023-11-18 00:00:00,2023-11-20 09:25:29,0,Icem4k,'James Phiri Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992038,Zambia,-15.4455928,28.3620021,2023-11-18 00:00:00,2023-11-20 09:24:52,0,Icem4k,'Felix Bwalya' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992052,Zambia,-15.4446693,28.3630235,2023-11-18 00:00:00,2023-11-20 09:24:36,0,Icem4k,'Aggrey Chiyangi CL' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992051,Zambia,-15.4445051,28.3622644,2023-11-18 00:00:00,2023-11-20 09:24:32,0,Icem4k,'Muselepete CL' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992037,Zambia,-15.4455928,28.3620021,2023-11-18 00:00:00,2023-11-20 09:24:27,0,Icem4k,'Felix Bwalya Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992050,Zambia,-15.4451845,28.3612868,2023-11-18 00:00:00,2023-11-20 09:24:22,0,Icem4k,'Kelvin Mutale CL' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992028,Zambia,-15.4487632,28.3616716,2023-11-18 00:00:00,2023-11-20 09:24:10,0,Icem4k,'Mwila Chipopo Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992025,Zambia,-15.4483292,28.3613993,2023-11-18 00:00:00,2023-11-20 09:24:06,0,Icem4k,'Efford Chalaba Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992036,Zambia,-15.4482128,28.3605948,2023-11-18 00:00:00,2023-11-20 09:24:01,0,Icem4k,'Chase Nsofwa Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992026,Zambia,-15.4491423,28.3614931,2023-11-18 00:00:00,2023-11-20 09:23:57,0,Icem4k,'Simukonda Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992058,Zambia,-15.4472261,28.3655440,2023-11-18 00:00:00,2023-11-20 09:23:50,0,Icem4k,'Chikumbi' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992059,Zambia,-15.4474574,28.3644783,2023-11-18 00:00:00,2023-11-20 09:23:35,0,Icem4k,'Robert Watyakeni st' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3992064,Zambia,-15.4480772,28.3639059,2023-11-18 00:00:00,2023-11-20 09:23:30,0,Icem4k,'Johnson Bwalya Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3986966,Zambia,-15.4528000,28.4754000,2023-11-14 00:00:00,2023-11-14 12:39:23,0,Thilasoni,Beacon,3,1,Thilasoni,
+2866430,Zambia,-15.4560819,28.3599357,2021-09-24 00:00:00,2023-11-08 08:11:05,0,sattiger,12470,2,0,Icem4k,
+3972564,Zambia,-15.4451845,28.3612868,2023-11-04 00:00:00,2023-11-06 10:02:14,0,Icem4k,'The official name of this street is Emmanuel Mwape ST' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3972566,Zambia,-15.4458355,28.3627608,2023-11-04 00:00:00,2023-11-06 10:02:11,0,Icem4k,'The official name of this street is Lucky Msiska ST' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3972565,Zambia,-15.4460352,28.3618078,2023-11-04 00:00:00,2023-11-06 10:01:12,0,Icem4k,'The official name of this street is Dennis Lota Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3924130,Zambia,-15.4465224,28.3618079,2023-10-05 00:00:00,2023-11-06 09:24:57,0,Icem4k,'This street is called Joe Mwala Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3972568,Zambia,-15.4481766,28.3590465,2023-11-04 00:00:00,2023-11-06 09:24:48,0,Icem4k,'The official name of this street or cl is Munyu Cl' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3972567,Zambia,-15.4465448,28.3588770,2023-11-04 00:00:00,2023-11-06 09:24:41,0,Icem4k,'The official name of this street is Mulenga Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3955826,Zambia,-15.4474207,28.3580389,2023-10-24 00:00:00,2023-11-06 09:24:35,0,Icem4k,'Name of this street is Willson Sakala CL' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3972571,Zambia,-15.4472143,28.3586877,2023-11-04 00:00:00,2023-11-06 09:24:33,0,Icem4k,'Munyeka CL' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3973682,Zambia,-15.4444053,28.3560194,2023-11-05 00:00:00,2023-11-06 09:24:27,0,Icem4k,'Liteta CL' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3973681,Zambia,-15.4447808,28.3567369,2023-11-05 00:00:00,2023-11-06 09:24:16,0,Icem4k,'Njase CL' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3972573,Zambia,-15.4456493,28.3574683,2023-11-04 00:00:00,2023-11-06 09:24:11,0,Icem4k,'Kapinjimpanga Street' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3973678,Zambia,-15.4458486,28.3577822,2023-11-05 00:00:00,2023-11-06 09:24:09,0,Icem4k,'Kelvin Mutale' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3955827,Zambia,-15.4460615,28.3583578,2023-10-24 00:00:00,2023-11-06 09:24:07,0,Icem4k,'Thomson Sakala CL name of the close here.' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3972570,Zambia,-15.4461921,28.3589157,2023-11-04 00:00:00,2023-11-06 09:24:01,0,Icem4k,'Victor Mulenga CL' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3972572,Zambia,-15.4465448,28.3588770,2023-11-04 00:00:00,2023-11-06 09:23:58,0,Icem4k,'Victor Mulenga Road' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3972569,Zambia,-15.4454910,28.3596787,2023-11-04 00:00:00,2023-11-06 09:23:55,0,Icem4k,'This is Fenton Mhone CL' OSM snapshot date: 2023-09-20T00:34:57Z POI has no name POI types: highway-residential  #organicmaps android,2,0,Icem4k,
+3968458,Zambia,-12.9468102,28.6464268,2023-11-01 00:00:00,2023-11-01 17:21:37,0,aeprodigy,Pharmarcy,2,0,aeprodigy,
+3940608,Zambia,-15.4192504,28.3436010,2023-10-14 00:00:00,2023-10-18 13:08:20,0,Eazyerick,'Africa Works Office Space' POI name: Africa Works Office Space POI types: office-company OSM data version: 2023-06-06T06:59:44Z  #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/3940607
+1793977,Zambia,-13.1718039,28.4103038,2019-05-28 00:00:00,2023-10-07 16:26:38,0,Hsonesson,'Road name: H. Figov Road' POI has no name POI types: highway-secondary OSM data version: 2019-03-28T14:13:02Z  #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/1782107
+595637,Zambia,-16.0232184,27.5276366,2016-06-16 00:00:00,2023-10-07 16:26:06,0,Hapoma,Borehole (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/588461
+3640142,Zambia,-13.5012608,32.4534180,2023-04-13 00:00:00,2023-10-07 16:25:44,0,Temani,'Apartments' POI name: Apartments POI types: tourism-apartment OSM data version: 2022-10-30T11:31:10Z  #mapsme,2,0,kmpoppe,POI was created by the same user in https://www.openstreetmap.org/changeset/134842971
+3640143,Zambia,-13.5012608,32.4534180,2023-04-13 00:00:00,2023-10-07 16:25:41,0,Temani,'Apartments' POI name: Apartments POI types: tourism-apartment OSM data version: 2022-10-30T11:31:10Z  #mapsme,2,0,kmpoppe,POI was created by the same user in https://www.openstreetmap.org/changeset/134842971
+595636,Zambia,-16.0062610,27.5846239,2016-06-16 00:00:00,2023-10-07 16:23:34,0,Hapoma,Borehole (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/595651
+588487,Zambia,-16.0062610,27.5846239,2016-06-09 00:00:00,2023-10-07 16:23:31,0,Hapoma,Borehole (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,kmpoppe,Duplicate of https://www.openstreetmap.org/note/595651
+3919573,Zambia,-15.7296000,23.8535000,2023-10-02 00:00:00,2023-10-02 12:16:01,0,abidouuu,PARAISO DAKHLA,3,1,abidouuu,
+1068420,Zambia,-15.4118871,28.2923070,2017-07-17 00:00:00,2023-09-02 14:48:54,0,beonis,"'backpackers 100m more west' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Lusaka Backpackers POI types: tourism-hostel OSM data version: 2017-06-09T16:24:09Z  #mapsme",2,0,charles chilufya,
+3862430,Zambia,-15.3883737,28.3164180,2023-08-30 00:00:00,2023-08-31 20:51:49,0,ilooong,sunshare tower,6,1,ilooong,Sunshare tower
+1110118,Zambia,-12.9174865,28.6502892,2017-08-19 00:00:00,2023-06-19 13:57:51,0,Hélène Blaszkiewicz,'Chris' POI has no name POI types: amenity-bench OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,Hsonesson,Please explain.
+3349609,Zambia,-12.9669585,28.6520758,2022-09-07 00:00:00,2023-06-19 13:56:33,0,user_5770984,Sorry its Vitanda street  via StreetComplete 46.0,2,0,Hsonesson,Thanks. Fixed now.
+1742712,Zambia,-12.2059850,24.2981140,2019-04-11 00:00:00,2023-06-02 14:54:29,0,Cyfreak,Road,2,0,ftcat,
+3542973,Zambia,-10.3446842,32.7484846,2023-02-03 00:00:00,2023-06-02 14:53:36,0,sab27,The tagging of this highway should be reviewed : for long stretches it looks too narrow for 4-wheeled traffic,2,0,ftcat,Just not been maintained for some time
+2763490,Zambia,-12.3521149,30.0994760,2021-07-21 00:00:00,2023-06-02 14:47:40,0,Jolesh,Does anybody have an idea what this is?,7,0,ftcat,
+601290,Zambia,-13.0229073,31.8918825,2016-06-21 00:00:00,2023-06-02 14:40:07,0,Marjolein Schipper-Rutten,In game management area just outside the park (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,ftcat,
+224215,Zambia,-14.4323112,28.4910250,2014-08-19 00:00:00,2023-06-02 14:36:25,0,LarrySm0z,"This major route is called Mukonchi Road, it is an access route to Mulungushi Dam and schools such as St. Pauls",2,0,ftcat,
+224222,Zambia,-14.4518856,28.4434533,2014-08-19 00:00:00,2023-06-02 14:36:04,0,LarrySm0z,Locomotive Shed (Loco-Shed),2,0,ftcat,
+3238325,Zambia,-14.6586216,28.0722994,2022-06-24 00:00:00,2023-06-02 14:35:06,0,charles chilufya,Chamber  via StreetComplete 43.2,2,0,ftcat,
+3238313,Zambia,-14.6669307,28.0767098,2022-06-24 00:00:00,2023-06-02 14:34:57,0,charles chilufya,Tour  via StreetComplete 43.2,2,0,ftcat,
+1017036,Zambia,-15.3755230,28.3939601,2017-06-02 00:00:00,2023-06-02 14:32:56,0,Erick Nyirenda,'Plot No.168' POI name: Boardchair Avondale POI types: tourism-attraction OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,ftcat,
+1983965,Zambia,-15.6785000,28.2661000,2019-11-04 00:00:00,2023-06-02 14:31:51,0,Unknown,Shombololo Game Reserve,2,0,ftcat,
+2734627,Zambia,-15.2182023,23.2086182,2021-06-30 00:00:00,2023-05-31 08:21:09,0,lawrencesflint,This blue shaded area is called Kasima Pan,2,0,ftcat,
+3711461,Zambia,-15.3885200,28.2996400,2023-05-29 00:00:00,2023-05-29 14:14:59,0,Unknown,Erick & Nelly,6,1,erickn,"Off Mwaleshi Road, Olympia Park, Lusaka"
+3711483,Zambia,-15.3879298,28.3015162,2023-05-29 00:00:00,2023-05-29 14:13:36,0,erickn,"Erick & Nelly  Off Mwaleshi Road, Olympia Park, Lusaka",4,1,erickn,
+1000388,Zambia,-17.8404837,25.7712196,2017-05-18 00:00:00,2023-05-29 13:19:55,0,PvcVA,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Sanctuary Sussi & Chuma lodge' (OSM data version: 2017-03-28T20:59:03Z) #mapsme",2,0,ftcat,
+3092427,Zambia,-17.8450061,25.8674618,2022-03-18 00:00:00,2023-05-29 13:18:49,0,Ireen91,Unable to answer 'What kind of building is this?' for https://osm.org/way/447720229 via StreetComplete 41.2:  No more there,2,0,ftcat,
+3096872,Zambia,-17.8435290,25.8683772,2022-03-21 00:00:00,2023-05-29 13:17:24,0,Ireen91,A second level is still being built.  via StreetComplete 41.2,2,0,ftcat,
+3096870,Zambia,-17.8390876,25.8697818,2022-03-21 00:00:00,2023-05-29 13:16:51,0,Ireen91,This road does not exist anymore.  via StreetComplete 41.2  Attached photo(s): https://westnordost.de/p/84901.jpg,2,0,ftcat,
+3098393,Zambia,-17.8426015,25.8694368,2022-03-22 00:00:00,2023-05-29 13:15:07,0,Ireen91,Ops. Not finished.  via StreetComplete 41.2,2,0,ftcat,
+2361401,Zambia,-17.8773858,25.8559609,2020-09-24 00:00:00,2023-05-29 13:14:52,0,Nanuk12,'Entry' POI has no name POI types: amenity-bench OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,ftcat,
+1982105,Zambia,-15.4998853,25.3002753,2019-11-02 00:00:00,2023-05-29 13:14:26,0,Unknown,Possible meteor event,2,0,ftcat,
+2376444,Zambia,-15.4932000,25.2976000,2020-10-06 00:00:00,2023-05-29 13:13:32,0,Unknown,Impact area,2,0,ftcat,
+3257731,Zambia,-15.8576251,27.7636638,2022-07-08 00:00:00,2023-05-29 13:12:35,0,Clephas Elijah,Shoprite Mazabuka  via StreetComplete 45.0,2,0,ftcat,
+1179093,Zambia,-15.8282000,27.7599000,2017-10-19 00:00:00,2023-05-29 13:12:26,0,Unknown,Nakambala Sugar Power plant,2,0,ftcat,
+2016906,Zambia,-16.1611254,28.0833931,2019-12-05 00:00:00,2023-05-29 13:11:56,0,Mashiba Lwendela Kankoloto,'this is a community/township and it is called Dundu' POI name: Dundu POI types: amenity-community_centre OSM data version: 2019-10-19T16:52:54Z  #mapsme,2,0,ftcat,
+2005373,Zambia,-16.2298856,28.1459031,2019-11-22 00:00:00,2023-05-29 13:11:42,0,Mashiba Lwendela Kankoloto,'Basket Court' POI has no name POI types: leisure-playground OSM data version: 2019-10-19T16:52:54Z  #mapsme,2,0,ftcat,
+2005372,Zambia,-16.2280231,28.1507862,2019-11-22 00:00:00,2023-05-29 13:11:33,0,Mashiba Lwendela Kankoloto,'Soccer Pitch' POI has no name POI types: leisure-playground OSM data version: 2019-10-19T16:52:54Z  #mapsme,2,0,ftcat,
+1423728,Zambia,-16.5366904,28.7090667,2018-06-12 00:00:00,2023-05-29 13:11:07,0,TommyWorld,'ZRA Bin' POI has no name POI types: amenity-waste_basket OSM data version: 2018-02-09T21:26:02Z  #mapsme,2,0,ftcat,
+2769790,Zambia,-16.1844143,28.5821520,2021-07-25 00:00:00,2023-05-29 13:10:49,0,TommyWorld,'Mapata Village' POI has no name POI types: leisure-playground OSM data version: 2020-05-14T01:25:26Z  #mapsme,2,0,ftcat,
+3633395,Zambia,-15.6598868,28.1864601,2023-04-09 00:00:00,2023-05-29 13:10:25,0,Unknown,Chilanga district,2,0,ftcat,
+1342389,Zambia,-15.7580084,28.1711353,2018-03-29 00:00:00,2023-05-29 13:10:10,0,Erick Nyirenda,'Nitrogen Chemicals Zambia Limited' POI has no name POI types: man_made-chimney OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,ftcat,
+374708,Zambia,-12.8615105,28.2650757,2015-06-04 00:00:00,2023-05-29 12:44:11,0,Unknown,M3,2,0,ftcat,
+2017823,Zambia,-12.8377496,27.2911622,2019-12-06 00:00:00,2023-05-29 12:43:23,0,erickn,"'Delete ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: waterway-river OSM data version: 2019-10-19T16:52:54Z  #mapsme",2,0,ftcat,
+2017824,Zambia,-12.8618069,27.6154025,2019-12-06 00:00:00,2023-05-29 12:42:55,0,erickn,'991 Toll Free' POI name: Lufwanyama Police Station POI types: amenity-police OSM data version: 2019-10-19T16:52:54Z  #mapsme,2,0,ftcat,
+1433251,Zambia,-15.3479871,28.2833267,2018-06-22 00:00:00,2023-05-29 07:26:04,0,Unknown,Chazanga Compound,2,0,ftcat,
+3639727,Zambia,-15.3437889,28.3493614,2023-04-12 00:00:00,2023-05-29 07:25:51,0,Unknown,United States,2,0,ftcat,
+1779253,Zambia,-15.3719707,28.3760333,2019-05-15 00:00:00,2023-05-29 07:21:03,0,Dokowe,Nkoloma Stadium,2,0,ftcat,
+968261,Zambia,-15.3844620,28.3593757,2017-04-18 00:00:00,2023-05-29 07:20:50,0,Michael Chisowa Mwanawasa,Church of Jesus Christ of Latter-Day Saints (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,ftcat,
+3334828,Zambia,-15.3978094,28.3409018,2022-08-28 00:00:00,2023-05-29 07:20:34,0,Clephas Elijah,Unable to answer 'What kind of building is this?' for https://osm.org/way/1061977035 via StreetComplete 45.0:  It's an event center,2,0,ftcat,
+3119426,Zambia,-15.3908417,28.3198786,2022-04-04 00:00:00,2023-05-29 07:20:24,0,Yasun Furniture Store,"We Are Located At Plot Number Number, 2372 Kelvin Siwale Road , Behind Arcades , Opposite Protea Hotel .",2,0,ftcat,
+2318720,Zambia,-15.4020700,28.3040100,2020-08-23 00:00:00,2023-05-29 07:20:00,0,Unknown,Sim out,2,0,ftcat,
+3513694,Zambia,-15.4012450,28.3060384,2023-01-11 00:00:00,2023-05-29 07:19:54,0,Unknown,jackson shop,2,0,ftcat,
+1779244,Zambia,-15.4210000,28.3528000,2019-05-15 00:00:00,2023-05-29 07:19:26,0,Dokowe,Kabulonga Primary School,2,0,ftcat,
+1779217,Zambia,-15.4253500,28.3110500,2019-05-15 00:00:00,2023-05-29 07:19:08,0,Unknown,Ministry of Lands,2,0,ftcat,
+1727068,Zambia,-15.4175983,28.3157927,2019-03-28 00:00:00,2023-05-29 07:18:57,0,erickn,"'Business Consultant, Company Incorporation' POI name: Mbaso Corporate Resources POI types: office-company OSM data version: 2018-12-13T07:12:02Z  #mapsme",2,0,ftcat,
+2889545,Zambia,-15.4118913,28.2793639,2021-10-10 00:00:00,2023-05-29 07:18:20,0,Unknown,Inspection 4,2,0,ftcat,
+2889547,Zambia,-15.4105336,28.2789901,2021-10-10 00:00:00,2023-05-29 07:18:15,0,Unknown,Inspection 5,2,0,ftcat,
+2889600,Zambia,-15.4094428,28.2793626,2021-10-10 00:00:00,2023-05-29 07:18:08,0,Unknown,Inspection 7,2,0,ftcat,
+2889539,Zambia,-15.4096438,28.2807080,2021-10-10 00:00:00,2023-05-29 07:18:04,0,Unknown,Inspection 1,2,0,ftcat,
+3181620,Zambia,-15.4091693,28.2809869,2022-05-16 00:00:00,2023-05-29 07:17:57,0,charles chilufya,Zambia revenue Authority Center  via StreetComplete 43.2,2,0,ftcat,
+3181622,Zambia,-15.4086449,28.2808968,2022-05-16 00:00:00,2023-05-29 07:17:46,0,charles chilufya,ZRA  via StreetComplete 43.2,2,0,ftcat,
+2889541,Zambia,-15.4119603,28.2812011,2021-10-10 00:00:00,2023-05-29 07:16:55,0,Unknown,Inspection 2,2,0,ftcat,
+3181576,Zambia,-15.4174859,28.2823230,2022-05-16 00:00:00,2023-05-29 07:16:40,0,charles chilufya,Zanaco branch Cairo  via StreetComplete 43.2,2,0,ftcat,
+3275789,Zambia,-15.4212200,28.2821300,2022-07-20 00:00:00,2023-05-29 07:16:35,0,Unknown,Mwaba,2,0,ftcat,
+3195328,Zambia,-15.4243572,28.2837631,2022-05-26 00:00:00,2023-05-29 07:16:23,0,charles chilufya,Longest building in lusaka. Findeco house  via StreetComplete 43.2,2,0,ftcat,
+3180582,Zambia,-15.4250410,28.2857477,2022-05-15 00:00:00,2023-05-29 07:16:13,0,charles chilufya,TAZARA house  via StreetComplete 43.0,2,0,ftcat,
+3180581,Zambia,-15.4229620,28.2950105,2022-05-15 00:00:00,2023-05-29 07:15:58,0,charles chilufya,Muslim  via StreetComplete 43.0,2,0,ftcat,
+3180577,Zambia,-15.4197028,28.3012717,2022-05-15 00:00:00,2023-05-29 07:15:43,0,charles chilufya,Civic center  via StreetComplete 43.0,2,0,ftcat,
+3180575,Zambia,-15.4211189,28.3055694,2022-05-15 00:00:00,2023-05-29 07:15:33,0,charles chilufya,Ministry of finance building  via StreetComplete 43.0,2,0,ftcat,
+3709087,Zambia,-15.3569699,28.4557736,2023-05-28 00:00:00,2023-05-28 09:12:30,0,Joshuadaka98,Comtex Bar,3,1,Joshuadaka98,
+1160704,Zambia,-14.0345319,32.0642638,2017-10-03 00:00:00,2023-05-14 05:36:22,0,Unknown,Katete Dam,2,0,Biker69,done
+1333488,Zambia,-14.0505724,32.0512540,2018-03-20 00:00:00,2023-05-14 05:34:22,0,Erick Nyirenda,"'wrong place ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Mpewa Lodge POI types: tourism-guest_house OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Biker69,moved place
+1333489,Zambia,-14.0534189,32.0470268,2018-03-20 00:00:00,2023-05-14 05:30:17,0,Erick Nyirenda,"'removed ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: BP POI types: amenity-fuel OSM data version: 2018-01-26T12:04:02Z  #mapsme",2,0,Biker69,removed
+1182967,Zambia,-14.0534189,32.0470268,2017-10-23 00:00:00,2023-05-14 05:30:13,0,Erick Nyirenda,"'moved to another location ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: BP POI types: amenity-fuel OSM data version: 2017-08-17T15:51:02Z  #mapsme",2,0,Biker69,done
+1211535,Zambia,-14.0646000,32.0235200,2017-11-20 00:00:00,2023-05-14 05:25:23,0,Saleh Alkhanjari,The sign should be changed from the restaurant sign to a lodge sign.,2,0,Biker69,Changed
+3683000,Zambia,-12.9401967,28.6557770,2023-05-10 00:00:00,2023-05-12 08:13:26,0,Unknown,"The name 'Chipulukusu' is used for the area to the 'east' of this rail line, not to the 'west'.",2,0,Hsonesson,
+3683001,Zambia,-12.9419533,28.6429453,2023-05-10 00:00:00,2023-05-12 08:13:16,0,Unknown,This area is called 'Nkwazi'. The name 'Chipulukusu' applies to the area to the 'east' of the rail line.,2,0,Hsonesson,
+3349600,Zambia,-12.9648434,28.6529803,2022-09-07 00:00:00,2023-05-12 08:09:26,0,user_5770984,This is also President Avenue  via StreetComplete 46.0,2,0,Hsonesson,
+3349602,Zambia,-12.9673960,28.6521979,2022-09-07 00:00:00,2023-05-12 08:09:18,0,user_5770984,This is Arusha Street  via StreetComplete 46.0,2,0,Hsonesson,
+3286254,Zambia,-12.9979000,28.6644000,2022-07-27 00:00:00,2023-05-12 08:07:34,0,Chils Kemptonian,This is no-longer a commercial airport and is now named the 'Peter Zuze Air Force Base'.,2,0,Hsonesson,
+3513697,Zambia,-15.3971282,28.3077013,2023-01-11 00:00:00,2023-04-16 15:07:01,0,Unknown,jackshop,2,0,ftcat,
+3496440,Zambia,-15.3912880,28.3204660,2022-12-29 00:00:00,2023-04-16 15:05:52,0,charles chilufya,KEG- East Park Mall  via StreetComplete 47.0,2,0,ftcat,
+1309502,Zambia,-15.5617447,28.2727457,2018-02-24 00:00:00,2023-04-16 15:04:33,0,Richibell,'open up to 17:00 Fri - Sun and Public Holiday Feeding Tour at 14:00' POI name: Munga Wanga POI types: tourism-zoo OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,ftcat,
+3258616,Zambia,-15.8585269,27.7330451,2022-07-09 00:00:00,2023-04-16 15:04:01,0,Clephas Elijah,Bruce Moonga's House  via StreetComplete 45.0,2,0,ftcat,
+3585540,Zambia,-15.3903116,28.3253825,2023-03-05 00:00:00,2023-03-05 14:26:28,0,PRIME PAINTS,PRIME PAINTS ZAMBIA,2,0,PRIME PAINTS,
+3578629,Zambia,-15.3364423,28.3217737,2023-02-28 00:00:00,2023-02-28 14:01:22,0,Lutech Zambia,Lutech surveillance systems,2,0,Lutech Zambia,
+3568532,Zambia,-15.3981070,28.2609907,2023-02-21 00:00:00,2023-02-21 11:53:00,0,Desjad1,FINECOP ZAMBIA LTD,4,1,Desjad1,FINECOP ZAMBIA LTD Pump Supplier/ Borehole Driller
+3541925,Zambia,-15.3813000,28.3559000,2023-02-02 00:00:00,2023-02-02 14:53:34,0,Victoria eclipse malama,Minestone,10,1,Victoria eclipse malama,Minestone lusaka zambia
+3541937,Zambia,-15.3792000,28.3579000,2023-02-02 00:00:00,2023-02-02 14:49:10,0,Victoria eclipse malama,Minestone Lusaka zambia,3,1,Victoria eclipse malama,
+3293763,Zambia,-15.4211422,28.3096147,2022-08-01 00:00:00,2022-11-09 23:15:36,0,charles chilufya,President grave  via StreetComplete 44.1,2,0,charles chilufya,
+3295977,Zambia,-15.3986358,28.2913805,2022-08-02 00:00:00,2022-11-09 23:15:30,0,charles chilufya,Kelete fast food and supermarket  via StreetComplete 44.1,2,0,charles chilufya,
+3416584,Zambia,-15.3164851,28.1990056,2022-10-28 00:00:00,2022-10-28 04:41:51,0,1Ronny,New Road,2,0,1Ronny,
+3381938,Zambia,-11.8443900,31.4560767,2022-10-02 00:00:00,2022-10-21 16:25:52,0,charles chilufya,Mpika council  via StreetComplete 45.2,2,0,charles chilufya,used street complete
+3293772,Zambia,-15.4215420,28.3089347,2022-08-01 00:00:00,2022-10-21 16:25:17,0,charles chilufya,President grave🪦  via StreetComplete 44.1,2,0,charles chilufya,used Street complete
+3336397,Zambia,-10.2430842,33.3641134,2022-08-29 00:00:00,2022-10-21 16:24:52,0,charles chilufya,Mafinga town council  via StreetComplete 45.2,2,0,charles chilufya,great
+3405444,Zambia,-15.4385489,28.2386562,2022-10-19 00:00:00,2022-10-19 11:03:04,0,Mateusz Konieczny,https://www.openstreetmap.org/way/469488127  Looking at data it does not look like public toilets at all.  Looking at tags it seems confirmed:      amenity = toilet     operator:type = private     toilet:num_chambers = 1     toilets:disposal = pitlatrine     toilets:position = outside  This rather should be deleted as privacy-violating and out of scope for OSM. OSM is not for mapping detailed interior of private residences.  There is also massive number of nearby private toilets bing mapped and marked as public ones.,7,1,Emilius123,Related: https://community.openstreetmap.org/t/replacing-amenity-toilet-with-amenity-toilets/4311?u=emilius123
+3371190,Zambia,-12.2705261,33.1770775,2022-09-23 00:00:00,2022-09-23 23:14:53,0,Chipeta,Mr sakala,3,1,Chipeta,
+3181719,Zambia,-15.3912584,28.3285657,2022-05-16 00:00:00,2022-09-14 17:03:20,0,charles chilufya,UNZA Central Administration  via StreetComplete 43.2,3,0,charles chilufya,
+3348732,Zambia,-15.3468314,28.3469454,2022-09-06 00:00:00,2022-09-06 19:14:21,0,JoAn_Chanda,Little Opulence School,2,0,JoAn_Chanda,
+3342137,Zambia,-15.4898360,28.3579746,2022-09-02 00:00:00,2022-09-02 05:59:28,0,Unknown,This is my location and I can't add it to my page.,2,0,kartonage,This is not related to OpenStreetMap. OpenStreetMap has no control over your location data nor is there any meaningful data to add to the map in this note.
+3238811,Zambia,-14.7779983,28.0602582,2022-06-24 00:00:00,2022-08-10 19:19:28,0,charles chilufya,School  via StreetComplete 43.2,2,0,charles chilufya,
+3113887,Zambia,-15.3764613,28.3667960,2022-03-31 00:00:00,2022-08-07 12:40:37,0,MushashuM,Road I worn out  via StreetComplete 42.0,2,0,MushashuM,
+3238816,Zambia,-14.8798259,28.0610471,2022-06-24 00:00:00,2022-07-23 10:20:48,0,charles chilufya,Police station  via StreetComplete 43.2,2,0,ftcat,
+3222376,Zambia,-15.6385763,27.8208160,2022-06-13 00:00:00,2022-07-23 10:20:16,0,zhang a,CHINATOWN HOTEL,2,0,ftcat,
+760347,Zambia,-15.4043598,28.2730260,2016-10-25 00:00:00,2022-07-23 10:17:48,0,Vasco 007,Freddy Hirsch Group (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,ftcat,
+2889544,Zambia,-15.4130726,28.2796025,2021-10-10 00:00:00,2022-07-23 10:17:28,0,Unknown,Inspection 3,2,0,ftcat,
+3261030,Zambia,-15.4152000,28.2855000,2022-07-11 00:00:00,2022-07-23 10:17:19,0,Unknown,HOTEL STAY EASY,2,0,ftcat,
+3181572,Zambia,-15.4182215,28.2828069,2022-05-16 00:00:00,2022-07-23 10:16:55,0,charles chilufya,ShopRite Cairo  via StreetComplete 43.2,2,0,ftcat,
+3180583,Zambia,-15.4249407,28.2830101,2022-05-15 00:00:00,2022-07-23 10:15:39,0,charles chilufya,Kafue Roundabout  via StreetComplete 43.0,2,0,ftcat,
+3222381,Zambia,-15.3003631,28.2721862,2022-06-13 00:00:00,2022-06-13 07:02:10,0,zhang a,CHINATOWN HOTEL,3,1,zhang a,
+3213133,Zambia,-15.9127300,28.6854800,2022-06-06 00:00:00,2022-06-06 14:35:42,0,Unknown,1 Zambia D3 WP3,2,0,Zambezimac,
+3213130,Zambia,-15.8374500,28.6043300,2022-06-06 00:00:00,2022-06-06 14:35:25,0,Unknown,1Zambia D3 WP2,10,1,Zambezimac,
+59669,Zambia,-17.9268333,25.8631039,2013-10-19 00:00:00,2022-05-23 13:43:37,0,Palinka,Position of foot ways has to be corrected,3,0,VisibleSouth,it is basically coherent
+1896644,Zambia,-15.3796284,28.4009510,2019-08-22 00:00:00,2022-04-29 12:07:17,0,Young Engineers - Zambia,MTN Cell Phone Tower Avondale Extention,2,0,ftcat,
+1897890,Zambia,-15.4121379,28.2921273,2019-08-23 00:00:00,2022-04-29 12:02:41,0,erickn,'Mulombwa Close' POI has no name POI types: highway-residential OSM data version: 2019-05-17T13:54:02Z  #mapsme,2,0,ftcat,
+846437,Zambia,-15.4187677,28.2826672,2017-01-09 00:00:00,2022-04-29 11:59:21,0,Eazyerick,Chester House (OSM data version: 2016-11-23T15:14:03Z) #mapsme,4,0,ftcat,
+2509695,Zambia,-15.4273001,28.3080007,2021-01-23 00:00:00,2022-04-29 11:52:23,0,Unknown,Lumumba road,2,0,ftcat,
+3096871,Zambia,-17.8383569,25.8716111,2022-03-21 00:00:00,2022-04-29 11:49:43,0,Ireen91,This road leads to construction site only.  via StreetComplete 41.2  Attached photo(s): https://westnordost.de/p/84902.jpg,2,0,ftcat,
+645642,Zambia,-17.8418181,25.8590675,2016-07-27 00:00:00,2022-04-29 11:46:37,0,Linda van Boeyen,Likute road (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,ftcat,
+2006584,Zambia,-17.2273216,26.4778025,2019-11-24 00:00:00,2022-04-29 11:45:07,0,shangtian,'道路有り' POI name: Kalomo POI types: waterway-river OSM data version: 2017-06-09T16:24:09Z  #mapsme,2,0,ftcat,
+543373,Zambia,-17.0424900,26.5176900,2016-04-09 00:00:00,2022-04-29 11:44:30,0,mujesi,Reported and assumed correct speed limit is 130 km/h. Reported using Wisepilot map reporter Created by www.appello.com,2,0,ftcat,
+543372,Zambia,-17.0442000,26.5224600,2016-04-09 00:00:00,2022-04-29 11:44:24,0,mujesi,Reported and assumed correct speed limit is 120 km/h. Reported using Wisepilot map reporter Created by www.appello.com,2,0,ftcat,
+595286,Zambia,-16.6837195,27.3811913,2016-06-15 00:00:00,2022-04-29 07:13:05,0,Unknown,"Village of Nachibanga. Position is approximate; is located approximately 5 kilometers from Musoka, possibly visible from a satellite image.",5,1,ftcat,
+2070193,Zambia,-16.5209976,28.7610977,2020-01-27 00:00:00,2022-04-29 06:18:41,0,Unknown,水坝1,3,0,ftcat,
+2112526,Zambia,-15.7532900,28.1621969,2020-03-06 00:00:00,2022-04-29 06:17:39,0,Unknown,KF Town,2,0,ftcat,
+884882,Zambia,-15.4282982,29.6789675,2017-02-07 00:00:00,2022-04-29 06:17:06,0,Jose Pruneda,"Zambezi river, go beyond the Chongwe into the national park. Many different camps along the way. Great fishing - tiger fish, bream. Crocodile and hippo heaven!   Staying outside the the national park is much cheaper, but staying the park while ridiculously expensive is obviously incredible. Stay as close to the Chongwe as possible as that is close to the entrance of the park (OSM data version: 2016-10-10T15:13:03Z) #mapsme",2,0,ftcat,
+1223165,Zambia,-15.3570381,28.6796802,2017-12-01 00:00:00,2022-04-29 06:16:22,0,Erick Nyirenda,'Chilimbana Road' POI has no name POI types: highway-secondary OSM data version: 2017-10-06T18:13:02Z  #mapsme,2,0,ftcat,
+1460333,Zambia,-15.4307000,28.5028000,2018-07-19 00:00:00,2022-04-29 06:15:49,0,Unknown,Good Hope Farms Northern Tip,2,0,ftcat,
+2026357,Zambia,-15.5008468,28.3377206,2019-12-14 00:00:00,2022-04-29 06:15:27,0,Unknown,Dr. Bestty Phiri,2,0,ftcat,
+1023811,Zambia,-15.5863456,28.3708513,2017-06-08 00:00:00,2022-04-29 06:14:57,0,DannyAiquipa,Can someone confirm if the name of highway is False Top Ridge or False Top Ridge? Thanks!,2,0,ftcat,
+1140316,Zambia,-15.4187677,28.2826672,2017-09-15 00:00:00,2022-04-23 20:54:53,0,Sean1391,'The name of the building is Chester House' POI has no name POI types: building OSM data version: 2017-08-17T15:51:02Z  #mapsme,5,1,charles chilufya,
+1123210,Zambia,-15.3882660,28.3165714,2017-09-01 00:00:00,2022-04-19 23:04:52,0,Unknown,Huawei Zambia Office,6,1,charles chilufya,
+3100486,Zambia,-15.3785222,28.2947525,2022-03-24 00:00:00,2022-04-19 23:03:28,0,charles chilufya,This is a sewerage site.  via StreetComplete 41.1,2,0,charles chilufya,
+2884517,Zambia,-15.4229384,28.2823809,2021-10-07 00:00:00,2022-04-19 22:58:34,0,Unknown,"Chachacha road, ebees mall, opposite Kulima Tower",3,0,charles chilufya,
+1610955,Zambia,-15.3868431,28.2984182,2018-12-07 00:00:00,2022-04-19 22:56:45,0,erickn,'Nyirenda Residence' POI name: Plot No. 117-22-9013 House No.5 POI types: tourism-attraction OSM data version: 2018-10-30T22:25:02Z  #mapsme,3,0,charles chilufya,
+3143266,Zambia,-15.3691865,28.2737741,2022-04-19 00:00:00,2022-04-19 22:56:08,0,charles chilufya,National Heroes stadium 🏟️  via StreetComplete 41.1,4,1,charles chilufya,
+3119429,Zambia,-15.3933500,28.3188600,2022-04-04 00:00:00,2022-04-04 09:18:43,0,Yasun Furniture Store,"We Are Located At Plot Number Number, 2372 Kelvin Siwale Road , Behind Arcades , Opposite Protea Hotel .",4,1,Yasun Furniture Store,"We Are Located At Plot Number Number, 2372 Kelvin Siwale Road , Behind Arcades , Opposite Protea Hotel just behind the Gym"
+3080410,Zambia,-15.3902345,28.2803816,2022-03-09 00:00:00,2022-03-29 22:50:18,0,charles chilufya,⛽  via StreetComplete 41.1,4,1,charles chilufya,
+3098923,Zambia,-15.4478621,28.2778892,2022-03-23 00:00:00,2022-03-23 08:20:33,0,Drack dee,Kuku compound,4,1,Drack dee,
+2269514,Zambia,-15.0823445,28.2997110,2020-07-17 00:00:00,2022-02-22 10:39:43,0,Unknown,Proposed ZEBAR Game Farm,2,0,Misha K diane,yes
+1080847,Zambia,-15.3236500,28.4459800,2017-07-27 00:00:00,2022-02-22 10:38:57,0,mujesi,Reported and assumed correct speed limit is 60 km/h. Reported using Wisepilot map reporter Created by www.appello.com,2,0,Misha K diane,50km/h
+3054394,Zambia,-15.3885841,28.2347131,2022-02-16 00:00:00,2022-02-16 20:47:40,0,james mcginty,Zingalume,9,1,james mcginty,
+3054396,Zambia,-15.3871049,28.2314730,2022-02-16 00:00:00,2022-02-16 20:41:06,0,james mcginty,Zingalume,2,0,james mcginty,
+3042520,Zambia,-13.2335406,25.3969331,2022-02-08 00:00:00,2022-02-08 19:30:26,0,Unknown,The 'Zambia' is in a weird spot.,2,0,kartonage,Not da data problem since rendering of the label is done by the map style provider themselves. See other map layers for comparison.
+1595472,Zambia,-10.1720000,31.3677000,2018-11-20 00:00:00,2022-01-10 12:25:33,0,Unknown,Mungwi,2,0,pfiers,
+2991255,Zambia,-15.4501694,28.2701538,2022-01-01 00:00:00,2022-01-01 07:44:04,0,Westgate pharmacy castle,Westgate pharmacy castle,3,1,Westgate pharmacy castle,
+2936671,Zambia,-16.5296500,28.4438300,2021-11-15 00:00:00,2021-11-15 16:19:39,0,GiaKondaSolarSchools,Munyama Primary School,2,0,GiaKondaSolarSchools,
+2936668,Zambia,-16.3596000,28.7854000,2021-11-15 00:00:00,2021-11-15 16:15:10,0,GiaKondaSolarSchools,Bbakasa Primary School,2,0,GiaKondaSolarSchools,
+792254,Zambia,-14.0672958,32.0164990,2016-11-22 00:00:00,2021-09-26 04:23:47,0,karitotp,Can someone confirm and fix if the name of this hospital is: 'St Francis Mission Hospital'? Thanks,4,1,Priml,correct name is: Saint Francis' Hospital see: http://www.saintfrancishospital.net/
+2557377,Zambia,-15.1937537,28.6468058,2021-02-27 00:00:00,2021-09-24 02:05:31,0,Unknown,Farm397,3,1,sattiger,
+2812812,Zambia,-15.4373900,28.3353500,2021-08-20 00:00:00,2021-08-20 13:17:51,0,Unknown,Dayun Motorbikes Zambia,3,1,Dayun Motorbikes Zambia,Plot No. 30
+2115185,Zambia,-8.7812676,31.0806588,2020-03-09 00:00:00,2021-08-06 11:02:14,0,michikommader,'spent a night here' POI name: Tanganyika Science Lodge POI types: tourism-camp_site OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,confusedbuffalo,
+595638,Zambia,-16.0063547,27.5631406,2016-06-16 00:00:00,2021-08-04 10:41:40,0,Hapoma,Borehole (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,rab,
+2642647,Zambia,-15.8550423,27.7605077,2021-04-29 00:00:00,2021-08-04 10:39:46,0,Mawall,'the new busstation is here now' POI name: Mazabuka main bus station POI types: amenity-bus_station OSM data version: 2020-09-19T23:20:21Z  #mapsme,2,0,rab,
+1838289,Zambia,-15.4196867,28.3633089,2019-07-08 00:00:00,2021-08-03 17:12:32,0,KJP-1,Ubuntu Close,2,0,confusedbuffalo,Has since been mapped
+1654785,Zambia,-15.4201601,28.3326280,2019-01-19 00:00:00,2021-08-03 17:12:15,0,Unknown,Musengele Road,2,0,confusedbuffalo,Has since been mapped
+741151,Zambia,-15.3948954,28.2764874,2016-10-08 00:00:00,2021-08-03 17:10:54,0,Anthony Hove,gas affrox (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,confusedbuffalo,Has since been mapped
+1611018,Zambia,-15.3745950,28.3168400,2018-12-07 00:00:00,2021-08-03 17:10:17,0,Unknown,My guest house,2,0,confusedbuffalo,
+1542875,Zambia,-15.3913000,28.3150000,2018-09-27 00:00:00,2021-08-03 17:08:40,0,Unknown,Mulungushi International Conference Centre (MICC),2,0,confusedbuffalo,Has since been mapped
+1060230,Zambia,-15.4068008,28.2948471,2017-07-11 00:00:00,2021-08-03 17:07:53,0,Erick Nyirenda,"'moved ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Lifeline Childline 116 POI types: building OSM data version: 2017-06-09T16:24:09Z  #mapsme",2,0,confusedbuffalo,Has since been fixed
+1273560,Zambia,-15.4192020,28.2865939,2018-01-19 00:00:00,2021-08-03 17:07:04,0,Sean1391,"'This is a college, not a school' POI name: Zambia Centre for Accountancy Studies POI types: amenity-school OSM data version: 2017-10-06T18:13:02Z  #mapsme",2,0,confusedbuffalo,Has since been corrected
+1608973,Zambia,-15.4183580,28.3073880,2018-12-05 00:00:00,2021-08-03 17:06:33,0,Unknown,Foggy,2,0,confusedbuffalo,
+1779213,Zambia,-15.4189938,28.3071542,2019-05-15 00:00:00,2021-08-03 17:06:27,0,Unknown,Immigration Head Quarters,2,0,confusedbuffalo,Has since been mapped
+1779214,Zambia,-15.4202039,28.3069718,2019-05-15 00:00:00,2021-08-03 17:06:23,0,Unknown,Ministry of Foreign Affairs,2,0,confusedbuffalo,Has since been mapped
+1331940,Zambia,-15.4264686,28.3079398,2018-03-19 00:00:00,2021-08-03 17:05:58,0,Erick Nyirenda,'Driving Tests' POI name: Road Transport & Safety Agency (RTSA) POI types: office-government OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,confusedbuffalo,Has since been mapped
+1779221,Zambia,-15.4317873,28.3094287,2019-05-15 00:00:00,2021-08-03 17:05:36,0,Unknown,Lusaka Central Prison,2,0,confusedbuffalo,Has since been mapped
+577819,Zambia,-14.3526904,23.9457141,2016-05-30 00:00:00,2021-08-03 17:03:34,0,Cavemanpoid,This road continues through the bush to the watopa ferry,2,0,confusedbuffalo,Has since been extended
+1720467,Zambia,-12.3260760,26.6908170,2019-03-23 00:00:00,2021-08-03 17:00:01,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720457,Zambia,-12.3713730,26.6367040,2019-03-23 00:00:00,2021-08-03 17:00:00,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720460,Zambia,-12.3719750,26.6492180,2019-03-23 00:00:00,2021-08-03 17:00:00,0,Unknown,River,2,0,confusedbuffalo,Maped
+1720462,Zambia,-12.3677300,26.6541700,2019-03-23 00:00:00,2021-08-03 17:00:00,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720465,Zambia,-12.3448710,26.6748080,2019-03-23 00:00:00,2021-08-03 17:00:00,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720463,Zambia,-12.3621580,26.6627530,2019-03-23 00:00:00,2021-08-03 16:59:59,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720458,Zambia,-12.3737320,26.6408140,2019-03-23 00:00:00,2021-08-03 16:59:59,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720455,Zambia,-12.3786530,26.6169030,2019-03-23 00:00:00,2021-08-03 16:59:59,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720464,Zambia,-12.3575440,26.6743220,2019-03-23 00:00:00,2021-08-03 16:59:58,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720466,Zambia,-12.3354330,26.6803280,2019-03-23 00:00:00,2021-08-03 16:59:58,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720459,Zambia,-12.3682560,26.6457950,2019-03-23 00:00:00,2021-08-03 16:59:58,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720456,Zambia,-12.3745940,26.6312410,2019-03-23 00:00:00,2021-08-03 16:59:58,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720454,Zambia,-12.3901440,26.6107780,2019-03-23 00:00:00,2021-08-03 16:59:57,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1742470,Zambia,-12.1289500,25.1885460,2019-04-11 00:00:00,2021-08-03 08:59:57,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742460,Zambia,-12.2125990,25.1900460,2019-04-11 00:00:00,2021-08-03 08:59:31,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742455,Zambia,-12.2493810,25.1714670,2019-04-11 00:00:00,2021-08-03 08:59:31,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742469,Zambia,-12.1497630,25.1922000,2019-04-11 00:00:00,2021-08-03 08:59:31,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742450,Zambia,-12.2963970,25.1258830,2019-04-11 00:00:00,2021-08-03 08:59:31,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742459,Zambia,-12.2301570,25.1782410,2019-04-11 00:00:00,2021-08-03 08:59:30,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742454,Zambia,-12.2613600,25.1644280,2019-04-11 00:00:00,2021-08-03 08:59:30,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742449,Zambia,-12.3211980,25.1196980,2019-04-11 00:00:00,2021-08-03 08:59:30,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742468,Zambia,-12.1667560,25.1796600,2019-04-11 00:00:00,2021-08-03 08:59:30,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742463,Zambia,-12.1836790,25.1726390,2019-04-11 00:00:00,2021-08-03 08:59:29,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742462,Zambia,-12.1832260,25.1880080,2019-04-11 00:00:00,2021-08-03 08:59:29,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742458,Zambia,-12.2665480,25.1539270,2019-04-11 00:00:00,2021-08-03 08:59:29,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742457,Zambia,-12.2581030,25.1679280,2019-04-11 00:00:00,2021-08-03 08:59:29,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742447,Zambia,-12.3433700,25.1036910,2019-04-11 00:00:00,2021-08-03 08:59:28,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742471,Zambia,-12.1046610,25.1738740,2019-04-11 00:00:00,2021-08-03 08:59:28,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742573,Zambia,-12.0881700,25.1673030,2019-04-11 00:00:00,2021-08-03 08:59:28,0,Cyfreak,River,2,0,confusedbuffalo,MApped
+1742452,Zambia,-12.2787240,25.1401240,2019-04-11 00:00:00,2021-08-03 08:59:28,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742446,Zambia,-12.3602180,25.0786040,2019-04-11 00:00:00,2021-08-03 08:59:27,0,Cyfreak,River,2,0,confusedbuffalo,Mapped
+1742702,Zambia,-12.2067490,25.3910480,2019-04-11 00:00:00,2021-08-03 07:47:40,0,Cyfreak,Bassin,2,0,confusedbuffalo,Has since been mapped
+1742582,Zambia,-12.2585080,25.3069700,2019-04-11 00:00:00,2021-08-03 07:47:11,0,Cyfreak,Mining,2,0,confusedbuffalo,Has since been mapped
+1742467,Zambia,-12.1874990,25.1612560,2019-04-11 00:00:00,2021-08-03 07:46:45,0,Cyfreak,Road,2,0,confusedbuffalo,Has since been mapped
+1742464,Zambia,-12.1725790,25.1701670,2019-04-11 00:00:00,2021-08-03 07:46:42,0,Cyfreak,Road,2,0,confusedbuffalo,Has since been mapped
+1742575,Zambia,-12.0952150,25.1497740,2019-04-11 00:00:00,2021-08-03 07:46:32,0,Cyfreak,Road,2,0,confusedbuffalo,Has since been mapped
+1742576,Zambia,-12.0787490,25.1611830,2019-04-11 00:00:00,2021-08-03 07:46:27,0,Cyfreak,Road,2,0,confusedbuffalo,Has since been mapped
+1742579,Zambia,-12.0493940,25.1630040,2019-04-11 00:00:00,2021-08-03 07:46:19,0,Cyfreak,Road,2,0,confusedbuffalo,Has since been mapped
+1742704,Zambia,-12.0928510,25.5509540,2019-04-11 00:00:00,2021-08-03 07:45:28,0,Cyfreak,Road,2,0,confusedbuffalo,Mapped
+1720689,Zambia,-12.1851440,25.9617140,2019-03-23 00:00:00,2021-08-03 07:36:00,0,Unknown,Road,2,0,confusedbuffalo,Has since been mapped
+1720687,Zambia,-12.1907620,25.9509100,2019-03-23 00:00:00,2021-08-03 07:35:56,0,Unknown,Road,2,0,confusedbuffalo,Has since been mapped
+1720685,Zambia,-12.2033440,25.9546260,2019-03-23 00:00:00,2021-08-03 07:35:53,0,Unknown,Road,2,0,confusedbuffalo,Has since been mapped
+1720683,Zambia,-12.2189920,25.9452390,2019-03-23 00:00:00,2021-08-03 07:35:49,0,Unknown,Road,2,0,confusedbuffalo,Has since been mapped
+1720682,Zambia,-12.2339470,25.9341050,2019-03-23 00:00:00,2021-08-03 07:35:45,0,Unknown,Road,2,0,confusedbuffalo,Has since been mapped
+1720486,Zambia,-12.2105120,26.1387830,2019-03-23 00:00:00,2021-08-02 22:49:26,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720498,Zambia,-12.1050790,26.1209680,2019-03-23 00:00:00,2021-08-02 22:49:26,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720497,Zambia,-12.1152830,26.1187640,2019-03-23 00:00:00,2021-08-02 22:49:25,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720495,Zambia,-12.1475250,26.1174390,2019-03-23 00:00:00,2021-08-02 22:49:25,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720485,Zambia,-12.2170410,26.1451520,2019-03-23 00:00:00,2021-08-02 22:49:25,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720493,Zambia,-12.1764730,26.1275530,2019-03-23 00:00:00,2021-08-02 22:49:25,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720494,Zambia,-12.1659180,26.1225060,2019-03-23 00:00:00,2021-08-02 22:49:24,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720492,Zambia,-12.1828640,26.1338750,2019-03-23 00:00:00,2021-08-02 22:49:24,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720487,Zambia,-12.1959890,26.1246900,2019-03-23 00:00:00,2021-08-02 22:49:24,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720496,Zambia,-12.1325860,26.1169350,2019-03-23 00:00:00,2021-08-02 22:49:24,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720472,Zambia,-12.2594400,26.1912120,2019-03-23 00:00:00,2021-08-02 18:58:24,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720474,Zambia,-12.2390940,26.1862380,2019-03-23 00:00:00,2021-08-02 18:58:24,0,Unknown,River,2,0,confusedbuffalo,Maped
+1720476,Zambia,-12.2127320,26.1978770,2019-03-23 00:00:00,2021-08-02 18:58:24,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720479,Zambia,-12.1888760,26.2158760,2019-03-23 00:00:00,2021-08-02 18:58:24,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720478,Zambia,-12.2022300,26.2146720,2019-03-23 00:00:00,2021-08-02 18:58:23,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720473,Zambia,-12.2482560,26.1800660,2019-03-23 00:00:00,2021-08-02 18:58:23,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720480,Zambia,-12.1757240,26.2216990,2019-03-23 00:00:00,2021-08-02 18:58:23,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720471,Zambia,-12.2737220,26.1940900,2019-03-23 00:00:00,2021-08-02 18:58:23,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720475,Zambia,-12.2249530,26.1880650,2019-03-23 00:00:00,2021-08-02 18:58:22,0,Unknown,River,2,0,confusedbuffalo,Mapped
+1720477,Zambia,-12.2075210,26.2084020,2019-03-23 00:00:00,2021-08-02 18:58:22,0,Unknown,River,2,0,confusedbuffalo,Maped
+2767542,Zambia,-13.1873160,30.8765254,2021-07-23 00:00:00,2021-07-23 23:28:55,0,JackNUMBER,Is that a building?,2,0,JackNUMBER,
+2089457,Zambia,-16.7283000,23.1777000,2020-02-14 00:00:00,2021-07-17 10:24:21,0,Unknown,Nambai,2,0,ftcat,
+2254067,Zambia,-15.3202277,23.8815403,2020-07-05 00:00:00,2021-07-17 10:22:17,0,Hamulondo,"'Duplicated point' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-school OSM data version: 2020-05-14T01:25:26Z  #mapsme",2,0,ftcat,
+585411,Zambia,-15.0014573,25.8180027,2016-06-06 00:00:00,2021-07-17 10:17:19,0,Marjolein Schipper-Rutten,A Bushcamp in Kafue National Park. Belongs to Mukambi Safari Lodge. (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,ftcat,
+585793,Zambia,-15.0007885,25.8175049,2016-06-07 00:00:00,2021-07-17 10:17:15,0,Marjolein Schipper-Rutten,"Figtree Camp is a bushcamp, sistercamp of Mukambi Safari Lodge. (OSM data version: 2016-05-10T14:41:03Z) #mapsme",2,0,ftcat,
+2006586,Zambia,-15.8658727,27.7609829,2019-11-24 00:00:00,2021-07-17 10:12:42,0,shangtian,'Mazabuka Golf Course' POI has no name POI types: leisure-golf_course OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,ftcat,
+1323377,Zambia,-15.2678000,28.3338000,2018-03-10 00:00:00,2021-07-17 10:06:54,0,Unknown,Find phone location,2,0,ftcat,
+2624831,Zambia,-15.5558800,28.3382300,2021-04-16 00:00:00,2021-07-17 09:38:57,0,PNA2021,"5th Avenue, Beresford Lilayi",4,1,ftcat,
+1789735,Zambia,-15.4655357,28.4514055,2019-05-24 00:00:00,2021-07-17 09:33:45,0,Mawall,'Its a park with a pool and a resturant. Where one can picknick or bbq There is also some natural pools. They charge 100 ZKW. Its really beautyful' POI has no name POI types: tourism-picnic_site OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,ftcat,Now mapped
+882720,Zambia,-15.4769720,28.4942430,2017-02-06 00:00:00,2021-07-17 09:32:41,0,Unknown,One way road:  This error is submitted from Navmii GPS.,2,0,ftcat,Not oneway
+2167463,Zambia,-15.4425944,28.5357857,2020-04-21 00:00:00,2021-07-17 09:31:43,0,Unknown,Palabana,2,0,ftcat,
+2430119,Zambia,-15.8688009,28.5260224,2020-11-18 00:00:00,2021-07-17 09:30:40,0,Unknown,"Kafue Gorge Lower Dam. Completed November 2020, filling commenced 2020/11/10 first spilled 2020/11/18",2,0,ftcat,
+1474103,Zambia,-15.8708000,28.5239000,2018-08-01 00:00:00,2021-07-17 09:30:14,0,Unknown,Thủy điện Kafuae Gorge Lower,2,0,ftcat,
+2214915,Zambia,-12.5864135,30.1140336,2020-06-02 00:00:00,2021-07-17 09:28:44,0,rivermont,Is this an airstrip?,2,0,ftcat,It is and has been mapped
+2595901,Zambia,-15.1904000,28.6329600,2021-03-26 00:00:00,2021-06-24 03:59:51,0,sattiger,367Farm,2,0,sattiger,
+2651047,Zambia,-17.8531389,25.8562637,2021-05-03 00:00:00,2021-05-18 10:47:00,0,Mawall,'its two times on the map on wrong locations' POI name: Olgas the italian corner POI types: amenity-restaurant OSM data version: 2020-09-19T23:20:21Z  #mapsme,2,0,rab,
+2651041,Zambia,-17.8523626,25.8596721,2021-05-03 00:00:00,2021-05-18 10:46:15,0,Mawall,'wrong location' POI has no name POI types: amenity-restaurant OSM data version: 2020-09-19T23:20:21Z  #mapsme,2,0,rab,
+2651040,Zambia,-17.8498795,25.8560489,2021-05-03 00:00:00,2021-05-18 10:45:53,0,Mawall,'wrong location' POI has no name POI types: amenity-restaurant OSM data version: 2020-09-19T23:20:21Z  #mapsme,2,0,rab,
+2648308,Zambia,-15.4471400,28.3518700,2021-05-01 00:00:00,2021-05-02 19:34:51,0,Unknown,#7779,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2516305,Zambia,-14.5108704,28.5881549,2021-01-29 00:00:00,2021-03-25 22:50:31,0,Amberly Martin,Hard to see imagery.,2,0,rab,
+2577987,Zambia,-12.9140000,28.6123000,2021-03-13 00:00:00,2021-03-13 19:59:31,0,TM Soccer Academy - TMSA,TM Soccer Academy - TMSA,2,0,TM Soccer Academy - TMSA,
+1781212,Zambia,-16.0311599,28.8441791,2019-05-16 00:00:00,2021-03-10 11:35:43,0,Warren's C,CHIRUNDU SHOPPING MALL,2,0,rab,
+2565950,Zambia,-15.3939009,28.2836795,2021-03-05 00:00:00,2021-03-05 04:05:02,0,james mbewe,dvdfvsd,6,1,mavl,This note does not contain a useful information for OpenStreetMap.
+543376,Zambia,-17.0215300,26.6751200,2016-04-09 00:00:00,2021-03-03 20:27:56,0,mujesi,Incorrect exit: map error   Reported using Wisepilot map reporter Created by www.appello.com,2,0,daganzdaanda,Looks OK now.
+948433,Zambia,-17.1854902,27.0939776,2017-04-01 00:00:00,2021-03-03 20:27:56,0,Bunkys,Buildings in this area are inconsistent between different aerials (with variable amounts of blur...),2,0,daganzdaanda,"That's to be expected, the aerial images are usually not 100% aligned."
+543375,Zambia,-17.0410300,26.5139500,2016-04-09 00:00:00,2021-03-03 20:27:55,0,mujesi,Incorrect exit: map error  Reported using Wisepilot map reporter Created by www.appello.com,2,0,daganzdaanda,Looks OK with the imagery available.
+2515018,Zambia,-8.8455524,31.3709450,2021-01-27 00:00:00,2021-01-28 04:28:28,0,TheAfricaWeWant,We called it home,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2429576,Zambia,-12.9668800,28.6393800,2020-11-17 00:00:00,2020-11-17 19:58:17,0,HEALTH VIEW MEDICAL CENTRE,HEALTH VIEW MEDICAL CENTRE,4,1,HEALTH VIEW MEDICAL CENTRE,Added
+2026759,Zambia,-14.9849180,27.1214676,2019-12-15 00:00:00,2020-11-09 06:19:33,0,Slickmule,Chiwena RHC,3,1,Nowan77,
+2398556,Zambia,-14.9537500,25.9161500,2020-10-25 00:00:00,2020-10-25 20:40:10,0,Unknown,1,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2383956,Zambia,-15.3623082,28.2942581,2020-10-13 00:00:00,2020-10-13 08:04:19,0,Unknown,Chipata Township,2,0,Chibesa,
+2345646,Zambia,-15.3562775,28.4426495,2020-09-12 00:00:00,2020-09-13 03:38:41,0,Unknown,PT$,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1793976,Zambia,-13.1364959,28.3983164,2019-05-28 00:00:00,2020-08-21 17:34:33,0,Hsonesson,'Road name: Chisonke Avenue' POI has no name POI types: highway-tertiary OSM data version: 2019-03-28T14:13:02Z  #mapsme,2,0,Hsonesson,
+1766469,Zambia,-13.7134861,29.1684295,2019-05-04 00:00:00,2020-08-21 17:33:23,0,bjohas,What is the name of this village?,2,0,Hsonesson,
+1766465,Zambia,-13.7754659,29.0238019,2019-05-04 00:00:00,2020-08-21 17:32:54,0,bjohas,What is the name of this village?,2,0,Hsonesson,
+2255237,Zambia,-15.4374650,28.3193207,2020-07-06 00:00:00,2020-07-06 11:51:10,0,Unknown,Capital City,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+2254222,Zambia,-15.3727500,28.3328500,2020-07-05 00:00:00,2020-07-06 03:27:12,0,Unknown,My house,2,0,mavl,"Thank you for the note, but this building is already marked on OpenStreetMap."
+2246375,Zambia,-14.4426200,28.4579900,2020-06-28 00:00:00,2020-06-28 19:10:18,0,Cosmas Nyamulima,Flamingo Private School,4,1,Cosmas Nyamulima,
+2241523,Zambia,-15.4071097,28.2612026,2020-06-24 00:00:00,2020-06-24 20:57:16,0,Unknown,onosm.org submitted note from a business: name: Habib Industries Ltd  phone: 0211 287088 website:  twitter: undefined hours: Monday - Friday 7:30 am to 5 pm category: Factories address: Off Katanga road Lusaka,2,0,Mohammed Patel,
+1742587,Zambia,-12.1644220,25.4907080,2019-04-11 00:00:00,2020-06-13 18:55:10,0,Cyfreak,Road,2,0,kartonage,mapped.
+2201538,Zambia,-12.9765380,28.6467524,2020-05-21 00:00:00,2020-05-21 21:35:39,0,Kombe28,ALI ABDI GENERAL DEALERS,3,1,Kombe28,
+807391,Zambia,-15.3849597,28.2256852,2016-12-06 00:00:00,2020-05-09 14:13:42,0,권윤선윤선,집 (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,ChangwooRyu,개인 거주지 정보는 지도에 표시할 대상이 아닙니다.
+814948,Zambia,-15.3849597,28.2256852,2016-12-13 00:00:00,2020-05-09 14:13:31,0,권윤선윤선,집 (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,ChangwooRyu,개인 거주지 정보는 지도에 표시할 대상이 아닙니다.
+1794111,Zambia,-13.1390844,28.4153533,2019-05-28 00:00:00,2020-04-28 17:28:29,0,Hsonesson,'Road name: Ghandi Road' POI has no name POI types: highway-unclassified OSM data version: 2019-03-28T14:13:02Z  #mapsme,2,0,Hsonesson,
+2073057,Zambia,-12.5361683,27.8709251,2020-01-29 00:00:00,2020-04-28 17:25:48,0,Unknown,House 7,2,0,Hsonesson,
+2073055,Zambia,-12.5354770,27.8699970,2020-01-29 00:00:00,2020-04-28 17:25:45,0,Unknown,House 5,2,0,Hsonesson,
+2073052,Zambia,-12.5345600,27.8686700,2020-01-29 00:00:00,2020-04-28 17:25:41,0,Unknown,House 2,2,0,Hsonesson,
+2073054,Zambia,-12.5352728,27.8695410,2020-01-29 00:00:00,2020-04-28 17:25:37,0,Unknown,House 4,2,0,Hsonesson,
+2073059,Zambia,-12.5366343,27.8714025,2020-01-29 00:00:00,2020-04-28 17:25:32,0,Unknown,House 8,2,0,Hsonesson,
+2073060,Zambia,-12.5371004,27.8718424,2020-01-29 00:00:00,2020-04-28 17:25:29,0,Unknown,House 9,2,0,Hsonesson,
+2073056,Zambia,-12.5358174,27.8704745,2020-01-29 00:00:00,2020-04-28 17:25:25,0,Unknown,House 6,2,0,Hsonesson,
+2073067,Zambia,-12.5354090,27.8679103,2020-01-29 00:00:00,2020-04-28 17:25:23,0,Unknown,House 14,2,0,Hsonesson,
+2073066,Zambia,-12.5363201,27.8682590,2020-01-29 00:00:00,2020-04-28 17:25:19,0,Unknown,House 13,2,0,Hsonesson,
+2073050,Zambia,-12.5342779,27.8681839,2020-01-29 00:00:00,2020-04-28 17:25:16,0,Unknown,Site 1,3,0,Hsonesson,
+2073053,Zambia,-12.5349115,27.8689992,2020-01-29 00:00:00,2020-04-28 17:25:13,0,Unknown,House 3,2,0,Hsonesson,
+2073064,Zambia,-12.5371789,27.8686237,2020-01-29 00:00:00,2020-04-28 17:25:10,0,Unknown,House 12,2,0,Hsonesson,
+2073063,Zambia,-12.5384043,27.8689992,2020-01-29 00:00:00,2020-04-28 17:25:08,0,Unknown,House 11,2,0,Hsonesson,
+2073062,Zambia,-12.5380063,27.8720570,2020-01-29 00:00:00,2020-04-28 17:25:05,0,Unknown,House 10,2,0,Hsonesson,
+852456,Zambia,-12.7975325,28.1919361,2017-01-15 00:00:00,2020-04-28 17:13:40,0,Paul Bwalya,Miseshi (OSM data version: 2016-10-10T15:13:03Z) #mapsme,2,0,Hsonesson,
+1789776,Zambia,-12.8199865,28.2150545,2019-05-24 00:00:00,2020-04-28 17:09:22,0,Hsonesson,'Nsansa Road' POI has no name POI types: highway-residential OSM data version: 2019-03-28T14:13:02Z  #mapsme,2,0,Hsonesson,
+1789799,Zambia,-12.8199865,28.2150545,2019-05-24 00:00:00,2020-04-28 17:08:46,0,Hsonesson,'Nsansa Road' POI has no name POI types: highway-residential OSM data version: 2019-03-28T14:13:02Z  #mapsme,2,0,Hsonesson,
+1249121,Zambia,-12.8492425,28.2161162,2017-12-26 00:00:00,2020-04-28 17:05:05,0,Chichi Summer,'the name of the place is 'wusakile'' POI name: Wusakaili POI types: place-suburb OSM data version: 2017-11-17T20:18:02Z  #mapsme,2,0,Hsonesson,
+299447,Zambia,-13.2656773,27.7270889,2015-01-10 00:00:00,2020-04-27 17:15:22,0,Hsonesson,How do you classify this area that breaks up the river? Is it a swamp?,2,0,Hsonesson,
+1595469,Zambia,-13.2604000,28.4045000,2018-11-20 00:00:00,2020-04-27 17:14:16,0,Unknown,Masaiti,2,0,Hsonesson,
+1173046,Zambia,-12.8282658,28.3589105,2017-10-14 00:00:00,2020-04-27 17:12:24,0,Abraham Mande Bweupe,'Mwekera Falls' POI has no name POI types: tourism-picnic_site OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,Hsonesson,
+556737,Zambia,-12.9462874,28.6510070,2016-04-29 00:00:00,2020-04-27 17:08:24,0,cadget,Lechwe street,2,0,Hsonesson,
+550808,Zambia,-12.9432603,28.6225712,2016-04-20 00:00:00,2020-04-27 17:06:57,0,Unknown,Twikatane Ndola Vocational Training Centre,2,0,Hsonesson,
+1776374,Zambia,-12.9693112,28.6294165,2019-05-12 00:00:00,2020-04-27 16:58:37,0,Hsonesson,'Path' POI has no name POI types: highway-residential OSM data version: 2019-03-28T14:13:02Z  #mapsme,2,0,Hsonesson,
+1791802,Zambia,-12.9558142,28.6242303,2019-05-26 00:00:00,2020-04-27 16:58:10,0,Hsonesson,'Road name: Mbala' POI has no name POI types: highway-residential OSM data version: 2019-03-28T14:13:02Z  #mapsme,2,0,Hsonesson,
+2152797,Zambia,-15.4166150,28.3268738,2020-04-08 00:00:00,2020-04-09 03:49:01,0,Unknown,"lk https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|ircs\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/|git\\:\\/\\/|mms\\:\\/\\/|\\/\\/','wgArticlePath':'/docs/$1','wgScriptPath':'/docs','wgScriptExtension':'.php','wgScript':'/docs/index.php','wgVariantArticlePath':false,'wgActionPaths':[],'wgServer':'http://wikimapia.org','wgUserLanguage':'en','wgContentLanguage':'en','wgVersion':'1.18.0','wgEnableAPI':true,'wgEnableWriteAPI':true,'wgDefaultDateFormat':'dmy','wgMonthNames':",2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+2145917,Zambia,-16.8247400,26.9695600,2020-04-02 00:00:00,2020-04-08 14:38:00,0,john banda,Kalukungu Market,2,0,john banda,
+2145918,Zambia,-16.8241500,26.9688300,2020-04-02 00:00:00,2020-04-08 14:37:47,0,john banda,Red Nails Car Park,2,0,john banda,
+2152455,Zambia,-16.8247052,26.9702916,2020-04-08 00:00:00,2020-04-08 14:01:36,0,john banda,Site 2,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2152453,Zambia,-16.8253300,26.9694400,2020-04-08 00:00:00,2020-04-08 14:01:27,0,john banda,Site 1,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2124389,Zambia,-13.9417111,29.3844320,2020-03-19 00:00:00,2020-03-19 00:44:27,0,KARICIAMONEYLENDERSG,KML OFFICE MASANSA BRUNCH,4,1,KARICIAMONEYLENDERSG,KARICIA MONEY LENDERS
+1934896,Zambia,-14.4880129,28.4067090,2019-09-22 00:00:00,2020-03-06 18:52:16,0,GROBLERjohan,'Modest Guest House with 18 rooms on suite bathrooms Near Figtree Café close to Kabwe' POI name: Ma22 Lodge POI types: tourism-guest_house OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,freebeer,on the map
+1999752,Zambia,-15.3957900,28.3111300,2019-11-18 00:00:00,2020-03-06 18:47:46,0,Unknown,Start/Finish,2,0,freebeer,no info
+2108773,Zambia,-13.2267986,30.3578821,2020-03-03 00:00:00,2020-03-06 18:43:59,0,michikommader,'camped there' POI name: Kalwa Guest Farm POI types: tourism-camp_site OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,freebeer,personal maps.me bookmark
+2111517,Zambia,-9.7955016,29.0772424,2020-03-05 00:00:00,2020-03-06 18:43:09,0,michikommader,'just used it to withdraw cash' POI has no name POI types: amenity-atm OSM data version: 2019-11-24T01:08:45Z  #mapsme,2,0,freebeer,personal maps.me bookmark
+1742445,Zambia,-12.3900330,25.0604260,2019-04-11 00:00:00,2020-02-29 18:06:06,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742435,Zambia,-12.4113520,25.0195000,2019-04-11 00:00:00,2020-02-29 18:06:02,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742434,Zambia,-12.4207240,25.0043920,2019-04-11 00:00:00,2020-02-29 18:06:00,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742433,Zambia,-12.4343460,24.9840230,2019-04-11 00:00:00,2020-02-29 18:05:57,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742432,Zambia,-12.4483400,24.9671000,2019-04-11 00:00:00,2020-02-29 18:05:54,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742431,Zambia,-12.4577970,24.9461660,2019-04-11 00:00:00,2020-02-29 18:05:51,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742430,Zambia,-12.4596580,24.9364130,2019-04-11 00:00:00,2020-02-29 18:05:49,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742429,Zambia,-12.4671290,24.9275840,2019-04-11 00:00:00,2020-02-29 18:05:47,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742428,Zambia,-12.4678150,24.9199710,2019-04-11 00:00:00,2020-02-29 18:05:44,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742427,Zambia,-12.4752130,24.9134580,2019-04-11 00:00:00,2020-02-29 18:05:41,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742426,Zambia,-12.4720300,24.9047530,2019-04-11 00:00:00,2020-02-29 18:05:39,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742425,Zambia,-12.4794800,24.9000790,2019-04-11 00:00:00,2020-02-29 18:05:36,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742424,Zambia,-12.4878390,24.8921000,2019-04-11 00:00:00,2020-02-29 18:05:32,0,Cyfreak,River,2,0,kartonage,Mapped.
+1742423,Zambia,-12.5012100,24.8857900,2019-04-11 00:00:00,2020-02-29 18:05:29,0,Cyfreak,River,2,0,kartonage,Mapped.
+645647,Zambia,-17.8418181,25.8590675,2016-07-27 00:00:00,2020-02-22 09:10:41,0,Linda van Boeyen,Likute Way (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,bsin,Added thanks
+813918,Zambia,-17.8482475,25.8726315,2016-12-12 00:00:00,2020-02-22 09:04:02,0,Fredziby,marketplace (OSM data version: 2016-11-23T15:14:03Z) #mapsme,2,0,bsin,
+1791803,Zambia,-12.9581652,28.6298843,2019-05-26 00:00:00,2020-02-19 12:56:05,0,Hsonesson,'Chela Road' POI has no name POI types: highway-residential OSM data version: 2019-03-28T14:13:02Z  #mapsme,2,0,JustYoram,
+1061972,Zambia,-12.9450693,28.6439645,2017-07-12 00:00:00,2020-02-19 12:55:01,0,yurasi,Is the name of the school 'Zambia ICT College' instead of 'Zamtel Staff College'? Can someone please confirm the same and update the map accordingly if yes?,2,0,JustYoram,Yes
+1274705,Zambia,-13.4743547,23.0650234,2018-01-21 00:00:00,2020-02-18 13:01:16,0,wdwdwdwd,Dam 2,2,0,bsin,
+2087567,Zambia,-14.8389915,22.8066718,2020-02-12 00:00:00,2020-02-18 12:56:12,0,RukundoB,"'The school is within a big community, the actual name is Sishekano Community but I can't find community/village in the choices of places to add. 'Village' would be a great addition in the list of choices for those of us working in Humanitarian. Thanks!' POI name: Sishekano Primary School POI types: amenity-school OSM data version: 2019-10-19T16:52:54Z  #mapsme",4,1,bsin,I hope you got my previous message.   Thanks for mapping on the ground! Really needed. I'm based in Mongu. Hope to work more on maps together.  Isolated_dwelling changed to Village.
+1565392,Zambia,-14.5085771,22.6007080,2018-10-19 00:00:00,2020-02-18 12:54:01,0,mtyszler,"It should be Liuwa Plain National Park, instead of Liuwa PlainS",2,0,bsin,Thanks. Agreed and resolved
+2076715,Zambia,-8.7626900,31.1171700,2020-02-02 00:00:00,2020-02-02 09:07:22,0,WestonMumba,Mpulungu Town Council Civic Centre,2,0,WestonMumba,
+1897888,Zambia,-15.3855055,28.2980577,2019-08-23 00:00:00,2019-10-09 01:06:14,0,erickn,"'Place of worship and not church ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Kingdom Hall of Jehovah's Witnesses POI types: amenity-place_of_worship-christian OSM data version: 2019-05-17T13:54:02Z  #mapsme",2,0,freebeer,marked thus
+1897889,Zambia,-15.3858236,28.2984251,2019-08-23 00:00:00,2019-10-09 01:05:32,0,erickn,'Category: place of worship and not church' POI name: Kingdom Hall of Jehovah's Witnesses POI types: amenity-place_of_worship-christian OSM data version: 2019-05-17T13:54:02Z  #mapsme,2,0,freebeer,marked thus
+1947383,Zambia,-15.3803164,28.3640868,2019-10-03 00:00:00,2019-10-03 10:14:27,0,Chisenga Lufungulo,Hybrid roundabout,4,1,Chisenga Lufungulo,
+1837595,Zambia,-15.2140836,25.9784574,2019-07-08 00:00:00,2019-08-21 21:39:27,0,Paderborner7,"'wonderful lodge and campsite next to the Kafue River. it's quite and there is a good chance to see lions, leopard, elefants and hippos. the owners are really helpful and there is nice dishes available' POI name: Ma-Fungata Safari Lodge and Camp POI types: tourism-hotel internet_access-wlan OSM data version: 2019-05-17T13:54:02Z  #mapsme",2,0,freebeer,on the map
+1837596,Zambia,-15.2146000,25.9785069,2019-07-08 00:00:00,2019-08-21 21:38:57,0,Paderborner7,'Wonderful campsite next to the Kafue River. really safe and quite place. owners are helpful and really nice.' POI name: Ma-Fungata Safari Lodge and Camp POI types: tourism-camp_site internet_access-wlan OSM data version: 2019-05-17T13:54:02Z  #mapsme,2,0,freebeer,on the map
+1828714,Zambia,-13.6135000,29.4233000,2019-06-29 00:00:00,2019-07-02 11:57:27,0,chicotop,"Home,",2,0,RoterEmil,"Hi, please don't use OSM for private bookmarks, comments or hints. Thank you :)"
+1828713,Zambia,-13.6165577,29.4215365,2019-06-29 00:00:00,2019-06-29 09:46:47,0,chicotop,Home,2,0,chicotop,
+1810059,Zambia,-15.4455800,28.3068100,2019-06-12 00:00:00,2019-06-12 15:38:52,0,Once-In-Lsk,Once-In-Lsk,4,1,Once-In-Lsk,
+1779249,Zambia,-15.3723000,28.3906200,2019-05-15 00:00:00,2019-05-15 05:14:59,0,Dokowe,Catholic Church - Chelstone Parish,2,0,Dokowe,
+1779251,Zambia,-15.3709800,28.3830900,2019-05-15 00:00:00,2019-05-15 05:14:43,0,Dokowe,Chelstone Police moved to another location,2,0,Dokowe,
+1779252,Zambia,-15.3758345,28.3783346,2019-05-15 00:00:00,2019-05-15 05:14:34,0,Dokowe,Chelston Police New Location,2,0,Dokowe,
+1779250,Zambia,-15.3683500,28.3871800,2019-05-15 00:00:00,2019-05-15 05:10:56,0,Dokowe,Chelstone Main Market,2,0,Dokowe,
+1779248,Zambia,-15.3892461,28.4122324,2019-05-15 00:00:00,2019-05-15 05:09:56,0,Dokowe,Catholic Church Chainda,4,1,Dokowe,Catholic Church - Chainda Parish
+1779245,Zambia,-15.3887000,28.3938000,2019-05-15 00:00:00,2019-05-15 05:07:48,0,Dokowe,Twin Palms Mall,2,0,Dokowe,
+1779246,Zambia,-15.3857000,28.3974000,2019-05-15 00:00:00,2019-05-15 05:07:39,0,Dokowe,Chainda Primary School,2,0,Dokowe,
+1779247,Zambia,-15.3880048,28.4018683,2019-05-15 00:00:00,2019-05-15 05:07:30,0,Dokowe,Kweshako Shopping Complex,2,0,Dokowe,
+1779242,Zambia,-15.4210727,28.3494473,2019-05-15 00:00:00,2019-05-15 05:02:23,0,Dokowe,Kabulonga Boys Secodary School,2,0,Dokowe,
+1779241,Zambia,-15.4213500,28.3470000,2019-05-15 00:00:00,2019-05-15 05:02:13,0,Dokowe,Kabulonga Girls Secondary School,2,0,Dokowe,
+1779226,Zambia,-15.4418085,28.3103192,2019-05-15 00:00:00,2019-05-15 04:36:50,0,Unknown,Libala Primary School,2,0,Dokowe,
+1128931,Zambia,-15.4375412,28.3255165,2017-09-06 00:00:00,2019-05-15 04:36:44,0,Sean1391,'Arakan Barracks water tower' POI has no name POI types: man_made-water_tower OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,Dokowe,
+1273559,Zambia,-15.4155795,28.2878438,2018-01-19 00:00:00,2019-05-15 04:36:13,0,Sean1391,"'This is a college, not a school' POI name: Evelyn Hone College POI types: amenity-school OSM data version: 2017-10-06T18:13:02Z  #mapsme",2,0,Dokowe,Evelyn Hone College
+1779215,Zambia,-15.4220552,28.3052015,2019-05-15 00:00:00,2019-05-15 04:35:09,0,Unknown,Zambia Security Intelligence Services Headquarters,2,0,Dokowe,
+1779222,Zambia,-15.4315800,28.3088600,2019-05-15 00:00:00,2019-05-15 04:34:50,0,Unknown,Lusaka Central Prison Clinic,2,0,Dokowe,
+1779230,Zambia,-15.4299878,28.3053303,2019-05-15 00:00:00,2019-05-15 04:34:44,0,Unknown,Mumuni Primary School,2,0,Dokowe,
+1778986,Zambia,-15.4245270,28.3015537,2019-05-14 00:00:00,2019-05-15 04:03:49,0,Dokowe,Edwin Imboela Stadium,2,0,Dokowe,
+1778987,Zambia,-15.4270000,28.2977600,2019-05-14 00:00:00,2019-05-15 04:02:10,0,Dokowe,LICEF Primary and Secondary School,2,0,Dokowe,
+1779206,Zambia,-15.4596779,28.2877672,2019-05-15 00:00:00,2019-05-15 04:00:32,0,Dokowe,Chimwemwe Primary School,2,0,Dokowe,
+1779199,Zambia,-15.4607326,28.2848489,2019-05-15 00:00:00,2019-05-15 04:00:28,0,Dokowe,Chawama Market,2,0,Dokowe,
+1779200,Zambia,-15.4625000,28.2852500,2019-05-15 00:00:00,2019-05-15 04:00:24,0,Dokowe,Chawama Primary School,2,0,Dokowe,
+1779201,Zambia,-15.4649300,28.2841200,2019-05-15 00:00:00,2019-05-15 04:00:20,0,Dokowe,Chawama Police Station,2,0,Dokowe,
+1779202,Zambia,-15.4655100,28.2840900,2019-05-15 00:00:00,2019-05-15 04:00:11,0,Dokowe,Chawama Local Court,2,0,Dokowe,
+1779204,Zambia,-15.4667400,28.2845900,2019-05-15 00:00:00,2019-05-15 04:00:06,0,Dokowe,Patuka Quarry Lake (Dam),2,0,Dokowe,
+1779197,Zambia,-15.4466000,28.2860000,2019-05-15 00:00:00,2019-05-15 04:00:00,0,Dokowe,Lewis Quarry Lake (Dam),2,0,Dokowe,
+1779196,Zambia,-15.4424083,28.2787657,2019-05-15 00:00:00,2019-05-15 03:59:54,0,Dokowe,Ngwenya Quarry Lake (Dam),2,0,Dokowe,
+1779195,Zambia,-15.4515086,28.2741523,2019-05-15 00:00:00,2019-05-15 03:59:50,0,Dokowe,Blue Water Quarry Lake (Dam),2,0,Dokowe,
+1779193,Zambia,-15.4524000,28.2745000,2019-05-15 00:00:00,2019-05-15 03:59:44,0,Dokowe,Blue Water Motel,2,0,Dokowe,
+1779207,Zambia,-15.4538000,28.2767000,2019-05-15 00:00:00,2019-05-15 03:57:18,0,Dokowe,Twatasha Primary School,2,0,Dokowe,
+1053706,Zambia,-15.4044399,28.2743201,2017-07-05 00:00:00,2019-05-08 12:58:41,0,Erick Nyirenda,"'moved' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Home POI types: tourism-attraction OSM data version: 2017-05-11T13:22:09Z  #mapsme",2,0,freebeer,nothing at marker
+1742500,Zambia,-15.4063397,28.2906881,2019-04-11 00:00:00,2019-05-08 12:55:57,0,erickn,'Terrific Tuesday Buy 1 medium/large get 1 Free' POI name: Pizza Inn POI types: amenity-cafe OSM data version: 2018-12-13T07:12:02Z  #mapsme,2,0,freebeer,adverts are not wanted in osm
+1742501,Zambia,-15.4063368,28.2907458,2019-04-11 00:00:00,2019-05-08 12:55:22,0,erickn,"'Flame Grilled Chicken, Chips' POI name: Galitos POI types: amenity-fast_food OSM data version: 2018-12-13T07:12:02Z  #mapsme",2,0,freebeer,on the map
+1766168,Zambia,-13.5935763,29.5793381,2019-05-03 00:00:00,2019-05-04 09:09:02,0,bjohas,Chengelo? Tazara? Kaslm.?,2,0,bjohas,
+1766445,Zambia,-13.8803618,28.8992563,2019-05-04 00:00:00,2019-05-04 09:05:51,0,bjohas,"Turn-off to Masansa, railway crossing. What is the name of the village?",4,0,bjohas,
+1766153,Zambia,-13.8801082,29.4355902,2019-05-03 00:00:00,2019-05-03 20:59:45,0,bjohas,Momboshi?,3,1,bjohas,Please confirm village name.
+1123610,Zambia,-17.8541723,25.8557427,2017-09-01 00:00:00,2019-03-30 08:16:18,0,Waldläufer01,"'moved' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Ocean Basket POI types: amenity-restaurant OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,Windhoek,
+1722641,Zambia,-15.3996650,28.1659935,2019-03-25 00:00:00,2019-03-27 15:55:14,0,Unknown,11 Октября 2019,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+1720483,Zambia,-12.2391520,26.1529800,2019-03-23 00:00:00,2019-03-23 18:14:19,0,Unknown,River,2,0,Cyfreak,
+1720484,Zambia,-12.2285940,26.1469920,2019-03-23 00:00:00,2019-03-23 18:04:41,0,Unknown,River,2,0,Cyfreak,
+1720482,Zambia,-12.2472270,26.1608940,2019-03-23 00:00:00,2019-03-23 18:04:36,0,Unknown,River,2,0,Cyfreak,
+1685979,Zambia,-15.4028495,28.2794979,2019-02-19 00:00:00,2019-02-19 10:26:10,0,Sabz_k1,Cavendish University Zambia,3,1,Sabz_k1,The campus is quiet big and is like 100 meters
+1661144,Zambia,-15.4221200,28.3359400,2019-01-25 00:00:00,2019-01-25 13:45:13,0,Petr Fukátko,"Two embassys of Czech Republic, which is the right one?",2,0,Petr Fukátko,
+767763,Zambia,-16.2787496,27.4788386,2016-10-31 00:00:00,2019-01-06 13:59:49,0,pierred,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-10-10T15:13:03Z) #mapsme",2,0,freebeer,nothing at marker
+1085756,Zambia,-10.2136804,31.1312107,2017-07-31 00:00:00,2018-12-21 22:42:36,0,Rolan Guy,'Kasama Airport' POI has no name POI types: aeroway-aerodrome OSM data version: 2017-07-03T17:28:05Z  #mapsme,2,0,confusedbuffalo,Added
+564392,Zambia,-11.1260064,24.1955178,2016-05-12 00:00:00,2018-12-21 22:04:10,0,Cavemanpoid,I believe this road is no longer used since the dam is there now and there is a new bridge,2,0,confusedbuffalo,Has since been fixed
+564388,Zambia,-11.2356858,24.2493812,2016-05-12 00:00:00,2018-12-21 22:01:51,0,Cavemanpoid,There should be a river in this Valley that flows all year long,2,0,confusedbuffalo,Added
+564389,Zambia,-11.2351460,24.3093968,2016-05-12 00:00:00,2018-12-21 22:01:45,0,Cavemanpoid,There is a river in this Valley called the 'Sakeji River' which flows all year round.,2,0,confusedbuffalo,Added
+564387,Zambia,-11.7369246,24.4177381,2016-05-12 00:00:00,2018-12-21 21:46:11,0,Cavemanpoid,I believe this road is wrong. It should connect to the other road heading south which exits the the T5 just south of Mwinilunga,2,0,confusedbuffalo,Whatever problem this was seems to have been fixed
+214818,Zambia,-12.2507727,25.8660221,2014-08-09 00:00:00,2018-12-21 21:42:35,0,Unknown,Zesco Substation,2,0,confusedbuffalo,Added
+1288674,Zambia,-12.1805453,26.3973616,2018-02-03 00:00:00,2018-12-21 21:40:46,0,W Muma,Main Bus Terminal,2,0,confusedbuffalo,Already mapped
+1288672,Zambia,-12.1819272,26.3982626,2018-02-03 00:00:00,2018-12-21 21:40:10,0,W Muma,Kapiji Mall,2,0,confusedbuffalo,Has since been added
+1288656,Zambia,-12.1763000,26.3909000,2018-02-03 00:00:00,2018-12-21 21:38:55,0,W Muma,Solwezi City Mall,2,0,confusedbuffalo,Has since been mapped
+1288665,Zambia,-12.1758700,26.3834200,2018-02-03 00:00:00,2018-12-21 21:37:40,0,W Muma,Kyawama Market,2,0,confusedbuffalo,Added
+1288641,Zambia,-12.1766837,26.3667130,2018-02-03 00:00:00,2018-12-21 21:36:22,0,W Muma,Should read 'Solwezi' not Solwesi,2,0,confusedbuffalo,Fixed
+1570554,Zambia,-12.7797306,28.2338671,2018-10-25 00:00:00,2018-12-21 21:32:13,0,Siluyele,'G House' POI has no name POI types: amenity-shelter OSM data version: 2018-08-04T14:22:01Z  #mapsme,2,0,confusedbuffalo,Not for osm
+1427782,Zambia,-12.7911670,28.2384133,2018-06-16 00:00:00,2018-12-21 21:31:36,0,Melvin M Choongo,"'Yes' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Riverside SDA church POI types: amenity-place_of_worship OSM data version: 2018-05-26T22:39:02Z  #mapsme",2,0,confusedbuffalo,Removed duplicate
+578064,Zambia,-12.8166974,28.1999946,2016-05-30 00:00:00,2018-12-21 21:30:12,0,Unknown,I have created my page 'Jamboree kitwe'. The location indicated on my page is not the correct one.,3,0,confusedbuffalo,Doesn't seem to be an osm issue
+1563181,Zambia,-12.9574533,28.6303373,2018-10-17 00:00:00,2018-12-21 21:26:23,0,Unknown,"NORTHEN TECHNICAL COLLEGE (NORTEC) KWACHA ROAD, NDOLA, ZAMBIA",2,0,confusedbuffalo,Fixed
+970370,Zambia,-13.1275354,28.4160733,2017-04-20 00:00:00,2018-12-21 21:23:30,0,Unknown,Datura Avenue,2,0,confusedbuffalo,Added
+740443,Zambia,-13.4924576,29.8190875,2016-10-07 00:00:00,2018-12-21 21:21:50,0,Jeff Yu,Ndabala train station (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,confusedbuffalo,Added
+740530,Zambia,-13.6007534,29.6181229,2016-10-07 00:00:00,2018-12-21 21:21:05,0,Jeff Yu,Nkolonga Train Station (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,confusedbuffalo,Added
+224218,Zambia,-14.4471377,28.4452879,2014-08-19 00:00:00,2018-12-21 21:19:28,0,LarrySm0z,End-to-End called 3rd Street,2,0,confusedbuffalo,"You've added the name, closing the note"
+224219,Zambia,-14.4461610,28.4452128,2014-08-19 00:00:00,2018-12-21 21:19:25,0,LarrySm0z,End-to-End called 2nd Street,2,0,confusedbuffalo,"You've added the name, closing the note"
+1128929,Zambia,-14.4376324,28.4433681,2017-09-06 00:00:00,2018-12-21 21:18:26,0,Sean1391,"'Clayton Park, one of the oldest play parks in Kabwe' POI has no name POI types: leisure-playground OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,confusedbuffalo,Added name
+1131535,Zambia,-14.4054882,28.4864299,2017-09-08 00:00:00,2018-12-21 21:14:03,0,Sean1391,"'This is actually a military Barracks, not government office' POI name: Kohima Barracks POI types: office-government OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,confusedbuffalo,Fixed
+1131537,Zambia,-14.4061120,28.4873843,2017-09-08 00:00:00,2018-12-21 21:13:58,0,Sean1391,"'This is actually a military Barracks, not government office' POI name: Kohima Barracks POI types: office-government OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,confusedbuffalo,Fixed
+794380,Zambia,-15.3849597,28.2256852,2016-11-24 00:00:00,2018-12-21 20:26:11,0,권윤선윤선,집 (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,confusedbuffalo,
+1152397,Zambia,-15.3045324,28.3579362,2017-09-25 00:00:00,2018-12-21 20:25:37,0,Sean1391,'There's a bridge here that links this road (D565)' POI name: Kalimba Farm POI types: landuse-farmland OSM data version: 2017-08-17T15:51:02Z  #mapsme,2,0,confusedbuffalo,Appears to have been fixed
+1034726,Zambia,-15.3334304,28.4319156,2017-06-19 00:00:00,2018-12-21 20:22:12,0,amsor,'AI-222K-25' POI name: Hangar of Zambian AirForce POI types: tourism-viewpoint OSM data version: 2017-05-11T13:22:09Z  #mapsme,2,0,confusedbuffalo,Added
+851088,Zambia,-15.4405613,28.3714757,2017-01-14 00:00:00,2018-12-21 18:28:29,0,Moses Mulenga,Default (OSM data version: 2016-12-14T16:41:03Z) #mapsme,2,0,confusedbuffalo,
+1462107,Zambia,-15.4446228,28.3452055,2018-07-21 00:00:00,2018-12-21 18:27:22,0,Misheck Kasaro,'need to add the category for Power Station' POI name: ZESCO Substation POI types: tourism-artwork OSM data version: 2018-05-26T22:39:02Z  #mapsme,2,0,confusedbuffalo,Fixed
+1462104,Zambia,-15.4535376,28.3370859,2018-07-21 00:00:00,2018-12-21 18:26:16,0,Misheck Kasaro,'Lundazi Road' POI has no name POI types: highway-unclassified OSM data version: 2018-05-26T22:39:02Z  #mapsme,2,0,confusedbuffalo,Added
+1140314,Zambia,-15.4192020,28.2865939,2017-09-15 00:00:00,2018-12-21 18:24:59,0,Sean1391,"'Zambia Centre for Accountancy Studies is actually a college/university, not a school' POI name: Zambia Centre for Accountancy Studies POI types: amenity-school OSM data version: 2017-08-17T15:51:02Z  #mapsme",2,0,confusedbuffalo,Fixed
+1219455,Zambia,-15.4105399,28.3147450,2017-11-28 00:00:00,2018-12-21 18:23:40,0,Ayaka Mcbo,'jcs 食品市場' POI name: Lusaka Central Sports Club POI types: sport-cricket leisure-pitch OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,confusedbuffalo,Food market is mapped
+1403243,Zambia,-15.3933774,28.3209342,2018-05-23 00:00:00,2018-12-21 18:21:23,0,PaulUithol,"'needs to be an office, not museum?' POI name: Centre for Infectious Disease Research in Zambia counting square office POI types: tourism-museum OSM data version: 2018-04-17T05:20:02Z  #mapsme",2,0,confusedbuffalo,Fixed
+1302556,Zambia,-15.3926084,28.3947386,2018-02-17 00:00:00,2018-12-21 18:18:22,0,Erick Nyirenda,'Twin Palm Road' POI has no name POI types: highway-unclassified OSM data version: 2018-01-26T12:04:02Z  #mapsme,2,0,confusedbuffalo,Added
+833336,Zambia,-15.3880564,28.4073171,2016-12-29 00:00:00,2018-12-21 18:16:59,0,Eazyerick,Next of Kin (OSM data version: 2016-11-23T15:14:03Z) #mapsme,4,0,confusedbuffalo,Doesn't seem relevant to OSM
+1509450,Zambia,-15.3828289,28.3546067,2018-08-31 00:00:00,2018-12-21 18:14:58,0,Traktorbek,"'The place is twice on the map' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI name: Engen POI types: amenity-fuel OSM data version: 2018-08-04T14:22:01Z  #mapsme",2,0,confusedbuffalo,Fixed
+1615132,Zambia,-15.3862048,28.3274122,2018-12-12 00:00:00,2018-12-21 18:12:10,0,erickn,'Kabompo Road' POI has no name POI types: highway-residential OSM data version: 2018-10-30T22:25:02Z  #mapsme,2,0,confusedbuffalo,Fixed
+1462109,Zambia,-15.3801904,28.3118533,2018-07-21 00:00:00,2018-12-21 18:10:43,0,Misheck Kasaro,'the street name is Kasangula and not Kazungula' POI name: Kazungula Road POI types: highway-secondary OSM data version: 2018-05-26T22:39:02Z  #mapsme,2,0,confusedbuffalo,Has since been fixed
+1605161,Zambia,-15.3884126,28.2982025,2018-11-30 00:00:00,2018-12-21 18:07:55,0,erickn,'Pendela Road' POI has no name POI types: highway-tertiary OSM data version: 2018-10-30T22:25:02Z  #mapsme,2,0,confusedbuffalo,Added
+1438283,Zambia,-15.3860900,28.2977000,2018-06-27 00:00:00,2018-12-21 18:07:50,0,erickn,Pendela Road,2,0,confusedbuffalo,Added
+967933,Zambia,-15.4044404,28.2743190,2017-04-18 00:00:00,2018-12-21 18:05:29,0,Nelly N,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'moved' (OSM data version: 2016-12-14T16:41:03Z) #mapsme",2,0,confusedbuffalo,Seems to have been fixed
+967935,Zambia,-15.4044451,28.2742718,2017-04-18 00:00:00,2018-12-21 18:05:24,0,Erick Nyirenda,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'removed ' (OSM data version: 2017-03-06T16:48:02Z) #mapsme",2,0,confusedbuffalo,Seems to have been fixed
+1189584,Zambia,-15.4043184,28.2743523,2017-10-30 00:00:00,2018-12-21 18:05:19,0,Erick Nyirenda,"'moved ' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: building-address OSM data version: 2017-10-06T18:13:02Z  #mapsme",2,0,confusedbuffalo,Seems to have been fixed
+1128930,Zambia,-15.4192020,28.2865939,2017-09-06 00:00:00,2018-12-21 18:04:20,0,Sean1391,"'Zambia Centre for Accountancy Studies is actually a college, not a school' POI name: Zambia Centre for Accountancy Studies POI types: amenity-school OSM data version: 2017-07-28T09:42:02Z  #mapsme",2,0,confusedbuffalo,Fixed
+1140317,Zambia,-15.4233753,28.2823024,2017-09-15 00:00:00,2018-12-21 18:02:52,0,Sean1391,'This is a shopping mall called Cairo Mall' POI has no name POI types: building OSM data version: 2017-08-17T15:51:02Z  #mapsme,2,0,confusedbuffalo,Added
+1140315,Zambia,-15.4155795,28.2878438,2017-09-15 00:00:00,2018-12-21 18:02:00,0,Sean1391,"'Evelyn Hone College is actually a college, not a school' POI name: Evelyn Hone College POI types: amenity-school OSM data version: 2017-08-17T15:51:02Z  #mapsme",2,0,confusedbuffalo,"Fixed, and mapped as area"
+1262001,Zambia,-15.4146188,28.2883787,2018-01-08 00:00:00,2018-12-21 18:00:05,0,Unknown,Lusaka Central Fire Brigade,2,0,confusedbuffalo,Added
+911519,Zambia,-15.4068008,28.2948471,2017-03-02 00:00:00,2018-12-21 17:59:17,0,Erick Nyirenda,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'remove' (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,confusedbuffalo,Seems to have since been fixed
+898720,Zambia,-15.4067982,28.2945333,2017-02-20 00:00:00,2018-12-21 17:59:13,0,Erick Nyirenda,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,confusedbuffalo,Seems to have since been fixed
+969237,Zambia,-15.4037172,28.3038767,2017-04-19 00:00:00,2018-12-21 17:57:30,0,Erick Nyirenda,Kalembwe Road (OSM data version: 2017-03-06T16:48:02Z) #mapsme,2,0,confusedbuffalo,Added
+822818,Zambia,-15.4221280,28.3141197,2016-12-20 00:00:00,2018-12-21 17:55:31,0,Nino O,Knenyatta should be written as Kenyatta (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,confusedbuffalo,Has since been fixed
+978276,Zambia,-15.4236468,28.3124504,2017-04-27 00:00:00,2018-12-21 17:55:08,0,NicEd,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'Place has moved its location over to Independence avenue. Changing that soon.' (OSM data version: 2017-03-28T20:59:03Z) #mapsme",2,0,confusedbuffalo,"You seem to have fixed it, closing the note"
+823436,Zambia,-15.8596019,27.7635578,2016-12-20 00:00:00,2018-12-21 17:39:05,0,Nino O,"The place is across the street from where it's positioned, just  to the south of the gas station. (OSM data version: 2016-11-05T13:55:03Z) #mapsme",2,0,confusedbuffalo,Unclear what this refers to
+1606184,Zambia,-15.4686741,28.3472800,2018-12-01 00:00:00,2018-12-01 18:58:30,0,MrReal,Glory Academy School,2,0,MrReal,
+1606176,Zambia,-15.4770184,28.3433211,2018-12-01 00:00:00,2018-12-01 18:53:12,0,MrReal,Plot 38298 Lusaka,2,0,MrReal,
+1606174,Zambia,-15.4744645,28.3431602,2018-12-01 00:00:00,2018-12-01 18:50:02,0,MrReal,Eastern Quarry Dam,4,1,MrReal,
+1592977,Zambia,-15.5061022,28.3861613,2018-11-18 00:00:00,2018-11-18 06:54:08,0,RIC2,111,2,0,RIC2,ti
+224217,Zambia,-14.4480519,28.4447944,2014-08-19 00:00:00,2018-11-15 11:09:31,0,LarrySm0z,End-to-End is known as Munyama Street (4th Street),2,0,freebeer,on the map
+749606,Zambia,-17.8514405,25.8554049,2016-10-16 00:00:00,2018-11-15 11:07:42,0,Jeff Yu,Italian restaurant (OSM data version: 2016-08-22T09:03:02Z) #mapsme,2,0,freebeer,on the map. twice.
+662236,Zambia,-17.8479300,25.8538746,2016-08-08 00:00:00,2018-11-15 11:05:53,0,NicEd,"Please can someone change the category from 'amenity' to 'hostel', I don't have access to a computer and can't change it from my phone, thanks. (OSM data version: 2016-07-15T17:38:02Z) #mapsme",2,0,freebeer,on the map
+770119,Zambia,-17.8476926,25.8558688,2016-11-02 00:00:00,2018-11-15 11:04:45,0,pierred,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'moving it 20 meters away' (OSM data version: 2016-10-10T15:13:03Z) #mapsme",2,0,freebeer,nothing aat marker
+813916,Zambia,-17.8482475,25.8726315,2016-12-12 00:00:00,2018-11-15 11:03:46,0,Fredziby,marketplace with all sorts of products (OSM data version: 2016-11-23T15:14:03Z) #mapsme,2,0,freebeer,duplicate
+1343196,Zambia,-13.6582932,32.6480736,2018-03-30 00:00:00,2018-11-15 11:02:38,0,Kenani Mumba,'plot 88 umodzi  Mr mumba' POI has no name POI types: amenity-shelter internet_access-wlan OSM data version: 2017-10-20T12:20:02Z  #mapsme,2,0,freebeer,personal maps.me bookmark with private info
+1343197,Zambia,-13.6582932,32.6480736,2018-03-30 00:00:00,2018-11-15 11:01:43,0,Kenani Mumba,'Kenani Mumba 🏠' POI has no name POI types: amenity-shelter OSM data version: 2018-02-09T21:26:02Z  #mapsme,2,0,freebeer,personal maps.me bookmark with private info
+1402977,Zambia,-15.3834000,28.2687000,2018-05-23 00:00:00,2018-11-15 11:00:49,0,Ronald Chisenga,Matero Police Station,2,0,freebeer,on the map
+1506498,Zambia,-15.4001072,28.2790419,2018-08-29 00:00:00,2018-11-15 10:57:19,0,Unknown,my place,2,0,freebeer,personal bookmark
+1392556,Zambia,-15.5105890,28.2658052,2018-05-13 00:00:00,2018-11-13 11:09:44,0,Patrick Banda,Pk,2,0,LC1989,
+1086389,Zambia,-15.4603902,28.3366502,2017-07-31 00:00:00,2018-11-13 11:08:16,0,Jason J Mulikita,'Ring Road' POI name: Tokyo Way POI types: psurface-paved_good highway-secondary OSM data version: 2017-07-03T17:28:05Z  #mapsme,2,0,LC1989,
+1028595,Zambia,-11.8674000,25.3125000,2017-06-13 00:00:00,2018-10-27 09:18:22,0,Unknown,Next to Pizza hut,2,0,freebeer,middle of nowhere
+1260706,Zambia,-15.4730000,28.3171500,2018-01-07 00:00:00,2018-10-27 09:16:43,0,Unknown,ok,2,0,freebeer,no mapping info
+1462105,Zambia,-15.4509951,28.3336750,2018-07-21 00:00:00,2018-10-27 09:15:32,0,Misheck Kasaro,'Lundazi Road' POI has no name POI types: highway-unclassified OSM data version: 2018-05-26T22:39:02Z  #mapsme,2,0,freebeer,on the map
+1462108,Zambia,-15.4530479,28.3416147,2018-07-21 00:00:00,2018-10-27 09:15:02,0,Misheck Kasaro,'the street name is Mapushi Road' POI has no name POI types: highway-unclassified OSM data version: 2018-05-26T22:39:02Z  #mapsme,2,0,freebeer,on the map
+1462103,Zambia,-15.4530774,28.3348010,2018-07-21 00:00:00,2018-10-27 09:14:05,0,Misheck Kasaro,'Pemba Road' POI name: Chimanga Road POI types: highway-tertiary OSM data version: 2018-05-26T22:39:02Z  #mapsme,2,0,freebeer,on the map
+1462106,Zambia,-15.4530479,28.3416147,2018-07-21 00:00:00,2018-10-27 09:13:33,0,Misheck Kasaro,'Mapushi Road' POI has no name POI types: highway-unclassified OSM data version: 2018-05-26T22:39:02Z  #mapsme,2,0,freebeer,on the map
+1474254,Zambia,-15.4492000,28.3585000,2018-08-01 00:00:00,2018-10-27 09:12:21,0,Unknown,Home,2,0,freebeer,personal bookmark
+1509209,Zambia,-15.4146000,28.2913000,2018-08-31 00:00:00,2018-10-27 09:10:54,0,Unknown,Visited,2,0,freebeer,personal bookmark
+1569683,Zambia,-13.2313789,30.2356222,2018-10-24 00:00:00,2018-10-27 09:10:28,0,Unknown,Exactly place where my device is located,2,0,freebeer,no mapping info
+1474110,Zambia,-16.5220000,28.7615000,2018-08-01 00:00:00,2018-09-23 12:49:44,0,Unknown,Thủy điện Kariba,2,0,rab,
+789808,Zambia,-15.3922059,28.3169176,2016-11-20 00:00:00,2018-08-20 19:24:28,0,Jose_GN,Sunday market (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,jsie,
+789773,Zambia,-15.3922059,28.3169176,2016-11-20 00:00:00,2018-08-20 19:19:57,0,Jose_GN,Sunday market (OSM data version: 2016-09-19T14:38:03Z) #mapsme,2,0,jsie,added - what are the opening hours
+1494523,Zambia,-15.3908586,28.3159722,2018-08-19 00:00:00,2018-08-20 19:08:33,0,jsie,"'gas station has been closed a while ago' The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. POI has no name POI types: amenity-fuel OSM data version: 2018-07-05T18:22:02Z  #mapsme",2,0,jsie,
+1462073,Zambia,-15.4474500,28.3346700,2018-07-21 00:00:00,2018-07-21 12:46:58,0,Kasaro,There is no gas station at this point,2,0,Kasaro,
+1462072,Zambia,-15.4489600,28.3287200,2018-07-21 00:00:00,2018-07-21 12:45:48,0,Kasaro,Chilenje Old Graveyard,4,1,Kasaro,
+1438618,Zambia,-15.3842300,28.3216100,2018-06-27 00:00:00,2018-06-28 09:37:55,0,Unknown,Juls Apartment,2,0,freebeer,personal bookmark
+1376673,Zambia,-16.5389414,28.7160516,2018-04-29 00:00:00,2018-05-31 09:44:17,0,GiaKondaSolarSchools,Siavonga Nutrition Group,2,0,rab,
+1376675,Zambia,-16.5359690,28.7177360,2018-04-29 00:00:00,2018-05-31 09:44:13,0,GiaKondaSolarSchools,Zaninge Guest House,2,0,rab,
+1238554,Zambia,-15.3044792,28.3193421,2017-12-14 00:00:00,2018-04-25 14:03:53,0,Unknown,Home,4,1,30303020,Please do not add your home location as a note or feature in the map. This feature is available for mapping errors. Please refer to https://wiki.openstreetmap.org/wiki/Notes to read about the usage of notes.
+967922,Zambia,-15.4044399,28.2743201,2017-04-18 00:00:00,2018-03-18 15:25:09,0,Erick Nyirenda,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'moved' (OSM data version: 2017-03-06T16:48:02Z) #mapsme",2,0,freebeer,n0thing at marker
+898721,Zambia,-15.4044451,28.2742718,2017-02-20 00:00:00,2018-03-18 15:24:12,0,Erick Nyirenda,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2017-01-19T15:17:02Z) #mapsme",2,0,freebeer,n0thing at marker
+823868,Zambia,-15.4067993,28.2945333,2016-12-21 00:00:00,2018-03-18 15:21:35,0,Eazyerick,Joseph Mwilwa Road (OSM data version: 2016-11-05T13:55:03Z) #mapsme,2,0,freebeer,0n the map
+629908,Zambia,-15.3823772,28.3870982,2016-07-16 00:00:00,2018-03-18 15:19:08,0,Paul Salasini,A Close,4,0,freebeer,0n the map
+1324712,Zambia,-15.3840877,28.3603381,2018-03-12 00:00:00,2018-03-18 15:17:31,0,Unknown,U,2,0,freebeer,n0 useful mapping inf0
+1324277,Zambia,-15.3830706,28.3630380,2018-03-11 00:00:00,2018-03-18 15:17:12,0,Unknown,Pin point,2,0,freebeer,n0 mapping inf0
+564390,Zambia,-13.4071121,24.3310699,2016-05-12 00:00:00,2018-01-21 03:04:46,0,Cavemanpoid,This town is actually called Manyinga. I'll place another marker where the Loloma Mission Station is located (it has now been enveloped by the town),2,0,wdwdwdwd,
+1274704,Zambia,-13.0863337,22.6766396,2018-01-21 00:00:00,2018-01-21 03:02:29,0,wdwdwdwd,start point,6,1,wdwdwdwd,
+1231462,Zambia,-14.4417496,28.4468506,2017-12-06 00:00:00,2017-12-06 20:41:46,0,SatzKabwe,Puma Corner Service Station,4,1,SatzKabwe,
+1185757,Zambia,-17.9244548,25.8552504,2017-10-26 00:00:00,2017-10-26 13:01:31,0,JuergenW,Victoria Falls,2,0,JuergenW,
+850298,Zambia,-15.4701424,28.3920193,2017-01-13 00:00:00,2017-10-25 19:15:48,0,Unknown,Our house,3,0,kartonage,"Hey there, please don't use OSM for personal notes. They are publicly visible and meant for errors and suggestions. If you want to map your house I invite you to try editing but please don't use a name like 'our house' for it. Thanks!"
+810880,Zambia,-15.4460715,28.3234740,2016-12-09 00:00:00,2017-10-25 19:12:14,0,Rodney Gunduza,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: 'home' (OSM data version: 2016-11-23T15:14:03Z) #mapsme",2,0,kartonage,"Hi, please don't use OSM for personal notes. They are publicly visible and meant for errors and suggestions. Maps.me has a private bookmark function which you should use instead. Thanks!"
+1167569,Zambia,-15.4625035,28.2492694,2017-10-09 00:00:00,2017-10-10 16:19:45,0,Unknown,I can't see pictures,2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1140312,Zambia,-17.2273216,26.4778025,2017-09-15 00:00:00,2017-10-05 18:04:26,0,Sean1391,"'There is actually a bridge along the river at this particular point (-17.030445, 26.463139) that connects the road (T1). With the way it is right now (disconnected at this point), it suggests a longer and inconvenient detour during navigation. Please look into it and fix it as soon as possible, as this is a route a lot of tourists use to get to Livingstone' POI name: Kalomo POI types: waterway-river OSM data version: 2017-08-17T15:51:02Z  #mapsme",2,0,rab,
+959695,Zambia,-15.4356000,28.3397000,2017-04-11 00:00:00,2017-10-02 16:23:15,0,Unknown,Birdnest Backapckers,2,0,freebeer,on the map
+1110817,Zambia,-15.3705567,28.4076583,2017-08-20 00:00:00,2017-10-02 16:21:35,0,Eugenio Cardinale Mwila,'Pastoral and Retreat Centre' POI name: Archdiocese of Lusaka Marian Shrine POI types: amenity-place_of_worship OSM data version: 2017-07-28T09:42:02Z  #mapsme,2,0,freebeer,on the map
+703359,Zambia,-15.4053385,28.3061089,2016-09-07 00:00:00,2017-10-02 16:18:15,0,Kunda,Work place (OSM data version: 2016-07-15T17:38:02Z) #mapsme,2,0,freebeer,on the map
+833335,Zambia,-15.4047075,28.2807947,2016-12-29 00:00:00,2017-10-02 16:17:14,0,Eazyerick,Rating 6.7   $ (OSM data version: 2016-11-23T15:14:03Z) #mapsme,2,0,freebeer,on the map
+849481,Zambia,-15.4530482,28.2689986,2017-01-12 00:00:00,2017-06-23 11:13:34,0,Eazyerick,Embassy Mall (OSM data version: 2016-12-14T16:41:03Z) #mapsme,4,0,TrudyHope,
+1012035,Zambia,-15.4491919,28.3095008,2017-05-29 00:00:00,2017-06-23 11:13:08,0,Chinunda,'chiggz place' POI has no name POI types: amenity-shelter internet_access-wlan OSM data version: 2017-05-11T13:22:09Z  #mapsme,3,1,TrudyHope,
+904359,Zambia,-15.2650405,23.1473165,2017-02-24 00:00:00,2017-05-27 19:18:44,0,Joackim Ndubeni,my home (OSM data version: 2017-01-19T15:17:02Z) #mapsme,2,0,TheDutchMan13,
+893028,Zambia,-15.3930734,28.3044076,2017-02-15 00:00:00,2017-02-15 13:36:42,0,KamwanyaJames,Chita Lodge,2,0,KamwanyaJames,
+893025,Zambia,-15.3934872,28.3036566,2017-02-15 00:00:00,2017-02-15 13:33:45,0,KamwanyaJames,Fatmols Lodge,5,1,KamwanyaJames,
+857935,Zambia,-16.4992374,28.8007236,2017-01-21 00:00:00,2017-01-21 11:21:00,0,yayayayamirror,7,2,0,pitscheplatsch,The note doesn't contain a useful information for OpenStreetMap.
+857934,Zambia,-16.5021950,28.7945706,2017-01-21 00:00:00,2017-01-21 11:20:56,0,yayayayamirror,6,2,0,pitscheplatsch,The note doesn't contain a useful information for OpenStreetMap.
+857930,Zambia,-16.5116021,28.7747490,2017-01-21 00:00:00,2017-01-21 11:20:45,0,yayayayamirror,3,2,0,pitscheplatsch,The note doesn't contain a useful information for OpenStreetMap.
+857928,Zambia,-16.5377741,28.7403041,2017-01-21 00:00:00,2017-01-21 11:20:43,0,yayayayamirror,2,2,0,pitscheplatsch,The note doesn't contain a useful information for OpenStreetMap.
+857927,Zambia,-16.5329915,28.7484634,2017-01-21 00:00:00,2017-01-21 11:20:40,0,yayayayamirror,1,2,0,pitscheplatsch,The note doesn't contain a useful information for OpenStreetMap.
+857956,Zambia,-16.8416351,28.0631161,2017-01-21 00:00:00,2017-01-21 07:32:54,0,yayayayamirror,4,2,0,yayayayamirror,
+857952,Zambia,-17.6338181,27.2267175,2017-01-21 00:00:00,2017-01-21 07:28:31,0,yayayayamirror,4,2,0,yayayayamirror,
+857948,Zambia,-17.7866534,27.1044302,2017-01-21 00:00:00,2017-01-21 07:27:22,0,yayayayamirror,2,2,0,yayayayamirror,
+857932,Zambia,-16.4125702,28.8360536,2017-01-21 00:00:00,2017-01-21 07:22:18,0,yayayayamirror,5,2,0,yayayayamirror,
+843272,Zambia,-15.4551732,28.2662439,2017-01-06 00:00:00,2017-01-06 12:19:16,0,sktete,"The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-12-14T16:41:03Z) #mapsme",2,0,sktete,
+556738,Zambia,-12.9506123,28.6503515,2016-04-29 00:00:00,2016-12-31 23:29:12,0,cadget,Minsundu road,2,0,Hsonesson,
+80462,Zambia,-15.9167624,28.1414795,2013-11-29 00:00:00,2016-10-06 18:37:16,0,Unknown,Munali Nickel Sulphide Mine,4,1,rab,
+730415,Zambia,-16.0242832,28.8495880,2016-09-29 00:00:00,2016-10-06 18:35:32,0,Chirundu Courtyard Lodge-Bed &amp; Breakfast,"Chirundu Courtyard Lodge-Bed & Breakfast, Plot No. 513, High Cost Area, Opposite Zambia Revenue Authority(ZRA) Houses, Chiawa Road, Chirundu, ZAMBIA.",2,0,rab,
+691726,Zambia,-15.3691982,28.2950735,2016-08-28 00:00:00,2016-08-28 16:05:06,0,Unknown,Location of Chipata Clinic,2,0,osuilleabhain,Added to map
+637431,Zambia,-12.8287426,28.2131666,2016-07-22 00:00:00,2016-07-25 01:25:54,0,Joseph Mwila,"Leader, Dr. Joseph Mwila The church Part of Christ Central Churches International, a member of Newfrontiers Churches International (OSM data version: 2016-06-20T05:57:02Z) #mapsme",2,0,NicEd,
+581469,Zambia,-15.3959389,28.4510469,2016-06-03 00:00:00,2016-07-20 00:05:52,0,Marjolein Schipper-Rutten,Accommodation which offers different chalets on bed and breakfast basis but also offer lunches en dinners.  (OSM data version: 2016-05-10T14:41:03Z) #mapsme,2,0,NicEd,
+597905,Zambia,-14.6383997,28.8446045,2016-06-18 00:00:00,2016-06-23 06:18:43,0,ftcat,Mulungushi not Mulingushi,2,0,ftcat,
+543371,Zambia,-17.0396900,26.5102600,2016-04-09 00:00:00,2016-05-09 21:18:53,0,mujesi,No left turn Reported using Wisepilot map reporter Created by www.appello.com,2,0,TheDutchMan13,No useful info
+384714,Zambia,-16.9087803,27.2808552,2015-06-22 00:00:00,2016-01-18 11:55:44,0,BushFruit89,Mboole Tuck Shops,2,0,Kandeta Mwango,
+96871,Zambia,-12.3000873,30.3167725,2014-01-06 00:00:00,2015-11-16 11:10:28,0,Unknown,"This is the site of the 'Livingstone Memorial',  according to http://en.wikipedia.org/wiki/Livingstone_Memorial",2,0,Central America,The memorial is near here but these are not the coordinates
+456522,Zambia,-12.9133432,30.6304461,2015-10-24 00:00:00,2015-11-16 11:08:33,0,Central America,this is  a shop,2,0,Central America,this was a test
+400373,Zambia,-12.9161668,30.6392062,2015-07-21 00:00:00,2015-09-06 13:13:02,0,Unknown,This is a test,2,0,Prince Kassad,
+408011,Zambia,-17.5177712,24.8294020,2015-08-03 00:00:00,2015-08-03 12:39:08,0,Unknown,ImpacTAIDS,2,0,Central America,this was a test
+74465,Zambia,-15.4076993,28.2875419,2013-11-15 00:00:00,2015-07-18 11:34:22,0,Unknown,GPS Solutions,3,0,Dchime,
+318359,Zambia,-14.3623530,28.6312294,2015-02-18 00:00:00,2015-02-18 07:18:44,0,Dana Sellers,Mita Hills Dam,4,1,Dana Sellers,Added
+70504,Zambia,-15.3126646,27.3513222,2013-11-08 00:00:00,2015-01-01 19:05:56,0,Unknown,dead zuluuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu,2,0,Prince Kassad,
+293529,Zambia,-15.3933993,28.2673717,2014-12-30 00:00:00,2014-12-30 11:29:30,0,Unknown,"Ministry of Mines, Energy and Water Development",4,1,David Musonda,"Ministry of Mines, Energy and Water Development"
+4529,Zambia,-17.9287421,25.8568516,2013-05-25 00:00:00,2014-01-31 16:57:00,0,Unknown,Uihiccj hucuhjsyuchuduh huufujduh,2,0,julienmueller,

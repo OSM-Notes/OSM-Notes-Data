@@ -1,0 +1,3 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4666847,Exclusive economic zone adjacent to Scotland,58.0578476,1.0800424,2025-03-16 00:00:00,2025-04-21 03:16:23,0,Neil Thomson138,"Ithaca energy offshore oil rig, ANP",7,1,caeden_harmer,

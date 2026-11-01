@@ -1,0 +1,5 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+138936,Исключительная экономическая зона России,55.0146385,19.4265747,2014-03-23 00:00:00,2014-06-25 17:52:59,0,Unknown,test2,2,0,i29,
+138935,Исключительная экономическая зона России,55.0476957,19.4773865,2014-03-23 00:00:00,2014-06-25 17:52:54,0,Unknown,test,4,0,i29,
+138934,Исключительная экономическая зона России,54.8990444,19.5325756,2014-03-23 00:00:00,2014-03-23 19:31:40,0,ErshKUS,test,2,0,ErshKUS,

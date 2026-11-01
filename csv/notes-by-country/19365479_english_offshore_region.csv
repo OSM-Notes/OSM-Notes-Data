@@ -1,0 +1,10 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5082638,English offshore region,51.6242780,1.5713453,2025-12-07 00:00:00,2025-12-08 09:41:43,0,Unknown,done,2,0,Mex,personal note
+5082685,English offshore region,51.6383430,1.4791846,2025-12-07 00:00:00,2025-12-08 09:41:39,0,Unknown,done,2,0,Mex,personal note
+5082758,English offshore region,51.6103551,1.4649582,2025-12-07 00:00:00,2025-12-08 09:41:34,0,Unknown,done,2,0,Mex,personal note
+5082754,English offshore region,51.6219067,1.4435005,2025-12-07 00:00:00,2025-12-08 09:41:32,0,Unknown,done,2,0,Mex,personal note
+5082790,English offshore region,51.6121540,1.4186096,2025-12-07 00:00:00,2025-12-08 09:41:30,0,Unknown,Done,2,0,Mex,personal note
+4692690,English offshore region,52.6287032,3.0165571,2025-04-02 00:00:00,2025-04-02 10:14:30,0,Unknown,Nutbn,3,0,NeisReview,#misplaced
+4531923,English offshore region,53.1738320,2.3701014,2024-11-24 00:00:00,2025-01-20 12:19:48,0,Unknown,There's a few oil rigs here   #OsmAnd,3,0,pitscheplatsch,no useful information for editing OSM data.
+4531921,English offshore region,53.1305174,2.2873033,2024-11-24 00:00:00,2025-01-20 12:19:37,0,Unknown,there's a number of oil rigs here. observed directly  #OsmAnd,3,0,pitscheplatsch,no useful information for editing OSM data.

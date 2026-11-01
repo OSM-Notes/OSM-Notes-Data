@@ -1,0 +1,23 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4372010,Perú,-12.0628655,-77.0390940,2024-08-07 00:00:00,2026-04-24 05:13:25,625,Unknown,PREDIO,2,0,Unknown,
+5263315,Perú,-5.1731720,-80.6764700,2026-04-24 00:00:00,2026-04-24 03:09:49,0,Unknown,UBICACION DUDOSA,4,1,Unknown,
+4165413,Perú,-8.9433181,-73.4995924,2024-03-24 00:00:00,2026-04-23 20:36:30,760,mapeadora,mejorar trazo arrollo,2,0,mapeadora,
+4165414,Perú,-8.9424830,-73.5023022,2024-03-24 00:00:00,2026-04-23 20:36:23,760,mapeadora,mejorar trazo rio,2,0,mapeadora,
+4686532,Perú,-14.4581911,-71.1372981,2025-03-29 00:00:00,2026-04-21 17:46:00,388,Harack,"'Road destroyed by landslide' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2024-11-07T01:45:44Z POI has no name POI types: psurface-unpaved_good highway-unclassified  #organicmaps android",2,0,LksLck,new road was build
+4165417,Perú,-8.8950248,-73.5666470,2024-03-24 00:00:00,2026-04-21 08:58:52,758,mapeadora,agregar caminos,3,0,Jesús Gómez,
+5135961,Perú,-13.6264630,-73.3060170,2026-01-20 00:00:00,2026-04-19 17:48:33,89,LksLck,"weg hinzufügen, 4x4 befahrbar bis zum Glamping Camp, beinRegen nicht zu empfehlen",2,0,LksLck,
+5169353,Perú,-14.0996740,-75.7741920,2026-02-15 00:00:00,2026-04-19 17:41:24,63,LksLck,keine Grüne Fläche -> Wüste,2,0,LksLck,
+5133964,Perú,-13.6051310,-75.3519760,2026-01-18 00:00:00,2026-04-19 17:36:12,91,LksLck,"This is a stair, not a normal road.",2,0,LksLck,
+5257313,Perú,-13.5432830,-72.6416120,2026-04-19 00:00:00,2026-04-19 17:33:16,0,LksLck,"this is a asphalt street, good to drive",2,0,LksLck,
+5257316,Perú,-13.9791360,-71.4159180,2026-04-19 00:00:00,2026-04-19 17:29:10,0,LksLck,wege/Straßen fehlen,2,0,LksLck,
+5257318,Perú,-14.4634820,-71.1360860,2026-04-19 00:00:00,2026-04-19 17:22:09,0,LksLck,"hier muss weg ergänzt werden, ist ein Rundkurs",2,0,LksLck,update track
+5045101,Perú,-14.4637616,-71.1362857,2025-11-09 00:00:00,2026-04-19 17:22:03,161,ttronas,the track continues here  via StreetComplete 61.3  Attached photo(s): https://streetcomplete.app/p/315487.jpg  GPS Trace: https://www.openstreetmap.org/user/ttronas/traces/12108091,2,0,LksLck,update track
+5257320,Perú,-14.4394220,-71.1087370,2026-04-19 00:00:00,2026-04-19 17:19:05,0,LksLck,"“normale” straße wie oben, keine gestrichelte weg linie",2,0,LksLck,
+5257319,Perú,-14.4399810,-71.1088670,2026-04-19 00:00:00,2026-04-19 17:18:49,0,LksLck,furt eintragen,2,0,LksLck,updated
+5257321,Perú,-16.1443330,-71.1957360,2026-04-19 00:00:00,2026-04-19 17:15:41,0,LksLck,staumauer,2,0,LksLck,updated
+5257322,Perú,-16.2218290,-71.3022880,2026-04-19 00:00:00,2026-04-19 17:12:59,0,LksLck,furt,2,0,LksLck,Add river + crossing
+5257323,Perú,-16.2219240,-71.3730800,2026-04-19 00:00:00,2026-04-19 16:58:52,0,LksLck,weg fehlt,2,0,LksLck,add missing way
+5257324,Perú,-14.0887590,-75.7639610,2026-04-19 00:00:00,2026-04-19 16:47:44,0,LksLck,treppe fehlt,2,0,LksLck,add misssing stairs
+5257317,Perú,-13.9302980,-71.2803010,2026-04-19 00:00:00,2026-04-19 16:43:28,0,LksLck,"mit auto befahrbar, irgendwo hier “Eingang” zum Red Valley, 5 Sol pro person",2,0,LksLck,updated map with new point
+5257315,Perú,-13.8953740,-71.3003990,2026-04-19 00:00:00,2026-04-19 16:37:43,0,LksLck,bis hier mit auto,2,0,LksLck,

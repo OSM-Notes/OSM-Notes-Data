@@ -1,0 +1,8 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+778818,بئر طويل,21.9993792,34.0755252,2016-11-11 00:00:00,2023-03-30 20:47:56,0,Sufian Adam,المثلث (OSM data version: 2016-06-20T05:57:02Z) #mapsme,2,0,AHMED18009,
+2851696,بئر طويل,21.7751000,33.5888000,2021-09-14 00:00:00,2022-05-29 08:01:43,0,Unknown,Chchdj,4,1,Mateusz Konieczny,@Bartazuja - what is being reported here?
+2363770,بئر طويل,21.9213000,33.7388000,2020-09-26 00:00:00,2021-05-30 14:45:59,0,Unknown,Bir Tawil,2,0,kartonage,Mapped.
+2198483,بئر طويل,21.8853040,33.6624245,2020-05-19 00:00:00,2020-05-19 21:50:55,0,Unknown,"Kingdom of North Sudan http://www.kingdomsudan.org/  Since the land is not claimed by any bordering nations, and the fact that there was a flag planted by the king, there should be no problem with recognizing this land as the Kingdom of North Sudan.",2,0,HeyItsAdam,not a real place
+1158891,بئر طويل,21.8309067,33.7613297,2017-10-01 00:00:00,2018-10-27 10:34:56,0,Dean Denton,"Whence zoomed out, 'marvin' appears, and seems fictional.",2,0,freebeer,"cannot reproduce, must have been temporary. or the spirit world."
+352737,بئر طويل,21.8690418,33.7477156,2015-04-24 00:00:00,2016-03-13 20:25:49,0,BladeTC,Claimed land of 'Kingdown of North Sudan'.,8,1,SomeoneElse,See comment on http://www.openstreetmap.org/changeset/37716624 .  It doesn't make sense to map Bir Tawil as anything other than a locality.

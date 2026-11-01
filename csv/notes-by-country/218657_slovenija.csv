@@ -1,0 +1,11 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5176521,Slovenija,46.0802303,14.5131862,2026-02-21 00:00:00,2026-04-20 11:08:48,58,stepc,Todo: improve address placement 144[a-c],2,0,JanezPavelZebovec_import,It was improved with https://www.openstreetmap.org/changeset/181576358.
+5256947,Slovenija,45.7062718,13.8646593,2026-04-19 00:00:00,2026-04-19 15:04:18,0,Đuro Jiří,Staza  via StreetComplete_ee 63.0,2,0,Đuro Jiří,
+5256944,Slovenija,45.6585649,14.0288163,2026-04-19 00:00:00,2026-04-19 15:02:49,0,Đuro Jiří,Dječje igralište  via StreetComplete_ee 63.0,2,0,Đuro Jiří,
+5256943,Slovenija,45.6584519,14.0290572,2026-04-19 00:00:00,2026-04-19 15:02:39,0,Đuro Jiří,Petanque  via StreetComplete_ee 63.0,2,0,Đuro Jiří,
+5234551,Slovenija,46.0677095,14.4761583,2026-04-04 00:00:00,2026-04-19 14:39:29,15,3MN3ANoZe4dpdgRG5A0Lk30WKZhuaSpskXSMTRHGQkC9x6qFNR,red_turn:right=yes for turning right from Večna pot onto Pod hribom (sign with a green arrow),2,0,Jaka Kranjc,adding
+5178158,Slovenija,46.0509270,14.4504760,2026-02-23 00:00:00,2026-04-19 14:37:09,55,Unknown,Der Karavankentunnel wird dauerhaft umfahren. Dieser ist geöffnet und kann befahren werden,3,0,Jaka Kranjc,
+5256018,Slovenija,46.0314380,14.5284124,2026-04-18 00:00:00,2026-04-19 14:36:05,1,Hostnik,'Ta pot je sicer redno uporabljena. Ampak na tej poti je tabla 'Prepovedan prehod preko proge'. Morda bi moral zemljevid to odražati.' OSM snapshot date: 2026-04-05T19:23:11Z POI has no name POI types: highway-path  #CoMaps android 2026.04.07-8-Google,2,0,Jaka Kranjc,"Je že imela oznako informal, sem pa dodal še access=discouraged."
+5243829,Slovenija,46.0516054,14.6023401,2026-04-10 00:00:00,2026-04-19 14:34:28,9,Jaka Kranjc,Unable to answer 'What are the opening hours here?' – Mercator (Convenience Store) – https://osm.org/node/968449945 via StreetComplete 63.0:  Del iste stavbe PGD,2,0,Jaka Kranjc,
+5243830,Slovenija,46.0405470,14.5972640,2026-04-10 00:00:00,2026-04-19 14:33:42,9,Jaka Kranjc,Za predstavitev pred 291  via StreetComplete 63.0,2,0,Jaka Kranjc,

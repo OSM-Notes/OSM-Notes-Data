@@ -1,0 +1,8 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1857811,Exclusive Economic Zone of Ireland,49.2861236,-12.6562500,2019-07-26 00:00:00,2022-04-04 13:49:52,0,Unknown,Don Bosco 1628,3,0,b-holdet,Nothing to do here
+2032270,Exclusive Economic Zone of Ireland,50.0796700,-14.4298000,2019-12-20 00:00:00,2020-06-10 04:32:17,0,Unknown,keeping,2,0,b-holdet,
+1673396,Exclusive Economic Zone of Ireland,54.8649000,-14.5484000,2019-02-06 00:00:00,2020-06-10 04:31:47,0,Unknown,Domodossla,2,0,b-holdet,
+813769,Exclusive Economic Zone of Ireland,48.8568690,-9.6213240,2016-12-12 00:00:00,2016-12-14 21:42:23,0,Unknown,Adresse manquante:  Cette erreur a été envoyée par Navmii GPS.,2,0,py_berrard,mauvais endroit
+400376,Exclusive Economic Zone of Ireland,55.4834619,-12.1089184,2015-07-21 00:00:00,2015-08-01 08:43:29,0,Aerofleet canada,Aerofleet Canada offers best airport Limo taxi services at affordable price. You can book online taxi from Pearson international and island airport in Canada.,2,0,py_berrard,
+291660,Exclusive Economic Zone of Ireland,49.6415707,-14.2919415,2014-12-26 00:00:00,2015-01-13 01:06:31,0,Unknown,我的位置,2,0,Prince Kassad,nonsensical bug in the middle of the ocean. Closing.

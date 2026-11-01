@@ -1,0 +1,9 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3219744,Naoero,-0.5474700,166.9162300,2022-06-11 00:00:00,2023-11-24 20:31:24,0,Unknown,"Hier befindet sich das Nauru Data Center, bitte ergänzen",2,0,unnerving_duck,Added
+3451885,Naoero,-0.5491037,166.9615255,2022-11-22 00:00:00,2023-03-03 13:35:35,0,Unknown,"The latitude should be in the Southern Hemisphere, not Northern, for Nauru.",2,0,confusedbuffalo,Not clear what is meant by this
+1196601,Naoero,-0.5376000,166.9379000,2017-11-05 00:00:00,2022-03-11 10:13:52,0,Verendrye,Nauru camp,4,0,Erin76,
+1886506,Naoero,-0.5343057,166.9187324,2019-08-16 00:00:00,2020-06-14 10:41:07,0,trip55world,'通行止め' POI has no name POI types: railway-level_crossing OSM data version: 2019-06-21T10:47:15Z  #mapsme,2,0,Mateusz Konieczny,duplicates https://www.openstreetmap.org/note/1886507#map=19/-0.53397/166.91910&layers=N
+1981091,Naoero,-0.5301565,166.9110305,2019-11-01 00:00:00,2020-01-16 11:14:20,0,jiro43,'the building is not used for fish market anymore.' POI name: Nauru Fish Market POI types: building amenity-marketplace OSM data version: 2019-09-09T23:32:17Z  #mapsme,2,0,Syl,Fixed
+213606,Naoero,-0.5320736,166.9237002,2014-08-07 00:00:00,2015-07-02 00:51:30,0,OPerivar,basketball court?,2,0,cronoser,fixed
+351922,Naoero,-0.5453492,166.9166565,2015-04-22 00:00:00,2015-07-02 00:51:30,0,Prince Kassad,"the airport is mapped twice, as an area and as a node. You should choose one or the other but not both.",2,0,cronoser,fixed

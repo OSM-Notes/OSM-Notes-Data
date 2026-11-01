@@ -1,0 +1,23 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5263395,السعودية,24.7079392,46.6571210,2026-04-24 00:00:00,2026-04-24 06:22:53,0,Unknown,Hesham,2,0,Unknown,
+5220600,السعودية,21.5668530,39.7721060,2026-03-26 00:00:00,2026-04-24 06:15:58,29,Aboobacker MK,'https://en.wikipedia.org/wiki/Maymunah_bint_al-Harith' OSM snapshot date: 2026-02-16T20:35:12Z POI name: Tomb of maymunah POI types: historic-tomb  #organicmaps android 2026.03.11-12-Google,3,1,Unknown,
+2447414,السعودية,24.7599796,46.6852345,2020-11-30 00:00:00,2026-04-23 15:08:25,1970,Unknown,"onosm.org submitted note from a business: name: LULIA SWEET phone: 966505561001 website: luliasweet.com twitter: @LuliaSweet facebook: https://www.facebook.com/SweetLulia email: info@luliasweet.com hours: Monday - Sunday 03:00 pm to 09:00 pm category: Candy Stores, Cupcake Shops address:",3,1,Unknown,
+5257862,السعودية,21.6182541,39.1867146,2026-04-20 00:00:00,2026-04-21 18:47:51,1,Unknown,"'بلغلط اضفته' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2026-04-04T03:36:32Z POI name: سوق حراء الدولي POI types: amenity-marketplace  #organicmaps android 2026.04.07-8-Google",2,0,Growebis,ok
+5251609,السعودية,21.6233841,39.1430613,2026-04-15 00:00:00,2026-04-21 18:47:20,6,Growebis,park,2,0,Growebis,
+5259102,السعودية,24.7629218,46.6406858,2026-04-21 00:00:00,2026-04-21 08:03:50,0,Unknown,KAFD,4,1,Unknown,
+5259133,السعودية,24.7616400,46.6422800,2026-04-21 00:00:00,2026-04-21 07:52:00,0,Unknown,KAFD 4.01,2,0,Unknown,
+4391340,السعودية,24.7610970,46.6423330,2024-08-19 00:00:00,2026-04-21 07:26:20,610,Unknown,A01 CONFERENCE CENTER PARKING,2,0,Unknown,
+4943388,السعودية,24.1442550,47.2741510,2025-09-02 00:00:00,2026-04-20 21:12:42,230,Unknown,HG;GDI HGIK]SI,2,0,Unknown,
+5078429,السعودية,21.5511946,39.2151608,2025-12-04 00:00:00,2026-04-19 16:40:23,136,!R!,"'The place already marked as supermarket and this point is located in the parking area' The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. OSM snapshot date: 2025-11-23T18:39:39Z POI name: الدانوب POI types: shop-supermarket  #organicmaps android 2025.11.26-5-Google",2,0,Growebis,
+5253749,السعودية,21.5629776,39.2038962,2026-04-17 00:00:00,2026-04-19 15:13:06,2,Growebis,parking,2,0,Growebis,
+5228353,السعودية,19.9539772,42.1452938,2026-04-01 00:00:00,2026-04-19 10:37:50,18,Adv hvbb,سد مركز الصحية وتباله,2,0,Abdullah Abdulrhman,
+5195818,السعودية,23.1084700,39.0720200,2026-03-08 00:00:00,2026-04-19 09:40:57,42,Unknown,الأبواء,2,0,D=SW,تم الحل في مجموعة التغييرات رقم 181528985 | الرابط: https://www.openstreetmap.org/changeset/181528985
+5224124,السعودية,18.2161645,42.4977940,2026-03-29 00:00:00,2026-04-19 09:16:40,21,Unknown,the hospital is closed and the building is under constraction,2,0,D=SW,تم الحل في مجموعة التغييرات رقم 181528182
+5252787,السعودية,17.0256800,42.9050200,2026-04-16 00:00:00,2026-04-19 07:36:28,3,Unknown,الجروبة,2,0,D=SW,تم
+5252727,السعودية,17.0520870,42.9550090,2026-04-16 00:00:00,2026-04-19 07:36:27,3,Unknown,الإسم الصحيح التوايمة,2,0,D=SW,تم
+5252695,السعودية,17.0732873,42.9352355,2026-04-16 00:00:00,2026-04-19 07:36:26,3,Unknown,جبل العَزوم,2,0,D=SW,تم
+5235838,السعودية,16.8609200,42.9704500,2026-04-05 00:00:00,2026-04-19 07:36:26,14,Unknown,قرية الاسرار,2,0,D=SW,تم
+5235826,السعودية,16.8658980,42.9769870,2026-04-05 00:00:00,2026-04-19 07:36:25,14,Unknown,مدرسة أبو الجهوة الابتدائية,2,0,D=SW,تم
+5235819,السعودية,16.8705910,42.9768260,2026-04-05 00:00:00,2026-04-19 07:36:24,14,Unknown,مدرسة أبو الجهوة الإبتدائية للبنات,2,0,D=SW,تم
+5252781,السعودية,17.0102500,42.8928600,2026-04-16 00:00:00,2026-04-19 07:15:32,3,Unknown,المجمع الشرقي,2,0,D=SW,

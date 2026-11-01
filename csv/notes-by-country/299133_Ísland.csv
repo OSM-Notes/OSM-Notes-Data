@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5263081,Ísland,64.1845483,-20.4281759,2026-04-23 00:00:00,2026-04-23 20:05:44,0,Unknown,This street is named 'Hamarsholt',2,0,Unknown,
+5166935,Ísland,63.9925300,-19.6653600,2026-02-14 00:00:00,2026-04-19 15:07:10,64,Unknown,Hekla,2,0,Linus W Frische,Already added.

@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+4650138,Welsh offshore region,53.4772667,-4.9949162,2025-03-03 00:00:00,2025-03-03 18:56:46,0,Unknown,Carla was here,2,0,RedAuburn,spam
+4650141,Welsh offshore region,53.4772655,-4.9949169,2025-03-03 00:00:00,2025-03-03 18:56:17,0,Unknown,Heolloworld aside,2,0,RedAuburn,spam

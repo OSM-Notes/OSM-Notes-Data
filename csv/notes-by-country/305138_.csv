@@ -1,0 +1,3 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5258109,عمان,23.6187550,58.2563340,2026-04-20 00:00:00,2026-04-20 10:43:26,0,Unknown,شركة الفانوس للسفر والسياحة,5,1,Unknown,

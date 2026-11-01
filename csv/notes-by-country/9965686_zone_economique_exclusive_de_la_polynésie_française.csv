@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3035848,Zone Economique Exclusive de la Polynésie Française,-16.1975312,-145.2910995,2022-02-03 00:00:00,2022-02-04 07:21:36,0,Maria Puig,mar rojo,2,0,jqngarcia,información irrelevante
+2513098,Zone Economique Exclusive de la Polynésie Française,-26.8100200,-141.0972500,2021-01-26 00:00:00,2021-01-26 13:03:57,0,Unknown,Guyana,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."

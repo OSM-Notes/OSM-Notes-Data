@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+1187607,سوريا,34.4505521,40.9170626,2017-10-28 00:00:00,2026-04-21 09:21:13,3097,F2h2d,'البوكمال' POI name: أبو كمال POI types: place-town OSM data version: 2017-09-17T07:13:02Z  #mapsme,2,0,Fa2h2d,
+2316387,سوريا,34.4419456,40.9296770,2020-08-21 00:00:00,2026-04-21 09:21:05,2069,HMANKOF,'جسر وادي على (السويعية)' POI has no name POI types: natural-wetland OSM data version: 2020-07-14T11:22:37Z  #mapsme,4,1,Fa2h2d,

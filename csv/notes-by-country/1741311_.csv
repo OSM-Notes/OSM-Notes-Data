@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+5259939,Србија,43.1521232,20.5246174,2026-04-21 00:00:00,2026-04-22 14:15:21,1,Unknown,j,2,0,mavl,This note does not contain a useful information for OpenStreetMap.
+5257724,Србија,44.8402838,20.4744105,2026-04-20 00:00:00,2026-04-20 00:46:35,0,Shoorick,"шлагбаум, севернее асфальта нет  #OsmAnd",2,0,Shoorick,added

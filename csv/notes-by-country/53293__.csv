@@ -1,0 +1,4 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+3495034,Северна Македонија,42.0019447,21.4325188,2022-12-28 00:00:00,2026-04-20 18:00:49,1209,BorisMor,Unable to answer 'What’s the topic of this information board?' for https://osm.org/node/5841719695 via StreetComplete 50.1:  it is a tourist attractions map of skopje,4,1,Unknown,
+4724760,Северна Македонија,42.0008726,21.4338771,2025-04-23 00:00:00,2026-04-20 18:00:44,362,Yeehoho,'No entry ' OSM snapshot date: 2025-02-27T10:33:49Z POI name: Порта на Скопското кале POI types: historic-city_gate barrier-entrance  #organicmaps ios,3,1,Unknown,

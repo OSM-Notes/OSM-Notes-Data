@@ -1,0 +1,89 @@
+note_id,country_name,latitude,longitude,opened_at,closed_at,days_to_resolution,opened_by_username,opening_comment,total_comments,was_reopened,closed_by_username,closing_comment
+CREATE FUNCTION
+2397257,Solomon Islands,-9.4304463,160.0007728,2020-10-24 00:00:00,2025-11-18 07:56:02,0,AgnethaVK,Missing buildings on the spot,2,0,gooddays101,
+1714524,Solomon Islands,-9.4328055,159.9607551,2019-03-18 00:00:00,2025-11-18 07:55:50,0,Unknown,Tina River Hydro Project Office,6,1,gooddays101,
+2256998,Solomon Islands,-9.4303722,159.9490938,2020-07-07 00:00:00,2025-11-18 07:55:28,0,Unknown,"E2N Company Ltd, Shop 12 & 13, Townground Plaza",2,0,gooddays101,
+4035530,Solomon Islands,-9.4359807,159.9482346,2023-12-21 00:00:00,2025-11-18 07:55:01,0,Unknown,Church,2,0,gooddays101,
+2254771,Solomon Islands,-9.4430081,159.9203074,2020-07-06 00:00:00,2025-11-18 07:54:51,0,Unknown,Solomon Water Tasahe Reservoir Tanks,2,0,gooddays101,
+2217318,Solomon Islands,-9.4319700,159.9583300,2020-06-04 00:00:00,2025-11-18 07:45:57,0,Moses Paia,Pt. Cruz Hot Bread Kitchen,6,1,gooddays101,
+1330274,Solomon Islands,-9.4308173,159.9489127,2018-03-17 00:00:00,2025-11-18 07:45:40,0,Lucas Wall,'Town Ground sports field' POI has no name POI types: leisure-playground OSM data version: 2018-02-09T21:26:02Z  #mapsme,4,1,gooddays101,
+4039532,Solomon Islands,-8.2964253,157.5481617,2023-12-25 00:00:00,2025-08-22 08:06:49,0,Unknown,Good night to Georgia.,2,0,topius,And good night to you. Deleting unnecessary note!
+1807201,Solomon Islands,-7.3968552,155.5748177,2019-06-10 00:00:00,2025-08-22 07:04:16,0,Unknown,missing place name: Falamai Village,3,0,topius,Added the place name.
+824582,Solomon Islands,-8.3283228,157.2712612,2016-12-22 00:00:00,2025-08-22 07:01:58,0,Unknown,Can someone please confirm whether name of the city is Munda and maybe update the map?,4,0,topius,Added the town name
+4813765,Solomon Islands,-8.3275160,157.2698879,2025-06-20 00:00:00,2025-08-22 07:00:22,0,Unknown,AGGM / MUA airport,2,0,topius,IATA/ICAO Codes have been added
+2363883,Solomon Islands,-8.3977432,157.3272228,2020-09-26 00:00:00,2025-08-22 06:59:42,0,Unknown,"This is totally wrong. Check Google Earth. This is not one large 1km long island. It's several and they have names (Bau, Kokorana, etc.). Here's a link to a U.S. military map with lots of the names of the islands, and even a couple of rivers that are entirely absent from this (https://upload.wikimedia.org/wikipedia/commons/f/f4/Rendova_July_4_1943.jpg)",2,0,topius,"Change has been made, therefore I am deleting the comment"
+4612923,Solomon Islands,-6.9784838,156.9489884,2025-02-03 00:00:00,2025-06-28 17:57:03,0,Sk Ikbol,ইন্ডিয়া হাওড়া জেলা থানা,2,0,NeisBot,"The original content of this note has been removed due to the deletion or deactivation of the associated OSM user account. Consequently, this note is now automatically closed.  #NothingToDoHere"
+2675256,Solomon Islands,-5.5147900,159.5267000,2021-05-19 00:00:00,2025-03-13 19:34:48,0,Unknown,Ontong Java Atoll Airstrip (OTV) is located here. The airstrip is not being maintained and the scrub is growing back on the airstrip but the airstrip is still there  https://www.world-airport-codes.com/solomon-islands/ontong-java-8701.html,3,0,pitscheplatsch,
+1807202,Solomon Islands,-7.4103034,155.5830574,2019-06-10 00:00:00,2025-01-20 12:39:43,0,Unknown,missing island name: Anusa Re'apa (Sterling Island),3,0,pitscheplatsch,#mapped
+4245045,Solomon Islands,-9.4313000,159.9571200,2024-05-14 00:00:00,2024-05-14 02:58:42,0,masupeu,This is NPF Building,2,0,masupeu,
+3186500,Solomon Islands,-6.8433800,156.6091600,2022-05-19 00:00:00,2024-04-26 14:04:55,0,Unknown,CAMP SITE,2,0,sheikchilli,no actionable information
+3331199,Solomon Islands,-9.4374624,159.9657440,2022-08-25 00:00:00,2023-10-23 19:17:03,0,Unknown,Mataniko River,2,0,confusedbuffalo,Already mapped
+824602,Solomon Islands,-9.1318427,159.8107338,2016-12-22 00:00:00,2023-10-23 19:12:32,0,unsungNovelty,Is Savo the name of this island? Can someone please confirm?,4,0,confusedbuffalo,Has since been mapped as such
+824583,Solomon Islands,-9.8244545,160.8145666,2016-12-22 00:00:00,2023-10-23 19:11:21,0,Fa7C0N,Can anyone confirm the name of the Island and fix it please.  Thank you.,4,0,confusedbuffalo,Has since been mapped
+2479326,Solomon Islands,-10.5513200,166.1697200,2020-12-30 00:00:00,2023-10-23 19:10:53,0,Unknown,Reefs,2,0,confusedbuffalo,Not enough information to map anything
+824581,Solomon Islands,-8.2348009,157.1989630,2016-12-22 00:00:00,2023-10-23 19:10:43,0,unsungNovelty,Is the name of this city Noro? Can someone please confirm the same and maybe add the same to the map?,4,0,confusedbuffalo,Has since been mapped
+331517,Solomon Islands,-10.4945172,161.8654237,2015-03-15 00:00:00,2023-10-23 19:10:20,0,Harry Wood,missing river needs tracing,4,0,confusedbuffalo,Has since been mapped
+331516,Solomon Islands,-10.4995600,161.8392673,2015-03-15 00:00:00,2023-10-23 19:10:16,0,Harry Wood,missing river needs tracing,4,0,confusedbuffalo,Has since been mapped
+331515,Solomon Islands,-10.5010729,161.8136238,2015-03-15 00:00:00,2023-10-23 19:10:11,0,Harry Wood,missing river needs tracing,4,0,confusedbuffalo,Has since been mapped
+276753,Solomon Islands,-10.6984784,165.7972097,2014-11-26 00:00:00,2023-10-23 19:09:42,0,Unknown,Malo,4,0,confusedbuffalo,Not enough information to map anything
+3646100,Solomon Islands,-7.9062000,160.6136000,2023-04-17 00:00:00,2023-04-17 02:48:51,0,Rose Clough,Ndai Island,7,1,Rose Clough,
+3204776,Solomon Islands,-9.2682350,159.6630944,2022-06-01 00:00:00,2022-06-01 04:04:47,0,Aldrin Peza Bule,Monitoring & Survey quadrant Location,2,0,Aldrin Peza Bule,
+3114022,Solomon Islands,-9.4298160,159.9647700,2022-03-31 00:00:00,2022-04-11 08:38:45,0,Unknown,posn,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+3128349,Solomon Islands,-9.4313500,159.9570600,2022-04-11 00:00:00,2022-04-11 08:38:35,0,Unknown,Start,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks."
+2953410,Solomon Islands,-9.4248465,159.9263370,2021-11-29 00:00:00,2021-11-29 09:48:53,0,Beni Mateo,The Church Of Jesus Christ Of Latter-Day Saints Church Meeting House,4,1,Beni Mateo,
+2931081,Solomon Islands,-8.8955868,160.7519960,2021-11-11 00:00:00,2021-11-11 02:12:34,0,RClough,Surabuta Community in Malaita Province,4,1,RClough,
+2854321,Solomon Islands,-9.4321338,159.9825633,2021-09-16 00:00:00,2021-09-16 00:47:53,0,Karang3h M4n,Comfort Bottle Shop,2,0,Karang3h M4n,
+2854301,Solomon Islands,-9.4332461,159.9809897,2021-09-16 00:00:00,2021-09-16 00:47:17,0,Karang3h M4n,Wan Stop Bottle Shop,2,0,Karang3h M4n,
+2854300,Solomon Islands,-9.4305571,160.0010562,2021-09-16 00:00:00,2021-09-16 00:45:33,0,Karang3h M4n,JHARGS Bottle Shop,2,0,Karang3h M4n,
+2854299,Solomon Islands,-9.4256529,160.0156689,2021-09-16 00:00:00,2021-09-16 00:40:54,0,Karang3h M4n,Uncle Alick Bottle Shop,2,0,Karang3h M4n,
+2854298,Solomon Islands,-9.4340903,159.9800527,2021-09-16 00:00:00,2021-09-16 00:39:45,0,Karang3h M4n,Urmic Bottle Shop,2,0,Karang3h M4n,
+2854297,Solomon Islands,-9.4299794,159.9473870,2021-09-16 00:00:00,2021-09-16 00:37:13,0,Karang3h M4n,SBEP Bottle Shop,2,0,Karang3h M4n,
+2854296,Solomon Islands,-9.4245877,159.9182010,2021-09-16 00:00:00,2021-09-16 00:34:52,0,Karang3h M4n,SA Bottle Shop,2,0,Karang3h M4n,
+2854294,Solomon Islands,-9.4307329,159.9554229,2021-09-16 00:00:00,2021-09-16 00:31:03,0,Karang3h M4n,Pioneer Bottle Shop,2,0,Karang3h M4n,
+2854293,Solomon Islands,-9.4308594,159.9558073,2021-09-16 00:00:00,2021-09-16 00:30:27,0,Karang3h M4n,Leong Gin Bottle Shop,2,0,Karang3h M4n,
+2854292,Solomon Islands,-9.4321220,159.9579120,2021-09-16 00:00:00,2021-09-16 00:29:40,0,Karang3h M4n,SP Bottle Shop,2,0,Karang3h M4n,
+2854291,Solomon Islands,-9.4381954,159.9664074,2021-09-16 00:00:00,2021-09-16 00:27:12,0,Karang3h M4n,Mamahe Bottle Shop,2,0,Karang3h M4n,
+2854290,Solomon Islands,-9.4289978,160.0041783,2021-09-16 00:00:00,2021-09-16 00:25:11,0,Karang3h M4n,LP Bottle Shop,2,0,Karang3h M4n,
+2854289,Solomon Islands,-9.4321434,159.9581963,2021-09-16 00:00:00,2021-09-16 00:22:17,0,Karang3h M4n,Liua's Bottle Shop,2,0,Karang3h M4n,
+2854288,Solomon Islands,-9.4320919,159.9578583,2021-09-16 00:00:00,2021-09-16 00:21:40,0,Karang3h M4n,Jons Bottle Shop,2,0,Karang3h M4n,
+2854283,Solomon Islands,-9.4266977,160.0233221,2021-09-16 00:00:00,2021-09-16 00:03:58,0,Karang3h M4n,Jay Z Bottle Shop,2,0,Karang3h M4n,
+2854282,Solomon Islands,-9.4261826,160.0531876,2021-09-16 00:00:00,2021-09-16 00:02:11,0,Karang3h M4n,GM Bottle Shop,2,0,Karang3h M4n,
+2854281,Solomon Islands,-9.4393500,159.9655437,2021-09-16 00:00:00,2021-09-16 00:00:41,0,Karang3h M4n,CZ Bottle Shop,2,0,Karang3h M4n,
+2854280,Solomon Islands,-9.4285431,159.9436247,2021-09-15 00:00:00,2021-09-15 23:59:27,0,Karang3h M4n,CJ Bottle Shop,2,0,Karang3h M4n,
+2854278,Solomon Islands,-9.4321367,159.9826884,2021-09-15 00:00:00,2021-09-15 23:57:33,0,Karang3h M4n,Aslan Bottle Shop,2,0,Karang3h M4n,
+2854275,Solomon Islands,-9.4265536,159.9331141,2021-09-15 00:00:00,2021-09-15 23:53:50,0,Karang3h M4n,Burgundy Bottle Shop,2,0,Karang3h M4n,
+2854269,Solomon Islands,-9.4345400,159.9754100,2021-09-15 00:00:00,2021-09-15 23:49:38,0,Unknown,BM Bottle Shop,2,0,Karang3h M4n,
+2854274,Solomon Islands,-9.4345377,159.9754107,2021-09-15 00:00:00,2021-09-15 23:49:23,0,Karang3h M4n,BM Bottle Shop,4,1,Karang3h M4n,
+2827939,Solomon Islands,-9.4434738,160.0456953,2021-08-30 00:00:00,2021-08-30 12:51:30,0,Tegz,Proposed Extraction site at aprrox 5Km upstream from Lungga Bridge,6,1,Tegz,
+2418674,Solomon Islands,-8.2955826,159.7582054,2020-11-10 00:00:00,2020-11-11 08:56:58,0,Unknown,start point,2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2381870,Solomon Islands,-8.9936752,157.9724121,2020-10-11 00:00:00,2020-10-18 19:07:30,0,m_p_13,"Kavachi submarine volcano - 8° 59.65'S, 157° 58.23'E - https://en.m.wikipedia.org/wiki/Kavachi",2,0,m_p_13,
+2369716,Solomon Islands,-9.4361712,159.9738550,2020-10-01 00:00:00,2020-10-01 06:15:26,0,St-cyr,Cemetery Road,2,0,St-cyr,
+2236357,Solomon Islands,-9.7791842,161.9837952,2020-06-20 00:00:00,2020-06-21 06:56:46,0,Unknown,"Project Location: Mouta Village, South East Ulawa, Ward 2, Ulawa Ugi Constituency",2,0,kartonage,Please don't use OpenStreetMap notes as personal bookmarks or provide more descriptive feedback. Notes are publicly visible and meant for improvements and error corrections. Thanks.
+2236365,Solomon Islands,-9.7850204,162.0390701,2020-06-20 00:00:00,2020-06-21 06:56:36,0,Unknown,Highlight in the map is a propose Project location,2,0,kartonage,"Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map."
+1734124,Solomon Islands,-11.6957770,166.8083382,2019-04-04 00:00:00,2020-06-08 06:56:53,0,Unknown,approximate location of the Astrolabe and Boussole shipwrecks (from La Pérouse expedition),2,0,captain_slow,https://www.openstreetmap.org/node/6103614030 https://www.openstreetmap.org/node/6106320486
+2217316,Solomon Islands,-9.4322949,159.9581051,2020-06-04 00:00:00,2020-06-04 04:46:28,0,Moses Paia,Angel Shop,2,0,Moses Paia,
+2059010,Solomon Islands,-9.4300486,159.9993291,2020-01-16 00:00:00,2020-01-21 08:25:15,0,Taz7822,mapped,2,0,pitscheplatsch,This note does not contain a useful information for OpenStreetMap.
+1926478,Solomon Islands,-9.4307691,159.9550556,2019-09-14 00:00:00,2019-12-08 14:31:56,0,DRML_2015,'Just renting a car from this.' POI name: Economy Car Rentals POI types: amenity-car_rental OSM data version: 2019-07-27T07:02:33Z  #mapsme,2,0,freebeer,you do that at auto rentals
+1966671,Solomon Islands,-8.3283030,157.2702245,2019-10-19 00:00:00,2019-12-08 14:30:05,0,SoggyPaws,"'Solomons Telekom office, selling cell phones, sim cards and other communications services' POI name: Solomons Telekom POI types: shop-mobile_phone OSM data version: 2019-01-13T09:03:02Z  #mapsme",2,0,freebeer,on the map
+1706354,Solomon Islands,-9.4338000,159.9828600,2019-03-11 00:00:00,2019-03-11 05:23:11,0,Geolynx19,Florence Young Christian School,2,0,Geolynx19,
+824587,Solomon Islands,-9.4377005,159.9655080,2016-12-22 00:00:00,2018-11-29 03:16:45,0,unsungNovelty,is the name of the river Mataniko? Can someone please confirm?,5,0,atc77,yes it is
+1558911,Solomon Islands,-8.8093792,160.8168840,2018-10-13 00:00:00,2018-10-13 08:42:49,0,12strong,Gwounafi village,3,1,12strong,
+1460533,Solomon Islands,-8.8491992,160.9671307,2018-07-19 00:00:00,2018-07-19 23:14:10,0,B_James17,"Ogou Village,Uru Harbour,East Kwai'io",2,0,B_James17,
+595601,Solomon Islands,-9.4425053,159.9574800,2016-06-16 00:00:00,2018-07-07 15:43:25,0,Erwin Black,Memorial for the Guadalcanal campaign.  (OSM data version: 2016-06-01T10:03:02Z) #mapsme,4,0,30303020,Already mapped by yourself.
+574613,Solomon Islands,-9.4307020,159.9568606,2016-05-27 00:00:00,2017-06-10 09:28:27,0,Ahmed Rifai,"Supplier of Outboard Motor Engines, Water Pumps, Generators, WaveRunners, Boats, trailers & Marine Accessories.  (OSM data version: 2016-03-14T15:50:02Z) #mapsme",2,0,wanderlustig,Created in the map since this note was created
+595600,Solomon Islands,-9.4303474,159.9549049,2016-06-16 00:00:00,2017-06-10 09:28:12,0,Erwin Black,Dive shop (OSM data version: 2016-06-01T10:03:02Z) #mapsme,2,0,wanderlustig,Created in the map since this note was created
+562343,Solomon Islands,-8.1221121,156.8944430,2016-05-09 00:00:00,2017-06-10 09:20:23,0,Fatboys Resort,"Note: This is where Fatboys Resort is located. its not on the northern direction of the airport. for more information,please email us on fatboys@solomon.com.sb Thanks.",4,0,wanderlustig,"Fixed some time ago, and I just added the building and causeway in changeset #49416050"
+1021808,Solomon Islands,-10.7088941,165.9298611,2017-06-06 00:00:00,2017-06-07 16:31:33,0,Unknown,а,3,0,mavl,The note does not contain an useful information for OpenStreetMap.
+1021812,Solomon Islands,-10.4970110,161.9408798,2017-06-06 00:00:00,2017-06-07 11:50:26,0,Unknown,а,4,0,wanderlustig,"Some anonymous person, probably a child, is creating and commenting on notes in this region"
+1022368,Solomon Islands,-8.6132704,160.8324623,2017-06-07 00:00:00,2017-06-07 11:49:53,0,Unknown,а,4,0,wanderlustig,"Some anonymous person, probably a child, is creating and commenting on notes in this region"
+1022365,Solomon Islands,-9.5421819,160.0416183,2017-06-07 00:00:00,2017-06-07 11:49:36,0,Unknown,п,4,0,wanderlustig,"Some anonymous person, probably a child, is creating and commenting on notes in this region"
+1022367,Solomon Islands,-8.2495464,157.6520920,2017-06-07 00:00:00,2017-06-07 11:49:09,0,Unknown,а,4,0,wanderlustig,"Some anonymous person, probably a child, is creating and commenting on notes in this region"
+503478,Solomon Islands,-9.4352610,159.9805337,2016-01-25 00:00:00,2017-06-07 11:44:18,0,Unknown,This road does not end here. It continues north (between the houses - house locations are correct) and meets up at the next T-intersection just to the north.,2,0,wanderlustig,Resolved in changeset #49333065 using Strava
+471438,Solomon Islands,-9.4367480,159.9403113,2015-11-20 00:00:00,2017-06-07 11:24:20,0,wanderlustig,Survey required: where does this road connect to?,4,0,wanderlustig,Resolved in changeset #47460180 using Strava data
+969734,Solomon Islands,-9.4311121,159.9569893,2017-04-19 00:00:00,2017-04-20 17:00:54,0,Unknown,jkyoi8yuo8u,2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+968896,Solomon Islands,-9.4299000,159.9548000,2017-04-19 00:00:00,2017-04-20 16:56:14,0,Unknown,xfbsdufg,2,0,mavl,The note does not contain an useful information for OpenStreetMap.
+946846,Solomon Islands,-9.4307800,159.9520600,2017-03-30 00:00:00,2017-03-30 23:18:01,0,Ravizz Kitchen,Ravizz Kitchen,4,1,Ravizz Kitchen,
+894299,Solomon Islands,-8.3299363,157.2504365,2017-02-16 00:00:00,2017-02-16 15:39:07,0,Stacielee1967,Helena Goldie Hospital,6,1,Stacielee1967,
+432843,Solomon Islands,-11.6407092,166.9532955,2015-09-11 00:00:00,2015-10-13 10:10:52,0,captain_slow,Should this virtual cycleway really be in openstreetmap? I think it should be removed because it does not exist in reality and most likely never will.,2,0,SomeoneElse,I've removed it.  See discussion in https://www.openstreetmap.org/changeset/33727115 for what happened.
+354959,Solomon Islands,-9.4365389,159.9650976,2015-04-29 00:00:00,2015-04-29 04:43:56,0,SolomonWater,Solomon Islands Water Authority,2,0,SolomonWater,Solomon Islands Water Authority
+50808,Solomon Islands,-8.5312842,159.8728752,2013-10-01 00:00:00,2014-10-25 13:16:16,0,Unknown,isabel,2,0,hsc666,
